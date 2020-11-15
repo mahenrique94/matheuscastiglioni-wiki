@@ -1,5 +1,4 @@
 # Cloud
-Aqui você vai encontrar assuntos e tópicos relacionados à nuvem (_cloud_).
 
 ## Provedores
 - [AWS](https://aws.amazon.com/)

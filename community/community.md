@@ -1,5 +1,4 @@
 # Comunidade
-Aqui você vai encontrar dicas de newsletter/pessoas/sites para manter-se atualizado(a) sobre novidades
 
 ## Newsletter para manter-se atualizado(a)
 - [CSS Tricks](https://css-tricks.com/)
