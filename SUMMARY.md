@@ -1,7 +1,7 @@
 # Summary
 
-- [Cloud](/cloud)
-- [Comunidade](/community)
+- [Cloud](/cloud/index.md)
+- [Comunidade](/community/index.md)
 
 
 
