@@ -44,6 +44,7 @@
 - [NDB](https://github.com/GoogleChromeLabs/ndb)
 
 ### Email
+- [Maizzle](https://maizzle.com/)
 - [NodeMailer](https://github.com/nodemailer/nodemailer)
 
 ### HTTP

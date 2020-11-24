@@ -3,6 +3,7 @@
 ## Banco de dados
 - [Datomic](https://www.datomic.com/)
 - [Firebird](https://firebirdsql.org/)
+- [InfluxDB](https://www.influxdata.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
 - [OracleDB](https://www.oracle.com/br/database/)
