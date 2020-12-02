@@ -1,5 +1,11 @@
 # Carreira
 
+## Plataformas para aprender códigos resolvendo desafios
+- [CodeSignal](https://codesignal.com/)
+- [CodeWars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)
 - [Coursera](https://pt.coursera.org/)

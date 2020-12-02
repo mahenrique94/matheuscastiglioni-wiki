@@ -1,0 +1,18 @@
+# Arquiteturas de Software
+
+- [BLoC (Business Logic Components)](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/)
+- [Broker](http://www.dossier-andreas.net/software_architecture/broker.html)
+- [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [CQRS (Command Query Responsibility Segregation)](https://microservices.io/patterns/data/cqrs.html)
+- [Event Driven Architecture](https://microservices.io/patterns/data/event-driven-architecture.html)
+  - [Eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
+  - [Saga](https://microservices.io/patterns/data/saga.html)
+- [ECS (Entity Component System)](https://pt.wikipedia.org/wiki/Entity-component-system)
+- [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+- [Multi Thread](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)#:~:text=In%20computer%20architecture%2C%20multithreading%20is,This%20approach%20differs%20from%20multiprocessing.)
+- [MVC (Model View Controller)](https://pt.wikipedia.org/wiki/MVC)
+- [MVI (Model View Intent)](https://fueled.com/blog/what-is-mvi-model-view-intent/)
+- [MVP (Model View Presenter)](https://pt.wikipedia.org/wiki/Model-view-presenter)
+- [MVVM (Movel View View Model)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+- [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
+- [Single Thread](https://en.wikipedia.org/wiki/Thread_(computing))

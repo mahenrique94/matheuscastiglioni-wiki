@@ -1,8 +1,5 @@
 # NodeJS
 
-## Links
-- [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
-
 ## Bibliotecas
 
 ### APIs
@@ -83,3 +80,6 @@
 - [HandleBars](https://github.com/handlebars-lang/handlebars.js)
 - [Marko](https://github.com/marko-js/marko)
 - [Pug](https://github.com/pugjs/pug)
+
+## Links
+- [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)

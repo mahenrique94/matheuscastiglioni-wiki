@@ -7,6 +7,13 @@
 - [Terraform](https://www.terraform.io/)
 - [Vagrant](https://www.vagrantup.com/)
 
+## CI/CD
+- [Circle CI](https://circleci.com/)
+- [GitHub Actions](https://github.com/features/actions)
+- [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
+- [Jenkins](https://www.jenkins.io/)
+- [Travis CI](https://travis-ci.org/)
+
 ## Containers/Virtualização
 - [Docker](https://www.docker.com/)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
@@ -14,13 +21,6 @@
   - [Helm](https://helm.sh/)
 - [Traefik](https://traefik.io/)
 - [VirtualBox](https://www.virtualbox.org/)
-
-## CI/CD
-- [Circle CI](https://circleci.com/)
-- [GitHub Actions](https://github.com/features/actions)
-- [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
-- [Jenkins](https://www.jenkins.io/)
-- [Travis CI](https://travis-ci.org/)
 
 ## Controle de Versão
 - [Git](https://git-scm.com/)
