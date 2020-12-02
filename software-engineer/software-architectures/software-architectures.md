@@ -1,18 +1,32 @@
 # Arquiteturas de Software
 
+## Arquiteturas e Padrões Arquiteturais
+- [Blackboard](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [BLoC (Business Logic Components)](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/)
 - [Broker](http://www.dossier-andreas.net/software_architecture/broker.html)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Client-server](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [CQRS (Command Query Responsibility Segregation)](https://microservices.io/patterns/data/cqrs.html)
 - [Event Driven Architecture](https://microservices.io/patterns/data/event-driven-architecture.html)
   - [Eventual consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
   - [Saga](https://microservices.io/patterns/data/saga.html)
 - [ECS (Entity Component System)](https://pt.wikipedia.org/wiki/Entity-component-system)
+- [Event-bus](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+- [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Master-slave](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Microservices](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [Multi Thread](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)#:~:text=In%20computer%20architecture%2C%20multithreading%20is,This%20approach%20differs%20from%20multiprocessing.)
 - [MVC (Model View Controller)](https://pt.wikipedia.org/wiki/MVC)
 - [MVI (Model View Intent)](https://fueled.com/blog/what-is-mvi-model-view-intent/)
 - [MVP (Model View Presenter)](https://pt.wikipedia.org/wiki/Model-view-presenter)
 - [MVVM (Movel View View Model)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+- [Pipe-filter](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
+- [Peer-to-peer](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 - [Single Thread](https://en.wikipedia.org/wiki/Thread_(computing))
+
+## Livros
+- [Clean Architecture](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=asc_df_B085PP6Y8P/?tag=googleshopp00-20&linkCode=df0&hvadid=426564911966&hvpos=&hvnetw=g&hvrand=11450558934850062724&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-893564488271&psc=1)
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com.br/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451/ref=asc_df_1492043451/?tag=googleshopp00-20&linkCode=df0&hvadid=379795170134&hvpos=&hvnetw=g&hvrand=246121054958374246&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-751683725274&psc=1)

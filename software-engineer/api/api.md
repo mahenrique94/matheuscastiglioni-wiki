@@ -1,4 +1,4 @@
-## API (Application Programming Interface)
+# API (Application Programming Interface)
 
 ## Documentação
 - [Swagger](https://swagger.io/)

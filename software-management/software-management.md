@@ -1,11 +1,5 @@
 # Gerenciamento de Software
 
-## Gestão
-- [Gestão 1.0](https://medium.com/agileconnexions/management-1-0-2-0-and-3-0-724f53b20244)
-- [Gestão 2.0](https://medium.com/agileconnexions/management-1-0-2-0-and-3-0-724f53b20244)
-- [Gestão 3.0](https://www.culturaagil.com.br/management-3-0-o-metodo-agil-de-gestao-empresarial/#:~:text=Management%203.0%20%C3%A9%20um%20termo,o%20crescimento%20da%20estrutura%20empresarial.)
-- [Gestão 4.0](https://www.amazon.com.br/Management-4-0-Alfred-Oswald/dp/3743189291)
-
 ## Ferramentas
 - [Asana](https://asana.com/pt)
 - [ClickUP](https://clickup.com/)
@@ -19,3 +13,15 @@
 - [Roads](https://roads.run/)
 - [Slack](http://slack.com/)
 - [Trello](https://trello.com/)
+
+## Gestão
+- [Gestão 1.0](https://medium.com/agileconnexions/management-1-0-2-0-and-3-0-724f53b20244)
+- [Gestão 2.0](https://medium.com/agileconnexions/management-1-0-2-0-and-3-0-724f53b20244)
+- [Gestão 3.0](https://www.culturaagil.com.br/management-3-0-o-metodo-agil-de-gestao-empresarial/#:~:text=Management%203.0%20%C3%A9%20um%20termo,o%20crescimento%20da%20estrutura%20empresarial.)
+- [Gestão 4.0](https://www.amazon.com.br/Management-4-0-Alfred-Oswald/dp/3743189291)
+
+## Metodologias
+- [Agile](https://www.guru99.com/agile-scrum-extreme-testing.html#:~:text=AGILE%20methodology%20is%20a%20practice,concurrent%2C%20unlike%20the%20Waterfall%20model.)
+  - [Scrum](https://digital.ai/resources/agile-101/what-is-scrum#:~:text=Scrum%20is%20an%20agile%20project,capability%20every%202%2D4%20weeks.)
+- [Kanban](https://www.agilealliance.org/glossary/kanban/)
+- [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model#:~:text=The%20waterfall%20model%20is%20a,certain%20areas%20of%20engineering%20design.)
