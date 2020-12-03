@@ -50,6 +50,9 @@
 ### Images
 - [Sharp](https://github.com/lovell/sharp)
 
+### Instalação
+- [NVM](https://github.com/nvm-sh/nvm)
+
 ### Logging
 - [Pino](https://github.com/pinojs/pino)
 - [Winston](https://github.com/winstonjs/winston)

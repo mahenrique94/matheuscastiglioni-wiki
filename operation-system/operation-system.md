@@ -12,6 +12,9 @@
 - [FreeBSD](https://www.freebsd.org/)
 - [Kali Linux](https://www.kali.org/)
 
+### Ferramentas
+ - [BIND](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-pt)
+
 ## Mac
 - [Big Sur](https://www.apple.com/br/macos/big-sur/)
 - [Catalina](https://support.apple.com/kb/DL2052?viewlocale=pt_BR&locale=pt_BR)

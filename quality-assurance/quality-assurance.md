@@ -8,6 +8,9 @@
 - [Sinon](https://sinonjs.org/)
 - [Testing Library](https://testing-library.com/)
 
+## Ferramentas
+- [PactJS](https://github.com/pact-foundation/pact-js)
+
 ## E2E
 - [BrowserStack](https://www.browserstack.com/)
 - [Codecept](https://codecept.io/)

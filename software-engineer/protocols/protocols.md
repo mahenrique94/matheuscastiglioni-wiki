@@ -7,6 +7,7 @@
   - [HTTP 2](https://en.wikipedia.org/wiki/HTTP/2)
   - [HTTP 3](https://blog.cloudflare.com/http3-the-past-present-and-future/)
 - [HTTPS (Hyper Text Transfer Protocol Secure)](https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure)
+  - [Multiplexing](https://developers.google.com/web/fundamentals/performance/http2)
 - [MQTT (Message Queuing Telemetry Transpor)](https://pt.wikipedia.org/wiki/MQTT)
 - [QUIC (Quick UDP Internet Connections)](https://pt.wikipedia.org/wiki/QUIC)
 - [WS (Web Socket)](https://pt.wikipedia.org/wiki/WebSocket)

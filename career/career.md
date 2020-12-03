@@ -5,6 +5,7 @@
 - [CodeWars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
+- [Skilled](https://skilled.dev/)
 
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)

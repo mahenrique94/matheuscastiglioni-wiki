@@ -26,3 +26,12 @@
   - [Read](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
   - [Update](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
   - [Delete](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+## Normalização
+- [1NF (First Normal Form)](https://www.guru99.com/database-normalization.html)
+- [2NF (Second Normal Form)](https://www.guru99.com/database-normalization.html)
+- [3NF (Third Normal Form)](https://www.guru99.com/database-normalization.html)
+- [BCNF (Boyce-Codd Normal Form)](https://www.guru99.com/database-normalization.html)
+- [4NF (Fourth Normal Form)](https://www.guru99.com/database-normalization.html)
+- [5NF (Fifth Normal Form)](https://www.guru99.com/database-normalization.html)
+- [6NF (Sixth Normal Form)](https://www.guru99.com/database-normalization.html)
