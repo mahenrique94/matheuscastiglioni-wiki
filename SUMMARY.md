@@ -23,6 +23,7 @@
   - [DNS](/software-engineer/dns/dns.md)
   - [E-commerce](/software-engineer/ecommerce/ecommerce.md)
   - [Estrutura de Dados](/software-engineer/data-structure/data-structure.md)
+  - [IDEs](/software-engineer/ides/ides.md)
   - [Metodologias](/software-engineer/methodologies/methodologies.md)
   - [Paradigmas](/software-engineer/paradigms/paradigms.md)
   - [Processos](/software-engineer/process/process.md)
