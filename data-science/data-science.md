@@ -4,6 +4,7 @@
 - [Numpy](https://numpy.org/)
 - [GeoPandas](https://geopandas.org/)
 - [Pandas](https://pandas.pydata.org/)
+- [Tabula](https://pypi.org/project/tabula-py/)
 
 ## Big Data
 - [Presto](https://github.com/prestodb/presto)
