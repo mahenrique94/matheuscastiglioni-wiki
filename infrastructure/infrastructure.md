@@ -9,14 +9,17 @@
 
 ## CI/CD
 - [Circle CI](https://circleci.com/)
+- [DPL](https://github.com/travis-ci/dpl)
 - [GitHub Actions](https://github.com/features/actions)
 - [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 - [Jenkins](https://www.jenkins.io/)
+- [Spinnaker](https://github.com/spinnaker/spinnaker)
 - [Travis CI](https://travis-ci.org/)
 
 ## Containers/Virtualização
 - [Docker](https://www.docker.com/)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
+- [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [Helm](https://helm.sh/)
 - [Traefik](https://traefik.io/)

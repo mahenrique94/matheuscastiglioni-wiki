@@ -1,15 +1,17 @@
 # QA (Quality Assurance)
 
 ## Bibliotecas
+- [Detox](https://github.com/wix/Detox)
+- [MSW](https://github.com/mswjs/msw)
+- [PactJS](https://github.com/pact-foundation/pact-js)
+
+## Ferramentas
 - [Chai](https://www.chaijs.com/)
 - [Jest](https://jestjs.io/)
 - [Karma](https://karma-runner.github.io/latest/index.html)
 - [Mocha](https://mochajs.org/)
 - [Sinon](https://sinonjs.org/)
 - [Testing Library](https://testing-library.com/)
-
-## Ferramentas
-- [PactJS](https://github.com/pact-foundation/pact-js)
 
 ## E2E
 - [BrowserStack](https://www.browserstack.com/)

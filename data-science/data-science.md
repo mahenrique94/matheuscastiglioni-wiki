@@ -5,7 +5,12 @@
 - [GeoPandas](https://geopandas.org/)
 - [Pandas](https://pandas.pydata.org/)
 
+## Big Data
+- [Presto](https://github.com/prestodb/presto)
+
 ## Ferramentas
+- [Google Collab](https://colab.research.google.com/)
+- [Jupyter Notebook](https://jupyter.org/)
 - [Scikit Learn](https://scikit-learn.org/stable/)
 
 ## Inteligência Artificial (AI)

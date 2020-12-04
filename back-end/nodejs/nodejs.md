@@ -1,5 +1,7 @@
 # NodeJS
 
+- [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
 ## Bibliotecas
 
 ### APIs
@@ -19,6 +21,7 @@
 - [Seneca](https://github.com/senecajs/seneca)
 
 ### Authentication
+- [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
 - [CryptoJS](https://github.com/brix/crypto-js)
 - [Passport](https://github.com/jaredhanson/passport)
 
@@ -37,6 +40,9 @@
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [Yargs](https://github.com/yargs/yargs)
 
+### Database
+- [LokiJS](https://github.com/techfort/LokiJS)
+
 ### Debug
 - [NDB](https://github.com/GoogleChromeLabs/ndb)
 
@@ -52,6 +58,7 @@
 
 ### Instalação
 - [NVM](https://github.com/nvm-sh/nvm)
+- [NVM Windows](https://github.com/coreybutler/nvm-windows)
 
 ### Logging
 - [Pino](https://github.com/pinojs/pino)

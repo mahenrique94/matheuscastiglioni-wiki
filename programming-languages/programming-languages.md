@@ -20,3 +20,4 @@
 - [Rust](https://www.rust-lang.org/pt-BR)
 - [Swift](https://developer.apple.com/swift/)
 - [TypeScript](https://www.typescriptlang.org/)
+  - [TypeScript Book](https://github.com/basarat/typescript-book)

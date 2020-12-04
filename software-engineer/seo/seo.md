@@ -2,6 +2,7 @@
 
 ## Ferramentas
 - [GTMetrix](https://gtmetrix.com)
+- [LightHouse](https://developers.google.com/web/tools/lighthouse?hl=pt_br)
 - [WebPageTest](https://www.webpagetest.org/)
 
 ## Livros

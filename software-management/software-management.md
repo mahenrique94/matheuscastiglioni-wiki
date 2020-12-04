@@ -5,6 +5,7 @@
 - [ClickUP](https://clickup.com/)
 - [Confluence](https://www.atlassian.com/br/software/confluence)
 - [Favro](https://www.favro.com/)
+- [GitScrum](https://site.gitscrum.com/)
 - [Infinity](https://startinfinity.com/)
 - [Jira](https://www.atlassian.com/br/software/jira)
 - [Menti](https://www.menti.com/)

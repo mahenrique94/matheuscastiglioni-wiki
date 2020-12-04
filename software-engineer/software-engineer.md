@@ -1,4 +1,8 @@
 # Engenharia de Software
+
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
 - [Algoritmos](/software-engineer/algorithms/algorithms.md)
 - [API (Application Programming Interface)](/software-engineer/api/api.md)
