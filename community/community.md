@@ -93,17 +93,23 @@
 - [Willian Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ)
 
 ## Newsletter para manter-se atualizado(a)
+- [AlistaPart](https://alistapart.com/)
 - [CSS Tricks](https://css-tricks.com/)
+- [CSS Weekly](https://css-weekly.com/)
 - [Codrops](https://tympanus.net/codrops/)
 - [Daily.dev](https://daily.dev/)
 - [Dev.to Digest](https://dev.to/)
 - [Felipe Deschamps](https://filipedeschamps.com.br/newsletter)
 - [Front-End Horse](https://frontend.horse/)
+- [HeyDesigner](https://heydesigner.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Level UP](https://levelup.patkua.com/)
 - [Medium Daily Digest](https://medium.com)
 - [Product Hunt Daily](https://www.producthunt.com/)
+- [PWAdvent](https://pwadvent.dev/)
 - [Reflectoring](https://reflectoring.io/)
+- [SmashingMagazine](https://www.smashingmagazine.com/)
+- [Sidebar](https://sidebar.io/)
 
 ## Pessoas para seguir
 - [Addy Osmani](https://twitter.com/addyosmani)

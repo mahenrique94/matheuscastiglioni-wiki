@@ -7,6 +7,8 @@
 - [Favro](https://www.favro.com/)
 - [Infinity](https://startinfinity.com/)
 - [Jira](https://www.atlassian.com/br/software/jira)
+- [Menti](https://www.menti.com/)
+- [Mentimeter](https://www.mentimeter.com/)
 - [Monday.com](https://monday.com/lang/pt/)
 - [Pipefy](https://www.pipefy.com/pt-br/)
 - [ProductBoard](https://www.productboard.com/)

@@ -13,6 +13,7 @@
 - [Brackets](http://brackets.io/)
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
+- [Nova](https://nova.app/)
 - [Nuclide](https://nuclide.io/)
 - [PHPStorm](https://www.jetbrains.com/pt-br/phpstorm/)
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
