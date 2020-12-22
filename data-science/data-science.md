@@ -1,6 +1,7 @@
 # Data Science
 
 ## Bibliotecas
+- [Detectron](https://github.com/facebookresearch/Detectron)
 - [Detectron2](https://github.com/facebookresearch/detectron2)
 - [Numpy](https://numpy.org/)
 - [GeoPandas](https://geopandas.org/)

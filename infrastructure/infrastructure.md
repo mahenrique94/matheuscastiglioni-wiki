@@ -31,8 +31,12 @@
   - [BitBucket](https://bitbucket.org/)
   - [GitGist](https://gist.github.com/)
   - [GitHub](https://github.com/)
+  - [GitIgnore](https://github.com/github/gitignore)
   - [GitLab](https://gitlab.com/)
   - [GitPod](https://gitpod.io/)
+
+## Ferramentas
+- [Istio](https://github.com/istio/istio)
 
 ## Mensageria
 - [Apache Kafka](https://kafka.apache.org/)
@@ -45,6 +49,7 @@
   - [Moiva](https://moiva.io/)
   - [NPM Trends](https://www.npmtrends.com/)
 - [Yarn](https://yarnpkg.com/)
+  - [Improved Yarn Audit](https://github.com/djfdyuruiry/improved-yarn-audit)
 
 ## Script
 - [Bash](https://pt.wikipedia.org/wiki/Bash)

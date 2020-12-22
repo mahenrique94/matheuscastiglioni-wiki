@@ -1,6 +1,7 @@
 # Back-End
 
 - [Back-End RoadMap](https://roadmap.sh/backend)
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 - [Deno](/back-end/deno/deno.md)
 - [GraphQL](/back-end/graphql/graphql.md)

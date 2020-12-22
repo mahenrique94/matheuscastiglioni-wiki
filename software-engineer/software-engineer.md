@@ -2,6 +2,7 @@
 
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
 - [Algoritmos](/software-engineer/algorithms/algorithms.md)
