@@ -1,6 +1,7 @@
 # QA (Quality Assurance)
 
 ## Bibliotecas
+- [Artillery](https://github.com/artilleryio/artillery)
 - [Detox](https://github.com/wix/Detox)
 - [MSW](https://github.com/mswjs/msw)
 - [PactJS](https://github.com/pact-foundation/pact-js)

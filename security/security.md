@@ -12,6 +12,11 @@
 - [Using Components With Known Vulnerabilities](https://owasp.org/www-project-top-ten/2017/A9_2017-Using_Components_with_Known_Vulnerabilities)
 - [XML External Entities (XXE)](https://owasp.org/www-project-top-ten/2017/A4_2017-XML_External_Entities_(XXE))
 
+## Ferramentas
+- [Observatory Mozilla](https://observatory.mozilla.org/)
+- [Virus Total](https://www.virustotal.com)
+- [TypingDNA](https://www.typingdna.com/)
+
 ## Links
 - [OWASP](https://owasp.org/)
 

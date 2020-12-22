@@ -1,9 +1,11 @@
 # SEO
 
 ## Ferramentas
+- [Estimator](https://estimator.dev/)
 - [GTMetrix](https://gtmetrix.com)
 - [LightHouse](https://developers.google.com/web/tools/lighthouse?hl=pt_br)
 - [WebPageTest](https://www.webpagetest.org/)
+- [ScreamingFrog](https://www.screamingfrog.co.uk/)
 
 ## Livros
 - [SEO Prático](https://www.casadocodigo.com.br/products/livro-seo?_pos=1&_sid=df457eadd&_ss=r)

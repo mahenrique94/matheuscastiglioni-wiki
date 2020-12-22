@@ -64,6 +64,9 @@
 - [Pino](https://github.com/pinojs/pino)
 - [Winston](https://github.com/winstonjs/winston)
 
+### Mock
+- [Nock](https://github.com/nock/nock)
+
 ### ORM
 - [Mongoose](https://github.com/Automattic/mongoose)
 - [Sequelize](https://github.com/sequelize/sequelize)

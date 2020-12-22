@@ -11,6 +11,9 @@
 - [Redis](https://redis.io/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
+## Bibiliotecas
+- [Vitess](https://github.com/vitessio/vitess)
+
 ## Indexação de dados
 - [ElasticSearch](https://www.elastic.co/)
 - [Sonic](https://crates.io/crates/sonic-server)

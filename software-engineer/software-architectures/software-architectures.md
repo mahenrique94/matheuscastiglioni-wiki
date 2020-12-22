@@ -16,6 +16,7 @@
 - [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Master-slave](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Microkernel Architecture](https://priyalwalpita.medium.com/software-architecture-patterns-microkernel-architecture-97cee200264e)
 - [Microservices](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [Multi Thread](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)#:~:text=In%20computer%20architecture%2C%20multithreading%20is,This%20approach%20differs%20from%20multiprocessing.)
 - [MVC (Model View Controller)](https://pt.wikipedia.org/wiki/MVC)
@@ -25,7 +26,9 @@
 - [Pipe-filter](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [Peer-to-peer](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
+- [Service Oriented Architecture (SOA)](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec#:~:text=Service%2DOriented%20Architecture%20(SOA),of%20vendors%20and%20other%20technologies.)
 - [Single Thread](https://en.wikipedia.org/wiki/Thread_(computing))
+- [Space Based Architecture (SBA)](https://en.wikipedia.org/wiki/Space-based_architecture#:~:text=Space%2Dbased%20architecture%20(SBA),using%20the%20tuple%20space%20paradigm.)
 
 ## Livros
 - [Clean Architecture](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=asc_df_B085PP6Y8P/?tag=googleshopp00-20&linkCode=df0&hvadid=426564911966&hvpos=&hvnetw=g&hvrand=11450558934850062724&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-893564488271&psc=1)

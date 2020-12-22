@@ -1,6 +1,7 @@
 # Carreira
 
 ## Plataformas para aprender códigos resolvendo desafios
+- [AlgoExpert](https://www.algoexpert.io/)
 - [CodeSignal](https://codesignal.com/)
 - [CodeWars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
@@ -9,6 +10,7 @@
 
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)
+- [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://pt.coursera.org/)
 - [Domestika](https://www.domestika.org/pt)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)

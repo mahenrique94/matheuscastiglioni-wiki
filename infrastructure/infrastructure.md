@@ -19,6 +19,7 @@
 ## Containers/Virtualização
 - [Docker](https://www.docker.com/)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
+  - [Portainer](https://www.portainer.io/)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [Helm](https://helm.sh/)
@@ -28,8 +29,10 @@
 ## Controle de Versão
 - [Git](https://git-scm.com/)
   - [BitBucket](https://bitbucket.org/)
+  - [GitGist](https://gist.github.com/)
   - [GitHub](https://github.com/)
   - [GitLab](https://gitlab.com/)
+  - [GitPod](https://gitpod.io/)
 
 ## Mensageria
 - [Apache Kafka](https://kafka.apache.org/)
@@ -38,6 +41,9 @@
 
 ## Package Manager
 - [NPM](https://www.npmjs.com/)
+  - [BundlePhobia](https://bundlephobia.com/)
+  - [Moiva](https://moiva.io/)
+  - [NPM Trends](https://www.npmtrends.com/)
 - [Yarn](https://yarnpkg.com/)
 
 ## Script

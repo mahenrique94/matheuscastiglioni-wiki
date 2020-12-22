@@ -23,6 +23,9 @@
 - [Vue.js Brasil](https://www.facebook.com/groups/vuejsbr/)
 - [Vue.js Developers](https://www.facebook.com/groups/vuejsdevelopers/)
 
+### Github
+- [Front-End BR](https://github.com/frontendbr/forum)
+
 ### Slack
 - [Angular Brasil](angularbrasil.slack.com)
 - [BrazilJS](braziljs.slack.com)
@@ -101,6 +104,7 @@
 - [Dev.to Digest](https://dev.to/)
 - [Felipe Deschamps](https://filipedeschamps.com.br/newsletter)
 - [Front-End Horse](https://frontend.horse/)
+- [Hacks Mozilla](https://hacks.mozilla.org/)
 - [HeyDesigner](https://heydesigner.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Level UP](https://levelup.patkua.com/)

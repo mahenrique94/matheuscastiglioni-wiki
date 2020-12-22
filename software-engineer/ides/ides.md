@@ -29,3 +29,6 @@
 - [VSCode](https://code.visualstudio.com/)
 - [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
 - [XCode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
+
+## Extensões
+- [TabNine](https://www.tabnine.com/)

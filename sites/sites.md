@@ -2,6 +2,7 @@
 
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
+- Comparação de bundles ([https://bundlers.tooling.report/](https://bundlers.tooling.report/))
 - Comprar livros de desenvolvimento ([https://www.packtpub.com/](https://www.packtpub.com/))
 - Criar arquivos gitignore automaticamente ([http://gitignore.io/](http://gitignore.io/))
 - Criar avatars ([http://avatars.adorable.io/](http://avatars.adorable.io/))
@@ -25,6 +26,7 @@
 - Ser notificado sobre mudanças em algum site ([https://visualping.io/](https://visualping.io/))
 - Templates de sites feitos com Bootstrap ([https://designmodo.com/bootstrap-templates/](https://designmodo.com/bootstrap-templates/))
 - Templates para slides ([https://slidesgo.com/themes](https://slidesgo.com/themes))
+- Testar HZz rodando na máquina ([https://testufo.com/](https://testufo.com/))
 - Testar especificações WCAG em sites ([https://wave.webaim.org/](https://wave.webaim.org/))
 - Teste de conhecimento, entenda seu perfil em como gosta de aprender ([http://www.cchla.ufpb.br/ccmd/aprendizagem/](http://www.cchla.ufpb.br/ccmd/aprendizagem/))
 - Teste de personalidade ([https://www.16personalities.com/](https://www.16personalities.com/))
