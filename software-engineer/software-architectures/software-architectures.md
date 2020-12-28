@@ -1,9 +1,12 @@
 # Arquiteturas de Software
 
 ## Arquiteturas e Padrões Arquiteturais
+- [API Gateway](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+- [Backend-for-Frontend (BFF)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [Blackboard](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [BLoC (Business Logic Components)](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/)
 - [Broker](http://www.dossier-andreas.net/software_architecture/broker.html)
+- [Circuit Breaker](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Client-server](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [CQRS (Command Query Responsibility Segregation)](https://microservices.io/patterns/data/cqrs.html)
@@ -12,6 +15,8 @@
   - [Saga](https://microservices.io/patterns/data/saga.html)
 - [ECS (Entity Component System)](https://pt.wikipedia.org/wiki/Entity-component-system)
 - [Event-bus](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Event Sourcing](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
+- [Externalized Configuration](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 - [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
@@ -25,10 +30,13 @@
 - [MVVM (Movel View View Model)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 - [Pipe-filter](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [Peer-to-peer](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Saga](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 - [Service Oriented Architecture (SOA)](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec#:~:text=Service%2DOriented%20Architecture%20(SOA),of%20vendors%20and%20other%20technologies.)
+- [Sidecar](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [Single Thread](https://en.wikipedia.org/wiki/Thread_(computing))
 - [Space Based Architecture (SBA)](https://en.wikipedia.org/wiki/Space-based_architecture#:~:text=Space%2Dbased%20architecture%20(SBA),using%20the%20tuple%20space%20paradigm.)
+- [Strangler](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
 ## Links
 - https://github.com/DovAmir/awesome-design-patterns
