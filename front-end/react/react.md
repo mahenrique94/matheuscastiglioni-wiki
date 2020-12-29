@@ -5,6 +5,7 @@
 ## Bibliotecas
 ### Apresentações
 - [MDX Deck](https://github.com/jxnblk/mdx-deck)
+- [Visx](https://github.com/airbnb/visx)
 
 ### Animações
 - [React Loading Skeleton](https://github.com/dvtng/react-loading-skeleton)

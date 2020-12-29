@@ -21,3 +21,6 @@
 - [Rocketseat](https://rocketseat.com.br/)
 - [School of Net](https://www.schoolofnet.com/)
 - [Udemy](https://www.udemy.com/pt/)
+
+## Plataformas para mentoria
+- [CodeMentor](https://www.codementor.io/)

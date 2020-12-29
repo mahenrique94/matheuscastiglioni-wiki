@@ -71,6 +71,7 @@
 ### Email
 - [Heml](https://github.com/SparkPost/heml)
 - [Maizzle](https://maizzle.com/)
+- [MJML](https://mjml.io/)
 - [NodeMailer](https://github.com/nodemailer/nodemailer)
 
 ### Fixtures

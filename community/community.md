@@ -106,6 +106,7 @@
 - [Front-End Horse](https://frontend.horse/)
 - [Hacks Mozilla](https://hacks.mozilla.org/)
 - [HeyDesigner](https://heydesigner.com/)
+- [IndieHackers](https://www.indiehackers.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Level UP](https://levelup.patkua.com/)
 - [Medium Daily Digest](https://medium.com)
