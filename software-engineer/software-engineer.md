@@ -1,8 +1,10 @@
 # Engenharia de Software
 
+- [50+ Free Awesome Certificates to Earn in 2021](https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 - [DevDocs](https://devdocs.io/)
+- [Electronic References](https://csgordon.github.io/books.html)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)

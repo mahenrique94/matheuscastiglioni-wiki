@@ -13,6 +13,7 @@
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://pt.coursera.org/)
 - [Domestika](https://www.domestika.org/pt)
+- [EBAC Online](https://ebaconline.com.br/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [Oreilly](https://www.oreilly.com/)
 - [Origamid](https://www.origamid.com/)

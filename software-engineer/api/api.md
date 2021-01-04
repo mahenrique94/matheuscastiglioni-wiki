@@ -12,5 +12,10 @@
 - [Construindo APIs REST com Node.js](https://www.casadocodigo.com.br/products/livro-apis-nodejs?_pos=1&_sid=f96c54296&_ss=r)
 - [REST](https://www.casadocodigo.com.br/products/livro-rest?_pos=2&_sid=f96c54296&_ss=r)
 
+## Programas
+- [Hoppscotch](https://hoppscotch.io/)
+- [Insomnia](https://insomnia.rest/)
+- [Postman](https://www.postman.com/)
+
 ## Videos
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)
