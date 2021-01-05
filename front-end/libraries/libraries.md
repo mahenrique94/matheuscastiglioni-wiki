@@ -133,6 +133,7 @@
 - [Storybook](https://github.com/storybookjs/storybook)
 
 ## Editor
+- [CKEditor](https://ckeditor.com/)
 - [Editor.js](https://github.com/codex-team/editor.js)
 - [SimpleMDE MarkDown Editor](https://github.com/sparksuite/simplemde-markdown-editor)
 - [TinyMCE](https://github.com/tinymce/tinymce)
