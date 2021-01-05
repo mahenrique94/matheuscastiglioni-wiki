@@ -6,6 +6,7 @@
 - [DevDocs](https://devdocs.io/)
 - [Electronic References](https://csgordon.github.io/books.html)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Tiny Helpers](https://tiny-helpers.dev/)
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
 - [Algoritmos](/software-engineer/algorithms/algorithms.md)

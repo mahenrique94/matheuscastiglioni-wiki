@@ -13,6 +13,7 @@
 
 ## Bibliotecas
 - [Bootstrap](https://getbootstrap.com/)
+- [Buefy](https://buefy.org/)
 - [Bulma](https://bulma.io/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Foundation](https://get.foundation/)

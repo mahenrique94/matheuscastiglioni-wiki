@@ -53,6 +53,7 @@
 - [SystemJS](https://github.com/systemjs/systemjs)
 - [UnCSS](https://github.com/uncss/uncss)
 - [Size Limit](https://github.com/ai/size-limit)
+- [Turbo](https://github.com/hotwired/turbo)
 - [Webpack](https://webpack.js.org/)
 - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
@@ -97,6 +98,7 @@
 - [PopperCore](https://github.com/popperjs/popper-core)
 - [Solid](https://github.com/ryansolid/solid)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+- [Stimulus](https://github.com/hotwired/stimulus)
 - [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
 - [Tauri](https://github.com/tauri-apps/tauri)
 - [TextMask](https://github.com/text-mask/text-mask)
@@ -191,6 +193,7 @@
 
 ## Imagens
 - [Bounds.js](https://github.com/ChrisCavs/bounds.js)
+- [CamanJS](http://camanjs.com/)
 - [CompressorJS](https://github.com/fengyuanchen/compressorjs)
 - [Cropper.js](https://github.com/fengyuanchen/cropperjs)
 - [FaceAPI](https://github.com/justadudewhohacks/face-api.js)
