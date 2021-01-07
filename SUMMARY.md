@@ -5,6 +5,7 @@
 - [Back-End](/back-end/back-end.md)
   - [GraphQL](/back-end/graphql/graphql.md)
   - [NodeJS](/back-end/nodejs/nodejs.md)
+- [Big Data](/big-data/big-data.md)
 - [Carreira](/career/career.md)
 - [Cloud](/cloud/cloud.md)
 - [Comunidade](/community/community.md)

@@ -1,6 +1,7 @@
 # Metodologias
 
 - [BDD (Behavior Driven Development)](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
+- [CDD (Component Driven Development)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 - [Chaos Engineering](https://solvimm.com/blog/o-que-e-chaos-engineering/)
   - [Chaos Gorilla](https://medium.com/@bfpimenta/o-simian-army-6a7c138460dd)
   - [Chaos Monkey](https://www.infoq.com/br/news/2012/08/netflix-chaos-monkey/)
