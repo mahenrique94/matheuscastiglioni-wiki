@@ -23,6 +23,7 @@
 
 ## Autenticação
 - [FingerPrintJS](https://github.com/fingerprintjs/fingerprintjs)
+- [ZXCVBN](https://github.com/dropbox/zxcvbn)
 
 ## Banco de Dados
 - [Dexie.js](https://github.com/dfahlander/Dexie.js)
@@ -275,6 +276,7 @@
 - [Axios](https://github.com/axios/axios)
   - [Axios Offline](https://github.com/jonkofee/axios-offline)
   - [Moxios](https://github.com/axios/moxios)
+- [Bent](https://github.com/mikeal/bent)
 
 ## Search
 - [Fuse](https://github.com/krisk/Fuse)

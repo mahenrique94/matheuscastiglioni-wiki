@@ -85,6 +85,7 @@
 - [Sharp](https://github.com/lovell/sharp)
 
 ### Instalação
+- [N](https://github.com/tj/n)
 - [NVM](https://github.com/nvm-sh/nvm)
 - [NVM Windows](https://github.com/coreybutler/nvm-windows)
 

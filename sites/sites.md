@@ -2,6 +2,7 @@
 
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
+- Calcular dias úteis ([https://www.dias-uteis.com/](https://www.dias-uteis.com/))
 - Comparação de bundles ([https://bundlers.tooling.report/](https://bundlers.tooling.report/))
 - Compartilhar trechos de códigos ([https://carbon.now.sh/](https://carbon.now.sh/))
 - Comprar livros de desenvolvimento ([https://www.packtpub.com/](https://www.packtpub.com/))
