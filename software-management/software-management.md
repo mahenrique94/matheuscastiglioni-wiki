@@ -11,10 +11,12 @@
 - [Menti](https://www.menti.com/)
 - [Mentimeter](https://www.mentimeter.com/)
 - [Monday.com](https://monday.com/lang/pt/)
+- [NTask](https://www.ntaskmanager.com/)
 - [Pipefy](https://www.pipefy.com/pt-br/)
 - [ProductBoard](https://www.productboard.com/)
 - [Roads](https://roads.run/)
 - [Slack](http://slack.com/)
+- [Tara](https://tara.ai/)
 - [Trello](https://trello.com/)
 
 ## Gestão

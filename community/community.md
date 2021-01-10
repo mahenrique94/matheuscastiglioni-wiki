@@ -104,6 +104,7 @@
 - [Dev.to Digest](https://dev.to/)
 - [Felipe Deschamps](https://filipedeschamps.com.br/newsletter)
 - [Front-End Horse](https://frontend.horse/)
+- [Gyaco](http://www.gyaco.com/)
 - [Hacks Mozilla](https://hacks.mozilla.org/)
 - [HeyDesigner](https://heydesigner.com/)
 - [IndieHackers](https://www.indiehackers.com/)
