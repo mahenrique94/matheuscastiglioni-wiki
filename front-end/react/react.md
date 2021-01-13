@@ -49,6 +49,9 @@
 - [SVGR](https://github.com/gregberge/svgr)
 
 ### Estilização
+- [ClassNames](https://github.com/JedWatson/classnames)
+- [CLSX](https://github.com/lukeed/clsx)
+- [Compiled](https://github.com/atlassian-labs/compiled)
 - [Styled Components](https://styled-components.com/)
   - [Awesome Styled Components](https://github.com/styled-components/awesome-styled-components)
   - [VSCode Styled Components](https://github.com/styled-components/vscode-styled-components)
@@ -58,6 +61,9 @@
 - [Formik](https://github.com/formium/formik)
 
 ### Gerenciador de Estado
+- [MobX](https://mobx.js.org/README.html)
+- [Recoil](https://recoiljs.org/)
+- [Redux](https://redux.js.org/)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
 - [UniStore](https://github.com/developit/unistore)
 - [Zustand](https://github.com/pmndrs/zustand)
