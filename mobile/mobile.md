@@ -9,7 +9,11 @@
 - [Flutter](https://flutter.dev/)
 - [Ionic](https://ionicframework.com/)
 - [Kotlin Native](https://kotlinlang.org/docs/reference/native-overview.html)
+- [Native Script](https://nativescript.org/)
+- [Quasar](https://quasar.dev/)
 - [React Native](https://reactnative.dev/)
+- [Svelte Native](https://svelte-native.technology/)
+- [Tauri](https://tauri.studio/en/)
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 
 ## Nativo

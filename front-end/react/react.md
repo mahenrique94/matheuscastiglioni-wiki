@@ -61,9 +61,7 @@
 - [Formik](https://github.com/formium/formik)
 
 ### Gerenciador de Estado
-- [MobX](https://mobx.js.org/README.html)
 - [Recoil](https://recoiljs.org/)
-- [Redux](https://redux.js.org/)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
 - [UniStore](https://github.com/developit/unistore)
 - [Zustand](https://github.com/pmndrs/zustand)

@@ -5,6 +5,7 @@
 - [Detox](https://github.com/wix/Detox)
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [PactJS](https://github.com/pact-foundation/pact-js)
+- [PlayWright](https://github.com/microsoft/playwright)
 
 ## Ferramentas
 - [Chai](https://www.chaijs.com/)
@@ -26,6 +27,7 @@
 - [LocalStack](https://localstack.cloud/)
 - [Protactor](https://www.protractortest.org/#/)
 - [Selenium](https://www.selenium.dev/)
+- [TestCafe](https://devexpress.github.io/testcafe/)
 
 ## Links
 - https://github.com/goldbergyoni/javascript-testing-best-practices

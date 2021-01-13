@@ -3,10 +3,12 @@
 https://jamstack.org
 
 ## Geradores de Sites
-- [11ty](https://www.11ty.dev/)
 - [Aleph.js](https://github.com/alephjs/aleph.js)
+- [Blitz](https://blitzjs.com/)
 - [ElderJS](https://github.com/Elderjs/elderjs)
+- [Eleventy](https://www.11ty.dev/)
 - [Gatsby](https://github.com/gatsbyjs/gatsby)
+- [Gridsome](https://gridsome.org/)
 - [Hugo](https://gohugo.io/)
 - [Jekyll](https://jekyllrb.com/)
 - [Meli](https://docs.meli.sh/)

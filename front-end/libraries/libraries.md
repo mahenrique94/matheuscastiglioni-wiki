@@ -40,7 +40,9 @@
 - [Babel](https://babeljs.io/)
 - [Bazel](https://bazel.build/)
 - [BundleSize](https://github.com/siddharthkp/bundlesize)
+- [Broccoli](https://broccoli.build/)
 - [BrowserList](https://github.com/browserslist/browserslist)
+- [ESBuild](https://github.com/evanw/esbuild)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Parsel](https://github.com/LeaVerou/parsel)
@@ -49,14 +51,17 @@
 - [Prepack](https://prepack.io/)
 - [PurgeCSS](https://github.com/FullHuman/purgecss)
 - [RollUp](https://github.com/rollup/rollup)
+- [Rome](https://github.com/rome/tools)
 - [Snowpack](https://github.com/snowpackjs/snowpack)
 - [Sucrase](https://github.com/alangpierce/sucrase)
 - [SystemJS](https://github.com/systemjs/systemjs)
 - [UnCSS](https://github.com/uncss/uncss)
 - [Size Limit](https://github.com/ai/size-limit)
+- [SWC](https://github.com/swc-project/swc)
 - [Turbo](https://github.com/hotwired/turbo)
+- [Vite](https://github.com/vitejs/vite)
 - [Webpack](https://webpack.js.org/)
-- [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+  - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
 ## Canvas
 - [HTML2Canvas](https://github.com/niklasvh/html2canvas)
@@ -87,6 +92,7 @@
 - [PlayWRight](https://github.com/microsoft/playwright)
 
 ## Criação e Maniputalção de Interface
+- [Alpine.js](https://github.com/alpinejs/alpine)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
@@ -164,6 +170,7 @@
 
 ## Gerenciador de Estado
 - [Akita](https://github.com/datorama/akita)
+- [Effector](https://github.com/effector/effector)
 - [Immer](https://github.com/immerjs/immer)
 - [MobX](https://github.com/mobxjs/mobx)
 - [Redux](https://github.com/reduxjs/redux)
