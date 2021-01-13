@@ -108,14 +108,15 @@
 - [Hacks Mozilla](https://hacks.mozilla.org/)
 - [HeyDesigner](https://heydesigner.com/)
 - [IndieHackers](https://www.indiehackers.com/)
+- [Inspiration Bits](https://inspiration-bits.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Level UP](https://levelup.patkua.com/)
 - [Medium Daily Digest](https://medium.com)
 - [Product Hunt Daily](https://www.producthunt.com/)
 - [PWAdvent](https://pwadvent.dev/)
 - [Reflectoring](https://reflectoring.io/)
-- [SmashingMagazine](https://www.smashingmagazine.com/)
 - [Sidebar](https://sidebar.io/)
+- [SmashingMagazine](https://www.smashingmagazine.com/)
 
 ## Pessoas para seguir
 - [Addy Osmani](https://twitter.com/addyosmani)
