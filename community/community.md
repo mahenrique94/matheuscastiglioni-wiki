@@ -97,6 +97,7 @@
 
 ## Newsletter para manter-se atualizado(a)
 - [AlistaPart](https://alistapart.com/)
+- [Best of JS](https://bestofjs.org/)
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Weekly](https://css-weekly.com/)
 - [Codrops](https://tympanus.net/codrops/)
