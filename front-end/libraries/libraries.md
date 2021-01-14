@@ -63,6 +63,7 @@
 - [Vite](https://github.com/vitejs/vite)
 - [Webpack](https://webpack.js.org/)
   - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+- [WMR](https://github.com/preactjs/wmr)
 
 ## Canvas
 - [HTML2Canvas](https://github.com/niklasvh/html2canvas)
@@ -99,13 +100,17 @@
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
 - [Haunted](https://github.com/matthewp/haunted)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
+- [HyperApp](https://github.com/jorgebucaran/hyperapp)
 - [Lit Element](https://github.com/Polymer/lit-element)
 - [Lit HTML](https://github.com/Polymer/lit-html)
 - [LWC](https://github.com/salesforce/lwc)
 - [Mint](https://github.com/mint-lang/mint)
+- [Moon](https://github.com/kbrsh/moon)
 - [PopperCore](https://github.com/popperjs/popper-core)
+- [Preact](https://github.com/preactjs/preact)
 - [Solid](https://github.com/ryansolid/solid)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+- [Stencil](https://github.com/ionic-team/stencil)
 - [Stimulus](https://github.com/hotwired/stimulus)
 - [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
 - [Tauri](https://github.com/tauri-apps/tauri)
@@ -201,6 +206,7 @@
 ## Icones
 - [FontAwesome](https://fontawesome.com/)
 - [FontEllo](https://fontello.com/)
+- [HeroIcons](https://github.com/tailwindlabs/heroicons)
 - [RemixIcon](https://remixicon.com/)
 
 ## Imagens

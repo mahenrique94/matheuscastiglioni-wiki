@@ -7,7 +7,13 @@
 - [Vue CLI](https://github.com/vuejs/vue-cli)
 
 ### Componentes
+- [Element Plus](https://element-plus.org/#/en-US)
+- [Vant](https://github.com/youzan/vant)
+- [Vuetify](https://vuetifyjs.com/en/)
 - [VueSweetAlert2](https://github.com/avil13/vue-sweetalert2)
+
+### Dashboard
+- [Vue Element Admin](https://panjiachen.github.io/vue-element-admin/#/dashboard)
 
 ### Estilização
 - [StyledVue](https://github.com/egoist/styled-vue)

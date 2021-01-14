@@ -3,11 +3,15 @@
 - https://github.com/acdlite/react-fiber-architecture
 
 ## Bibliotecas
+### 3D
+- [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
+
 ### Apresentações
 - [MDX Deck](https://github.com/jxnblk/mdx-deck)
 - [Visx](https://github.com/airbnb/visx)
 
 ### Animações
+- [Motion](https://github.com/framer/motion)
 - [React Loading Skeleton](https://github.com/dvtng/react-loading-skeleton)
 - [React Spring](https://github.com/pmndrs/react-spring)
 - [React Transition Group](https://github.com/reactjs/react-transition-group)
@@ -22,6 +26,7 @@
 ### Componentes
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
+- [Material UI](https://material-ui.com/pt/)
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [React Countdown Clock](https://github.com/pughpugh/react-countdown-clock)
@@ -46,6 +51,7 @@
 - [React Star Rating Component](https://github.com/voronianski/react-star-rating-component)
 - [React Stick](https://github.com/akiran/react-slick)
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
+- [Reactstrap](https://reactstrap.github.io/)
 - [SVGR](https://github.com/gregberge/svgr)
 
 ### Estilização
@@ -66,9 +72,13 @@
 - [UniStore](https://github.com/developit/unistore)
 - [Zustand](https://github.com/pmndrs/zustand)
 
+### Gráficos
+- [VisX](https://github.com/airbnb/visx)
+
 ### Hooks
 - [React Adaptive Hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
 - [React Hanger](https://github.com/kitze/react-hanger)
+- [React Use](https://github.com/streamich/react-use)
 
 ### Modal
 - [React Confirm Bootstrap](https://github.com/gregthebusker/react-confirm-bootstrap)

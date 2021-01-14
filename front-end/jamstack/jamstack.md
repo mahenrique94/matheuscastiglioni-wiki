@@ -15,3 +15,5 @@ https://jamstack.org
 - [Next.js](https://github.com/vercel/next.js)
 - [RedWood](https://github.com/redwoodjs/redwood)
 - [Remix](https://remix.run/)
+- [Scully](https://github.com/scullyio/scully)
+- [Umi](https://github.com/umijs/umi)

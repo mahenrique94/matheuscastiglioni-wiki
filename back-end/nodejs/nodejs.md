@@ -7,6 +7,7 @@
 
 ### APIs
 - [AdonisJS](https://adonisjs.com/)
+- [Egg](https://github.com/eggjs/egg)
 - [Express](https://expressjs.com/pt-br/)
   - [Consign](https://github.com/jarradseers/consign)
 - [Fastify](https://www.fastify.io/)
@@ -44,6 +45,7 @@
 - [Apostrophe](https://github.com/apostrophecms/apostrophe)
 - [Ghost](https://github.com/TryGhost/Ghost)
 - [Hexo](https://github.com/hexojs/hexo)
+- [KeyStone](https://github.com/keystonejs/keystone)
 - [Prismic](https://prismic.io/)
 - [Strapi](https://strapi.io/)
 
@@ -78,6 +80,9 @@
 
 ### Fixtures
 - [Faker.js](https://github.com/Marak/faker.js)
+
+### Headless BrowserStack
+- [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 ### HTTP
 - [Boom](https://github.com/hapijs/boom)
