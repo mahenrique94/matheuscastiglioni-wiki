@@ -4,8 +4,10 @@
 - [Artillery](https://github.com/artilleryio/artillery)
 - [Detox](https://github.com/wix/Detox)
 - [Expect.js](https://github.com/Automattic/expect.js)
+- [JSDom](https://github.com/jsdom/jsdom)
 - [PactJS](https://github.com/pact-foundation/pact-js)
 - [PlayWright](https://github.com/microsoft/playwright)
+- [RRWeb](https://github.com/rrweb-io/rrweb)
 
 ## Ferramentas
 - [Chai](https://www.chaijs.com/)

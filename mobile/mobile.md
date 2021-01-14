@@ -5,7 +5,9 @@
 - [Test Fairy](https://www.testfairy.com/)
 
 ## Hibrido (Multi Plataforma)
+- [Capacitor](https://github.com/ionic-team/capacitor)
 - [Cordova/Phonegap](https://cordova.apache.org/)
+- [Expo](https://github.com/expo/expo)
 - [Flutter](https://flutter.dev/)
 - [Ionic](https://ionicframework.com/)
 - [Kotlin Native](https://kotlinlang.org/docs/reference/native-overview.html)

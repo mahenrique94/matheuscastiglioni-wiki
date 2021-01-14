@@ -43,6 +43,7 @@
 - [BundleSize](https://github.com/siddharthkp/bundlesize)
 - [Broccoli](https://broccoli.build/)
 - [BrowserList](https://github.com/browserslist/browserslist)
+- [CSS Modules](https://github.com/css-modules/css-modules)
 - [ESBuild](https://github.com/evanw/esbuild)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [Parcel](https://github.com/parcel-bundler/parcel)
@@ -119,6 +120,12 @@
 - [Tornis](https://github.com/robb0wen/tornis)
 - [Typed.js](https://github.com/mattboldt/typed.js)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
+
+## CSS in JS
+- [Linaria](https://github.com/callstack/linaria)
+- [Stitches](https://github.com/modulz/stitches)
+- [Styled JSX](https://github.com/vercel/styled-jsx)
+- [Twin](https://github.com/ben-rogerson/twin.macro)
 
 ## Datas
 - [Date FNS](https://github.com/date-fns/date-fns)

@@ -58,18 +58,23 @@
 - [ClassNames](https://github.com/JedWatson/classnames)
 - [CLSX](https://github.com/lukeed/clsx)
 - [Compiled](https://github.com/atlassian-labs/compiled)
+- [Emotion](https://github.com/emotion-js/emotion)
 - [Styled Components](https://styled-components.com/)
   - [Awesome Styled Components](https://github.com/styled-components/awesome-styled-components)
+  - [Polished](https://github.com/styled-components/polished)
   - [VSCode Styled Components](https://github.com/styled-components/vscode-styled-components)
-- [Polished](https://github.com/styled-components/polished)
+- [Styled System](https://github.com/styled-system/styled-system)
+- [ThemeUI](https://github.com/system-ui/theme-ui)
 
 ### Formulário
 - [Formik](https://github.com/formium/formik)
 
 ### Gerenciador de Estado
+- [Jotai](https://github.com/pmndrs/jotai)
 - [Recoil](https://recoiljs.org/)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
 - [UniStore](https://github.com/developit/unistore)
+- [Unstated Next](https://github.com/jamiebuilds/unstated-next)
 - [Zustand](https://github.com/pmndrs/zustand)
 
 ### Gráficos

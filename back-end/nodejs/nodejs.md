@@ -28,6 +28,7 @@
 - [SailsJS](https://sailsjs.com/)
 - [Seneca](https://github.com/senecajs/seneca)
 - [Serverless](https://github.com/serverless/serverless)
+- [Webiny](https://github.com/webiny/webiny-js)
 
 ## Async
 - [Async](https://github.com/caolan/async)
