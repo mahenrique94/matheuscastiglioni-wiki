@@ -116,6 +116,7 @@
 - [Product Hunt Daily](https://www.producthunt.com/)
 - [PWAdvent](https://pwadvent.dev/)
 - [Reflectoring](https://reflectoring.io/)
+- [RisingStars](https://risingstars.js.org/2020/en)
 - [Sidebar](https://sidebar.io/)
 - [SmashingMagazine](https://www.smashingmagazine.com/)
 
