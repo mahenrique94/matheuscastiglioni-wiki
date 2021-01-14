@@ -2,6 +2,7 @@
 
 ## 3D
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+- [Cannon.js](https://schteppe.github.io/cannon.js/)
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
@@ -159,6 +160,8 @@
 
 ## Formatação
 - [Cleave.js](https://github.com/nosir/cleave.js)
+- [HighLight](highlight.js)
+- [Prism](https://prismjs.com/)
 
 ## Formulário
 - [Final Form](https://github.com/final-form/final-form)

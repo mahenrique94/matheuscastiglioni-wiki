@@ -112,6 +112,7 @@
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Level UP](https://levelup.patkua.com/)
 - [Medium Daily Digest](https://medium.com)
+- [MicroServices.io](https://microservices.io/index.html)
 - [Product Hunt Daily](https://www.producthunt.com/)
 - [PWAdvent](https://pwadvent.dev/)
 - [Reflectoring](https://reflectoring.io/)
