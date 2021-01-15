@@ -5,6 +5,7 @@
 - [Coconut2D](https://www.coconut2d.com/)
 - [Cocos Creator](https://www.cocos.com/en)
 - [Construct](https://www.construct.net/en)
+- [CRYEngine](https://www.cryengine.com/)
 - [Godot](https://godotengine.org/)
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)
