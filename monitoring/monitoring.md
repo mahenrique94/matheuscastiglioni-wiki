@@ -12,3 +12,7 @@
 - [Prometheus](https://prometheus.io/)
 - [Sentry](https://sentry.io/welcome/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
+
+## Usabilidade
+- [ClickTale](https://www.clicktale.com/)
+- [Hotjar](https://www.hotjar.com/)

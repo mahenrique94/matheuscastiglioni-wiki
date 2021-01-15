@@ -28,6 +28,7 @@
 - [Face FX](https://facefx.com/)
 - [FaceWare](https://facewaretech.com/software/retargeter/)
 - [Havok](https://www.havok.com/)
+- [iClone](https://www.reallusion.com/iclone/)
 - [Instalod](https://instalod.com/)
 - [Marvelous Designer](https://www.marvelousdesigner.com/)
 - [Maya](https://www.autodesk.com.br/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1)
