@@ -2,6 +2,7 @@
 
 ## Ferramentas
 - [Asana](https://asana.com/pt)
+- [Basecamp](https://basecamp.com/)
 - [ClickUP](https://clickup.com/)
 - [Confluence](https://www.atlassian.com/br/software/confluence)
 - [Favro](https://www.favro.com/)
@@ -13,6 +14,7 @@
 - [Monday.com](https://monday.com/lang/pt/)
 - [NTask](https://www.ntaskmanager.com/)
 - [Pipefy](https://www.pipefy.com/pt-br/)
+- [PivotalTracker](https://www.pivotaltracker.com/)
 - [ProductBoard](https://www.productboard.com/)
 - [Roads](https://roads.run/)
 - [Slack](http://slack.com/)
