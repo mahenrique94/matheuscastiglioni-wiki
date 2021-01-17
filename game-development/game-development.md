@@ -18,6 +18,7 @@
 ## Links
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 - [Game UI Database](https://www.gameuidatabase.com/)
+- [Mixamo](https://www.mixamo.com/)
 
 ## Processos
 - [GDD (Game Design Document)](https://www.alura.com.br/conteudo/game-design)

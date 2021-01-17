@@ -26,7 +26,9 @@
 ### Componentes
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
+- [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
 - [Material UI](https://material-ui.com/pt/)
+- [PrimeReact](https://github.com/primefaces/primereact)
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [React Countdown Clock](https://github.com/pughpugh/react-countdown-clock)
@@ -50,6 +52,7 @@
 - [React SimpleMDE Editor](https://github.com/RIP21/react-simplemde-editor)
 - [React Star Rating Component](https://github.com/voronianski/react-star-rating-component)
 - [React Stick](https://github.com/akiran/react-slick)
+- [React Suite](https://github.com/rsuite/rsuite)
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)
 - [SVGR](https://github.com/gregberge/svgr)

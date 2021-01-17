@@ -221,6 +221,7 @@
 - [CamanJS](http://camanjs.com/)
 - [CompressorJS](https://github.com/fengyuanchen/compressorjs)
 - [Cropper.js](https://github.com/fengyuanchen/cropperjs)
+- [HandTrack](https://github.com/victordibia/handtrack.js)
 - [FaceAPI](https://github.com/justadudewhohacks/face-api.js)
 - [FreezeFrame.js](https://github.com/ctrl-freaks/freezeframe.js)
 - [LazySizes](https://github.com/aFarkas/lazysizes)

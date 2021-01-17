@@ -4,6 +4,7 @@
 - [Asana](https://asana.com/pt)
 - [Basecamp](https://basecamp.com/)
 - [ClickUP](https://clickup.com/)
+- [ClubHouse](https://clubhouse.io/)
 - [Confluence](https://www.atlassian.com/br/software/confluence)
 - [Favro](https://www.favro.com/)
 - [GitScrum](https://site.gitscrum.com/)
