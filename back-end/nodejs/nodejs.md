@@ -62,6 +62,7 @@
 - [Cloc](https://github.com/AlDanial/cloc)
 - [DepCheck](https://github.com/depcheck/depcheck)
 - [DotEnv](https://github.com/motdotla/dotenv)
+- [Loc](https://github.com/cgag/loc)
 - [Node Convict](https://github.com/mozilla/node-convict)
 
 ### Database

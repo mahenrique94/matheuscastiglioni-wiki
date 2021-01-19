@@ -232,6 +232,7 @@
 
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
+- [DangerJS](https://danger.systems/js/)
 - [EditorConfig](https://github.com/editorconfig/editorconfig)
 - [ESLint](https://github.com/eslint/eslint)
 - [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
