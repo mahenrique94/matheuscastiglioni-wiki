@@ -4,6 +4,7 @@
 
 ## Bibliotecas
 ### 3D
+- [Drei](https://github.com/pmndrs/drei)
 - [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
 
 ### Apresentações

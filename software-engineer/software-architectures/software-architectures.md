@@ -49,3 +49,4 @@
 ## Livros
 - [Clean Architecture](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=asc_df_B085PP6Y8P/?tag=googleshopp00-20&linkCode=df0&hvadid=426564911966&hvpos=&hvnetw=g&hvrand=11450558934850062724&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-893564488271&psc=1)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com.br/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451/ref=asc_df_1492043451/?tag=googleshopp00-20&linkCode=df0&hvadid=379795170134&hvpos=&hvnetw=g&hvrand=246121054958374246&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-751683725274&psc=1)
+- [Patterns Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)

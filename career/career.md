@@ -17,6 +17,7 @@
 - [EBAC Online](https://ebaconline.com.br/)
 - [FullStackAcademy](https://www.fullstackacademy.com/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [OneBitCode](https://onebitcode.com/)
 - [Oreilly](https://www.oreilly.com/)
 - [Origamid](https://www.origamid.com/)
 - [Pirple](https://www.pirple.com/)
