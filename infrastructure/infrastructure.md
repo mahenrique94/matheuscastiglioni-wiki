@@ -24,6 +24,7 @@
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [Helm](https://helm.sh/)
+  - [Rancher](https://rancher.com/)
 - [Traefik](https://traefik.io/)
 - [VirtualBox](https://www.virtualbox.org/)
 
