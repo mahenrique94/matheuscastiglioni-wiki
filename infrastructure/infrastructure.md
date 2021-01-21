@@ -19,6 +19,7 @@
 ## Containers/Virtualização
 - [Docker](https://www.docker.com/)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
+  - [DockStation](https://github.com/DockStation/dockstation)
   - [Portainer](https://www.portainer.io/)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
