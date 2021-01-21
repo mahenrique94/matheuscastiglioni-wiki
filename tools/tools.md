@@ -6,6 +6,7 @@
 - Colaboração de código ponta à ponta ([https://radicle.xyz/](https://radicle.xyz/))
 - Coletar informações de site ([https://www.woopra.com/](https://www.woopra.com/))
 - Comunicação de equipe ([https://slack.com/intl/pt-br/](https://slack.com/intl/pt-br/))
+- Criar eventos online ([https://hopin.com/](https://hopin.com/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))
 - Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/))
 - Otimizar imagens em tempo real ([https://imagekit.io/](https://imagekit.io/))

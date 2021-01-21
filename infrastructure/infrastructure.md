@@ -56,6 +56,7 @@
 - [Apache Kafka](https://kafka.apache.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Service Bus](https://docs.microsoft.com/pt-br/azure/service-bus-messaging/service-bus-messaging-overview)
+- [ZeroMQ](https://zeromq.org/)
 
 ## Package Manager
 - [NPM](https://www.npmjs.com/)

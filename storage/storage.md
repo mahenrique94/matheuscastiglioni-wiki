@@ -16,6 +16,7 @@
 
 ## Indexação de dados
 - [ElasticSearch](https://www.elastic.co/)
+- [Solr](https://lucene.apache.org/solr/)
 - [Sonic](https://crates.io/crates/sonic-server)
 
 ## Links

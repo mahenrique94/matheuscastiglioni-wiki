@@ -29,6 +29,7 @@
 - [Blender](https://www.blender.org/)
 - [Face FX](https://facefx.com/)
 - [FaceWare](https://facewaretech.com/software/retargeter/)
+- [FiberShop](https://cgpal.com/fibershop/)
 - [Havok](https://www.havok.com/)
 - [iClone](https://www.reallusion.com/iclone/)
 - [Instalod](https://instalod.com/)
