@@ -331,5 +331,8 @@
 - [Video.js](https://github.com/videojs/video.js)
 - [Vime](https://github.com/vime-js/vime)
 
+## WebAssembly
+- [Lucet](https://github.com/bytecodealliance/lucet)
+
 ## Workers
 - [Comlink](https://github.com/GoogleChromeLabs/comlink)

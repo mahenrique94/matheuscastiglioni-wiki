@@ -11,6 +11,7 @@
 - [NewRelic](https://newrelic.com/)
 - [Prometheus](https://prometheus.io/)
 - [Sentry](https://sentry.io/welcome/)
+- [Spot](https://spot.io/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
 
 ## Usabilidade

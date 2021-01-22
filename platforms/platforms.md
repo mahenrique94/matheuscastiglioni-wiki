@@ -22,6 +22,7 @@
 - Hospedar imagens ([https://cloudinary.com/](https://cloudinary.com/))
 - Ícones free ([https://www.flaticon.com/](https://www.flaticon.com/))
 - IDEs Online ([https://jsitor.com](https://jsitor.com)], [https://codepen.io/](https://codepen.io/), [https://jsfiddle.net/](https://jsfiddle.net/), [https://repl.it/](https://repl.it/), [https://codesandbox.io/](https://codesandbox.io/), [https://jsbin.com/?html,output](https://jsbin.com/?html,output))
+- Mapas em real-time ([https://radar.io/](https://radar.io/))
 - Mapeamento mental ([https://www.mindmeister.com/pt](https://www.mindmeister.com/pt), [https://coggle.it/](https://coggle.it/))
 - Monitorar status de aplicações ([https://hyperping.io/](https://hyperping.io/))
 - Otimizador de imagens ([https://kraken.io/web-interface](https://kraken.io/web-interface), [https://squoosh.app/](https://squoosh.app/))
