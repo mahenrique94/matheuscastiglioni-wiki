@@ -40,9 +40,10 @@
 - [AutoPrefixer](https://github.com/postcss/autoprefixer)
 - [Babel](https://babeljs.io/)
 - [Bazel](https://bazel.build/)
-- [BundleSize](https://github.com/siddharthkp/bundlesize)
+- [Boa](https://github.com/boa-dev/boa)
 - [Broccoli](https://broccoli.build/)
 - [BrowserList](https://github.com/browserslist/browserslist)
+- [BundleSize](https://github.com/siddharthkp/bundlesize)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [ESBuild](https://github.com/evanw/esbuild)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
@@ -86,6 +87,7 @@
 ## Coleções
 - [Grid.js](https://github.com/grid-js/gridjs)
 - [List.js](https://github.com/javve/list.js)
+- [Sortable](https://github.com/SortableJS/Sortable)
 - [SortBy](https://github.com/kvnneff/sort-by)
 
 ## Componentes
@@ -98,6 +100,7 @@
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
+- [ForgoJS](https://forgojs.org/)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
 - [Haunted](https://github.com/matthewp/haunted)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
