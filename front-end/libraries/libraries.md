@@ -229,6 +229,7 @@
 - [FreezeFrame.js](https://github.com/ctrl-freaks/freezeframe.js)
 - [LazySizes](https://github.com/aFarkas/lazysizes)
 - [Resemble.js](https://github.com/rsmbl/Resemble.js)
+- [UpScalerJS](https://github.com/thekevinscott/UpscalerJS)
 
 ## Internacionalização
 - [FormatJS](https://github.com/formatjs/formatjs)

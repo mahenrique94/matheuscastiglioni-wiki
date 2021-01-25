@@ -11,8 +11,10 @@
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)
 - [Cataline](https://www.cataline.io/)
+- [Cod3r](https://www.cod3r.com.br/)
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://pt.coursera.org/)
+- [Digital Innovation One](https://digitalinnovation.one/)
 - [Domestika](https://www.domestika.org/pt)
 - [EBAC Online](https://ebaconline.com.br/)
 - [FullStackAcademy](https://www.fullstackacademy.com/)
