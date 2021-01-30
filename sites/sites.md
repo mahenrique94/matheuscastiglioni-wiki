@@ -1,6 +1,7 @@
 # Sites
 
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
+- Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
 - Calcular dias úteis ([https://www.dias-uteis.com/](https://www.dias-uteis.com/))
 - Comparação de bundles ([https://bundlers.tooling.report/](https://bundlers.tooling.report/))
@@ -17,6 +18,7 @@
 - Lista de dinâmicas para times ([http://www.funretrospectives.com/](http://www.funretrospectives.com/))
 - Lista com serviços free e open source ([https://free-for.dev/#/](https://free-for.dev/#/))
 - Medir a performance de bibliotecas e frameworks client side ([https://perf-track.web.app/](https://perf-track.web.app/))
+- Musicas sem copyright ([https://uppbeat.io/](https://uppbeat.io/))
 - Navegar na AST do JavaScript ([https://astexplorer.net/](https://astexplorer.net/))
 - Quadro branco online ([https://jamboard.google.com/](https://jamboard.google.com/))
 - Paleta de cores ([https://coolors.co/](https://coolors.co/), [https://color.adobe.com/](https://color.adobe.com/))
@@ -24,6 +26,7 @@
 - Pesquisa e estado do Ágil ([https://stateofagile.com/](https://stateofagile.com/))
 - Placeholders de imagens online ([https://placeholder.com/](https://placeholder.com/))
 - Rastrear pedidos ([https://track.ebanx.com/](https://track.ebanx.com/))
+- Remover background de imagens ([https://removal.ai/](https://removal.ai/))
 - Roadmap do desenvolvedor ([https://roadmap.sh/](https://roadmap.sh/))
 - Ser notificado sobre mudanças em algum site ([https://visualping.io/](https://visualping.io/))
 - Templates de sites feitos com Bootstrap ([https://designmodo.com/bootstrap-templates/](https://designmodo.com/bootstrap-templates/))

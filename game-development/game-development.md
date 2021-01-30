@@ -33,6 +33,7 @@
 - [Havok](https://www.havok.com/)
 - [iClone](https://www.reallusion.com/iclone/)
 - [Instalod](https://instalod.com/)
+- [Light Tracer Render](https://lighttracer.org/)
 - [Marvelous Designer](https://www.marvelousdesigner.com/)
 - [Maya](https://www.autodesk.com.br/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1)
 - [Modo 3D](https://www.foundry.com/products/modo)
