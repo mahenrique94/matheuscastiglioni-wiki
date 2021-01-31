@@ -40,6 +40,7 @@
 - Verificar contraste de cores ([https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/))
 - Verificar suporte dos navegadores sobre acessibilidade ([https://www.html5accessibility.com/](https://www.html5accessibility.com/))
 - Visualizando repositórios Git ([https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/))
+- Visualizar sites antigos ([https://web.archive.org/](https://web.archive.org/))
 
 ## Temas e inspirações
 - Awwwards ([https://www.awwwards.com/](https://www.awwwards.com/))
