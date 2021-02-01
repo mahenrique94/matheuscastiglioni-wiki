@@ -11,6 +11,7 @@
 - Criar e visualizar arquiteturas da AWS ([https://cloudcraft.co/](https://cloudcraft.co/))
 - Criar endpoints mockados ([https://www.mocky.io/](https://www.mocky.io/))
 - Criar emails de teste para desenvolvimento ([https://mailtrap.io/](https://mailtrap.io/), [https://ethereal.email/](https://ethereal.email/))
+- Criar gráficos online ([https://explore.charts.com/](https://explore.charts.com/))
 - Criar sites ([https://pt.wix.com/](https://pt.wix.com/), [https://www.duda.co/pt/](https://www.duda.co/pt/), [https://br.wordpress.com/](https://br.wordpress.com/))
 - Criar votação ([https://doodle.com/pt_BR/](https://doodle.com/pt_BR/))
 - Desminificar JS, CSS e HTML ([https://unminify.com/](https://unminify.com/))

@@ -7,7 +7,9 @@
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
 - [OracleDB](https://www.oracle.com/br/database/)
+- [OrbitDB](https://orbitdb.org/)
 - [PostgresQL](https://www.postgresql.org/)
+- [QuestDB](https://questdb.io/)
 - [Redis](https://redis.io/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
