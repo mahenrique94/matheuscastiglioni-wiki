@@ -234,6 +234,9 @@
 ## Internacionalização
 - [FormatJS](https://github.com/formatjs/formatjs)
 
+## IoT
+- [JerryScript](https://github.com/jerryscript-project/jerryscript)
+
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
 - [DangerJS](https://danger.systems/js/)
