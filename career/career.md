@@ -6,6 +6,7 @@
 - [CodeWars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
+- [HackTheBox](https://www.hackthebox.eu/)
 - [Skilled](https://skilled.dev/)
 
 ## Plataformas para estudo
@@ -19,6 +20,7 @@
 - [EBAC Online](https://ebaconline.com.br/)
 - [FullStackAcademy](https://www.fullstackacademy.com/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [IGTI](https://www.igti.com.br/)
 - [OneBitCode](https://onebitcode.com/)
 - [Oreilly](https://www.oreilly.com/)
 - [Origamid](https://www.origamid.com/)

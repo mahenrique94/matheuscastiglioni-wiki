@@ -13,6 +13,7 @@
 - Descobrir IP público ([https://www.whatismyip.com/](https://www.whatismyip.com/))
 - Dicas úteis sobre bibliotecas e ferramentas para dev's ([https://devhints.io/](https://devhints.io/))
 - Documentação sobre Google Analytics ([https://ga-dev-tools.appspot.com/](https://ga-dev-tools.appspot.com/))
+- Encutar URLs ([https://bitly.com/](https://bitly.com/))
 - Free for Dev ([https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev))
 - Habilidades de desenvolvedores web de maneira visual ([https://andreasbm.github.io/web-skills/](https://andreasbm.github.io/web-skills/))
 - Lista de dinâmicas para times ([http://www.funretrospectives.com/](http://www.funretrospectives.com/))
