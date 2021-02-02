@@ -11,9 +11,13 @@
 - [PostgresQL](https://www.postgresql.org/)
 - [QuestDB](https://questdb.io/)
 - [Redis](https://redis.io/)
+- [Riak](https://riak.com/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 ## Bibiliotecas
+- [Debezium](https://github.com/debezium/debezium)
+- [FlyWayDB](https://flywaydb.org/)
+- [SchemaSpy](http://schemaspy.sourceforge.net/)
 - [Vitess](https://github.com/vitessio/vitess)
 
 ## Indexação de dados

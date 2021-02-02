@@ -8,6 +8,7 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
 - [Skilled](https://skilled.dev/)
+- [VulnHub](https://www.vulnhub.com/)
 
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)
