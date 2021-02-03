@@ -6,6 +6,7 @@
 ## Ferramentas
 - [Atera](https://www.atera.com/)
 - [Grafana](https://grafana.com/)
+- [Jaeger](https://www.jaegertracing.io/)
 - [Kibana](https://www.elastic.co/pt/kibana)
 - [LogStash](https://www.elastic.co/pt/logstash)
 - [NewRelic](https://newrelic.com/)
