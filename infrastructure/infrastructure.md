@@ -25,6 +25,7 @@
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [Helm](https://helm.sh/)
   - [Rancher](https://rancher.com/)
+  - [Telepresence](https://www.telepresence.io/)
 - [Traefik](https://traefik.io/)
 - [VirtualBox](https://www.virtualbox.org/)
 
@@ -54,6 +55,7 @@
 
 ## Mensageria
 - [Apache Kafka](https://kafka.apache.org/)
+- [Debezium](https://debezium.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Service Bus](https://docs.microsoft.com/pt-br/azure/service-bus-messaging/service-bus-messaging-overview)
 - [ZeroMQ](https://zeromq.org/)

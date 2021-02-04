@@ -54,5 +54,6 @@
 - [Plataformas](/platforms/platforms.md)
 - [QA (Quality Assurance)](/quality-assurance/quality-assurance.md)
 - [Segurança](/security/security.md)
+- [Serverless](/serverless/serverless.md)
 - [Sistema Operacional (S.O)](/operation-system/operation-system.md)
 - [Sites](/sites/sites.md)

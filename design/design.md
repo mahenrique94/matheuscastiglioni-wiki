@@ -26,6 +26,7 @@
 - [Maze](https://maze.design/)
 - [NinjaMock](https://ninjamock.com/)
 - [Overflow](https://overflow.io/)
+- [Shuffle](https://shuffle.dev/)
 - [Sketch](https://www.sketch.com/)
 - [Spline](https://spline.design/)
 - [Styletil](http://styletil.es/)

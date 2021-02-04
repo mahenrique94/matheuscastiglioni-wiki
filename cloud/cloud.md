@@ -2,6 +2,7 @@
 
 ## Provedores
 - [AWS](https://aws.amazon.com/)
+  - [Vantage](https://www.vantage.sh/)
 - [Azure](https://azure.microsoft.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Firebase](https://firebase.google.com/)

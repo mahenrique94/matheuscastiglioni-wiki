@@ -158,6 +158,7 @@
 ## Editor
 - [CKEditor](https://ckeditor.com/)
 - [Editor.js](https://github.com/codex-team/editor.js)
+- [Quill](https://quilljs.com/)
 - [SimpleMDE MarkDown Editor](https://github.com/sparksuite/simplemde-markdown-editor)
 - [TinyMCE](https://github.com/tinymce/tinymce)
 

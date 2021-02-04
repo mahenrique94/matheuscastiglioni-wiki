@@ -2,12 +2,16 @@
 
 ## Dashs
 - [Cube.js](https://github.com/cube-js/cube.js)
+- [Rockset](https://rockset.com/)
 
 ## Ferramentas
 - [Atera](https://www.atera.com/)
 - [Grafana](https://grafana.com/)
+- [HoneyComb](https://www.honeycomb.io/)
+- [Humio](https://www.humio.com/)
 - [Jaeger](https://www.jaegertracing.io/)
 - [Kibana](https://www.elastic.co/pt/kibana)
+- [LightStep](https://lightstep.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)
 - [NewRelic](https://newrelic.com/)
 - [Prometheus](https://prometheus.io/)
