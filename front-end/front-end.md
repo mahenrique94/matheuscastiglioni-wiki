@@ -18,3 +18,6 @@
 - [React](/front-end/react/react.md)
 - [Svelte](/front-end/svelte/svelte.md)
 - [Vue](/front-end/vue/vue.md)
+
+## Links
+- https://dev.to/hrishikesh1990/50-free-tools-to-ace-launch-your-side-projects-9pf

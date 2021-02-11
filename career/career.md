@@ -15,6 +15,7 @@
 - [Cataline](https://www.cataline.io/)
 - [Cod3r](https://www.cod3r.com.br/)
 - [Codecademy](https://www.codecademy.com/)
+- [Codeworks](https://codeworks.me/)
 - [Coursera](https://pt.coursera.org/)
 - [Digital Innovation One](https://digitalinnovation.one/)
 - [Domestika](https://www.domestika.org/pt)

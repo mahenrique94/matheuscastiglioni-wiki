@@ -1,5 +1,7 @@
 # Angular
 
+- - https://dev.to/haycuoilennao19/34-ui-libraries-for-react-vue-and-angular-525l
+
 ## Bibliotecas
 ### Analises
 - [Codelyzer](https://github.com/mgechev/codelyzer)

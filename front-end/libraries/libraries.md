@@ -98,6 +98,7 @@
 
 ## Criação e Maniputalção de Interface
 - [Alpine.js](https://github.com/alpinejs/alpine)
+- [CSSDoodle](https://css-doodle.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
 - [ForgoJS](https://forgojs.org/)
@@ -218,6 +219,7 @@
 - [FontAwesome](https://fontawesome.com/)
 - [FontEllo](https://fontello.com/)
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
+- [IconDuck](https://iconduck.com/)
 - [RemixIcon](https://remixicon.com/)
 
 ## Imagens

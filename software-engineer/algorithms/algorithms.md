@@ -54,6 +54,9 @@
 - [Soma de Combinação](src/algorithms/sets/combination-sum)
 - [Supersequência Comum mais curta](src/algorithms/sets/shortest-common-supersequence)
 
+## Consenso
+- [Raft Consensus](https://raft.github.io/)
+
 ## Criptografia
 - [Polynomial Hash](src/algorithms/cryptography/polynomial-hash)
 

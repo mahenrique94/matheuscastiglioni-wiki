@@ -1,5 +1,6 @@
 # Design Patterns
 
+- [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
 
 ## Comportamento
