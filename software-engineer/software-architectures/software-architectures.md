@@ -40,6 +40,7 @@
     - [Linkerd](https://linkerd.io/)
   - [Strangler Fig](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Monolithic Architecture](https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541)
+- [Multi Tenant](https://levelup.gitconnected.com/multi-tenant-architecture-8c1f597e069c)
 - [Multi Thread](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)#:~:text=In%20computer%20architecture%2C%20multithreading%20is,This%20approach%20differs%20from%20multiprocessing.)
 - [MVC (Model View Controller)](https://pt.wikipedia.org/wiki/MVC)
 - [MVI (Model View Intent)](https://fueled.com/blog/what-is-mvi-model-view-intent/)

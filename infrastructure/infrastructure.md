@@ -64,6 +64,7 @@
 - [NPM](https://www.npmjs.com/)
   - [BundlePhobia](https://bundlephobia.com/)
   - [Moiva](https://moiva.io/)
+  - [NPM SemVer Calculator](https://semver.npmjs.com/)
   - [NPM Trends](https://www.npmtrends.com/)
 - [Yarn](https://yarnpkg.com/)
   - [Improved Yarn Audit](https://github.com/djfdyuruiry/improved-yarn-audit)

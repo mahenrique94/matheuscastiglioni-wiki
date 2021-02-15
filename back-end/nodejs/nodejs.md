@@ -10,6 +10,7 @@
 - [Egg](https://github.com/eggjs/egg)
 - [Express](https://expressjs.com/pt-br/)
   - [Consign](https://github.com/jarradseers/consign)
+- [FastAPI](https://fastapi.tiangolo.com/)
 - [Fastify](https://www.fastify.io/)
 - [Feathers](https://github.com/feathersjs/feathers)
 - [Grind](https://grind.rocks/)
