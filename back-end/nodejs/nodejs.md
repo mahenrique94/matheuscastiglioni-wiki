@@ -2,6 +2,7 @@
 
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
 - [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Node Developer Roadmap for 2021](https://medium.com/javascript-in-plain-english/node-js-developer-roadmap-for-2021-2ae9c057bff4)
 
 ## Bibliotecas
 

@@ -23,6 +23,7 @@
 - [FullStackAcademy](https://www.fullstackacademy.com/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [IGTI](https://www.igti.com.br/)
+- [KodeKloud](https://kodekloud.com/)
 - [OneBitCode](https://onebitcode.com/)
 - [Oreilly](https://www.oreilly.com/)
 - [Origamid](https://www.origamid.com/)
