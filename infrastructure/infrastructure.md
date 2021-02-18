@@ -49,6 +49,7 @@
   - [GitIgnore](https://github.com/github/gitignore)
   - [GitLab](https://gitlab.com/)
   - [GitPod](https://gitpod.io/)
+  - [VSFForGit](https://github.com/microsoft/VFSForGit)
 
 ## Ferramentas
 - [Istio](https://github.com/istio/istio)
