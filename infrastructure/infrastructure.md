@@ -46,6 +46,7 @@
     - [Semaphore](https://github.com/marketplace/semaphore)
     - [Snyk](https://github.com/marketplace/snyk)
     - []()
+  - [GitHub1s](https://github.com/conwnet/github1s)
   - [GitIgnore](https://github.com/github/gitignore)
   - [GitLab](https://gitlab.com/)
   - [GitPod](https://gitpod.io/)
