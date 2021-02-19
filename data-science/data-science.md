@@ -8,9 +8,6 @@
 - [Pandas](https://pandas.pydata.org/)
 - [Tabula](https://pypi.org/project/tabula-py/)
 
-## Big Data
-- [Presto](https://github.com/prestodb/presto)
-
 ## Ferramentas
 - [Google Collab](https://colab.research.google.com/)
 - [Jupyter Notebook](https://jupyter.org/)
@@ -27,6 +24,13 @@
 - [Keras](https://keras.io/)
 - [MLOps](http://datascienceacademy.com.br/blog/o-que-e-mlops-e-por-que-isso-importa/)
 - [NLP (Natural Language Processing)](https://take.net/blog/devs/nlp-processamento-linguagem-natural)
+  - [Bag of Words](https://en.wikipedia.org/wiki/Bag-of-words_model)
+  - [BERT](https://rockcontent.com/br/blog/bert/)
+  - [Embeddings](https://cloud.google.com/solutions/machine-learning/overview-extracting-and-serving-feature-embeddings-for-machine-learning?hl=pt)
+  - [Lematization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
+  - [Stemming](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
+  - [TF-IDF](https://pt.wikipedia.org/wiki/Tf%E2%80%93idf)
+  - [Word2Vec](https://medium.com/@everton.tomalok/word2vec-e-sua-import%C3%A2ncia-na-etapa-de-pr%C3%A9-processamento-d0813acfc8ab)
 - [O que é ?](https://pt.wikipedia.org/wiki/Aprendizado_de_m%C3%A1quina)
 - [OpenCV](https://opencv.org/)
 - [PyTorch](https://pytorch.org/)
