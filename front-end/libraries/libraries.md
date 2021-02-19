@@ -141,6 +141,9 @@
 - [PikaDay](https://github.com/Pikaday/Pikaday)
 - [SpaceTime](https://github.com/spencermountain/spacetime)
 
+## Desktop
+- [NeutralinoJS](https://neutralino.js.org/#one)
+
 ## Design System
 - [Lona](https://github.com/airbnb/Lona)
 - [StyleDictionary](https://github.com/amzn/style-dictionary)
