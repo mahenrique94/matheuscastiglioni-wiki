@@ -22,6 +22,13 @@
 - [Tara](https://tara.ai/)
 - [Trello](https://trello.com/)
 
+## Frameworks
+- [GSM (Goals Signals Metrics)](https://medium.com/swlh/the-5-essential-product-frameworks-40156f3ffc5e)
+- [HEART (Happiness, Engagement, Adoption, Retention and Task Success)](https://medium.com/swlh/the-5-essential-product-frameworks-40156f3ffc5e)
+- [HOSKR (Hypothesis, Objectives, Signals and Key Results)](https://medium.com/swlh/the-5-essential-product-frameworks-40156f3ffc5e)
+- [KPI Graphs Framework](https://medium.com/swlh/the-5-essential-product-frameworks-40156f3ffc5e)
+- [OKR (Objectives and Key Results)](https://medium.com/swlh/the-5-essential-product-frameworks-40156f3ffc5e)
+
 ## Gestão
 - [Gestão 1.0](https://medium.com/agileconnexions/management-1-0-2-0-and-3-0-724f53b20244)
 - [Gestão 2.0](https://medium.com/agileconnexions/management-1-0-2-0-and-3-0-724f53b20244)

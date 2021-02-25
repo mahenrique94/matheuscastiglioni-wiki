@@ -224,6 +224,7 @@
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
 - [IconDuck](https://iconduck.com/)
 - [RemixIcon](https://remixicon.com/)
+- [SVG Repo](https://www.svgrepo.com/)
 
 ## Imagens
 - [Bounds.js](https://github.com/ChrisCavs/bounds.js)

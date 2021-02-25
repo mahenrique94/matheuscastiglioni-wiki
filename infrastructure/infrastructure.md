@@ -2,6 +2,14 @@
 
 ## Automação
 - [Ansible](https://www.ansible.com/)
+- [Chef](https://www.chef.io/products/chef-infra)
+- [GitOps](https://www.gitops.tech/)
+  - [ArgoCD](https://argoproj.github.io/argo-cd/)
+  - [Flux](https://www.weave.works/oss/flux/)
+  - [GitKube](https://gitkube.sh/)
+  - [Helm Operator](https://github.com/fluxcd/helm-operator)
+  - [TerraGrunt](https://github.com/gruntwork-io/terragrunt)
+  - [WKSCTL](https://github.com/weaveworks/wksctl)
 - [Puppet](https://puppet.com/)
 - [Pulumi](https://www.pulumi.com/)
 - [Terraform](https://www.terraform.io/)
@@ -26,6 +34,7 @@
   - [Helm](https://helm.sh/)
   - [Rancher](https://rancher.com/)
   - [Telepresence](https://www.telepresence.io/)
+- [Nomad](https://www.nomadproject.io/)
 - [Traefik](https://traefik.io/)
 - [VirtualBox](https://www.virtualbox.org/)
 
