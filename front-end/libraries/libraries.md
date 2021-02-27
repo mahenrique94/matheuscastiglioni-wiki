@@ -54,6 +54,7 @@
 - [Prepack](https://prepack.io/)
 - [PurgeCSS](https://github.com/FullHuman/purgecss)
 - [RollUp](https://github.com/rollup/rollup)
+  - [Rollup Plugin Analyzer](https://github.com/doesdev/rollup-plugin-analyzer)
 - [Rome](https://github.com/rome/tools)
 - [Snowpack](https://github.com/snowpackjs/snowpack)
 - [Sucrase](https://github.com/alangpierce/sucrase)

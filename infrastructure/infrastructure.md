@@ -12,6 +12,7 @@
   - [WKSCTL](https://github.com/weaveworks/wksctl)
 - [Puppet](https://puppet.com/)
 - [Pulumi](https://www.pulumi.com/)
+- [SaltStack](https://saltproject.io/)
 - [Terraform](https://www.terraform.io/)
 - [Vagrant](https://www.vagrantup.com/)
 
@@ -28,10 +29,15 @@
 - [Docker](https://www.docker.com/)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - [DockStation](https://github.com/DockStation/dockstation)
+  - [Mesos](http://mesos.apache.org/)
   - [Portainer](https://www.portainer.io/)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [Helm](https://helm.sh/)
+  - [Knative](https://knative.dev/)
+  - [OpenFAAS](https://www.openfaas.com/)
+  - [OpenShift](https://www.openshift.com/)
+  - [Operator](https://operatorframework.io/)
   - [Rancher](https://rancher.com/)
   - [Telepresence](https://www.telepresence.io/)
 - [Nomad](https://www.nomadproject.io/)
@@ -61,8 +67,21 @@
   - [GitPod](https://gitpod.io/)
   - [VSFForGit](https://github.com/microsoft/VFSForGit)
 
+## Documentação
+- Self Documenting
+  - [Contexture](https://github.com/Softwarepark/Contexture)
+  - [Structurizr](https://structurizr.com/)
+  - [Swagger](https://swagger.io/)
+
+## Feature Flag
+- [LaunchDarkly](https://launchdarkly.com/)
+- [Split](https://www.split.io/)
+
 ## Ferramentas
-- [Istio](https://github.com/istio/istio)
+- Service Mesh
+  - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
+  - [Gloo](https://www.solo.io/products/gloo-mesh/)
+  - [Istio](https://github.com/istio/istio)
 
 ## Mensageria
 - [Apache Kafka](https://kafka.apache.org/)
@@ -79,6 +98,9 @@
   - [NPM Trends](https://www.npmtrends.com/)
 - [Yarn](https://yarnpkg.com/)
   - [Improved Yarn Audit](https://github.com/djfdyuruiry/improved-yarn-audit)
+
+## Progressive Delivery
+- [Scientist](https://github.com/github/scientist)
 
 ## Script
 - [Bash](https://pt.wikipedia.org/wiki/Bash)
