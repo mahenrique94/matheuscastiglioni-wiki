@@ -6,9 +6,12 @@
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [JSDom](https://github.com/jsdom/jsdom)
 - [MounteBank](http://www.mbtest.org/)
-- [PactJS](https://github.com/pact-foundation/pact-js)
+- [Pact](https://pact.io/)
+  - [PactJS](https://github.com/pact-foundation/pact-js)
+  - [PactJS Broker](https://github.com/pact-foundation/pact_broker)
 - [PlayWright](https://github.com/microsoft/playwright)
 - [RRWeb](https://github.com/rrweb-io/rrweb)
+- [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 
 ## Ferramentas
 - [Chai](https://www.chaijs.com/)
