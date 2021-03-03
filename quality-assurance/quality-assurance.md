@@ -5,6 +5,7 @@
 - [Detox](https://github.com/wix/Detox)
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [JSDom](https://github.com/jsdom/jsdom)
+- [K6](https://k6.io/)
 - [MounteBank](http://www.mbtest.org/)
 - [Pact](https://pact.io/)
   - [PactJS](https://github.com/pact-foundation/pact-js)

@@ -78,9 +78,14 @@
 
 ### Email
 - [Heml](https://github.com/SparkPost/heml)
+- [Mailgun](https://www.mailgun.com/)
 - [Maizzle](https://maizzle.com/)
+- [Mandrill](https://mailchimp.com/pt-br/features/transactional-email/)
 - [MJML](https://mjml.io/)
 - [NodeMailer](https://github.com/nodemailer/nodemailer)
+- [PostmarkApp](https://postmarkapp.com/)
+- [SendGrid](https://sendgrid.com/)
+- [Sparkpost](https://www.sparkpost.com/)
 
 ### Fixtures
 - [Faker.js](https://github.com/Marak/faker.js)

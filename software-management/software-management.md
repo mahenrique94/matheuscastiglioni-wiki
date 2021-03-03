@@ -19,6 +19,7 @@
 - [ProductBoard](https://www.productboard.com/)
 - [ProofHub](https://www.proofhub.com/)
 - [Roads](https://roads.run/)
+- [Rock](https://rock.so/)
 - [Slack](http://slack.com/)
 - [Tara](https://tara.ai/)
 - [Trello](https://trello.com/)
