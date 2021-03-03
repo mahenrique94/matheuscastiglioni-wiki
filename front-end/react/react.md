@@ -33,6 +33,7 @@
 - [PrimeReact](https://github.com/primefaces/primereact)
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+- [React Components](http://react-component.github.io/badgeboard/)
 - [React Countdown Clock](https://github.com/pughpugh/react-countdown-clock)
 - [React CSS Modules](https://github.com/gajus/react-css-modules)
 - [React DatePicker](https://github.com/Hacker0x01/react-datepicker)
@@ -58,6 +59,9 @@
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)
 - [SVGR](https://github.com/gregberge/svgr)
+
+## Diagramas
+- [React Flow](https://reactflow.dev/)
 
 ### Estilização
 - [ClassNames](https://github.com/JedWatson/classnames)
