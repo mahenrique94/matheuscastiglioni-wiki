@@ -9,7 +9,7 @@
 - Criar eventos online ([https://hopin.com/](https://hopin.com/))
 - Criar temas ([https://themer.dev/](https://themer.dev/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))
-- Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser))
+- Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser), [https://responsively.app/](https://responsively.app/))
 - Otimizar imagens em tempo real ([https://imagekit.io/](https://imagekit.io/))
 - Otimizar vídeos ([https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake))
 - Realizar SQLs em arquivos CSV, XLS e JSON ([https://simplql.com/](https://simplql.com/))
