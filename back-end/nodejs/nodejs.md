@@ -30,6 +30,7 @@
 - [SailsJS](https://sailsjs.com/)
 - [Seneca](https://github.com/senecajs/seneca)
 - [Serverless](https://github.com/serverless/serverless)
+  - [Serverless Stack](https://serverless-stack.com/)
 - [Webiny](https://github.com/webiny/webiny-js)
 
 ## Async
@@ -39,6 +40,7 @@
 - [AccessControl](https://github.com/onury/accesscontrol)
 - [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
 - [CryptoJS](https://github.com/brix/crypto-js)
+- [Magic](https://magic.link/)
 - [Passport](https://github.com/jaredhanson/passport)
 
 ### Benchmark

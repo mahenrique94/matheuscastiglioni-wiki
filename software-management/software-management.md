@@ -5,6 +5,7 @@
 - [Basecamp](https://basecamp.com/)
 - [ClickUP](https://clickup.com/)
 - [ClubHouse](https://clubhouse.io/)
+- [Condution](https://www.condution.com/)
 - [Confluence](https://www.atlassian.com/br/software/confluence)
 - [Favro](https://www.favro.com/)
 - [GitScrum](https://site.gitscrum.com/)
@@ -23,6 +24,7 @@
 - [Slack](http://slack.com/)
 - [Tara](https://tara.ai/)
 - [Trello](https://trello.com/)
+- [Zepel](https://zepel.io/)
 
 ## Frameworks
 - [GSM (Goals Signals Metrics)](https://medium.com/swlh/the-5-essential-product-frameworks-40156f3ffc5e)

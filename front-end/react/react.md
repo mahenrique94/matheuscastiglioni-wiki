@@ -60,6 +60,9 @@
 - [Reactstrap](https://reactstrap.github.io/)
 - [SVGR](https://github.com/gregberge/svgr)
 
+## Desenvolvimento
+- [React Cosmos](https://reactcosmos.org/)
+
 ## Diagramas
 - [React Flow](https://reactflow.dev/)
 
