@@ -28,6 +28,7 @@
 ### Componentes
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
+- [Leva](https://github.com/pmndrs/leva)
 - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
 - [Material UI](https://material-ui.com/pt/)
 - [PrimeReact](https://github.com/primefaces/primereact)
