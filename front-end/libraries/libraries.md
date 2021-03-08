@@ -112,6 +112,7 @@
 - [LWC](https://github.com/salesforce/lwc)
 - [Mint](https://github.com/mint-lang/mint)
 - [Moon](https://github.com/kbrsh/moon)
+- [Mosaic](https://github.com/Authman2/Mosaic/)
 - [PopperCore](https://github.com/popperjs/popper-core)
 - [Preact](https://github.com/preactjs/preact)
 - [Solid](https://github.com/ryansolid/solid)
@@ -152,6 +153,7 @@
 
 ## Diff
 - [Delta](https://github.com/dandavison/delta)
+- [GraphTage](https://github.com/trailofbits/graphtage)
 - [JSDiff](https://github.com/kpdecker/jsdiff)
 
 ## Documentação
@@ -238,6 +240,9 @@
 - [LazySizes](https://github.com/aFarkas/lazysizes)
 - [Resemble.js](https://github.com/rsmbl/Resemble.js)
 - [UpScalerJS](https://github.com/thekevinscott/UpscalerJS)
+
+## Integração
+- [Venom](https://github.com/orkestral/venom)
 
 ## Internacionalização
 - [FormatJS](https://github.com/formatjs/formatjs)

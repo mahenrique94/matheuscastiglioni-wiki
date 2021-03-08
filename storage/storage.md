@@ -2,6 +2,7 @@
 
 ## Banco de dados
 - [Datomic](https://www.datomic.com/)
+- [Dolt](https://github.com/dolthub/dolt)
 - [Firebird](https://firebirdsql.org/)
 - [InfluxDB](https://www.influxdata.com/)
 - [MongoDB](https://www.mongodb.com/)
