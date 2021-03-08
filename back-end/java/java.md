@@ -1,6 +1,7 @@
 # Java
 
 ## Frameworks
+- [Finagle](https://twitter.github.io/finagle/)
 - [Spring](https://spring.io/)
   - [Sprint Initializr](https://start.spring.io/)
 
