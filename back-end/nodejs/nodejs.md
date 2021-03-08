@@ -68,6 +68,7 @@
 - [DotEnv](https://github.com/motdotla/dotenv)
 - [Loc](https://github.com/cgag/loc)
 - [Node Convict](https://github.com/mozilla/node-convict)
+- [NPM Check Updates](https://github.com/raineorshine/npm-check-updates)
 
 ### Database
 - [LokiJS](https://github.com/techfort/LokiJS)
