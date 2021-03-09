@@ -42,6 +42,7 @@
 - [React DND](https://github.com/react-dnd/react-dnd)
 - [React Final Form](https://github.com/final-form/react-final-form)
 - [React Helmet](https://github.com/nfl/react-helmet)
+- [React Hot Toast](https://github.com/timolins/react-hot-toast)
 - [React I18n](https://github.com/i18next/react-i18next)
 - [React Input Mask](https://github.com/sanniassin/react-input-mask)
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
