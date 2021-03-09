@@ -15,6 +15,7 @@
   - [Event Carried State Transfer](https://martinfowler.com/articles/201701-event-driven.html)
   - [Event Collaboration](https://martinfowler.com/eaaDev/EventCollaboration.html)
   - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html#:~:text=The%20fundamental%20idea%20of%20Event,as%20the%20application%20state%20itself.)
+  - [Memory Image](https://martinfowler.com/bliki/MemoryImage.html)
   - [Saga](https://microservices.io/patterns/data/saga.html)
     - [Camunda](https://camunda.com/)
     - [Zeebe](https://zeebe.io/)

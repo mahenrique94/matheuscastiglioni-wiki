@@ -2,6 +2,7 @@
 
 ## Banco de Dados
 - [Cassandra](https://cassandra.apache.org/)
+- [Druid](https://druid.apache.org/)
 
 ## Bibliotecas
 - [AWS Athena](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)

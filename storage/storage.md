@@ -1,8 +1,10 @@
 # Armazenamento
 
 ## Banco de dados
+- [Cassandra](https://cassandra.apache.org/)
 - [Datomic](https://www.datomic.com/)
 - [Dolt](https://github.com/dolthub/dolt)
+- [Druid](https://druid.apache.org/)
 - [Firebird](https://firebirdsql.org/)
 - [InfluxDB](https://www.influxdata.com/)
 - [MongoDB](https://www.mongodb.com/)
