@@ -322,9 +322,12 @@
 ## Requisição
 - [Apollo](https://github.com/apollographql/apollo)
 - [Axios](https://github.com/axios/axios)
+  - [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)
   - [Axios Offline](https://github.com/jonkofee/axios-offline)
   - [Moxios](https://github.com/axios/moxios)
 - [Bent](https://github.com/mikeal/bent)
+- [Mirage.js](https://github.com/miragejs/miragejs)
+- [Pretender](https://github.com/pretenderjs/pretender)
 
 ## Search
 - [Fuse](https://github.com/krisk/Fuse)

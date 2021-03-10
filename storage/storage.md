@@ -2,10 +2,12 @@
 
 ## Banco de dados
 - [Cassandra](https://cassandra.apache.org/)
+- [CouchBase](https://www.couchbase.com/)
 - [Datomic](https://www.datomic.com/)
 - [Dolt](https://github.com/dolthub/dolt)
 - [Druid](https://druid.apache.org/)
 - [Firebird](https://firebirdsql.org/)
+- [HazelCast](https://hazelcast.com/)
 - [InfluxDB](https://www.influxdata.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
@@ -15,6 +17,8 @@
 - [QuestDB](https://questdb.io/)
 - [Redis](https://redis.io/)
 - [Riak](https://riak.com/)
+- [RocksDB](https://rocksdb.org/)
+- [SingleStore](https://www.singlestore.com/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 ## Bibiliotecas
