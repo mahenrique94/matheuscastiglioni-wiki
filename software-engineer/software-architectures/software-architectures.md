@@ -1,6 +1,7 @@
 # Arquiteturas de Software
 
 ## Arquiteturas e Padrões Arquiteturais
+- [4+1 Architectural View Model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
 - [API Gateway](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Backend-for-Frontend (BFF)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [Blackboard](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
@@ -46,6 +47,7 @@
     - [OpenAPI](https://www.openapis.org/)
     - [OpenAPI Diff](https://github.com/Azure/openapi-diff)
     - [ProtoLock](https://protolock.dev/)
+    - [Schema Registry](https://docs.confluent.io/platform/current/schema-registry/index.html)
   - [Service Mesh](https://www.infoq.com/br/articles/service-mesh-ultimate-guide/)
     - [Envoy](https://www.envoyproxy.io/)
     - [Istio](https://istio.io/)
