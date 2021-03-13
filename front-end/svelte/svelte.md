@@ -1,6 +1,9 @@
 # Svelte
 
 ## Bibliotecas
+### Desktop App
+- [Svelte Node Gui](https://svelte.nodegui.org/#quick-start)
+
 ### Gráficos
 - [Pancake](https://github.com/Rich-Harris/pancake)
 

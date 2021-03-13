@@ -33,6 +33,7 @@
 - [Material UI](https://material-ui.com/pt/)
 - [PrimeReact](https://github.com/primefaces/primereact)
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd)
+- [React Big Calendar](https://github.com/jquense/react-big-calendar)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [React Components](http://react-component.github.io/badgeboard/)
 - [React Countdown Clock](https://github.com/pughpugh/react-countdown-clock)

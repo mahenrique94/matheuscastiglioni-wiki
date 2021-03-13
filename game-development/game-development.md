@@ -12,6 +12,7 @@
 - [Photon](https://www.photonengine.com/en-US/Photon)
 - [ReplayJS](https://replay.js.org/)
 - [Stencyl](http://www.stencyl.com/)
+- [Taro](https://github.com/Cloud9c/taro)
 - [Unity](https://unity.com/pt)
 - [Unreal](https://www.unrealengine.com/en-US/)
 - [Ursina](https://www.ursinaengine.org/)

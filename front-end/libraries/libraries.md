@@ -2,6 +2,7 @@
 
 ## 3D
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+  - [Babylon Native](https://github.com/BabylonJS/BabylonNative)
 - [Cannon.js](https://schteppe.github.io/cannon.js/)
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)
@@ -46,6 +47,7 @@
 - [BundleSize](https://github.com/siddharthkp/bundlesize)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [ESBuild](https://github.com/evanw/esbuild)
+- [EStrella](https://github.com/rsms/estrella)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Parsel](https://github.com/LeaVerou/parsel)
@@ -67,6 +69,9 @@
 - [Webpack](https://webpack.js.org/)
   - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 - [WMR](https://github.com/preactjs/wmr)
+
+## Cálculos
+- [Math.js](https://github.com/josdejong/mathjs)
 
 ## Canvas
 - [HTML2Canvas](https://github.com/niklasvh/html2canvas)
@@ -106,6 +111,7 @@
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
 - [Haunted](https://github.com/matthewp/haunted)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
+- [Hybrid.js](https://hybrids.js.org/#/)
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
 - [Lit Element](https://github.com/Polymer/lit-element)
 - [Lit HTML](https://github.com/Polymer/lit-html)
