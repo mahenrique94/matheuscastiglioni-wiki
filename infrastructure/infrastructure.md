@@ -18,9 +18,11 @@
 
 ## CI/CD
 - [Circle CI](https://circleci.com/)
+- [CruiseControl](http://cruisecontrol.sourceforge.net/)
 - [DPL](https://github.com/travis-ci/dpl)
 - [GitHub Actions](https://github.com/features/actions)
 - [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
+- [GoCD](https://www.gocd.org/)
 - [Jenkins](https://www.jenkins.io/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker)
 - [Travis CI](https://travis-ci.org/)
