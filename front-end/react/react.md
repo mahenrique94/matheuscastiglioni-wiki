@@ -37,6 +37,7 @@
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [React Components](http://react-component.github.io/badgeboard/)
 - [React Countdown Clock](https://github.com/pughpugh/react-countdown-clock)
+- [React Content Loader](https://github.com/danilowoz/react-content-loader)
 - [React CSS Modules](https://github.com/gajus/react-css-modules)
 - [React DatePicker](https://github.com/Hacker0x01/react-datepicker)
 - [React Dates](https://github.com/airbnb/react-dates)

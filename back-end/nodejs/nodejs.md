@@ -8,6 +8,7 @@
 
 ### APIs
 - [AdonisJS](https://adonisjs.com/)
+- [Cote](https://github.com/dashersw/cote)
 - [Egg](https://github.com/eggjs/egg)
 - [Express](https://expressjs.com/pt-br/)
   - [Consign](https://github.com/jarradseers/consign)

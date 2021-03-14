@@ -98,6 +98,7 @@
 
 ## Componentes
 - [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel)
+- [Tagify](https://github.com/yairEO/tagify)
 
 ## Crawlers
 - [PlayWRight](https://github.com/microsoft/playwright)
@@ -134,6 +135,9 @@
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
 
 ## CSS in JS
+- [Emotion](https://github.com/emotion-js/emotion)
+- [Goober](https://github.com/cristianbote/goober)
+- [JSS](https://github.com/cssinjs/jss)
 - [Linaria](https://github.com/callstack/linaria)
 - [Stitches](https://github.com/modulz/stitches)
 - [Styled JSX](https://github.com/vercel/styled-jsx)
@@ -179,9 +183,7 @@
 - [v8](https://github.com/v8/v8)
 
 ## Estilização
-- [Emotion](https://github.com/emotion-js/emotion)
-- [JSS](https://github.com/cssinjs/jss)
-- [Linaria](https://github.com/callstack/linaria)
+- [Chroma.js](https://github.com/gka/chroma.js)
 - [Normalize.css](https://github.com/necolas/normalize.css)
 
 ## Fluxo
@@ -226,6 +228,7 @@
 - [CytoScape](https://github.com/cytoscape/cytoscape.js)
 - [Frappe](https://github.com/frappe/charts)
 - [HighCharts](https://github.com/highcharts/highcharts)
+- [Plotly.js](https://github.com/plotly/plotly.js)
 
 ## Icones
 - [FontAwesome](https://fontawesome.com/)
