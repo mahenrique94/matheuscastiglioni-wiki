@@ -5,7 +5,7 @@
 - Buscar trechos de códigos em repositórios ([https://about.sourcegraph.com/](https://about.sourcegraph.com/))
 - Colaboração de código ponta à ponta ([https://radicle.xyz/](https://radicle.xyz/))
 - Coletar informações de site ([https://www.woopra.com/](https://www.woopra.com/))
-- Comunicação de equipe ([https://slack.com/intl/pt-br/](https://slack.com/intl/pt-br/))
+- Comunicação de equipe ([https://www.microsoft.com/pt-br/microsoft-teams/free](https://www.microsoft.com/pt-br/microsoft-teams/free) [https://slack.com/intl/pt-br/](https://slack.com/intl/pt-br/), [https://twist.com/pt-BR](https://twist.com/pt-BR))
 - Criar eventos online ([https://hopin.com/](https://hopin.com/))
 - Criar temas ([https://themer.dev/](https://themer.dev/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))

@@ -312,6 +312,9 @@
 - [PDFKit](https://github.com/foliojs/pdfkit)
 - [Print.js](https://github.com/crabbly/Print.js)
 
+## Planilhas
+- [SheetJS](https://github.com/SheetJS/sheetjs)
+
 ## Processos
 - [Live Server](https://github.com/tapio/live-server)
 
@@ -337,6 +340,7 @@
 - [Bent](https://github.com/mikeal/bent)
 - [Mirage.js](https://github.com/miragejs/miragejs)
 - [Pretender](https://github.com/pretenderjs/pretender)
+- [Redaxios](https://github.com/developit/redaxios)
 
 ## Search
 - [Fuse](https://github.com/krisk/Fuse)
