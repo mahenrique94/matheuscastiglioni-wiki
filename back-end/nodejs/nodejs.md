@@ -167,5 +167,8 @@
 ### Validação
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
 
+### Webhooks
+- [Diahook](https://www.diahook.com)
+
 ## Links
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)

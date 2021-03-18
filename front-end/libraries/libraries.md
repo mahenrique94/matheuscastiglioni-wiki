@@ -226,6 +226,7 @@
 - [D3](https://github.com/d3/d3)
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [CytoScape](https://github.com/cytoscape/cytoscape.js)
+- [Dendron](https://www.dendron.so/)
 - [Frappe](https://github.com/frappe/charts)
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [Plotly.js](https://github.com/plotly/plotly.js)
