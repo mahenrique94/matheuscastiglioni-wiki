@@ -16,6 +16,7 @@
 - [Lottie](https://github.com/airbnb/lottie)
   - [Lottie Web](https://github.com/airbnb/lottie-web)
 - [PopMotion](https://github.com/Popmotion/popmotion)
+- [SmoothStep](https://smoothstep.io/)
 
 ## Apresentação
 - [Reveal.js](https://github.com/hakimel/reveal.js)
@@ -25,6 +26,7 @@
 
 ## Autenticação
 - [FingerPrintJS](https://github.com/fingerprintjs/fingerprintjs)
+- [UserFront](https://userfront.com/)
 - [ZXCVBN](https://github.com/dropbox/zxcvbn)
 
 ## Banco de Dados
@@ -224,6 +226,7 @@
 
 ## Gráficos
 - [D3](https://github.com/d3/d3)
+- [Chart.css](https://chartscss.org/)
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [CytoScape](https://github.com/cytoscape/cytoscape.js)
 - [Dendron](https://www.dendron.so/)
