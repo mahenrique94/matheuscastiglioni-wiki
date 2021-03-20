@@ -32,6 +32,7 @@
 - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
 - [Material UI](https://material-ui.com/pt/)
 - [PrimeReact](https://github.com/primefaces/primereact)
+- [React95](https://github.com/arturbien/React95)
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd)
 - [React Big Calendar](https://github.com/jquense/react-big-calendar)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
