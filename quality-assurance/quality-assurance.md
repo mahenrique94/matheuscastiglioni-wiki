@@ -13,8 +13,10 @@
   - [PactJS Broker](https://github.com/pact-foundation/pact_broker)
 - [PlayWright](https://github.com/microsoft/playwright)
 - [Pretender](https://github.com/pretenderjs/pretender)
+- [REST Assured](https://rest-assured.io/)
 - [RRWeb](https://github.com/rrweb-io/rrweb)
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
+- [WireMock](http://wiremock.org/)
 
 ## Ferramentas
 - [Chai](https://www.chaijs.com/)

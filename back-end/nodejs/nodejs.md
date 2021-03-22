@@ -146,6 +146,8 @@
 
 ### Rotinas
 - [NodeSchedule](https://github.com/node-schedule/node-schedule)
+- [Outrun](https://github.com/Overv/outrun)
+- [ISOWorker](https://github.com/101arrowz/isoworker)
 
 ### Template Engine
 - [EJS](https://github.com/mde/ejs)

@@ -8,6 +8,7 @@
 - [Condution](https://www.condution.com/)
 - [Confluence](https://www.atlassian.com/br/software/confluence)
 - [Favro](https://www.favro.com/)
+- [FocalBoard](https://www.focalboard.com/)
 - [GitScrum](https://site.gitscrum.com/)
 - [Infinity](https://startinfinity.com/)
 - [Jira](https://www.atlassian.com/br/software/jira)
