@@ -24,6 +24,7 @@
 
 ### CLI
 - [Create React App](https://github.com/facebook/create-react-app)
+- [Create React Library](https://github.com/transitive-bullshit/create-react-library)
 
 ### Componentes
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
@@ -50,6 +51,7 @@
 - [React Input Mask](https://github.com/sanniassin/react-input-mask)
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
 - [React Loadable](https://github.com/jamiebuilds/react-loadable)
+- [React Markdown](https://github.com/remarkjs/react-markdown)
 - [React Notifications](https://github.com/minhtranite/react-notifications)
 - [React Notification System](https://github.com/igorprado/react-notification-system)
 - [React Notification System Redux](https://github.com/gor181/react-notification-system-redux)
@@ -61,6 +63,7 @@
 - [React Star Rating Component](https://github.com/voronianski/react-star-rating-component)
 - [React Stick](https://github.com/akiran/react-slick)
 - [React Suite](https://github.com/rsuite/rsuite)
+- [React Tooltip](https://github.com/wwayne/react-tooltip)
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)
 - [SVGR](https://github.com/gregberge/svgr)
@@ -101,6 +104,7 @@
 ### Hooks
 - [React Adaptive Hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
 - [React Hanger](https://github.com/kitze/react-hanger)
+- [React Responsive](https://github.com/contra/react-responsive)
 - [React Use](https://github.com/streamich/react-use)
 
 ### Modal
@@ -108,6 +112,7 @@
 
 ### Performance
 - [Reactotron](https://github.com/infinitered/reactotron)
+- [React Lazyload](https://github.com/twobin/react-lazyload)
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
 
 ### Protótipos
