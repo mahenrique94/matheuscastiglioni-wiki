@@ -13,6 +13,8 @@
 - Otimizar imagens em tempo real ([https://imagekit.io/](https://imagekit.io/))
 - Otimizar vídeos ([https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake))
 - Realizar SQLs em arquivos CSV, XLS e JSON ([https://simplql.com/](https://simplql.com/))
+- Remover fundo de videos chamadass ([https://www.chromacam.me/](https://www.chromacam.me/))
+- Remover som de fundo ([https://krisp.ai/](https://krisp.ai/))
 - Testar globs ([https://globster.xyz/](https://globster.xyz/))
 - Tradução de textos para LIBRAS ([https://www.handtalk.me/br](https://www.handtalk.me/br))
 - Transcrição de audio para texto em tempo real ([https://webcaptioner.com/](https://webcaptioner.com/))

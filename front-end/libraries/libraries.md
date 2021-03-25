@@ -116,6 +116,7 @@
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
 - [Hybrid.js](https://hybrids.js.org/#/)
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
+- [HyperScript](https://github.com/bigskysoftware/_hyperscript)
 - [Lit Element](https://github.com/Polymer/lit-element)
 - [Lit HTML](https://github.com/Polymer/lit-html)
 - [LWC](https://github.com/salesforce/lwc)

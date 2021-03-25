@@ -4,6 +4,7 @@
 - [AWS](https://aws.amazon.com/)
   - [Vantage](https://www.vantage.sh/)
 - [Azure](https://azure.microsoft.com/)
+- [Coder](https://coder.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Firebase](https://firebase.google.com/)
 - [GCP (Google Cloud Platform)](https://cloud.google.com/)
