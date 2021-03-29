@@ -124,12 +124,16 @@
 - [PollyJS](https://github.com/Netflix/pollyjs)
 
 ### ORM
+- [BookShelf](https://bookshelfjs.org/)
 - [Mongoose](https://github.com/Automattic/mongoose)
   - [Historical](https://github.com/stennettm/historical)
-- [Sequelize](https://github.com/sequelize/sequelize)
-- [TypeORM](https://github.com/typeorm/typeorm)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)
+- [Objection.js](https://vincit.github.io/objection.js/)
 - [Prisma](https://github.com/prisma/prisma)
+- [Sequelize](https://github.com/sequelize/sequelize)
+- [Typegoose](https://typegoose.github.io/typegoose/)
+- [TypeORM](https://github.com/typeorm/typeorm)
+- [Waterline](https://waterlinejs.org/)
 
 ### Process
 - [Nodemon](https://github.com/remy/nodemon)
@@ -161,6 +165,9 @@
 ### Testes
 - [JSDOM](https://github.com/jsdom/jsdom)
 - [Supertest](https://github.com/visionmedia/supertest)
+
+### Threads
+- [Piscina](https://github.com/piscinajs/piscina)
 
 ### Utils
 - [Node APP Root Path](https://github.com/inxilpro/node-app-root-path)

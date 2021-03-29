@@ -1,6 +1,7 @@
 # Bibliotecas
 
 ## 3D
+- [Aladino](https://github.com/luruke/aladino)
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
   - [Babylon Native](https://github.com/BabylonJS/BabylonNative)
 - [Cannon.js](https://schteppe.github.io/cannon.js/)
@@ -117,6 +118,7 @@
 - [Hybrid.js](https://hybrids.js.org/#/)
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
 - [HyperScript](https://github.com/bigskysoftware/_hyperscript)
+- [Intro.js](https://github.com/usablica/intro.js)
 - [Lit Element](https://github.com/Polymer/lit-element)
 - [Lit HTML](https://github.com/Polymer/lit-html)
 - [LWC](https://github.com/salesforce/lwc)
@@ -231,6 +233,7 @@
 - [Chart.css](https://chartscss.org/)
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [CytoScape](https://github.com/cytoscape/cytoscape.js)
+- [Delaunator](https://github.com/mapbox/delaunator)
 - [Dendron](https://www.dendron.so/)
 - [Frappe](https://github.com/frappe/charts)
 - [HighCharts](https://github.com/highcharts/highcharts)

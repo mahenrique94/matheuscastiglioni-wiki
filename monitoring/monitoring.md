@@ -6,15 +6,18 @@
 
 ## Ferramentas
 - [Atera](https://www.atera.com/)
+- [DataDog](https://www.datadoghq.com/)
 - [Grafana](https://grafana.com/)
 - [HoneyComb](https://www.honeycomb.io/)
 - [Humio](https://www.humio.com/)
 - [Jaeger](https://www.jaegertracing.io/)
 - [Kibana](https://www.elastic.co/pt/kibana)
 - [LightStep](https://lightstep.com/)
+- [LogRocket](https://logrocket.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)
 - [NewRelic](https://newrelic.com/)
 - [Prometheus](https://prometheus.io/)
+- [Rollbar](https://rollbar.com/)
 - [Sentry](https://sentry.io/welcome/)
 - [Spot](https://spot.io/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)

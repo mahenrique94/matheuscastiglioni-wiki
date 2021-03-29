@@ -20,6 +20,9 @@
 - [React Native Snap Carousel](https://github.com/meliorence/react-native-snap-carousel)
 - [Stacks](https://github.com/mobily/stacks)
 
+### Engines
+- [Hermes](https://github.com/facebook/hermes)
+
 ### Estilização
 - [React Native Extended Stylesheet](https://github.com/vitalets/react-native-extended-stylesheet)
 - [React Native Linear Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
