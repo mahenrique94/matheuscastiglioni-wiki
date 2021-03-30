@@ -16,7 +16,10 @@
  - [BIND](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-pt)
  - [TMUX](https://github.com/tmux/tmux)
  - [zsh](https://ohmyz.sh/)
- - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+  - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
+  - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting)
+  - [zInit](https://github.com/zdharma/zinit)
+  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 ## Mac
 - [Big Sur](https://www.apple.com/br/macos/big-sur/)
@@ -34,4 +37,6 @@
 ## Windows
 - [Windows 7](https://www.microsoft.com/pt-br/software-download/)
 - [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10ISO)
+  - [Scoop](https://github.com/lukesampson/scoop)
+  - [Windows Terminal][https://www.microsoft.com/pt-br/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab]
 - [Windows XP](https://pt.wikipedia.org/wiki/Windows_XP)
