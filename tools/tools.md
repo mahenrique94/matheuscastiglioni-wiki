@@ -15,6 +15,12 @@
 - Realizar SQLs em arquivos CSV, XLS e JSON ([https://simplql.com/](https://simplql.com/))
 - Remover fundo de videos chamadass ([https://www.chromacam.me/](https://www.chromacam.me/))
 - Remover som de fundo ([https://krisp.ai/](https://krisp.ai/))
+- SVG
+  - Animar SVG's ([https://svgartista.net/](https://svgartista.net/))
+  - Colorir SVG's ([https://www.fecolormatrix.com/](https://www.fecolormatrix.com/))
+  - Converter imagens para SVG ([https://picsvg.com/](https://picsvg.com/))
+  - Cortar e ajustar tamanho de SVG's ([https://msurguy.github.io/svg-cropper-tool/](https://msurguy.github.io/svg-cropper-tool/))
+  - Manipular SVG's ([https://pavellaptev.github.io/warp-svg/](https://pavellaptev.github.io/warp-svg/))
 - Testar globs ([https://globster.xyz/](https://globster.xyz/))
 - Tradução de textos para LIBRAS ([https://www.handtalk.me/br](https://www.handtalk.me/br))
 - Transcrição de audio para texto em tempo real ([https://webcaptioner.com/](https://webcaptioner.com/))

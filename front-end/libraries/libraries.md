@@ -148,6 +148,7 @@
 - [Stitches](https://github.com/modulz/stitches)
 - [Styled JSX](https://github.com/vercel/styled-jsx)
 - [Twin](https://github.com/ben-rogerson/twin.macro)
+- [Vanilla Extract](https://github.com/seek-oss/vanilla-extract)
 
 ## Datas
 - [Date FNS](https://github.com/date-fns/date-fns)
@@ -273,8 +274,9 @@
 - [DangerJS](https://danger.systems/js/)
 - [EditorConfig](https://github.com/editorconfig/editorconfig)
 - [ESLint](https://github.com/eslint/eslint)
-- [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
-- [ESLint Plugin Security](https://github.com/nodesecurity/eslint-plugin-security)
+  - [ESLint Plugin Clean Regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex)
+  - [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
+  - [ESLint Plugin Security](https://github.com/nodesecurity/eslint-plugin-security)
 - [ESUtils](https://github.com/estools/esutils)
 - [HTMLHint](https://github.com/htmlhint/HTMLHint)
 - [HTMLLint](https://github.com/htmllint/htmllint)
