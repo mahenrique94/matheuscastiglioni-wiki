@@ -52,6 +52,7 @@
 - [Infraestrutura](/infrastructure/infrastructure.md)
 - [Liderança](/leadership/leadership.md)
 - [Linguagens de Programação](/programming-languages/programming-languages.md)
+- [Livros](/books/books.md)
 - [Mobile](/mobile/mobile.md)
   - [React Native](/mobile/react-native/react-native.md)
 - [Monitoramento](/monitoring/monitoring.md)

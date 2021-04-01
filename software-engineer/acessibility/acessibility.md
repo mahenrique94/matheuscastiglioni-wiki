@@ -17,6 +17,3 @@ O que é acessibilidade? https://www.youtube.com/watch?v=pOmdL9LzDJg
 - [WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-practices-1.2/#intro)
 - [WCAG 2.0](https://www.w3.org/Translations/WCAG20-pt-br/WCAG20-pt-br-20141024/)
 - [WCAG 2.1](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)
-
-## Livros
-- [Acessibilidade na Web](https://www.casadocodigo.com.br/products/livro-acessibilidade?_pos=1&_sid=0e0d1eb70&_ss=r)

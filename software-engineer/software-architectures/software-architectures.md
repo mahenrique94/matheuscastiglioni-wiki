@@ -73,13 +73,3 @@
 
 ## Links
 - https://github.com/DovAmir/awesome-design-patterns
-
-## Livros
-- [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com.br/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360)
-- [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com.br/Building-Microservices-Second-Sam-Newman/dp/1492034029/ref=asc_df_1492034029/?tag=googleshopp00-20&linkCode=df0&hvadid=379733272930&hvpos=&hvnetw=g&hvrand=4222125241391095705&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-464425939893&psc=1)
-- [Clean Architecture](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=asc_df_B085PP6Y8P/?tag=googleshopp00-20&linkCode=df0&hvadid=426564911966&hvpos=&hvnetw=g&hvrand=11450558934850062724&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-893564488271&psc=1)
-- [Designing Event-Driven Systems](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/)
-- [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com.br/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451/ref=asc_df_1492043451/?tag=googleshopp00-20&linkCode=df0&hvadid=379795170134&hvpos=&hvnetw=g&hvrand=246121054958374246&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-751683725274&psc=1)
-- [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848)
-- [Patterns Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
-- [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)

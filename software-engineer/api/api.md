@@ -9,10 +9,6 @@
   - [HATEOAS (Hypermedia as the Engine of Application State)](https://en.wikipedia.org/wiki/HATEOAS)
   - [Restfull](https://www.hostgator.com.br/blog/api-restful/)
 
-## Livros
-- [Construindo APIs REST com Node.js](https://www.casadocodigo.com.br/products/livro-apis-nodejs?_pos=1&_sid=f96c54296&_ss=r)
-- [REST](https://www.casadocodigo.com.br/products/livro-rest?_pos=2&_sid=f96c54296&_ss=r)
-
 ## Programas
 - [Hoppscotch](https://hoppscotch.io/)
 - [Insomnia](https://insomnia.rest/)

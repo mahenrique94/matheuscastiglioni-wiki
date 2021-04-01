@@ -7,9 +7,6 @@
 - [WebPageTest](https://www.webpagetest.org/)
 - [ScreamingFrog](https://www.screamingfrog.co.uk/)
 
-## Livros
-- [SEO Prático](https://www.casadocodigo.com.br/products/livro-seo?_pos=1&_sid=df457eadd&_ss=r)
-
 ## Práticas
 - [Compactação](https://developers.google.com/speed/docs/insights/EnableCompression?hl=pt-br)
 - [Lazy Loading](https://pt.wikipedia.org/wiki/Lazy_loading#:~:text=Lazy%20loading%20%C3%A9%20um%20padr%C3%A3o,em%20que%20ele%20%C3%A9%20necess%C3%A1rio.)
