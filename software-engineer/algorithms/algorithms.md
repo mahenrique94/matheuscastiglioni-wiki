@@ -1,5 +1,7 @@
 # Algoritmos
 
+- https://github.com/trekhleb/javascript-algorithms
+
 ## Links
 - [Notação Big O](https://en.wikipedia.org/wiki/Big_O_notation)
 
@@ -135,6 +137,7 @@
 - [Triângulo de Pascal](src/algorithms/math/pascal-triangle)
 
 ## Sem categoria
+- [Flood Fill](https://learnersbucket.com/examples/algorithms/flood-fill-algorithm-in-javascript/#:~:text=Flood%20fill%20also%20called%20as,the%20pixels%20with%20same%20color.)
 - [Jump Game](src/algorithms/uncategorized/jump-game)
 - [Knight's Tour](src/algorithms/uncategorized/knight-tour)
 - [N-Queens Problem](src/algorithms/uncategorized/n-queens)
