@@ -5,6 +5,7 @@
   - [Vantage](https://www.vantage.sh/)
 - [Azure](https://azure.microsoft.com/)
 - [Coder](https://coder.com/)
+- [Coolify](https://coollabs.io/coolify)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Firebase](https://firebase.google.com/)
 - [GCP (Google Cloud Platform)](https://cloud.google.com/)

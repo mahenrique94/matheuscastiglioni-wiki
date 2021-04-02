@@ -9,6 +9,7 @@
 - [MatterJS](https://github.com/liabru/matter-js)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
 - [Three.js](https://github.com/mrdoob/three.js)
+- [SmoothStep](https://smoothstep.io/)
 - [ZDog](https://github.com/metafizzy/zdog)
 
 ## Animação
@@ -230,10 +231,11 @@
 - [XState](https://github.com/davidkpiano/xstate)
 
 ## Gráficos
-- [D3](https://github.com/d3/d3)
+- [Billboard.js](https://github.com/naver/billboard.js)
 - [Chart.css](https://chartscss.org/)
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [CytoScape](https://github.com/cytoscape/cytoscape.js)
+- [D3](https://github.com/d3/d3)
 - [Delaunator](https://github.com/mapbox/delaunator)
 - [Dendron](https://www.dendron.so/)
 - [Frappe](https://github.com/frappe/charts)

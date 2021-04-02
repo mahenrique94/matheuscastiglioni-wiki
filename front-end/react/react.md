@@ -2,6 +2,7 @@
 
 - https://github.com/acdlite/react-fiber-architecture
 - https://dev.to/haycuoilennao19/34-ui-libraries-for-react-vue-and-angular-525l
+- https://dev.to/hulyakarakaya/ultimate-react-resources-obl
 
 ## Bibliotecas
 ### 3D
@@ -67,9 +68,13 @@
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)
 - [SVGR](https://github.com/gregberge/svgr)
+- [Wouter](https://github.com/molefrog/wouter)
 
 ## Desenvolvimento
 - [React Cosmos](https://reactcosmos.org/)
+
+## Design
+- [React Type](https://reactype.io/)
 
 ## Diagramas
 - [React Flow](https://reactflow.dev/)
@@ -85,6 +90,7 @@
   - [VSCode Styled Components](https://github.com/styled-components/vscode-styled-components)
 - [Styled System](https://github.com/styled-system/styled-system)
 - [ThemeUI](https://github.com/system-ui/theme-ui)
+- [XStyled](https://xstyled.dev/)
 
 ### Formulário
 - [Formik](https://github.com/formium/formik)

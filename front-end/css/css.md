@@ -29,6 +29,7 @@
 - [Tachyons](https://github.com/tachyons-css/tachyons/)
 - [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 - [UIKit](https://getuikit.com/)
+- [WindiCSS](https://windicss.org/)
 
 ## Links
 - https://github.com/iamvdo/css-houdini.rocks

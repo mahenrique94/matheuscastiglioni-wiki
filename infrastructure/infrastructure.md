@@ -35,6 +35,7 @@
   - [Portainer](https://www.portainer.io/)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
+  - [DevopsStack](https://devops-stack.io)
   - [Helm](https://helm.sh/)
   - [Knative](https://knative.dev/)
   - [OpenFAAS](https://www.openfaas.com/)
