@@ -20,6 +20,7 @@
   - [Saga](https://microservices.io/patterns/data/saga.html)
     - [Camunda](https://camunda.com/)
     - [Zeebe](https://zeebe.io/)
+  - [Transactional Outbox](https://medium.com/dev-genius/microservice-architecture-communication-design-patterns-70b37beec294)
   - [Two Phase Commit (2PC)](https://en.wikipedia.org/wiki/Two-phase_commit_protocol#:~:text=The%20commit%20phase%2C%20in%20which,result%20to%20all%20the%20participants.)
 - [ECS (Entity Component System)](https://pt.wikipedia.org/wiki/Entity-component-system)
 - [Event-bus](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
