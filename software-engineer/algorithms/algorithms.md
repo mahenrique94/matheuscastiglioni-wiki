@@ -92,6 +92,9 @@
 - [Shortest Common Supersequence](src/algorithms/sets/shortest-common-supersequence)
 - [Unique Paths](src/algorithms/uncategorized/unique-paths)
 
+## Escalonamento
+- [Round Robin](https://pt.wikipedia.org/wiki/Round-robin)
+
 ## Força bruta
 - [Linear Search](src/algorithms/search/linear-search)
 - [Maximum Subarray](src/algorithms/sets/maximum-subarray)
@@ -138,10 +141,13 @@
 
 ## Sem categoria
 - [Flood Fill](https://learnersbucket.com/examples/algorithms/flood-fill-algorithm-in-javascript/#:~:text=Flood%20fill%20also%20called%20as,the%20pixels%20with%20same%20color.)
+- [Forward Decay](https://en.wikipedia.org/wiki/Forward_algorithm)
+- [HDR Histogram](http://hdrhistogram.org/)
 - [Jump Game](src/algorithms/uncategorized/jump-game)
 - [Knight's Tour](src/algorithms/uncategorized/knight-tour)
 - [N-Queens Problem](src/algorithms/uncategorized/n-queens)
 - [Rain Terraces](src/algorithms/uncategorized/rain-terraces)
 - [Square Matrix Rotation](src/algorithms/uncategorized/square-matrix-rotation)
+- [T-Digest](https://github.com/tdunning/t-digest)
 - [Tower of Hanoi](src/algorithms/uncategorized/hanoi-tower)
 - [Unique Paths](src/algorithms/uncategorized/unique-paths)

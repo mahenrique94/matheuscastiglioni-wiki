@@ -1,6 +1,7 @@
 # Plataformas
 
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/))
+- Colaboração online (Documentação, fluxogramas, mapas mentais, wireframes, postits)([https://whimsical.com/](https://whimsical.com/))
 - Comprimir imagens ([https://compressor.io/](https://compressor.io/))
 - Converter formatos de vídeo ([https://cloudconvert.com/](https://cloudconvert.com/))
 - Converter vídeos para gif ([https://ezgif.com/](https://ezgif.com/))
