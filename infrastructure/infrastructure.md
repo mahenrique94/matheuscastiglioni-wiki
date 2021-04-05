@@ -44,6 +44,7 @@
   - [Rancher](https://rancher.com/)
   - [Telepresence](https://www.telepresence.io/)
 - [Nomad](https://www.nomadproject.io/)
+- [Simplenetes](https://github.com/simplenetes-io/simplenetes)
 - [Traefik](https://traefik.io/)
 - [VirtualBox](https://www.virtualbox.org/)
 

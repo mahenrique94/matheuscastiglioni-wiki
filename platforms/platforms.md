@@ -15,6 +15,7 @@
 - Criar gráficos online ([https://explore.charts.com/](https://explore.charts.com/))
 - Criar páginas de status ([https://www.freshworks.com](https://www.freshworks.com))
 - Criar sites ([https://pt.wix.com/](https://pt.wix.com/), [https://www.duda.co/pt/](https://www.duda.co/pt/), [https://br.wordpress.com/](https://br.wordpress.com/))
+- Criar template para emails ([https://mailstudio.app/](https://mailstudio.app/))
 - Criar votação ([https://doodle.com/pt_BR/](https://doodle.com/pt_BR/))
 - Desminificar JS, CSS e HTML ([https://unminify.com/](https://unminify.com/))
 - Email marketing ([https://mailchimp.com/](https://mailchimp.com/))

@@ -5,6 +5,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
   - [Babylon Native](https://github.com/BabylonJS/BabylonNative)
 - [Cannon.js](https://schteppe.github.io/cannon.js/)
+- [GPU.js](https://github.com/gpujs/gpu.js)
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
@@ -99,6 +100,9 @@
 - [List.js](https://github.com/javve/list.js)
 - [Sortable](https://github.com/SortableJS/Sortable)
 - [SortBy](https://github.com/kvnneff/sort-by)
+
+## Compiladores/Parsers
+- [OHM](https://github.com/harc/ohm)
 
 ## Componentes
 - [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel)
