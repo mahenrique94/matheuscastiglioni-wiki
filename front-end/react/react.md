@@ -114,6 +114,7 @@
 - [VisX](https://github.com/airbnb/visx)
 
 ### Hooks
+- [AHooks](https://ahooks.js.org/)
 - [React Adaptive Hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
 - [React Hanger](https://github.com/kitze/react-hanger)
 - [React Responsive](https://github.com/contra/react-responsive)
