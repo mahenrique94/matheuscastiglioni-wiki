@@ -123,6 +123,7 @@
 - [Hybrid.js](https://hybrids.js.org/#/)
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
 - [HyperScript](https://github.com/bigskysoftware/_hyperscript)
+- [Inertia.js](https://github.com/inertiajs/inertia)
 - [Intro.js](https://github.com/usablica/intro.js)
 - [Lit Element](https://github.com/Polymer/lit-element)
 - [Lit HTML](https://github.com/Polymer/lit-html)

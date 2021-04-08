@@ -1,6 +1,8 @@
 # Armazenamento
 
 ## Banco de dados
+- [Apache Jena](https://jena.apache.org/tutorials/sparql_pt.html)
+- [Cascalog](https://github.com/nathanmarz/cascalog)
 - [Cassandra](https://cassandra.apache.org/)
 - [CouchBase](https://www.couchbase.com/)
 - [CouchDB](https://couchdb.apache.org/)
@@ -10,9 +12,12 @@
 - [EspressoDB](https://espressodb.readthedocs.io/en/latest/)
 - [Firebird](https://firebirdsql.org/)
 - [HazelCast](https://hazelcast.com/)
+- [HBase](https://hbase.apache.org/)
 - [InfluxDB](https://www.influxdata.com/)
+- [LevelDB](https://github.com/google/leveldb)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
+- [Neo4j](https://neo4j.com/)
 - [OracleDB](https://www.oracle.com/br/database/)
 - [OrbitDB](https://orbitdb.org/)
 - [PostgresQL](https://www.postgresql.org/)

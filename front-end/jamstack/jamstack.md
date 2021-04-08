@@ -13,6 +13,7 @@ https://jamstack.org
 - [Jekyll](https://jekyllrb.com/)
 - [Meli](https://docs.meli.sh/)
 - [Next.js](https://github.com/vercel/next.js)
+- [Obelisk](https://github.com/BennyHallett/obelisk)
 - [RedWood](https://github.com/redwoodjs/redwood)
 - [Remix](https://remix.run/)
 - [Scully](https://github.com/scullyio/scully)
