@@ -55,6 +55,7 @@
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
 - [React Loadable](https://github.com/jamiebuilds/react-loadable)
 - [React Markdown](https://github.com/remarkjs/react-markdown)
+- [React Menu](https://github.com/szhsin/react-menu)
 - [React Notifications](https://github.com/minhtranite/react-notifications)
 - [React Notification System](https://github.com/igorprado/react-notification-system)
 - [React Notification System Redux](https://github.com/gor181/react-notification-system-redux)
