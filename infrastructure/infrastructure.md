@@ -38,6 +38,7 @@
   - [DevopsStack](https://devops-stack.io)
   - [Helm](https://helm.sh/)
   - [Knative](https://knative.dev/)
+  - [Kubectx](https://github.com/ahmetb/kubectx)
   - [OpenFAAS](https://www.openfaas.com/)
   - [OpenShift](https://www.openshift.com/)
   - [Operator](https://operatorframework.io/)

@@ -7,6 +7,7 @@
 - [Construct](https://www.construct.net/en)
 - [CRYEngine](https://www.cryengine.com/)
 - [Godot](https://godotengine.org/)
+- [KaboomJS](https://kaboomjs.com)
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)
 - [Photon](https://www.photonengine.com/en-US/Photon)
