@@ -15,6 +15,7 @@
 - [HBase](https://hbase.apache.org/)
 - [InfluxDB](https://www.influxdata.com/)
 - [LevelDB](https://github.com/google/leveldb)
+- [MemCached](https://memcached.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
 - [Neo4j](https://neo4j.com/)
@@ -22,6 +23,7 @@
 - [OrbitDB](https://orbitdb.org/)
 - [PostgresQL](https://www.postgresql.org/)
 - [QuestDB](https://questdb.io/)
+- [RAMCloud](https://ramcloud.atlassian.net/wiki/spaces/RAM/overview)
 - [Redis](https://redis.io/)
 - [RethinkDB](https://rethinkdb.com/)
 - [Riak](https://riak.com/)
@@ -29,6 +31,7 @@
 - [SingleStore](https://www.singlestore.com/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [TileDB](https://tiledb.com)
+- [VoltDB](https://www.voltdb.com/)
 
 ## Bibiliotecas
 - [Debezium](https://github.com/debezium/debezium)
