@@ -10,6 +10,7 @@
 - [Dolt](https://github.com/dolthub/dolt)
 - [Druid](https://druid.apache.org/)
 - [EspressoDB](https://espressodb.readthedocs.io/en/latest/)
+- [Event Store](https://www.eventstore.com/)
 - [Firebird](https://firebirdsql.org/)
 - [HazelCast](https://hazelcast.com/)
 - [HBase](https://hbase.apache.org/)
