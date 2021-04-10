@@ -30,6 +30,7 @@
 - [Pirple](https://www.pirple.com/)
 - [PluralSight](https://www.pluralsight.com/)
 - [Rocketseat](https://rocketseat.com.br/)
+- [Skore](https://www.skore.io/)
 - [School of Net](https://www.schoolofnet.com/)
 - [Udemy](https://www.udemy.com/pt/)
 

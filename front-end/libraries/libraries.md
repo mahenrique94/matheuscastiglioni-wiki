@@ -79,6 +79,7 @@
 - [Math.js](https://github.com/josdejong/mathjs)
 
 ## Canvas
+- [Fabric.js](https://github.com/fabricjs/fabric.js)
 - [HTML2Canvas](https://github.com/niklasvh/html2canvas)
 - [Konva](https://github.com/konvajs/konva)
 - [Pixi.js](https://github.com/pixijs/pixi.js)
@@ -106,6 +107,7 @@
 
 ## Componentes
 - [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel)
+- [Flicking](https://github.com/naver/egjs-flicking)
 - [Tagify](https://github.com/yairEO/tagify)
 
 ## Crawlers
@@ -385,6 +387,7 @@
 - [Yup](https://github.com/jquense/yup)
 
 ## Videos
+- [Moovie.js](https://github.com/BMSVieira/moovie.js)
 - [Plyr](https://github.com/sampotts/plyr)
 - [Video.js](https://github.com/videojs/video.js)
 - [Vime](https://github.com/vime-js/vime)
