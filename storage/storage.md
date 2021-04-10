@@ -24,6 +24,7 @@
 - [PostgresQL](https://www.postgresql.org/)
 - [QuestDB](https://questdb.io/)
 - [RAMCloud](https://ramcloud.atlassian.net/wiki/spaces/RAM/overview)
+- [RavenDB](https://ravendb.net/)
 - [Redis](https://redis.io/)
 - [RethinkDB](https://rethinkdb.com/)
 - [Riak](https://riak.com/)
