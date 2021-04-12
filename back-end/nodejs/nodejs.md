@@ -43,6 +43,7 @@
 - [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
 - [CryptoJS](https://github.com/brix/crypto-js)
 - [Magic](https://magic.link/)
+- [Ory](https://github.com/ory/keto)
 - [Passport](https://github.com/jaredhanson/passport)
 
 ### Benchmark
