@@ -337,6 +337,11 @@
 ## Planilhas
 - [SheetJS](https://github.com/SheetJS/sheetjs)
 
+## Polyfill
+- [CoreJS](https://github.com/zloirock/core-js)
+- [HTML5shiv](https://github.com/aFarkas/html5shiv)
+- [Modernizr](https://github.com/modernizr/modernizr)
+
 ## Processos
 - [Live Server](https://github.com/tapio/live-server)
 
