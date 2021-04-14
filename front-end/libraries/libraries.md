@@ -77,6 +77,7 @@
 
 ## Cálculos
 - [Math.js](https://github.com/josdejong/mathjs)
+- [Mathicall.js](https://github.com/PatGleeson101/mathicall.js)
 
 ## Canvas
 - [Fabric.js](https://github.com/fabricjs/fabric.js)

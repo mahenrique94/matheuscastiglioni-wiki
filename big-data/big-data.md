@@ -3,6 +3,7 @@
 ## Banco de Dados
 - [Cassandra](https://cassandra.apache.org/)
 - [Druid](https://druid.apache.org/)
+- [Vertica](https://www.vertica.com/)
 
 ## Bibliotecas
 - [Apache Drill](https://drill.apache.org/)

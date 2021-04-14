@@ -72,5 +72,12 @@
 - [Space Based Architecture (SBA)](https://en.wikipedia.org/wiki/Space-based_architecture#:~:text=Space%2Dbased%20architecture%20(SBA),using%20the%20tuple%20space%20paradigm.)
 - [Strangler](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
+## Documentação
+- [Archimate](https://elemarjr.com/arquivo/archimate-o-que-e-para-que-serve-e-como-comecar-a-aprender/#:~:text=Archimate%20%C3%A9%20uma%20linguagem%20visual,e%20aplica%C3%A7%C3%A3o%20bem%20mais%20amplos.)
+  - [ArchimateTool](https://www.archimatetool.com/)
+- [C4](https://www.infoq.com/br/articles/C4-architecture-model/)
+- [Diagrama de Contexto](https://escritoriodeprojetos.com.br/diagrama-de-contexto)
+- [UML](https://pt.wikipedia.org/wiki/UML)
+
 ## Links
 - https://github.com/DovAmir/awesome-design-patterns

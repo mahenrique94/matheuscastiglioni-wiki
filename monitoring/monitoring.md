@@ -5,6 +5,7 @@
 - [Rockset](https://rockset.com/)
 
 ## Ferramentas
+- [AppDynamics](https://www.appdynamics.com/)
 - [Atera](https://www.atera.com/)
 - [DataDog](https://www.datadoghq.com/)
 - [Grafana](https://grafana.com/)

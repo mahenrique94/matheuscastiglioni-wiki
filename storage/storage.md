@@ -2,6 +2,7 @@
 
 ## Banco de dados
 - [Apache Jena](https://jena.apache.org/tutorials/sparql_pt.html)
+- [Apache Parquet](https://parquet.apache.org/)
 - [Cascalog](https://github.com/nathanmarz/cascalog)
 - [Cassandra](https://cassandra.apache.org/)
 - [CouchBase](https://www.couchbase.com/)
@@ -66,3 +67,7 @@
 - [4NF (Fourth Normal Form)](https://www.guru99.com/database-normalization.html)
 - [5NF (Fifth Normal Form)](https://www.guru99.com/database-normalization.html)
 - [6NF (Sixth Normal Form)](https://www.guru99.com/database-normalization.html)
+
+## Serialização
+- [Apache Avro](http://avro.apache.org/)
+- [Apache Thrift](https://thrift.apache.org/)
