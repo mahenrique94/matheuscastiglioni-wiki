@@ -70,6 +70,7 @@
 - [React Tooltip](https://github.com/wwayne/react-tooltip)
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)
+- [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
 - [Wouter](https://github.com/molefrog/wouter)

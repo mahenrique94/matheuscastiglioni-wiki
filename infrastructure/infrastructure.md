@@ -39,6 +39,7 @@
   - [Helm](https://helm.sh/)
   - [Knative](https://knative.dev/)
   - [Kubectx](https://github.com/ahmetb/kubectx)
+  - [Lens](https://k8slens.dev/)
   - [OpenFAAS](https://www.openfaas.com/)
   - [OpenShift](https://www.openshift.com/)
   - [Operator](https://operatorframework.io/)
@@ -87,10 +88,14 @@
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
   - [Gloo](https://www.solo.io/products/gloo-mesh/)
   - [Istio](https://github.com/istio/istio)
+    - [Kiali](https://kiali.io/)
 
 ## Mensageria
+- [ActiveMQ](https://activemq.apache.org/)
 - [Apache Kafka](https://kafka.apache.org/)
 - [Debezium](https://debezium.io/)
+- [HornetQ](https://hornetq.jboss.org/)
+- [NATS](https://nats.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Service Bus](https://docs.microsoft.com/pt-br/azure/service-bus-messaging/service-bus-messaging-overview)
 - [ZeroMQ](https://zeromq.org/)

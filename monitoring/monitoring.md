@@ -8,6 +8,7 @@
 - [AppDynamics](https://www.appdynamics.com/)
 - [Atera](https://www.atera.com/)
 - [DataDog](https://www.datadoghq.com/)
+- [FluentBit](https://fluentbit.io/)
 - [Grafana](https://grafana.com/)
 - [HoneyComb](https://www.honeycomb.io/)
 - [Humio](https://www.humio.com/)
@@ -22,7 +23,7 @@
 - [Sentry](https://sentry.io/welcome/)
 - [Spot](https://spot.io/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
-
+- [Zipkin](https://zipkin.io/)
 ## Usabilidade
 - [ClickTale](https://www.clicktale.com/)
 - [Hotjar](https://www.hotjar.com/)
