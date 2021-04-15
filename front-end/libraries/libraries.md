@@ -8,6 +8,7 @@
 - [GPU.js](https://github.com/gpujs/gpu.js)
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)
+- [Paper.js](https://github.com/paperjs/paper.js)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
 - [Three.js](https://github.com/mrdoob/three.js)
 - [SmoothStep](https://smoothstep.io/)
