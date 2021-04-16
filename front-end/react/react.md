@@ -44,6 +44,7 @@
 - [React Big Calendar](https://github.com/jquense/react-big-calendar)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [React Components](http://react-component.github.io/badgeboard/)
+- [React Cool Dimensions](https://github.com/wellyshen/react-cool-dimensions)
 - [React Countdown Clock](https://github.com/pughpugh/react-countdown-clock)
 - [React Content Loader](https://github.com/danilowoz/react-content-loader)
 - [React CSS Modules](https://github.com/gajus/react-css-modules)
