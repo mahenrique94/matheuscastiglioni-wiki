@@ -1,6 +1,7 @@
 # CSS
 
 ## Arquiteturas
+- [Atomic CSS-in-JS](https://sebastienlorber.com/atomic-css-in-js)
 - [BEM](http://getbem.com/introduction/)
 - [BEMIT](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - [CUBE CSS](https://desenvolvimentoparaweb.com/css/cube-css/)
@@ -10,8 +11,10 @@
 - [SMACSS](http://smacss.com/)
 - [SUIT CSS](https://suitcss.github.io/)
 - [Systematic CSS](https://www.yumpu.com/en/document/view/47573458/systematic-css)
+- [Utility First](https://tailwindcss.com/docs/utility-first)
 
 ## Bibliotecas
+- [Atomizer](https://github.com/acss-io/atomizer)
 - [Bootstrap](https://getbootstrap.com/)
 - [Buefy](https://buefy.org/)
 - [Bulma](https://bulma.io/)
