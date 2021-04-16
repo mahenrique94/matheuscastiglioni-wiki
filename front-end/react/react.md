@@ -50,6 +50,7 @@
 - [React DatePicker](https://github.com/Hacker0x01/react-datepicker)
 - [React Dates](https://github.com/airbnb/react-dates)
 - [React DND](https://github.com/react-dnd/react-dnd)
+- [React Error Boundary](https://github.com/bvaughn/react-error-boundary)
 - [React Final Form](https://github.com/final-form/react-final-form)
 - [React Helmet](https://github.com/nfl/react-helmet)
 - [React Hot Toast](https://github.com/timolins/react-hot-toast)
