@@ -14,7 +14,7 @@
 - Descobrir IP público ([https://www.whatismyip.com/](https://www.whatismyip.com/))
 - Dicas úteis sobre bibliotecas e ferramentas para dev's ([https://devhints.io/](https://devhints.io/))
 - Documentação sobre Google Analytics ([https://ga-dev-tools.appspot.com/](https://ga-dev-tools.appspot.com/))
-- Encutar URLs ([https://bitly.com/](https://bitly.com/))
+- Encutar URLs ([https://bitly.com/](https://bitly.com/), [https://short.io/](https://short.io/))
 - Free for Dev ([https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev))
 - Gerador de imagens para sites ([https://picsum.photos/](https://picsum.photos/))
 - Habilidades de desenvolvedores web de maneira visual ([https://andreasbm.github.io/web-skills/](https://andreasbm.github.io/web-skills/))

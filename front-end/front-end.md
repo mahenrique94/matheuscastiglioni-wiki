@@ -16,6 +16,7 @@
 - [Imba](/front-end/imba/imba.md)
 - [JamStack](/front-end/jamstack/jamstack.md)
 - [Micro Front-End (MFE)](/front-end/mfe/mfe.md)
+- [Mint](/front-end/mint/mint.md)
 - [React](/front-end/react/react.md)
 - [Svelte](/front-end/svelte/svelte.md)
 - [Vue](/front-end/vue/vue.md)
