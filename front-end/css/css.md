@@ -14,6 +14,7 @@
 - [Utility First](https://tailwindcss.com/docs/utility-first)
 
 ## Bibliotecas
+- [Argon](https://demos.creative-tim.com/argon-design-system/index.html)
 - [Atomizer](https://github.com/acss-io/atomizer)
 - [Bootstrap](https://getbootstrap.com/)
 - [Buefy](https://buefy.org/)
@@ -46,3 +47,9 @@
 - [SASS](https://sass-lang.com/)
   - [SASS Meinster](https://www.sassmeister.com/)
 - [Stylus](https://stylus-lang.com/)
+
+## Templates
+- [Core UI](https://coreui.io/)
+- [Cruip](https://open.cruip.com/)
+- [Crystal Dashboard](https://jslancerteam.github.io/crystal-dashboard/#/)
+- [Tailwind Admin Dashboard](https://github.com/davidgrzyb/tailwind-admin-template)

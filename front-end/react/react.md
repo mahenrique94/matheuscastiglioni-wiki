@@ -30,11 +30,14 @@
 ### Componentes
 - [Ant Design](https://github.com/ant-design/ant-design/)
 - [Atomize](https://atomizecode.com/)
+- [BluePrintJS](https://blueprintjs.com/)
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
 - [Leva](https://github.com/pmndrs/leva)
 - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
 - [Material UI](https://material-ui.com/pt/)
+- [Notus React](https://demos.creative-tim.com/notus-react/?_ga=2.146436855.253176018.1614889298-744974027.1614551768#/)
+- [Now UI Kit React](https://demos.creative-tim.com/now-ui-kit-react/?_ga=2.190599531.1532807610.1618578024-670471949.1618578024#/index)
 - [PrimeReact](https://github.com/primefaces/primereact)
 - [React95](https://github.com/arturbien/React95)
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd)
@@ -70,18 +73,19 @@
 - [React Tooltip](https://github.com/wwayne/react-tooltip)
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)
+- [Rebass](https://github.com/rebassjs/rebass)
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
 - [Wouter](https://github.com/molefrog/wouter)
 
-## Desenvolvimento
+### Desenvolvimento
 - [React Cosmos](https://reactcosmos.org/)
 
-## Design
+### Design
 - [React Type](https://reactype.io/)
 
-## Diagramas
+### Diagramas
 - [React Flow](https://reactflow.dev/)
 
 ### Estilização
@@ -138,6 +142,14 @@
 - [React Query](https://github.com/tannerlinsley/react-query)
 - [RTK Query](https://github.com/rtk-incubator/rtk-query)
 - [SWR](https://github.com/vercel/swr)
+
+### Templates
+- [Bootstrapbay](https://bootstrapbay.com/theme/datta-able-free-reactjs-admin-dashboard-template-BFD950F)
+- [Design Revision](https://designrevision.com/downloads/shards-dashboard-lite-react/)
+- [Next.js Material Dashboard](https://www.creative-tim.com/product/nextjs-material-dashboard)
+- [React Blur Admin](https://github.com/knledg/react-blur-admin)
+- [React Landing Page](https://react-landing-page-template.herokuapp.com/)
+- [React Reduction](https://reduction-admin.github.io/react-reduction/)
 
 ### Track
 - [React GA](https://github.com/react-ga/react-ga)
