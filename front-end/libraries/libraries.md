@@ -19,6 +19,7 @@
 - [Lax.js](https://github.com/alexfoxy/lax.js)
 - [Lottie](https://github.com/airbnb/lottie)
   - [Lottie Web](https://github.com/airbnb/lottie-web)
+- [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
 - [SmoothStep](https://smoothstep.io/)
 
@@ -112,6 +113,10 @@
 - [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel)
 - [Flicking](https://github.com/naver/egjs-flicking)
 - [Tagify](https://github.com/yairEO/tagify)
+
+## Comunicação
+- [FoxQL](https://github.com/foxql/foxql)
+- [PeerJS](https://github.com/peers/peerjs)
 
 ## Crawlers
 - [PlayWRight](https://github.com/microsoft/playwright)
@@ -356,6 +361,7 @@
 - [RxJS](https://github.com/ReactiveX/rxjs)
 
 ## Realtime
+- [Geckos](https://github.com/geckosio/geckos.io)
 - [Socket.io](https://github.com/socketio/socket.io)
 
 ## Regex

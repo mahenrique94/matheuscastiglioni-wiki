@@ -44,6 +44,7 @@
 
 ## Indexação de dados
 - [ElasticSearch](https://www.elastic.co/)
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [Solr](https://lucene.apache.org/solr/)
 - [Sonic](https://crates.io/crates/sonic-server)
 

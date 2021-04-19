@@ -1,11 +1,15 @@
 # Monitoramento
 
+## Bugs
+- [BugHerd](https://bugherd.com/)
+
 ## Dashs
 - [Cube.js](https://github.com/cube-js/cube.js)
 - [Rockset](https://rockset.com/)
 
 ## Ferramentas
 - [AppDynamics](https://www.appdynamics.com/)
+- [Asayer](https://asayer.io/)
 - [Atera](https://www.atera.com/)
 - [DataDog](https://www.datadoghq.com/)
 - [FluentBit](https://fluentbit.io/)
@@ -24,6 +28,7 @@
 - [Spot](https://spot.io/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
 - [Zipkin](https://zipkin.io/)
+
 ## Usabilidade
 - [ClickTale](https://www.clicktale.com/)
 - [Hotjar](https://www.hotjar.com/)
