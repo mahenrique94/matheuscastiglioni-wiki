@@ -7,6 +7,7 @@
   - [GraphQL](/back-end/graphql/graphql.md)
   - [Java](/back-end/java/java.md)
   - [NodeJS](/back-end/nodejs/nodejs.md)
+  - [PHP](/back-end/php/php.md)
   - [Ruby](/back-end/ruby/ruby.md)
 - [Big Data](/big-data/big-data.md)
 - [Carreira](/career/career.md)

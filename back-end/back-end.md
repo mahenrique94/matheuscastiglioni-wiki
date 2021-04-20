@@ -7,4 +7,5 @@
 - [Java](/back-end/java/java.md)
 - [GraphQL](/back-end/graphql/graphql.md)
 - [NodeJS](/back-end/nodejs/nodejs.md)
+- [PHP](/back-end/php/php.md)
 - [Ruby](/back-end/ruby/ruby.md)

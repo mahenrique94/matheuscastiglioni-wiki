@@ -100,16 +100,6 @@
 - [Service Bus](https://docs.microsoft.com/pt-br/azure/service-bus-messaging/service-bus-messaging-overview)
 - [ZeroMQ](https://zeromq.org/)
 
-## Package Manager
-- [NPM](https://www.npmjs.com/)
-  - [Anvaka](http://npm.anvaka.com/)
-  - [BundlePhobia](https://bundlephobia.com/)
-  - [Moiva](https://moiva.io/)
-  - [NPM SemVer Calculator](https://semver.npmjs.com/)
-  - [NPM Trends](https://www.npmtrends.com/)
-- [Yarn](https://yarnpkg.com/)
-  - [Improved Yarn Audit](https://github.com/djfdyuruiry/improved-yarn-audit)
-
 ## Progressive Delivery
 - [Scientist](https://github.com/github/scientist)
 
