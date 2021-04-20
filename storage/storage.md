@@ -20,10 +20,13 @@
 - [MemCached](https://memcached.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
+  - [Tungsten](https://www.continuent.com/products/tungsten-replicator)
 - [Neo4j](https://neo4j.com/)
 - [OracleDB](https://www.oracle.com/br/database/)
+  - [Golden Gate](https://www.oracle.com/br/integration/goldengate/)
 - [OrbitDB](https://orbitdb.org/)
 - [PostgresQL](https://www.postgresql.org/)
+  - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
 - [QuestDB](https://questdb.io/)
 - [RAMCloud](https://ramcloud.atlassian.net/wiki/spaces/RAM/overview)
 - [RavenDB](https://ravendb.net/)
@@ -37,8 +40,10 @@
 - [VoltDB](https://www.voltdb.com/)
 
 ## Bibiliotecas
+- [Continuent](https://www.continuent.com/)
 - [Debezium](https://github.com/debezium/debezium)
 - [FlyWayDB](https://flywaydb.org/)
+- [Innobackupex](https://www.percona.com/doc/percona-xtrabackup/2.1/innobackupex/innobackupex_script.html)
 - [SchemaSpy](http://schemaspy.sourceforge.net/)
 - [Vitess](https://github.com/vitessio/vitess)
 

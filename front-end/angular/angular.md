@@ -1,6 +1,6 @@
 # Angular
 
-- - https://dev.to/haycuoilennao19/34-ui-libraries-for-react-vue-and-angular-525l
+- https://dev.to/haycuoilennao19/34-ui-libraries-for-react-vue-and-angular-525l
 
 ## Bibliotecas
 ### Analises
@@ -18,3 +18,6 @@
 
 ### Gráficos
 - [Angular2 Chartjs](https://github.com/emn178/angular2-chartjs)
+
+## Guias
+- https://update.angular.io/

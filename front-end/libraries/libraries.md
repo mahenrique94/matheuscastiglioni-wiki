@@ -254,6 +254,7 @@
 - [Delaunator](https://github.com/mapbox/delaunator)
 - [Dendron](https://www.dendron.so/)
 - [Frappe](https://github.com/frappe/charts)
+- [GraphVIZ](http://www.graphviz.org/)
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [Plotly.js](https://github.com/plotly/plotly.js)
 

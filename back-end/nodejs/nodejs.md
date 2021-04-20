@@ -72,6 +72,7 @@
 - [DotEnv](https://github.com/motdotla/dotenv)
 - [Loc](https://github.com/cgag/loc)
 - [Node Convict](https://github.com/mozilla/node-convict)
+- [Node Dependency Tree](https://github.com/dependents/node-dependency-tree)
 - [NPM Check Updates](https://github.com/raineorshine/npm-check-updates)
 
 ### Database

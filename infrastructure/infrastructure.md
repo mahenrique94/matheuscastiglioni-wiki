@@ -102,6 +102,7 @@
 
 ## Package Manager
 - [NPM](https://www.npmjs.com/)
+  - [Anvaka](http://npm.anvaka.com/)
   - [BundlePhobia](https://bundlephobia.com/)
   - [Moiva](https://moiva.io/)
   - [NPM SemVer Calculator](https://semver.npmjs.com/)
