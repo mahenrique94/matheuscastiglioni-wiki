@@ -13,6 +13,7 @@
 - [XML External Entities (XXE)](https://owasp.org/www-project-top-ten/2017/A4_2017-XML_External_Entities_(XXE))
 
 ## Ferramentas
+- [HCaptcha](https://www.hcaptcha.com/)
 - [Observatory Mozilla](https://observatory.mozilla.org/)
 - [Virus Total](https://www.virustotal.com)
 - [TypingDNA](https://www.typingdna.com/)

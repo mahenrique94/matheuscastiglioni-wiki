@@ -89,6 +89,7 @@
   - [Gloo](https://www.solo.io/products/gloo-mesh/)
   - [Istio](https://github.com/istio/istio)
     - [Kiali](https://kiali.io/)
+  - [Kong](https://konghq.com/)
 
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)
@@ -107,3 +108,13 @@
 - [Bash](https://pt.wikipedia.org/wiki/Bash)
 - [Makefile](https://www.gnu.org/software/make/manual/make.html)
 - [Shell Script](https://pt.wikipedia.org/wiki/Shell_script)
+
+## Servidores
+- [Apache](https://www.apache.org/)
+- [Glassfish](https://javaee.github.io/glassfish/)
+- [Jetty](https://www.eclipse.org/jetty/)
+- [NGINX](https://www.nginx.com/)
+- [OpenResty](https://openresty.org/en/)
+- [Tomcat](http://tomcat.apache.org/)
+- [Undertow](https://undertow.io/)
+- [Wildfly](https://www.wildfly.org/)
