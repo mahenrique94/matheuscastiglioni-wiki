@@ -24,6 +24,7 @@
 - [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 - [GoCD](https://www.gocd.org/)
 - [Jenkins](https://www.jenkins.io/)
+- [Krake CI](https://kraken.ci/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker)
 - [Travis CI](https://travis-ci.org/)
 
@@ -39,6 +40,7 @@
   - [Helm](https://helm.sh/)
   - [Knative](https://knative.dev/)
   - [Kubectx](https://github.com/ahmetb/kubectx)
+  - [KubeSQL](https://github.com/Dentrax/kubesql)
   - [Lens](https://k8slens.dev/)
   - [OpenFAAS](https://www.openfaas.com/)
   - [OpenShift](https://www.openshift.com/)
