@@ -47,6 +47,9 @@
 - [SchemaSpy](http://schemaspy.sourceforge.net/)
 - [Vitess](https://github.com/vitessio/vitess)
 
+## Ferramentas
+- [SQLDBM](https://sqldbm.com/Home/)
+
 ## Indexação de dados
 - [ElasticSearch](https://www.elastic.co/)
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)

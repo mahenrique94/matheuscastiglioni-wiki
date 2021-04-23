@@ -8,6 +8,7 @@
 
 ## Sites
 - [Freenom](https://www.freenom.com/pt/index.html)
+- [Lookup Icann](https://lookup.icann.org/)
 - [RegistroBR](https://registro.br/)
 - [GoDaddy](https://www.godaddy.com/pt-br)
 

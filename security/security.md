@@ -15,8 +15,9 @@
 ## Ferramentas
 - [HCaptcha](https://www.hcaptcha.com/)
 - [Observatory Mozilla](https://observatory.mozilla.org/)
-- [Virus Total](https://www.virustotal.com)
+- [SSL Trust](https://www.ssltrust.com.au/ssl-tools/website-security-check)
 - [TypingDNA](https://www.typingdna.com/)
+- [Virus Total](https://www.virustotal.com)
 
 ## Links
 - [OWASP](https://owasp.org/)

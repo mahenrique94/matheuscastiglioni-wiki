@@ -302,6 +302,7 @@
 - [Husky](https://github.com/typicode/husky)
 - [Lint Staged](https://github.com/okonet/lint-staged)
 - [Prettier](https://github.com/prettier/prettier)
+- [SemGrep](https://github.com/returntocorp/semgrep)
 - [Stylelint](https://github.com/stylelint/stylelint)
   - [Stylelint Config Recommended](https://github.com/stylelint/stylelint-config-recommended)
   - [Stylelint Config Standard](https://github.com/stylelint/stylelint-config-standard)

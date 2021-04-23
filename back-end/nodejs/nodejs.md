@@ -45,6 +45,7 @@
 - [Magic](https://magic.link/)
 - [Ory](https://github.com/ory/keto)
 - [Passport](https://github.com/jaredhanson/passport)
+- [Zanzibar](https://research.google/pubs/pub48190/)
 
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
