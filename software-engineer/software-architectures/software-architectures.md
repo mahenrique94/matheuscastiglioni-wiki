@@ -79,6 +79,8 @@
 - [C4](https://www.infoq.com/br/articles/C4-architecture-model/)
 - [Diagrama de Contexto](https://escritoriodeprojetos.com.br/diagrama-de-contexto)
 - [UML](https://pt.wikipedia.org/wiki/UML)
+  - [Plant Text](https://www.planttext.com/)
+  - [Plant UML](https://plantuml.com/)
 
 ## Links
 - https://github.com/DovAmir/awesome-design-patterns
