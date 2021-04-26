@@ -47,7 +47,7 @@
 - Realizar retros online ([https://funretro.io/](https://funretro.io/))
 - Reuniões online ([https://meet.jit.si/](https://meet.jit.si/))
 - Rodar aplicações à partir de repositórios públicos do Github ([https://runme.io](https://runme.io/))
-- Salas simultaneas para bate papo ([https://www.kumospace.com/](https://www.kumospace.com/))
+- Salas simultaneas para bate papo ([https://www.kumospace.com/](https://www.kumospace.com/) [https://gather.town/](https://gather.town/))
 - Simular chamadas para WebHooks ([https://requestbin.com/](https://requestbin.com/))
 - Timer colaborativo ([https://cuckoo.team/](https://cuckoo.team/))
 - Testar expressão regular ([https://regex101.com/](https://regex101.com/), [https://ihateregex.io/](https://ihateregex.io/))

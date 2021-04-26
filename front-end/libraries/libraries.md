@@ -135,8 +135,6 @@
 - [HyperScript](https://github.com/bigskysoftware/_hyperscript)
 - [Inertia.js](https://github.com/inertiajs/inertia)
 - [Intro.js](https://github.com/usablica/intro.js)
-- [Lit Element](https://github.com/Polymer/lit-element)
-- [Lit HTML](https://github.com/Polymer/lit-html)
 - [LWC](https://github.com/salesforce/lwc)
 - [Mint](https://github.com/mint-lang/mint)
 - [Moon](https://github.com/kbrsh/moon)
@@ -155,6 +153,7 @@
 - [Tornis](https://github.com/robb0wen/tornis)
 - [Typed.js](https://github.com/mattboldt/typed.js)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
+- [WinBox](https://github.com/nextapps-de/winbox)
 
 ## CSS in JS
 - [Emotion](https://github.com/emotion-js/emotion)
@@ -414,6 +413,11 @@
 
 ## WebAssembly
 - [Lucet](https://github.com/bytecodealliance/lucet)
+
+## WebComponents
+- [Lit](https://github.com/lit/lit)
+  - [Lit Element](https://github.com/Polymer/lit-element)
+  - [Lit HTML](https://github.com/Polymer/lit-html)
 
 ## Workers
 - [Comlink](https://github.com/GoogleChromeLabs/comlink)
