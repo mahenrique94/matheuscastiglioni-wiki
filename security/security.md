@@ -12,6 +12,9 @@
 - [Using Components With Known Vulnerabilities](https://owasp.org/www-project-top-ten/2017/A9_2017-Using_Components_with_Known_Vulnerabilities)
 - [XML External Entities (XXE)](https://owasp.org/www-project-top-ten/2017/A4_2017-XML_External_Entities_(XXE))
 
+## Bibliotecas
+- [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+
 ## Ferramentas
 - [HCaptcha](https://www.hcaptcha.com/)
 - [Observatory Mozilla](https://observatory.mozilla.org/)
