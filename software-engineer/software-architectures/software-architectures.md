@@ -76,9 +76,13 @@
 ## Documentação
 - [Archimate](https://elemarjr.com/arquivo/archimate-o-que-e-para-que-serve-e-como-comecar-a-aprender/#:~:text=Archimate%20%C3%A9%20uma%20linguagem%20visual,e%20aplica%C3%A7%C3%A3o%20bem%20mais%20amplos.)
   - [ArchimateTool](https://www.archimatetool.com/)
-- [C4](https://www.infoq.com/br/articles/C4-architecture-model/)
+- [C4 (Contexto, Containers, Componentes e Códigos)](https://www.infoq.com/br/articles/C4-architecture-model/)
+- [EDD (Engineering Design Docs)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 - [Diagrama de Contexto](https://escritoriodeprojetos.com.br/diagrama-de-contexto)
-- [UML](https://pt.wikipedia.org/wiki/UML)
+- [PRD (Product Requirements Document)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
+- [TDD (Technical Design Docs)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
+- [TRD (Technical Requirements Document)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
+- [UML (Unified Modeling Language)](https://pt.wikipedia.org/wiki/UML)
   - [Plant Text](https://www.planttext.com/)
   - [Plant UML](https://plantuml.com/)
 

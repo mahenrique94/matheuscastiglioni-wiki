@@ -12,6 +12,7 @@
 
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)
+- [Aulapp](https://www.aulapp.com.br/)
 - [Cataline](https://www.cataline.io/)
 - [Cod3r](https://www.cod3r.com.br/)
 - [Codecademy](https://www.codecademy.com/)
