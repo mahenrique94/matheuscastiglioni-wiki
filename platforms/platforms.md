@@ -26,7 +26,7 @@
 - Ferramenta para criar forum ([https://www.discourse.org/](https://www.discourse.org/), [https://flarum.org/](https://flarum.org/), [https://nodebb.org/](https://nodebb.org/))
 - Gamifique sua vida ([https://habitica.com/static/home](https://habitica.com/static/home))
 - Gerar breakpoints e srcset de imagens ([https://responsivebreakpoints.com/](https://responsivebreakpoints.com/))
-- Gerenciador de tempo em tarefas ([https://toggl.com/](https://toggl.com/))
+- Gerenciador de tempo em tarefas ([https://clockify.me/](https://clockify.me/) [https://toggl.com/](https://toggl.com/))
 - Hospedar imagens ([https://cloudinary.com/](https://cloudinary.com/))
 - Ícones free ([https://www.flaticon.com/](https://www.flaticon.com/))
 - IDEs Online ([https://jsitor.com](https://jsitor.com)], [https://codepen.io/](https://codepen.io/), [https://jsfiddle.net/](https://jsfiddle.net/), [https://repl.it/](https://repl.it/), [https://codesandbox.io/](https://codesandbox.io/), [https://jsbin.com/?html,output](https://jsbin.com/?html,output), [https://ideone.com/](https://ideone.com/))

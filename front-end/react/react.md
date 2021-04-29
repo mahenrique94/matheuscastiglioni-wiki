@@ -111,6 +111,7 @@
 ### Gerenciador de Estado
 - [Jotai](https://github.com/pmndrs/jotai)
 - [Recoil](https://recoiljs.org/)
+- [React Sweet State](https://github.com/atlassian/react-sweet-state)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
 - [UniStore](https://github.com/developit/unistore)
 - [Unstated Next](https://github.com/jamiebuilds/unstated-next)
