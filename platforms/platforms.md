@@ -2,6 +2,7 @@
 
 - Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/))
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/))
+- Chamadas remotas ([https://usetalk.io/](https://usetalk.io/))
 - Colaboração online (Documentação, fluxogramas, mapas mentais, wireframes, postits)([https://whimsical.com/](https://whimsical.com/))
 - Comprimir imagens ([https://compressor.io/](https://compressor.io/))
 - Converter formatos de vídeo ([https://cloudconvert.com/](https://cloudconvert.com/))
@@ -52,4 +53,4 @@
 - Timer colaborativo ([https://cuckoo.team/](https://cuckoo.team/))
 - Testar expressão regular ([https://regex101.com/](https://regex101.com/), [https://ihateregex.io/](https://ihateregex.io/))
 - Transferir arquivos ([https://wetransfer.com/](https://wetransfer.com/))
-- Whiteboard para dinâmicas ([https://miro.com/](https://miro.com/), [https://www.mural.co/](https://www.mural.co/))
+- Whiteboard para dinâmicas ([https://www.figma.com/figjam/](https://www.figma.com/figjam/), [https://miro.com/](https://miro.com/), [https://www.mural.co/](https://www.mural.co/))
