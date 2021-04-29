@@ -124,6 +124,10 @@
 - [Victory](https://github.com/FormidableLabs/victory)
 - [VisX](https://github.com/airbnb/visx)
 
+## HOC
+- [Recompose](https://github.com/acdlite/recompose)
+- [Recompact](https://github.com/gregberge/recompact)
+
 ### Hooks
 - [AHooks](https://ahooks.js.org/)
 - [React Adaptive Hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
