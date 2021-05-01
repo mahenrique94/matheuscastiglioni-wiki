@@ -139,6 +139,7 @@
 - [Mint](https://github.com/mint-lang/mint)
 - [Moon](https://github.com/kbrsh/moon)
 - [Mosaic](https://github.com/Authman2/Mosaic/)
+- [Neo](https://github.com/neomjs/neo)
 - [OpenMCT](https://github.com/nasa/openmct)
 - [PopperCore](https://github.com/popperjs/popper-core)
 - [Preact](https://github.com/preactjs/preact)

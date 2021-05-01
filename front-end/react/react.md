@@ -78,6 +78,7 @@
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)
 - [Rebass](https://github.com/rebassjs/rebass)
+- [Replay](https://github.com/vimond/replay)
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
