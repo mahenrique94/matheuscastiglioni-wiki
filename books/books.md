@@ -1,6 +1,7 @@
 # Livros
 
 ## Arquitetura
+- [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com.br/Building-Event-Driven-Microservices-Leveraging-Organizational-ebook/dp/B08C9V1FC9/ref=asc_df_B08C9V1FC9/?tag=googleshopp00-20&linkCode=df0&hvadid=452952491673&hvpos=&hvnetw=g&hvrand=5684167765196931599&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-936910562799&psc=1)
 - [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com.br/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com.br/Building-Microservices-Second-Sam-Newman/dp/1492034029/ref=asc_df_1492034029/?tag=googleshopp00-20&linkCode=df0&hvadid=379733272930&hvpos=&hvnetw=g&hvrand=4222125241391095705&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-464425939893&psc=1)
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com.br/Chaos-Engineering-Casey-Rosenthal/dp/1492043869)
@@ -14,6 +15,7 @@
 - [Implementing Domain-Driven Design](https://www.amazon.com.br/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - [Learning JavaScript Data Structures and Algorithms](https://www.packtpub.com/product/learning-javascript-data-structures-and-algorithms-third-edition/9781788623872)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848)
+- [Microservices – Up and Running: A Step-By-Step Guide to Building a Microservices Architecture](https://www.amazon.com.br/Microservices-Step-Step-Microservice-Architecture/dp/1492075450)
 - [Patterns Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)

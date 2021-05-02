@@ -3,6 +3,7 @@
 ## Banco de Dados
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
 - [DBeaver](https://dbeaver.io/)
+- [HeidiSQL](https://www.heidisql.com/)
 - [RazorSQL](https://razorsql.com/)
 - [SquirrelSQL](http://squirrel-sql.sourceforge.net/)
 - [TablePlus](https://tableplus.com/)
