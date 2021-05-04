@@ -102,6 +102,7 @@
   - [Awesome Styled Components](https://github.com/styled-components/awesome-styled-components)
   - [Polished](https://github.com/styled-components/polished)
   - [VSCode Styled Components](https://github.com/styled-components/vscode-styled-components)
+- [Stitches](https://stitches.dev/)
 - [Styled System](https://github.com/styled-system/styled-system)
 - [ThemeUI](https://github.com/system-ui/theme-ui)
 - [XStyled](https://xstyled.dev/)

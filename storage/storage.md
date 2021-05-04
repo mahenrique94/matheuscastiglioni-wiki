@@ -41,11 +41,17 @@
 
 ## Bibiliotecas
 - [Continuent](https://www.continuent.com/)
-- [Debezium](https://github.com/debezium/debezium)
 - [FlyWayDB](https://flywaydb.org/)
 - [Innobackupex](https://www.percona.com/doc/percona-xtrabackup/2.1/innobackupex/innobackupex_script.html)
 - [SchemaSpy](http://schemaspy.sourceforge.net/)
 - [Vitess](https://github.com/vitessio/vitess)
+
+
+## CDC (Change Data Capture)
+- [Apache Gobblin](https://gobblin.apache.org/)
+- [Apache Nifi](https://nifi.apache.org/)
+- [Debezium](https://github.com/debezium/debezium)
+- [Maxwells](https://maxwells-daemon.io/)
 
 ## Ferramentas
 - [SQLDBM](https://sqldbm.com/Home/)

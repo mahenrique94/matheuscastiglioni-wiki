@@ -9,7 +9,6 @@
 - [Apache Drill](https://drill.apache.org/)
 - [Apache Druid](https://druid.apache.org/)
 - [Apache Hive](https://hive.apache.org/)
-- [Apache Nifi](https://nifi.apache.org/)
 - [Apache Pig](https://pig.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
 - [Apache Tajo](https://tajo.apache.org/)
