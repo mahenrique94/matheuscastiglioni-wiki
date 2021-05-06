@@ -5,6 +5,7 @@
 - [Cucumber.js](https://github.com/cucumber/cucumber-js)
 - [Detox](https://github.com/wix/Detox)
 - [Expect.js](https://github.com/Automattic/expect.js)
+- [Fortio](https://fortio.org/)
 - [JSDom](https://github.com/jsdom/jsdom)
 - [K6](https://k6.io/)
 - [Mirage.js](https://github.com/miragejs/miragejs)
