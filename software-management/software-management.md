@@ -48,6 +48,9 @@
 - [Gestão 3.0](https://www.culturaagil.com.br/management-3-0-o-metodo-agil-de-gestao-empresarial/#:~:text=Management%203.0%20%C3%A9%20um%20termo,o%20crescimento%20da%20estrutura%20empresarial.)
 - [Gestão 4.0](https://www.amazon.com.br/Management-4-0-Alfred-Oswald/dp/3743189291)
 
+## Matrizes
+- [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
+
 ## Metodologias
 - [Agile](https://www.guru99.com/agile-scrum-extreme-testing.html#:~:text=AGILE%20methodology%20is%20a%20practice,concurrent%2C%20unlike%20the%20Waterfall%20model.)
   - [Scrum](https://digital.ai/resources/agile-101/what-is-scrum#:~:text=Scrum%20is%20an%20agile%20project,capability%20every%202%2D4%20weeks.)

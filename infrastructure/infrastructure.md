@@ -97,6 +97,7 @@
 - [ActiveMQ](https://activemq.apache.org/)
 - [Apache Kafka](https://kafka.apache.org/)
 - [Apache Pulsar](https://pulsar.apache.org/)
+- [Apache Samza](http://samza.apache.org/)
 - [Debezium](https://debezium.io/)
 - [HornetQ](https://hornetq.jboss.org/)
 - [NATS](https://nats.io/)

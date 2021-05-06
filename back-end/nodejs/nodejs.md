@@ -76,6 +76,10 @@
 - [Node Dependency Tree](https://github.com/dependents/node-dependency-tree)
 - [NPM Check Updates](https://github.com/raineorshine/npm-check-updates)
 
+### Conversões
+- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+- [Mux.js](https://github.com/videojs/mux.js)
+
 ### Database
 - [LokiJS](https://github.com/techfort/LokiJS)
 

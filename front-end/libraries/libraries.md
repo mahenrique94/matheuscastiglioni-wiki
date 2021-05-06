@@ -259,6 +259,7 @@
 - [Plotly.js](https://github.com/plotly/plotly.js)
 
 ## Icones
+- [FlagPack](https://flagpack.xyz/)
 - [FontAwesome](https://fontawesome.com/)
 - [FontEllo](https://fontello.com/)
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
