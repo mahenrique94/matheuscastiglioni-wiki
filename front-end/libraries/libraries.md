@@ -158,6 +158,7 @@
 
 ## CSS in JS
 - [Emotion](https://github.com/emotion-js/emotion)
+- [Fower](https://fower.vercel.app/)
 - [Goober](https://github.com/cristianbote/goober)
 - [JSS](https://github.com/cssinjs/jss)
 - [Linaria](https://github.com/callstack/linaria)
@@ -264,6 +265,7 @@
 - [FontEllo](https://fontello.com/)
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
 - [IconDuck](https://iconduck.com/)
+- [Iconic](https://iconic.app/)
 - [RemixIcon](https://remixicon.com/)
 - [SVG Repo](https://www.svgrepo.com/)
 
