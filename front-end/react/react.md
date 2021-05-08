@@ -35,6 +35,7 @@
 - [Connected React Router](https://github.com/supasate/connected-react-router)
 - [Hook Router](https://github.com/Paratron/hookrouter)
 - [Leva](https://github.com/pmndrs/leva)
+- [Mantine](https://mantine.dev/)
 - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
 - [Material UI](https://material-ui.com/pt/)
 - [Notus React](https://demos.creative-tim.com/notus-react/?_ga=2.146436855.253176018.1614889298-744974027.1614551768#/)

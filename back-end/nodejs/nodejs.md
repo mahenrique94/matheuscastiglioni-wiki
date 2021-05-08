@@ -66,6 +66,7 @@
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [Meow](https://github.com/sindresorhus/meow)
 - [Yargs](https://github.com/yargs/yargs)
+- [ZX](https://github.com/google/zx)
 
 ### Configuração
 - [Cloc](https://github.com/AlDanial/cloc)
