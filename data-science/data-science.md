@@ -9,6 +9,7 @@
 - [Tabula](https://pypi.org/project/tabula-py/)
 
 ## Ferramentas
+- [Doccano](https://github.com/doccano/doccano)
 - [Google Collab](https://colab.research.google.com/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Scikit Learn](https://scikit-learn.org/stable/)

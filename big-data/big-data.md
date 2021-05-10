@@ -6,11 +6,14 @@
 - [Vertica](https://www.vertica.com/)
 
 ## Bibliotecas
+- [Amundsen](https://www.amundsen.io/)
+- [Apache Atlas](https://atlas.apache.org/#/)
 - [Apache Drill](https://drill.apache.org/)
 - [Apache Druid](https://druid.apache.org/)
 - [Apache Hive](https://hive.apache.org/)
 - [Apache Pig](https://pig.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
+- [Apache Superset](https://superset.apache.org/)
 - [Apache Tajo](https://tajo.apache.org/)
 - [AWS Athena](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 - [AWS Glue](https://aws.amazon.com/pt/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
