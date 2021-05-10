@@ -1,6 +1,15 @@
 # Acessibilidade
 O que é acessibilidade? https://www.youtube.com/watch?v=pOmdL9LzDJg
 
+## Bibliotecas
+- [Axe Core](https://github.com/dequelabs/axe-core-npm)
+- [Cypress Axe](https://github.com/component-driven/cypress-axe)
+- [Jest Axe](https://github.com/nickcolley/jest-axe)
+- [JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
+
+## Ferramentas
+- [Wave a11y](https://wave.webaim.org/)
+
 ## Leitores de Tela
 - [Chrome Vox](https://chrome.google.com/webstore/detail/chromevox-classic-extensi/kgejglhpjiefppelpmljglcjbhoiplfn)
 - [Jaws](https://www.freedomscientific.com/products/software/jaws/)

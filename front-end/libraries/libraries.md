@@ -299,6 +299,7 @@
 - [ESLint](https://github.com/eslint/eslint)
   - [ESLint Plugin Clean Regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex)
   - [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
+  - [ESLint Plugin JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
   - [ESLint Plugin Security](https://github.com/nodesecurity/eslint-plugin-security)
 - [ESUtils](https://github.com/estools/esutils)
 - [HTMLHint](https://github.com/htmlhint/HTMLHint)
