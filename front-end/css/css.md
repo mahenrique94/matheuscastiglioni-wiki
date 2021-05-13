@@ -20,6 +20,7 @@
 - [Buefy](https://buefy.org/)
 - [Bulma](https://bulma.io/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
+- [CSS Nano](https://github.com/cssnano/cssnano)
 - [Foundation](https://get.foundation/)
 - [Halfmoon](https://github.com/halfmoonui/halfmoon)
 - [Materialize CSS](https://materializecss.com/)

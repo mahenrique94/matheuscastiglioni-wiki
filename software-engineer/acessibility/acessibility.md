@@ -8,6 +8,7 @@ O que é acessibilidade? https://www.youtube.com/watch?v=pOmdL9LzDJg
 - [JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
 
 ## Ferramentas
+- [aXe](https://www.deque.com/axe/)
 - [Wave a11y](https://wave.webaim.org/)
 
 ## Leitores de Tela
