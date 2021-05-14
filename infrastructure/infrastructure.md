@@ -87,6 +87,8 @@
 - [Split](https://www.split.io/)
 
 ## Ferramentas
+- Microsserviços
+  - [Crossbar](https://crossbar.io/)
 - Service Mesh
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
   - [Gloo](https://www.solo.io/products/gloo-mesh/)
@@ -96,9 +98,12 @@
 
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)
+- [Apache Beam](https://beam.apache.org/)
+- [Apache Heron](https://incubator.apache.org/clutch/heron.html)
 - [Apache Kafka](https://kafka.apache.org/)
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [Apache Samza](http://samza.apache.org/)
+- [Apache Storm](https://storm.apache.org/)
 - [Debezium](https://debezium.io/)
 - [HornetQ](https://hornetq.jboss.org/)
 - [NATS](https://nats.io/)

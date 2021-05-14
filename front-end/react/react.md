@@ -72,6 +72,7 @@
 - [React Router](https://github.com/ReactTraining/react-router)
 - [React Select](https://github.com/JedWatson/react-select)
 - [React SimpleMDE Editor](https://github.com/RIP21/react-simplemde-editor)
+- [React Syntax Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
 - [React Star Rating Component](https://github.com/voronianski/react-star-rating-component)
 - [React Stick](https://github.com/akiran/react-slick)
 - [React Suite](https://github.com/rsuite/rsuite)
