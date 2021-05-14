@@ -21,6 +21,7 @@
 - [WireMock](http://wiremock.org/)
 
 ## Ferramentas
+- [CasperJS](https://www.casperjs.org/)
 - [Chai](https://www.chaijs.com/)
 - [Jasmine](https://github.com/jasmine/jasmine)
   - [Jasmine AJAX](https://github.com/jasmine/jasmine-ajax)
@@ -30,9 +31,12 @@
   - [TSJest](https://github.com/kulshekhar/ts-jest)
 - [Karma](https://karma-runner.github.io/latest/index.html)
 - [Mocha](https://mochajs.org/)
+- [PhantomCSS](https://github.com/HuddleEng/PhantomCSS)
+- [PhantomJS](https://phantomjs.org/)
 - [Sinon](https://sinonjs.org/)
 - [Testing Library](https://testing-library.com/)
   - [React Testing Library](https://github.com/testing-library/react-testing-library)
+- [SlimerJS](https://slimerjs.org/)
 
 ## E2E
 - [BrowserStack](https://www.browserstack.com/)
