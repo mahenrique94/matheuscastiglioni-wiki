@@ -6,6 +6,7 @@
 - [Cocos Creator](https://www.cocos.com/en)
 - [Construct](https://www.construct.net/en)
 - [CRYEngine](https://www.cryengine.com/)
+- [Eva.js](https://github.com/eva-engine/eva.js)
 - [Godot](https://godotengine.org/)
 - [KaboomJS](https://kaboomjs.com)
 - [P5JS](https://p5js.org/)

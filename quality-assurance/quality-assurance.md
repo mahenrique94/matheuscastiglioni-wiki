@@ -37,6 +37,7 @@
 - [Testing Library](https://testing-library.com/)
   - [React Testing Library](https://github.com/testing-library/react-testing-library)
 - [SlimerJS](https://slimerjs.org/)
+- [Spearmint](https://github.com/open-source-labs/spearmint)
 
 ## E2E
 - [BrowserStack](https://www.browserstack.com/)

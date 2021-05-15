@@ -19,6 +19,7 @@
 - [Lax.js](https://github.com/alexfoxy/lax.js)
 - [Lottie](https://github.com/airbnb/lottie)
   - [Lottie Web](https://github.com/airbnb/lottie-web)
+- [Mo.js](https://github.com/mojs/mojs)
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
 - [SmoothStep](https://smoothstep.io/)
