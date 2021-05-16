@@ -40,6 +40,7 @@
   - [Helm](https://helm.sh/)
   - [Knative](https://knative.dev/)
   - [Kubectx](https://github.com/ahmetb/kubectx)
+  - [Kubeless](https://kubeless.io/)
   - [KubeSQL](https://github.com/Dentrax/kubesql)
   - [Lens](https://k8slens.dev/)
   - [OpenFAAS](https://www.openfaas.com/)
