@@ -89,6 +89,8 @@
 
 ## Ferramentas
 - Microsserviços
+  - [Apache Curator](https://curator.apache.org/)
+  - [Apache Zookeeper](https://zookeeper.apache.org/)
   - [Crossbar](https://crossbar.io/)
 - Service Mesh
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)

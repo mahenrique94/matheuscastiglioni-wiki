@@ -23,6 +23,8 @@
 - [Virus Total](https://www.virustotal.com)
 
 ## Links
+- [Firefox Monitor](https://monitor.firefox.com/)
+- [Haveibeenpwned](https://haveibeenpwned.com/)
 - [OWASP](https://owasp.org/)
 
 ## Pessoas
