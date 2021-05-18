@@ -49,6 +49,11 @@
   - [SASS Meinster](https://www.sassmeister.com/)
 - [Stylus](https://stylus-lang.com/)
 
+## Reset CSS
+- [CSS Reset Meyer](https://meyerweb.com/eric/tools/css/reset/)
+- [Modern CSS Reset](https://github.com/andy-piccalilli/modern-css-reset)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+
 ## Templates
 - [Core UI](https://coreui.io/)
 - [Cruip](https://open.cruip.com/)
