@@ -20,6 +20,15 @@
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 - [WireMock](http://wiremock.org/)
 
+## E2E
+- [BrowserStack](https://www.browserstack.com/)
+- [Codecept](https://codecept.io/)
+- [Cypress](https://www.cypress.io/)
+- [LocalStack](https://localstack.cloud/)
+- [Protactor](https://www.protractortest.org/#/)
+- [Selenium](https://www.selenium.dev/)
+- [TestCafe](https://devexpress.github.io/testcafe/)
+
 ## Ferramentas
 - [CasperJS](https://www.casperjs.org/)
 - [Chai](https://www.chaijs.com/)
@@ -37,16 +46,9 @@
 - [Testing Library](https://testing-library.com/)
   - [React Testing Library](https://github.com/testing-library/react-testing-library)
 - [SlimerJS](https://slimerjs.org/)
+- [SonarQube](https://www.sonarqube.org/)
+  - [Sonar Qube SAST](https://www.sonarqube.org/features/security/sast/)
 - [Spearmint](https://github.com/open-source-labs/spearmint)
-
-## E2E
-- [BrowserStack](https://www.browserstack.com/)
-- [Codecept](https://codecept.io/)
-- [Cypress](https://www.cypress.io/)
-- [LocalStack](https://localstack.cloud/)
-- [Protactor](https://www.protractortest.org/#/)
-- [Selenium](https://www.selenium.dev/)
-- [TestCafe](https://devexpress.github.io/testcafe/)
 
 ## Links
 - https://github.com/goldbergyoni/javascript-testing-best-practices

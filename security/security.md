@@ -14,6 +14,9 @@
 
 ## Bibliotecas
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+- [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit/)
+  - [NPM Audit HTML](https://github.com/eventOneHQ/npm-audit-html)
+- [Retire.js](https://github.com/RetireJS/retire.js)
 
 ## Ferramentas
 - [HCaptcha](https://www.hcaptcha.com/)
@@ -30,3 +33,8 @@
 ## Pessoas
 - [Crackers](https://pt.wikipedia.org/wiki/Cracker)
 - [Hackers](https://pt.wikipedia.org/wiki/Hacker)
+
+## Plataformas
+- [Snyk](https://snyk.io/)
+- [SonarQube](https://www.sonarqube.org/)
+  - [Sonar Qube SAST](https://www.sonarqube.org/features/security/sast/)
