@@ -125,7 +125,6 @@
 - [Nivo](https://github.com/plouc/nivo)
 - [React Vis](https://github.com/uber/react-vis)
 - [Recharts](https://github.com/recharts/recharts)
-- [Remotion](https://www.remotion.dev/)
 - [Victory](https://github.com/FormidableLabs/victory)
 - [VisX](https://github.com/airbnb/visx)
 
@@ -171,6 +170,9 @@
 
 ### Validação
 - [PropTypes](https://github.com/facebook/prop-types)
+
+### Videos
+- [Remotion](https://www.remotion.dev/)
 
 ## Frameworks
 - [Relay](https://github.com/facebook/relay)
