@@ -144,6 +144,7 @@
 - [React Confirm Bootstrap](https://github.com/gregthebusker/react-confirm-bootstrap)
 
 ### Performance
+- [FusionJS](https://github.com/fusionjs/fusionjs)
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [React Lazyload](https://github.com/twobin/react-lazyload)
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
