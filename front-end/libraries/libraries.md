@@ -267,6 +267,7 @@
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
+- [Iconoir](https://iconoir.com/)
 - [RemixIcon](https://remixicon.com/)
 - [SVG Repo](https://www.svgrepo.com/)
 

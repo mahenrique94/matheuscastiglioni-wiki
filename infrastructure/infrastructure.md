@@ -26,6 +26,7 @@
 - [Jenkins](https://www.jenkins.io/)
 - [Krake CI](https://kraken.ci/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker)
+- [Tekton](https://tekton.dev/)
 - [Travis CI](https://travis-ci.org/)
 
 ## Containers/Virtualização

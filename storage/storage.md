@@ -34,6 +34,7 @@
 - [RethinkDB](https://rethinkdb.com/)
 - [Riak](https://riak.com/)
 - [RocksDB](https://rocksdb.org/)
+- [RonDB](https://www.rondb.com/)
 - [SingleStore](https://www.singlestore.com/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [TileDB](https://tiledb.com)

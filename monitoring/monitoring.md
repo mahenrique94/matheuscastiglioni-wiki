@@ -16,6 +16,7 @@
 - [Grafana](https://grafana.com/)
 - [HoneyComb](https://www.honeycomb.io/)
 - [Humio](https://www.humio.com/)
+- [Hypertrace](https://www.hypertrace.org/)
 - [Jaeger](https://www.jaegertracing.io/)
 - [Kibana](https://www.elastic.co/pt/kibana)
 - [LightStep](https://lightstep.com/)
