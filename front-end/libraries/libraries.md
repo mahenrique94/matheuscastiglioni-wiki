@@ -281,6 +281,7 @@
 - [FaceAPI](https://github.com/justadudewhohacks/face-api.js)
 - [FreezeFrame.js](https://github.com/ctrl-freaks/freezeframe.js)
 - [LazySizes](https://github.com/aFarkas/lazysizes)
+- [Light Gallery](https://github.com/sachinchoolur/lightGallery)
 - [Resemble.js](https://github.com/rsmbl/Resemble.js)
 - [Spotlight](https://github.com/nextapps-de/spotlight)
 - [UpScalerJS](https://github.com/thekevinscott/UpscalerJS)
