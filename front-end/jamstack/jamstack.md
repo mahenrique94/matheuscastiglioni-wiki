@@ -14,6 +14,7 @@ https://jamstack.org
 - [Jekyll](https://jekyllrb.com/)
 - [Meli](https://docs.meli.sh/)
 - [Next.js](https://github.com/vercel/next.js)
+  - [Nookies](https://github.com/maticzav/nookies)
   - [Plasmic](https://www.plasmic.app/)
 - [Obelisk](https://github.com/BennyHallett/obelisk)
 - [RedWood](https://github.com/redwoodjs/redwood)
