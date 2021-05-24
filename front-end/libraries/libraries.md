@@ -271,6 +271,10 @@
 - [RemixIcon](https://remixicon.com/)
 - [SVG Repo](https://www.svgrepo.com/)
 
+## Identificação
+- [CUID](https://github.com/ericelliott/cuid)
+- [UUID](https://github.com/uuidjs/uuid)
+
 ## Imagens
 - [Bounds.js](https://github.com/ChrisCavs/bounds.js)
 - [CamanJS](http://camanjs.com/)
