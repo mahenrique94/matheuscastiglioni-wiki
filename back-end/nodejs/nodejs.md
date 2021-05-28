@@ -132,6 +132,9 @@
 - [PollyJS](https://github.com/Netflix/pollyjs)
 - [Retool](https://retool.com/api-generator)
 
+### Notificação
+- [Node Notifier](https://github.com/mikaelbr/node-notifier)
+
 ### ORM
 - [BookShelf](https://bookshelfjs.org/)
 - [Mongoose](https://github.com/Automattic/mongoose)

@@ -23,6 +23,7 @@
 - [CSS Nano](https://github.com/cssnano/cssnano)
 - [Foundation](https://get.foundation/)
 - [Halfmoon](https://github.com/halfmoonui/halfmoon)
+- [Helsinki Design System](https://hds.hel.fi/)
 - [Materialize CSS](https://materializecss.com/)
 - [Milligram](https://milligram.io/)
 - [Primer](https://primer.style/)
