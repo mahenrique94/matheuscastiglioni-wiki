@@ -76,11 +76,16 @@
 - [Strangler](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
 ## Documentação
+- [4+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
 - [Archimate](https://elemarjr.com/arquivo/archimate-o-que-e-para-que-serve-e-como-comecar-a-aprender/#:~:text=Archimate%20%C3%A9%20uma%20linguagem%20visual,e%20aplica%C3%A7%C3%A3o%20bem%20mais%20amplos.)
   - [ArchimateTool](https://www.archimatetool.com/)
+- [ASR's](https://en.wikipedia.org/wiki/Architecturally_significant_requirements)
 - [C4 (Contexto, Containers, Componentes e Códigos)](https://www.infoq.com/br/articles/C4-architecture-model/)
 - [EDD (Engineering Design Docs)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
+- [FR's](https://en.wikipedia.org/wiki/Functional_requirement)
+- [NFR's](https://en.wikipedia.org/wiki/Non-functional_requirement)
 - [Diagrama de Contexto](https://escritoriodeprojetos.com.br/diagrama-de-contexto)
+- [PASSME](https://jfdeclercq.biz/en/2016/06/02/passme/)
 - [PRD (Product Requirements Document)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 - [TDD (Technical Design Docs)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 - [TRD (Technical Requirements Document)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)

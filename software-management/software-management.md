@@ -49,6 +49,9 @@
 - [Gestão 4.0](https://www.amazon.com.br/Management-4-0-Alfred-Oswald/dp/3743189291)
 
 ## Matrizes
+- [Influence-importance map](https://medium.com/@nvashanin/stakeholders-in-software-architecture-6d18f36250f9)
+- [MOSCOW](https://sitecampus.com.br/tecnica-moscow-na-priorizacao-dos-requisitos/)
+- [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
 
 ## Metodologias
