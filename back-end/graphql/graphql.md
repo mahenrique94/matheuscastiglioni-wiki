@@ -10,3 +10,4 @@ O que é GraphQL? https://graphql.org/
 ### Ferramentas
 - [Altair](https://altair.sirmuel.design/)
 - [GraphQL Toolbox](https://www.graphqltoolbox.com/)
+- [Hasura](https://hasura.io/)
