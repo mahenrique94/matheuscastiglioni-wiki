@@ -161,9 +161,11 @@
 - [Node CSV](https://github.com/adaltas/node-csv)
 
 ### Process
+- [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
 - [Nodemon](https://github.com/remy/nodemon)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [PM2](https://github.com/Unitech/pm2)
+- [WSRun](https://github.com/hfour/wsrun)
 
 ### Query Builder
 - [Knex](https://github.com/knex/knex)
