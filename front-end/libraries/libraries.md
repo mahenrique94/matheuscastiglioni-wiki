@@ -278,6 +278,7 @@
 - [UUID](https://github.com/uuidjs/uuid)
 
 ## Imagens
+- [Boring avatars](https://github.com/boringdesigners/boring-avatars)
 - [Bounds.js](https://github.com/ChrisCavs/bounds.js)
 - [CamanJS](http://camanjs.com/)
 - [CompressorJS](https://github.com/fengyuanchen/compressorjs)

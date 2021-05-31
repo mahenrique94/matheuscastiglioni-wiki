@@ -196,6 +196,9 @@
 ### Threads
 - [Piscina](https://github.com/piscinajs/piscina)
 
+### Tipagem
+- [TRPC](https://trpc.io/)
+
 ### Utils
 - [Node APP Root Path](https://github.com/inxilpro/node-app-root-path)
 - [Replace In File](https://github.com/adamreisnz/replace-in-file)
