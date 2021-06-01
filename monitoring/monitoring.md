@@ -5,6 +5,8 @@
 
 ## Dashs
 - [Cube.js](https://github.com/cube-js/cube.js)
+- [Metabase](https://www.metabase.com/)
+- [Retool](https://retool.com/)
 - [Rockset](https://rockset.com/)
 
 ## Ferramentas
