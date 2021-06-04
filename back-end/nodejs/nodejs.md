@@ -1,6 +1,7 @@
 # NodeJS
 
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
+- [Awesome NodeJS Security](https://github.com/lirantal/awesome-nodejs-security)
 - [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Node Developer Roadmap for 2021](https://medium.com/javascript-in-plain-english/node-js-developer-roadmap-for-2021-2ae9c057bff4)
 
@@ -162,6 +163,7 @@
 
 ### Process
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
+- [Forever](https://github.com/foreversd/forever)
 - [Nodemon](https://github.com/remy/nodemon)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [PM2](https://github.com/Unitech/pm2)

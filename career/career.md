@@ -33,6 +33,7 @@
 - [Rocketseat](https://rocketseat.com.br/)
 - [Skore](https://www.skore.io/)
 - [School of Net](https://www.schoolofnet.com/)
+- [TreinaWeb](https://www.treinaweb.com.br/)
 - [Udemy](https://www.udemy.com/pt/)
 
 ## Plataformas para mentoria
