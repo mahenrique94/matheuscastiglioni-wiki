@@ -33,6 +33,7 @@
 - [BluePrintJS](https://blueprintjs.com/)
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
+- [DND Kit](https://github.com/clauderic/dnd-kit)
 - [Hook Router](https://github.com/Paratron/hookrouter)
 - [Leva](https://github.com/pmndrs/leva)
 - [Mantine](https://mantine.dev/)
