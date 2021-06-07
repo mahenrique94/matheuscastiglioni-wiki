@@ -202,6 +202,7 @@
 ## Editor
 - [CKEditor](https://ckeditor.com/)
 - [Editor.js](https://github.com/codex-team/editor.js)
+- [Milkdown](https://github.com/Saul-Mirone/milkdown)
 - [Quill](https://quilljs.com/)
 - [SimpleMDE MarkDown Editor](https://github.com/sparksuite/simplemde-markdown-editor)
 - [TinyMCE](https://github.com/tinymce/tinymce)
