@@ -6,6 +6,10 @@
 - [Open FAAS](https://www.openfaas.com/)
 - [Seed](https://seed.run/)
 
+## Frameworks
+- [serverless](https://www.serverless.com/)
+- [SST](https://github.com/serverless-stack/serverless-stack)
+
 ## Provedores
 - [AWS Lambda](https://aws.amazon.com/pt/lambda/)
 - [Google Cloud Functions](https://cloud.google.com/functions)
