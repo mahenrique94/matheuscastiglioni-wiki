@@ -276,6 +276,7 @@
 
 ## Identificação
 - [CUID](https://github.com/ericelliott/cuid)
+- [NanoID](https://github.com/ai/nanoid/)
 - [UUID](https://github.com/uuidjs/uuid)
 
 ## Imagens

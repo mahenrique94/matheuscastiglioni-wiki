@@ -115,6 +115,10 @@
 ### Images
 - [Sharp](https://github.com/lovell/sharp)
 
+## Injeção de Dependência
+- [Awilix](https://github.com/jeffijoe/awilix)
+- [Inversify](https://inversify.io/)
+
 ### Instalação
 - [N](https://github.com/tj/n)
 - [NVM](https://github.com/nvm-sh/nvm)
