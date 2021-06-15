@@ -141,6 +141,7 @@
 - [React Hanger](https://github.com/kitze/react-hanger)
 - [React Responsive](https://github.com/contra/react-responsive)
 - [React Use](https://github.com/streamich/react-use)
+- [Use Context Selector](https://github.com/dai-shi/use-context-selector)
 
 ### Modal
 - [React Confirm Bootstrap](https://github.com/gregthebusker/react-confirm-bootstrap)

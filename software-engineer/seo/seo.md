@@ -4,8 +4,11 @@
 - [Estimator](https://estimator.dev/)
 - [GTMetrix](https://gtmetrix.com)
 - [LightHouse](https://developers.google.com/web/tools/lighthouse?hl=pt_br)
-- [WebPageTest](https://www.webpagetest.org/)
 - [ScreamingFrog](https://www.screamingfrog.co.uk/)
+- [YellowLab](https://yellowlab.tools/)
+- [Waterfaller](https://waterfaller.dev/)
+- [WebPageTest](https://www.webpagetest.org/)
+- [WebHint](https://webhint.io/)
 
 ## Práticas
 - [Compactação](https://developers.google.com/speed/docs/insights/EnableCompression?hl=pt-br)
