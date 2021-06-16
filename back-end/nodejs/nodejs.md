@@ -36,7 +36,10 @@
   - [Serverless Stack](https://serverless-stack.com/)
 - [Webiny](https://github.com/webiny/webiny-js)
 
-## Async
+### Arquivos
+- [node-glob](https://github.com/isaacs/node-glob)
+
+### Async
 - [Async](https://github.com/caolan/async)
 
 ### Authentication
