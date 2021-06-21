@@ -296,6 +296,7 @@
 - [Resemble.js](https://github.com/rsmbl/Resemble.js)
 - [Spotlight](https://github.com/nextapps-de/spotlight)
 - [UpScalerJS](https://github.com/thekevinscott/UpscalerJS)
+- [Viewer.js](https://github.com/fengyuanchen/viewerjs)
 
 ## Integração
 - [Venom](https://github.com/orkestral/venom)
