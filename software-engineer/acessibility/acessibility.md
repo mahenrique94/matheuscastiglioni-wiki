@@ -9,6 +9,7 @@ O que é acessibilidade? https://www.youtube.com/watch?v=pOmdL9LzDJg
 
 ## Ferramentas
 - [aXe](https://www.deque.com/axe/)
+  - [aXe Devtools](https://www.deque.com/css-tricks)
 - [Wave a11y](https://wave.webaim.org/)
 
 ## Leitores de Tela
