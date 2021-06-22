@@ -28,6 +28,7 @@
 - [Externalized Configuration](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [FDD (Feature Driven Development)](https://www.devmedia.com.br/introducao-ao-fdd-feature-driven-development/27971)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+- [Infrastructure-Driven Packaging](https://codeforfunandmoney.wordpress.com/2016/07/13/domain-driven-design-and-package-organization/)
 - [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Master-slave](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
