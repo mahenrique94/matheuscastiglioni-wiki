@@ -50,7 +50,10 @@
 
 ## Matrizes
 - [Influence-importance map](https://medium.com/@nvashanin/stakeholders-in-software-architecture-6d18f36250f9)
+- [Modern Roadmap](https://medium.com/geekculture/a-modern-roadmap-352ca01964f2)
+  - [World of outcomes](https://medium.com/swlh/how-to-navigate-the-abstract-world-of-outcomes-58a81cdbab95)
 - [MOSCOW](https://sitecampus.com.br/tecnica-moscow-na-priorizacao-dos-requisitos/)
+- [Opportunity Solution Tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/)
 - [Pain Point Priorization](https://medium.com/pragma-partners/step-by-step-designing-a-system-to-prioritise-ux-pain-points-9c9092414d65)
 - [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
