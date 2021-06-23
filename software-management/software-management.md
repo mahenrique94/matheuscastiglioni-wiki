@@ -51,6 +51,7 @@
 ## Matrizes
 - [Influence-importance map](https://medium.com/@nvashanin/stakeholders-in-software-architecture-6d18f36250f9)
 - [MOSCOW](https://sitecampus.com.br/tecnica-moscow-na-priorizacao-dos-requisitos/)
+- [Pain Point Priorization](https://medium.com/pragma-partners/step-by-step-designing-a-system-to-prioritise-ux-pain-points-9c9092414d65)
 - [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
 
