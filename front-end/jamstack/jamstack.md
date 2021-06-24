@@ -4,6 +4,7 @@ https://jamstack.org
 
 ## Geradores de Sites
 - [Aleph.js](https://github.com/alephjs/aleph.js)
+- [Astro](https://astro.build/)
 - [Blitz](https://blitzjs.com/)
 - [ButterCMS](https://buttercms.com/)
 - [ElderJS](https://github.com/Elderjs/elderjs)

@@ -289,6 +289,7 @@
 - [CompressorJS](https://github.com/fengyuanchen/compressorjs)
 - [Cropper.js](https://github.com/fengyuanchen/cropperjs)
 - [Drift](https://github.com/imgix/drift)
+- [HandsFree](https://github.com/midiblocks/handsfree)
 - [HandTrack](https://github.com/victordibia/handtrack.js)
 - [FaceAPI](https://github.com/justadudewhohacks/face-api.js)
 - [FreezeFrame.js](https://github.com/ctrl-freaks/freezeframe.js)
@@ -296,6 +297,7 @@
 - [Light Gallery](https://github.com/sachinchoolur/lightGallery)
 - [Resemble.js](https://github.com/rsmbl/Resemble.js)
 - [Spotlight](https://github.com/nextapps-de/spotlight)
+- [libSquoosh](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh)
 - [UpScalerJS](https://github.com/thekevinscott/UpscalerJS)
 - [Viewer.js](https://github.com/fengyuanchen/viewerjs)
 
