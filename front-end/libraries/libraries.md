@@ -315,6 +315,7 @@
 - [DangerJS](https://danger.systems/js/)
 - [EditorConfig](https://github.com/editorconfig/editorconfig)
 - [ESLint](https://github.com/eslint/eslint)
+  - [Dotenv Linter](https://github.com/dotenv-linter/dotenv-linter)
   - [ESLint Plugin Clean Regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex)
   - [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
   - [ESLint Plugin JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
@@ -365,6 +366,7 @@
 
 ## Parser
 - [Acorn](https://github.com/acornjs/acorn)
+- [Micromark](https://github.com/micromark/micromark)
 
 ## PDF
 - [PDFKit](https://github.com/foliojs/pdfkit)

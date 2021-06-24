@@ -85,6 +85,9 @@
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - [Mux.js](https://github.com/videojs/mux.js)
 
+### CRUD
+- [Adminjs](https://github.com/SoftwareBrothers/adminjs)
+
 ### Database
 - [LokiJS](https://github.com/techfort/LokiJS)
 
