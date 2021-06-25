@@ -2,6 +2,7 @@
 
 ## Arquiteturas e Padrões Arquiteturais
 - [4+1 Architectural View Model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
+- [Actor model](https://en.wikipedia.org/wiki/Actor_model)
 - [API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
 - [API Gateway](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Backend-for-Frontend (BFF)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
