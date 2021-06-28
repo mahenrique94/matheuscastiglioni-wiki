@@ -295,6 +295,7 @@
 - [FreezeFrame.js](https://github.com/ctrl-freaks/freezeframe.js)
 - [LazySizes](https://github.com/aFarkas/lazysizes)
 - [Light Gallery](https://github.com/sachinchoolur/lightGallery)
+- [Pica](https://github.com/nodeca/pica)
 - [Resemble.js](https://github.com/rsmbl/Resemble.js)
 - [Spotlight](https://github.com/nextapps-de/spotlight)
 - [libSquoosh](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh)
