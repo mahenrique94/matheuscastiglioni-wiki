@@ -8,6 +8,7 @@
 ## Arvóres
 - [Breadth-First Search](src/algorithms/tree/breadth-first-search)
 - [Depth-First Search](src/algorithms/tree/depth-first-search)
+- [Quadtree](https://en.wikipedia.org/wiki/Quadtree)
 
 ## Backtracking
 - [Combination Sum](src/algorithms/sets/combination-sum)
