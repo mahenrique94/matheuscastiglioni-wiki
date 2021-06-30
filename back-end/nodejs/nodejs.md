@@ -209,6 +209,8 @@
 - [Piscina](https://github.com/piscinajs/piscina)
 
 ### Tipagem
+- [fp-ts](https://github.com/gcanti/fp-ts)
+- [io-ts](https://github.com/gcanti/io-tshttps://github.com/gcanti/io-ts)
 - [TRPC](https://trpc.io/)
 
 ### Utils
