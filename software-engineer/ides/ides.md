@@ -32,4 +32,5 @@
 - [XCode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
 
 ## Extensões
+- [Copilot](https://copilot.github.com/)
 - [TabNine](https://www.tabnine.com/)
