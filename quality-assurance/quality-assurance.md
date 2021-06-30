@@ -20,6 +20,10 @@
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 - [WireMock](http://wiremock.org/)
 
+## Documentações
+- [13 principais tipos de testes de software](https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/)
+- [Qualidade de software](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)
+
 ## E2E
 - [BrowserStack](https://www.browserstack.com/)
 - [Codecept](https://codecept.io/)
