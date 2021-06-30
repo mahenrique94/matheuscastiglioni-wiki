@@ -15,6 +15,7 @@
 - Crie diagramas à partir de textos ([https://kroki.io/](https://kroki.io/))
 - Crie tema para o VSCode([https://themes.vscode.one](https://themes.vscode.one))
 - Crie uma rede de conhecimento ([https://obsidian.md/](https://obsidian.md/))
+- Diversos emulaadores para diferentes video games ([https://www.retroarch.com/](https://www.retroarch.com/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))
 - Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser), [https://responsively.app/](https://responsively.app/))
 - Otimizar imagens em tempo real ([https://imagekit.io/](https://imagekit.io/))
