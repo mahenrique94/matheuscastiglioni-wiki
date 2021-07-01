@@ -230,6 +230,7 @@
 
 ## Generator
 - [Hygen](https://github.com/jondot/hygen)
+- [Plop](https://github.com/plopjs/plop)
 - [Yeoman](https://yeoman.io/)
 
 ## Gerenciador de Estado
