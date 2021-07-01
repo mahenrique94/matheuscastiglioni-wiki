@@ -67,6 +67,7 @@
     - [Codecov](https://github.com/marketplace/codecov)
     - [DangerJS](https://danger.systems/js/)
     - [Dependabot](https://github.com/marketplace/dependabot-preview)
+    - [Project planning for developers](https://github.com/features/issues)
     - [SonarCloud](https://sonarcloud.io/)
     - [Stale](https://github.com/marketplace/stale)
     - [Semaphore](https://github.com/marketplace/semaphore)
