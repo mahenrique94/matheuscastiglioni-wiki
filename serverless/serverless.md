@@ -7,7 +7,8 @@
 - [Seed](https://seed.run/)
 
 ## Frameworks
-- [serverless](https://www.serverless.com/)
+- [Claudia.js](https://claudiajs.com/)
+- [Serverless](https://www.serverless.com/)
 - [SST](https://github.com/serverless-stack/serverless-stack)
 
 ## Provedores

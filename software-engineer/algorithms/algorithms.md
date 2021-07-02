@@ -61,7 +61,9 @@
 - [Raft Consensus](https://raft.github.io/)
 
 ## Criptografia
+- [Argon2](https://en.wikipedia.org/wiki/Argon2)
 - [Polynomial Hash](src/algorithms/cryptography/polynomial-hash)
+- [Scrypt](https://en.wikipedia.org/wiki/Scrypt)
 
 ## Divide and Conquer
 - [Binary Search](src/algorithms/search/binary-search)

@@ -3,6 +3,7 @@
 - Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/))
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/), [https://www.skypack.dev/](https://www.skypack.dev/))
 - Chamadas remotas ([https://usetalk.io/](https://usetalk.io/))
+- Checar arvore de dependências ([https://deps.dev/](https://deps.dev/))
 - Colaboração online (Documentação, fluxogramas, mapas mentais, wireframes, postits)([https://whimsical.com/](https://whimsical.com/))
 - Comprimir imagens ([https://compressor.io/](https://compressor.io/))
 - Converter formatos de vídeo ([https://cloudconvert.com/](https://cloudconvert.com/))

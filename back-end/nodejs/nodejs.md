@@ -44,11 +44,13 @@
 
 ### Authentication
 - [AccessControl](https://github.com/onury/accesscontrol)
+- [Argon2](https://www.npmjs.com/package/argon2)
 - [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
 - [CryptoJS](https://github.com/brix/crypto-js)
 - [Magic](https://magic.link/)
 - [Ory](https://github.com/ory/keto)
 - [Passport](https://github.com/jaredhanson/passport)
+- [SCrypt](https://www.npmjs.com/package/scrypt)
 - [Zanzibar](https://research.google/pubs/pub48190/)
 
 ### Benchmark
@@ -162,6 +164,7 @@
 - [NPM](https://www.npmjs.com/)
   - [Anvaka](http://npm.anvaka.com/)
   - [BundlePhobia](https://bundlephobia.com/)
+  - [Deps.dev](https://deps.dev/)
   - [Moiva](https://moiva.io/)
   - [NPM SemVer Calculator](https://semver.npmjs.com/)
   - [NPM Trends](https://www.npmtrends.com/)
