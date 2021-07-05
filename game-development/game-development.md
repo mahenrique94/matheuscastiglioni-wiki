@@ -8,6 +8,7 @@
 - [CRYEngine](https://www.cryengine.com/)
 - [Eva.js](https://github.com/eva-engine/eva.js)
 - [Godot](https://godotengine.org/)
+- [Gute](https://github.com/kevglass/gute/)
 - [KaboomJS](https://kaboomjs.com)
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)
