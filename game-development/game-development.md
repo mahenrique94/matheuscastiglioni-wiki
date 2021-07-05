@@ -1,26 +1,32 @@
 # Desenvolvimento de Jogos
 
 ## Engines
+- [Acid](https://github.com/EQMG/Acid)
 - [Bevy](https://github.com/bevyengine/bevy)
 - [Coconut2D](https://www.coconut2d.com/)
 - [Cocos Creator](https://www.cocos.com/en)
 - [Construct](https://www.construct.net/en)
 - [CRYEngine](https://www.cryengine.com/)
 - [Eva.js](https://github.com/eva-engine/eva.js)
+- [FlaxEngine](https://flaxengine.com/)
 - [Godot](https://godotengine.org/)
 - [Gute](https://github.com/kevglass/gute/)
 - [KaboomJS](https://kaboomjs.com)
+- [NAP](https://www.napframework.com/)
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)
 - [Photon](https://www.photonengine.com/en-US/Photon)
 - [Radiant](https://radiant.robotrenegade.com/)
 - [ReplayJS](https://replay.js.org/)
 - [Source](https://en.m.wikipedia.org/wiki/Source_(game_engine))
-- [Stencyl](http://www.stencyl.com/)
+- [Stencyl](http://www.stencyl.om/)
+- [Stride3D](https://stride3d.net/)
 - [Taro](https://github.com/Cloud9c/taro)
+- [TheForge](https://theforge.dev/)
 - [Unity](https://unity.com/pt)
 - [Unreal](https://www.unrealengine.com/en-US/)
 - [Ursina](https://www.ursinaengine.org/)
+- [Ux3D](https://ux3d.io/)
 
 ## Links
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
