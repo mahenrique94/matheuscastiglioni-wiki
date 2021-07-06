@@ -8,6 +8,7 @@
 - [DevDocs](https://devdocs.io/)
 - [Electronic References](https://csgordon.github.io/books.html)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Principles.dev](https://github.com/PrinciplesDotDev/principles)
 - [Tiny Helpers](https://tiny-helpers.dev/)
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)

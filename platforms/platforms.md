@@ -1,6 +1,7 @@
 # Plataformas
 
 - Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/))
+- Aplicar efeito blur em imagens ([https://blurha.sh/](https://blurha.sh/))
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/), [https://www.skypack.dev/](https://www.skypack.dev/))
 - Chamadas remotas ([https://usetalk.io/](https://usetalk.io/))
 - Checar arvore de dependências ([https://deps.dev/](https://deps.dev/))

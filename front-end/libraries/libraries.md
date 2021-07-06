@@ -147,6 +147,7 @@
 - [OpenMCT](https://github.com/nasa/openmct)
 - [PopperCore](https://github.com/popperjs/popper-core)
 - [Preact](https://github.com/preactjs/preact)
+- [QWIK](https://github.com/builderio/qwik)
 - [Solid](https://github.com/solidjs/solid)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 - [Stencil](https://github.com/ionic-team/stencil)
