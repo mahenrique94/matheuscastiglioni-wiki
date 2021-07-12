@@ -413,6 +413,7 @@
 
 ## Search
 - [Fuse](https://github.com/krisk/Fuse)
+- [Fuzzball.js](https://github.com/nol13/fuzzball.js)
 
 ## Segurança
 - [DOMPurify](https://github.com/cure53/DOMPurify)

@@ -56,6 +56,9 @@
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
 
+### Circuit Braker
+- [Opossum](https://github.com/nodeshift/opossum)
+
 ### CMS
 - [Apostrophe](https://github.com/apostrophecms/apostrophe)
 - [Ghost](https://github.com/TryGhost/Ghost)
@@ -217,6 +220,7 @@
 - [fp-ts](https://github.com/gcanti/fp-ts)
 - [io-ts](https://github.com/gcanti/io-tshttps://github.com/gcanti/io-ts)
 - [TRPC](https://trpc.io/)
+- [Typebox](https://github.com/sinclairzx81/typebox)
 
 ### Utils
 - [Node APP Root Path](https://github.com/inxilpro/node-app-root-path)
