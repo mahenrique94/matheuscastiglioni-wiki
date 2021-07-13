@@ -10,6 +10,7 @@
 - Converter formatos de vídeo ([https://cloudconvert.com/](https://cloudconvert.com/))
 - Converter vídeos para gif ([https://ezgif.com/](https://ezgif.com/))
 - Criar animações para Flutter ([https://rive.app/](https://rive.app/))
+- Criar back-end direto no navegador ([https://www.napkin.io/](https://www.napkin.io/))
 - Criar boards e cards ([https://trello.com/](https://trello.com/))
 - Criar diagramas e desenhos ([https://www.draw.io/](https://www.draw.io/), [https://lucid.app/](https://lucid.app/), [https://whimsical.com/](https://whimsical.com/), [https://www.diagrams.net/](https://www.diagrams.net/))
 - Criar documentações ([https://readme.com/](https://readme.com/))

@@ -1,5 +1,7 @@
 # Livros
 
+- https://github.com/mhadidg/software-architecture-books
+
 ## Arquitetura
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com.br/Building-Event-Driven-Microservices-Leveraging-Organizational-ebook/dp/B08C9V1FC9/ref=asc_df_B08C9V1FC9/?tag=googleshopp00-20&linkCode=df0&hvadid=452952491673&hvpos=&hvnetw=g&hvrand=5684167765196931599&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-936910562799&psc=1)
 - [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com.br/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360)

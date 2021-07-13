@@ -1,5 +1,7 @@
 # Estrutura de Dados
 
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
 - [Árvore (Tree)](src/data-structures/tree/README.pt-BR.md)
   - [Árvore AVL (AVL Tree)](src/data-structures/tree/avl-tree/README.pt-BR.md)
   - [Árvore de Pesquisa Binária (Binary Search Tree)](src/data-structures/tree/binary-search-tree/README.pt-BR.md)
