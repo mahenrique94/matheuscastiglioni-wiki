@@ -16,6 +16,7 @@
 
 ## Animação
 - [Anime.js](https://github.com/juliangarnier/anime)
+- [Bounce.js](https://github.com/tictail/bounce.js)
 - [Lax.js](https://github.com/alexfoxy/lax.js)
 - [Lottie](https://github.com/airbnb/lottie)
   - [Lottie Web](https://github.com/airbnb/lottie-web)
