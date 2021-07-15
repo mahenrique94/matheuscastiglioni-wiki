@@ -28,6 +28,7 @@
 - [Prometheus](https://prometheus.io/)
 - [Rollbar](https://rollbar.com/)
 - [Sentry](https://sentry.io/welcome/)
+- [Signoz](https://github.com/SigNoz/signoz)
 - [Spot](https://spot.io/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
 - [Zipkin](https://zipkin.io/)
