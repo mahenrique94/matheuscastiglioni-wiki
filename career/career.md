@@ -39,6 +39,7 @@
 - [Rocketseat](https://rocketseat.com.br/)
 - [Skore](https://www.skore.io/)
 - [School of Net](https://www.schoolofnet.com/)
+- [TipsCode](https://tipscode.com.br/)
 - [TreinaWeb](https://www.treinaweb.com.br/)
 - [Udemy](https://www.udemy.com/pt/)
 

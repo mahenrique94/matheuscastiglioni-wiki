@@ -21,6 +21,7 @@
 - [SDUI (Server Driven UI)](https://medium.com/better-programming/exploring-server-driven-ui-cf67b3da919)
 - [TBD (Trunk Based Development)](https://trunkbaseddevelopment.com/)
 - [TDD (Test Driven Development)](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533)
+  - [TFD (Test First Development)](http://tutorials.jenkov.com/java-unit-testing/test-first-development.html)
 - [AHA](https://kentcdodds.com/blog/aha-programming)
 - [DRY](https://pt.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [KISS](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid#:~:text=Keep%20it%20simple%2C%20stupid%20(KISS)%20is%20a%20design%20principle,of%20user%20acceptance%20and%20interaction.)

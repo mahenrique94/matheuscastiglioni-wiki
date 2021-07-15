@@ -61,6 +61,8 @@
 
 ## Metodologias
 - [Agile](https://www.guru99.com/agile-scrum-extreme-testing.html#:~:text=AGILE%20methodology%20is%20a%20practice,concurrent%2C%20unlike%20the%20Waterfall%20model.)
+  - [Crystal](https://airfocus.com/glossary/what-is-the-crystal-agile-framework/#:~:text=Crystal%20is%20an%20agile%20methodology,being%20constricted%20with%20rigid%20methodologies.)
+  - [Lean](https://www.planview.com/resources/guide/lean-principles-101/agile-and-lean/#:~:text=A%20truly%20Lean%2DAgile%20process,of%20frequent%2C%20iterative%20value%20delivery.)
   - [Scrum](https://digital.ai/resources/agile-101/what-is-scrum#:~:text=Scrum%20is%20an%20agile%20project,capability%20every%202%2D4%20weeks.)
 - [Kanban](https://www.agilealliance.org/glossary/kanban/)
 - [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model#:~:text=The%20waterfall%20model%20is%20a,certain%20areas%20of%20engineering%20design.)
