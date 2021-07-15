@@ -409,6 +409,7 @@
   - [Moxios](https://github.com/axios/moxios)
 - [Bent](https://github.com/mikeal/bent)
 - [Mirage.js](https://github.com/miragejs/miragejs)
+- [MSW](https://github.com/mswjs/msw)
 - [Pretender](https://github.com/pretenderjs/pretender)
 - [Redaxios](https://github.com/developit/redaxios)
 
