@@ -56,6 +56,7 @@
 - [BundleSize](https://github.com/siddharthkp/bundlesize)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [ESBuild](https://github.com/evanw/esbuild)
+  - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [EStrella](https://github.com/rsms/estrella)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [Package Check](https://github.com/skypackjs/package-check)
@@ -195,6 +196,9 @@
 - [Delta](https://github.com/dandavison/delta)
 - [GraphTage](https://github.com/trailofbits/graphtage)
 - [JSDiff](https://github.com/kpdecker/jsdiff)
+
+## Dinheiro
+- [Dinero.js](https://github.com/dinerojs/dinero.js)
 
 ## Documentação
 - [Docusaurus](https://github.com/facebook/docusaurus)
