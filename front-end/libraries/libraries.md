@@ -378,6 +378,7 @@
 
 ## PDF
 - [PDFKit](https://github.com/foliojs/pdfkit)
+- [PDFMake](https://github.com/bpampuch/pdfmake)
 - [Print.js](https://github.com/crabbly/Print.js)
 
 ## Planilhas
@@ -414,6 +415,7 @@
 - [Bent](https://github.com/mikeal/bent)
 - [Mirage.js](https://github.com/miragejs/miragejs)
 - [MSW](https://github.com/mswjs/msw)
+- [Nock](https://github.com/nock/nock)
 - [Pretender](https://github.com/pretenderjs/pretender)
 - [Redaxios](https://github.com/developit/redaxios)
 
