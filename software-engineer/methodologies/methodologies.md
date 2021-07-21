@@ -6,7 +6,7 @@
 - [CDUI (Client Driven UI)]()
 - [Chaos Engineering](https://solvimm.com/blog/o-que-e-chaos-engineering/)
   - [Chaos Gorilla](https://medium.com/@bfpimenta/o-simian-army-6a7c138460dd)
-  - [Chaos Monkey](https://www.infoq.com/br/news/2012/08/netflix-chaos-monkey/)
+  - [Chaos Monkey](https://github.com/netflix/chaosmonkey)
   - [Chaos Toolkit](https://chaostoolkit.org/)
 - [DDD (Data Driven Development)](https://www.targetprocess.com/blog/data-driven-development/)
 - [DDD (Domain Driven Design)](https://en.wikipedia.org/wiki/Domain-driven_design)
