@@ -7,6 +7,10 @@
 - [Spring](https://spring.io/)
   - [Sprint Initializr](https://start.spring.io/)
 
+## Qualidade
+- [ArchUnit](https://www.archunit.org/)
+- [JDepend](https://github.com/clarkware/jdepend)
+
 ## Package Manager
 - [Ant](https://ant.apache.org/)
 - [Maven](https://maven.apache.org/)

@@ -57,6 +57,7 @@
 - [Opportunity Solution Tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/)
 - [Pain Point Priorization](https://medium.com/pragma-partners/step-by-step-designing-a-system-to-prioritise-ux-pain-points-9c9092414d65)
 - [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+- [Reality Check](https://www.realitychecktool.com/)
 - [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
 
 ## Metodologias

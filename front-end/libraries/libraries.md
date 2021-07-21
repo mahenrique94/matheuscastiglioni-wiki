@@ -356,6 +356,8 @@
 
 ## Métricas
 - [Analytics.js](https://github.com/segmentio/analytics.js)
+- [DepCheck](https://github.com/depcheck/depcheck)
+- [DependencyCruiser](https://github.com/sverweij/dependency-cruiser)
 - [Madge](https://github.com/pahen/madge)
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)
 - [Perfume.js](https://github.com/Zizzamia/perfume.js)
