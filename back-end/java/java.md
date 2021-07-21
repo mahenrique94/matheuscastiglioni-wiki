@@ -1,5 +1,6 @@
 # Java
 
+- [Java LibHunt](https://java.libhunt.com/)
 ## Frameworks
 - [Finagle](https://twitter.github.io/finagle/)
 - [Quarkus](https://quarkus.io/)
@@ -10,6 +11,7 @@
 ## Qualidade
 - [ArchUnit](https://www.archunit.org/)
 - [JDepend](https://github.com/clarkware/jdepend)
+- [StereotypeCheck](https://github.com/NovatecConsulting/stereotype-check)
 
 ## Package Manager
 - [Ant](https://ant.apache.org/)
