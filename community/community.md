@@ -182,6 +182,7 @@
 - [Dev Soutinho](https://mariosouto.com/newsletter/)
 - [Diego Eis](https://diegoeis.substack.com/)
 - [Filipe Deschamps](https://filipedeschamps.com.br/newsletter)
+- [Front-End Focus](https://frontendfoc.us/issues/500)
 - [Front-End Horse](https://frontend.horse/)
 - [Gabs Ferreira](https://gabsferreira.us7.list-manage.com/subscribe?u=7242fb7c0eed34026fafe994a&id=7c89ba04f5)
 - [GitHub Trends](https://github.com/explore)
