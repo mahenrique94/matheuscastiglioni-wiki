@@ -209,6 +209,7 @@
 - [RisingStars](https://risingstars.js.org/2020/en)
 - [Sidebar](https://sidebar.io/)
 - [SmashingMagazine](https://www.smashingmagazine.com/)
+- [Spotify Engineering](https://spotify.us20.list-manage.com/subscribe?u=99aa88d3fba458716d0cd1299&id=28cc680980)
 - [StackShare](https://stackshare.io/feed)
 - [Stack Overflow](https://stackoverflow.blog/newsletter/)
 - [State of Devops](https://puppet.com/resources/report/2021-state-of-devops-report)

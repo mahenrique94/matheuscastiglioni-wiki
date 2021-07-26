@@ -1,5 +1,7 @@
 # Gerenciamento de Software
 
+- https://zedaio.medium.com/product-management-tools-to-have-in-your-stack-de78aa12377
+
 ## Ferramentas
 - [Aha](https://www.aha.io/)
 - [Asana](https://asana.com/pt)
