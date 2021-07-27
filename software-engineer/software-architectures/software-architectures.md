@@ -103,6 +103,7 @@
 - [Explanatory Model](https://en.m.wikipedia.org/wiki/Explanatory_model)
 - [FR's](https://en.wikipedia.org/wiki/Functional_requirement)
 - [ICD (Initial Capabilities Document)](https://acqnotes.com/acqnote/tasks/initial-capabilities-documentrequirements)
+- [JAD (Joint Application Design)](https://en.wikipedia.org/wiki/Joint_application_design#:~:text=Joint%20application%20design%20(JAD)%20is,information%20systems%20for%20a%20company.)
 - [Kroki](https://kroki.io/)
 - [Marketing Requirements Document (MRD)](https://280group.com/what-is-product-management/documents-templates/market-requirements-document-mrd/#:~:text=An%20MRD%20or%20Market%20Requirements,and%20when%20that%20problem%20occurs.)
 - [NFR's](https://en.wikipedia.org/wiki/Non-functional_requirement)
