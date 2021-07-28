@@ -2,6 +2,7 @@
 
 - [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
+- [Rules](https://www.michael-whelan.net/rules-design-pattern/)
 
 ## Comportamento
 - [Chain of Responsability](https://pt.wikipedia.org/wiki/Chain_of_Responsibility)

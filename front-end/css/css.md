@@ -53,6 +53,7 @@
 ## Reset CSS
 - [CSS Reset Meyer](https://meyerweb.com/eric/tools/css/reset/)
 - [Modern CSS Reset](https://github.com/andy-piccalilli/modern-css-reset)
+- [New CSS Reset](https://github.com/elad2412/the-new-css-reset)
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 
 ## Templates
