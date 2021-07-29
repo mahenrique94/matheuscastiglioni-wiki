@@ -1,6 +1,7 @@
 # Metodologias
 
 - [BDD (Behavior Driven Development)](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
+- [CAP (Consistency Availability Partition Tolerance)](https://en.wikipedia.org/wiki/CAP_theorem)
 - [CDC (Consumer Driven Contracts)](https://martinfowler.com/articles/consumerDrivenContracts.html)
 - [CDD (Component Driven Development)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
 - [CDUI (Client Driven UI)]()
