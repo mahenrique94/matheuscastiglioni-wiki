@@ -359,6 +359,7 @@
 - [Analytics.js](https://github.com/segmentio/analytics.js)
 - [DepCheck](https://github.com/depcheck/depcheck)
 - [DependencyCruiser](https://github.com/sverweij/dependency-cruiser)
+- [Insight](https://github.com/yeoman/insight)
 - [Madge](https://github.com/pahen/madge)
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)
 - [Perfume.js](https://github.com/Zizzamia/perfume.js)

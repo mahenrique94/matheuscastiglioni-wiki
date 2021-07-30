@@ -37,6 +37,8 @@
 - [Webiny](https://github.com/webiny/webiny-js)
 
 ### Arquivos
+- [globby](https://github.com/sindresorhus/globby)
+- [junk](https://github.com/sindresorhus/junk)
 - [node-glob](https://github.com/isaacs/node-glob)
 
 ### Async
@@ -113,6 +115,9 @@
 - [PostmarkApp](https://postmarkapp.com/)
 - [SendGrid](https://sendgrid.com/)
 - [Sparkpost](https://www.sparkpost.com/)
+
+### Files
+- [xmlbuilder2](https://github.com/oozcitak/)
 
 ### Fixtures
 - [Faker.js](https://github.com/Marak/faker.js)
@@ -197,6 +202,7 @@
 ### Realtime
 - [PusherJS](https://pusher.com/)
 - [Socket.io](https://socket.io/)
+- [WS](https://github.com/websockets/ws)
 
 ### Rotinas
 - [NodeSchedule](https://github.com/node-schedule/node-schedule)
