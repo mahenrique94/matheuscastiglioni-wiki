@@ -105,8 +105,10 @@
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)
 - [Apache Beam](https://beam.apache.org/)
+- [Apache Camel](https://camel.apache.org/)
 - [Apache Heron](https://incubator.apache.org/clutch/heron.html)
 - [Apache Kafka](https://kafka.apache.org/)
+- [Apache ODE](https://ode.apache.org/)
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [Apache Samza](http://samza.apache.org/)
 - [Apache Storm](https://storm.apache.org/)
@@ -115,6 +117,9 @@
 - [NATS](https://nats.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Service Bus](https://docs.microsoft.com/pt-br/azure/service-bus-messaging/service-bus-messaging-overview)
+  - [jBPM](https://www.jbpm.org/)
+  - [Mule ESB](https://www.mulesoft.com/platform/soa/mule-esb-open-source-esb)
+  - [Oracle BPEL Process Manager](https://www.oracle.com/middleware/technologies/bpel-process-manager.html)
 - [ZeroMQ](https://zeromq.org/)
 
 ## Progressive Delivery

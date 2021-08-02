@@ -167,6 +167,7 @@
 - [Willian Justen Cursos](https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ)
 
 ## Newsletter para manter-se atualizado(a)
+- [Alex Sidorenko](https://alexsidorenko.com/)
 - [AlistaPart](https://alistapart.com/)
 - [A11y Weekly](https://buttondown.email/a11yweekly)
 - [Best of JS](https://bestofjs.org/)
