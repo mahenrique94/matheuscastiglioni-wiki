@@ -19,6 +19,7 @@
 - Gerador de imagens para sites ([https://picsum.photos/](https://picsum.photos/))
 - Habilidades de desenvolvedores web de maneira visual ([https://andreasbm.github.io/web-skills/](https://andreasbm.github.io/web-skills/))
 - Imagens SVG's gratuitas ([https://undraw.co/illustrations](https://undraw.co/illustrations))
+- Lista de alternativas open-source ((https://www.btw.so/open-source-alternatives)[https://www.btw.so/open-source-alternatives])
 - Lista de API's públicas para utilizar em projetos ([https://public-apis.io/](https://public-apis.io/))
 - Lista de dinâmicas para times ([http://www.funretrospectives.com/](http://www.funretrospectives.com/))
 - Lista com serviços free e open source ([https://free-for.dev/#/](https://free-for.dev/#/))

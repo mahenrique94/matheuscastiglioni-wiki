@@ -123,6 +123,9 @@
 - [FoxQL](https://github.com/foxql/foxql)
 - [PeerJS](https://github.com/peers/peerjs)
 
+## Cookie
+- [js-cookie](https://github.com/js-cookie/js-cookie)
+
 ## Crawlers
 - [PlayWRight](https://github.com/microsoft/playwright)
 

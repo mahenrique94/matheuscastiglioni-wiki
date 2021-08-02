@@ -2,6 +2,7 @@
 
 - [50+ Free Awesome Certificates to Earn in 2021](https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 - [Career Ladders](https://github.com/sdras/career-ladders)
 - [Clone Wars](https://gourav.io/clone-wars)
