@@ -59,6 +59,7 @@
     - [Istio](https://istio.io/)
     - [Linkerd](https://linkerd.io/)
   - [Strangler Fig](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- [Microservice Chassis](https://microservices.io/patterns/microservice-chassis.html)
 - [MDD (Model Driven Development)](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/aulas/mdd-termos_v01.pdf)
 - [Monolithic Architecture](https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541)
 - [Multi Tenant](https://levelup.gitconnected.com/multi-tenant-architecture-8c1f597e069c)
