@@ -1,5 +1,6 @@
 # Design Patterns
 
+- [Dependency Injection](https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671)
 - [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
 - [Rules](https://www.michael-whelan.net/rules-design-pattern/)

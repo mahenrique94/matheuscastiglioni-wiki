@@ -1,6 +1,7 @@
 # Armazenamento
 
 ## Banco de dados
+- [Apache Ignite](https://ignite.apache.org/)
 - [Apache Jena](https://jena.apache.org/tutorials/sparql_pt.html)
 - [Apache Parquet](https://parquet.apache.org/)
 - [Cascalog](https://github.com/nathanmarz/cascalog)
@@ -22,6 +23,7 @@
 - [MySQL](https://www.mysql.com/)
   - [Tungsten](https://www.continuent.com/products/tungsten-replicator)
 - [Neo4j](https://neo4j.com/)
+- [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
 - [OracleDB](https://www.oracle.com/br/database/)
   - [Golden Gate](https://www.oracle.com/br/integration/goldengate/)
 - [OrbitDB](https://orbitdb.org/)

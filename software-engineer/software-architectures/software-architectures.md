@@ -85,6 +85,10 @@
   - [Envoy](https://www.envoyproxy.io/)
 - [Single Thread](https://en.wikipedia.org/wiki/Thread_(computing))
 - [Space Based Architecture (SBA)](https://en.wikipedia.org/wiki/Space-based_architecture#:~:text=Space%2Dbased%20architecture%20(SBA),using%20the%20tuple%20space%20paradigm.)
+  - [AbInitio](https://www.abinitio.com/en/)
+  - [Apache Ignite](https://ignite.apache.org/)
+  - [HazelCast](https://hazelcast.com/)
+  - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
 - [Strangler](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 
 ## Documentação

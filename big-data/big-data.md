@@ -6,6 +6,7 @@
 - [Vertica](https://www.vertica.com/)
 
 ## Bibliotecas
+- [AbInitio](https://www.abinitio.com/en/)
 - [Amundsen](https://www.amundsen.io/)
 - [Apache Atlas](https://atlas.apache.org/#/)
 - [Apache Drill](https://drill.apache.org/)

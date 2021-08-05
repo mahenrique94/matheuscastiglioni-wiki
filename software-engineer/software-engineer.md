@@ -10,6 +10,7 @@
 - [DevDocs](https://devdocs.io/)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Electronic References](https://csgordon.github.io/books.html)
+- [Engineering Management](https://github.com/charlax/engineering-management)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Gitignore](https://github.com/github/gitignore)
 - [Principles.dev](https://github.com/PrinciplesDotDev/principles)
