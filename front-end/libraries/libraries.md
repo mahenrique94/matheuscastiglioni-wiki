@@ -197,6 +197,7 @@
 
 ## Diff
 - [Delta](https://github.com/dandavison/delta)
+- [Diff2HTML](https://github.com/rtfpessoa/diff2html)
 - [GraphTage](https://github.com/trailofbits/graphtage)
 - [JSDiff](https://github.com/kpdecker/jsdiff)
 
