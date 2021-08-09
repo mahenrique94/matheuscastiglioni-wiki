@@ -9,6 +9,7 @@
 
 ### APIs
 - [AdonisJS](https://adonisjs.com/)
+- [Amplication](https://github.com/amplication/amplication)
 - [Cote](https://github.com/dashersw/cote)
 - [Egg](https://github.com/eggjs/egg)
 - [Express](https://expressjs.com/pt-br/)
@@ -208,6 +209,7 @@
 - [WS](https://github.com/websockets/ws)
 
 ### Rotinas
+- [Agenda](https://github.com/agenda/agenda)
 - [NodeSchedule](https://github.com/node-schedule/node-schedule)
 - [Outrun](https://github.com/Overv/outrun)
 - [ISOWorker](https://github.com/101arrowz/isoworker)
