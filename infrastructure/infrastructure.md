@@ -115,6 +115,7 @@
 - [Debezium](https://debezium.io/)
 - [HornetQ](https://hornetq.jboss.org/)
 - [NATS](https://nats.io/)
+- [PulseGuardian](https://pulseguardian.mozilla.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Service Bus](https://docs.microsoft.com/pt-br/azure/service-bus-messaging/service-bus-messaging-overview)
   - [jBPM](https://www.jbpm.org/)

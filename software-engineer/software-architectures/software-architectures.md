@@ -125,3 +125,4 @@
 
 ## Links
 - https://github.com/DovAmir/awesome-design-patterns
+- https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b

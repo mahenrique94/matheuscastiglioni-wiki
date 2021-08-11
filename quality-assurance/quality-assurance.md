@@ -54,6 +54,12 @@
   - [Sonar Qube SAST](https://www.sonarqube.org/features/security/sast/)
 - [Spearmint](https://github.com/open-source-labs/spearmint)
 
+## Serviços
+- [Blue/Green Deploy](https://stackoverflow.com/questions/45259589/whats-the-difference-between-red-black-deployment-and-blue-green-deployment)
+- [Canary Release](https://martinfowler.com/bliki/CanaryRelease.html)
+- [Dark Launching](https://martinfowler.com/bliki/DarkLaunching.html)
+- [Red/Black Deploy](https://stackoverflow.com/questions/45259589/whats-the-difference-between-red-black-deployment-and-blue-green-deployment)
+
 ## Links
 - https://github.com/goldbergyoni/javascript-testing-best-practices
 - https://miro.medium.com/max/7016/1*LFnVVlLrgrvXQ5ScrHVKjg.jpeg

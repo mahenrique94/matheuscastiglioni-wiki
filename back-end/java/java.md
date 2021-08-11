@@ -3,6 +3,7 @@
 - [Java LibHunt](https://java.libhunt.com/)
 ## Frameworks
 - [Finagle](https://twitter.github.io/finagle/)
+- [Micronaut](https://micronaut.io/)
 - [Quarkus](https://quarkus.io/)
 - [Quartz](http://www.quartz-scheduler.org/)
 - [Spring](https://spring.io/)
