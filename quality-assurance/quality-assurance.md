@@ -1,11 +1,14 @@
 # QA (Quality Assurance)
 
 ## Bibliotecas
+- [Apache JMeter](https://jmeter.apache.org/)
 - [Artillery](https://github.com/artilleryio/artillery)
 - [Cucumber.js](https://github.com/cucumber/cucumber-js)
 - [Detox](https://github.com/wix/Detox)
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [Fortio](https://fortio.org/)
+- [Gatling](https://gatling.io/)
+- [Hoverfly](https://hoverfly.io/)
 - [JSDom](https://github.com/jsdom/jsdom)
 - [K6](https://k6.io/)
 - [Mirage.js](https://github.com/miragejs/miragejs)
