@@ -241,6 +241,7 @@
 - [TSC Watch](https://github.com/gilamran/tsc-watch)
 
 ### Validação
+- [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
 
 ### Webhooks
