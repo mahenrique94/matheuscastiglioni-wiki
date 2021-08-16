@@ -367,6 +367,7 @@
 - [Madge](https://github.com/pahen/madge)
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)
 - [Perfume.js](https://github.com/Zizzamia/perfume.js)
+- [RepoVisualizer](https://github.com/githubocto/repo-visualizer)
 - [StackTrace.js](https://github.com/stacktracejs/stacktrace.js)
 - [WebVitals](https://github.com/GoogleChrome/web-vitals)
 
