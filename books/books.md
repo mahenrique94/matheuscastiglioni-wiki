@@ -11,6 +11,7 @@
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [Designing Data–Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
+- [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
 - [Designing Event-Driven Systems](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/)
 - [Domain-Driven Design: Atacando as complexidades no coração do software](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com.br/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451/ref=asc_df_1492043451/?tag=googleshopp00-20&linkCode=df0&hvadid=379795170134&hvpos=&hvnetw=g&hvrand=246121054958374246&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-751683725274&psc=1)

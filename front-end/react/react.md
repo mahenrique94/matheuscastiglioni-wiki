@@ -120,6 +120,7 @@
 ### Gerenciador de Estado
 - [HookState](https://hookstate.js.org/)
 - [Jotai](https://github.com/pmndrs/jotai)
+- [Little State Machine](https://github.com/bluebill1049/little-state-machine)
 - [Recoil](https://recoiljs.org/)
 - [React Sweet State](https://github.com/atlassian/react-sweet-state)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
@@ -144,6 +145,7 @@
 - [React Hanger](https://github.com/kitze/react-hanger)
 - [React Responsive](https://github.com/contra/react-responsive)
 - [React Use](https://github.com/streamich/react-use)
+- [Rooks](https://github.com/imbhargav5/rooks)
 - [Use Context Selector](https://github.com/dai-shi/use-context-selector)
 
 ### Modal

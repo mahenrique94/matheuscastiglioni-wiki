@@ -30,6 +30,7 @@
 - [Travis CI](https://travis-ci.org/)
 
 ## Containers/Virtualização
+- [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - [DockStation](https://github.com/DockStation/dockstation)
