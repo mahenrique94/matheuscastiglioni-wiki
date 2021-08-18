@@ -3,6 +3,7 @@
 ## Arquiteturas e Padrões Arquiteturais
 - [4+1 Architectural View Model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
 - [Actor model](https://en.wikipedia.org/wiki/Actor_model)
+- [Ambassador](https://www.magalix.com/blog/kubernetes-patterns-the-ambassador-pattern)
 - [API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
 - [API Gateway](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Backend-for-Frontend (BFF)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
@@ -79,7 +80,6 @@
 - [Saga](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 - [Service Oriented Architecture (SOA)](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec#:~:text=Service%2DOriented%20Architecture%20(SOA),of%20vendors%20and%20other%20technologies.)
-- [Service Mesh](https://www.redhat.com/pt-br/topics/microservices/what-is-a-service-mesh)
 - [Shared Nothing Architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture#:~:text=A%20shared%2Dnothing%20architecture%20(SN,the%20same%20memory%20or%20storage.)
 - [Sidecar](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
   - [Envoy](https://www.envoyproxy.io/)

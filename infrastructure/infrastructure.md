@@ -32,9 +32,10 @@
 ## Containers/Virtualização
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
+  - [Apache Mesos](http://mesos.apache.org/)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - [DockStation](https://github.com/DockStation/dockstation)
-  - [Mesos](http://mesos.apache.org/)
+  - [Label Schema](http://label-schema.org/rc1/)
   - [Portainer](https://www.portainer.io/)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
