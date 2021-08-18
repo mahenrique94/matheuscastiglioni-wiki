@@ -58,5 +58,6 @@
 - Simular chamadas para WebHooks ([https://requestbin.com/](https://requestbin.com/))
 - Timer colaborativo ([https://cuckoo.team/](https://cuckoo.team/))
 - Testar expressão regular ([https://regex101.com/](https://regex101.com/), [https://ihateregex.io/](https://ihateregex.io/))
+- Testes A/B ([https://github.com/growthbook/growthbook](https://github.com/growthbook/growthbook))
 - Transferir arquivos ([https://wetransfer.com/](https://wetransfer.com/))
 - Whiteboard para dinâmicas ([https://www.figma.com/figjam/](https://www.figma.com/figjam/), [https://miro.com/](https://miro.com/), [https://www.mural.co/](https://www.mural.co/))
