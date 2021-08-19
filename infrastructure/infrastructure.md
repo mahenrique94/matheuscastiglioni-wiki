@@ -17,6 +17,8 @@
 - [Vagrant](https://www.vagrantup.com/)
 
 ## CI/CD
+- [Argo CD](https://argoproj.github.io/argo-cd/)
+- [Bamboo](https://www.atlassian.com/br/software/bamboo)
 - [Circle CI](https://circleci.com/)
 - [CruiseControl](http://cruisecontrol.sourceforge.net/)
 - [DPL](https://github.com/travis-ci/dpl)
@@ -25,7 +27,9 @@
 - [GoCD](https://www.gocd.org/)
 - [Jenkins](https://www.jenkins.io/)
 - [Krake CI](https://kraken.ci/)
+- [Octopus Deploy](https://octopus.com/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker)
+- [TeamCity](https://www.jetbrains.com/teamcity/)
 - [Tekton](https://tekton.dev/)
 - [Travis CI](https://travis-ci.org/)
 

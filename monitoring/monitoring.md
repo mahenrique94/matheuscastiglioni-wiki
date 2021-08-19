@@ -24,6 +24,7 @@
 - [LightStep](https://lightstep.com/)
 - [LogRocket](https://logrocket.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)
+- [Nagios](https://www.nagios.org/)
 - [NewRelic](https://newrelic.com/)
 - [Prometheus](https://prometheus.io/)
 - [Rollbar](https://rollbar.com/)
@@ -32,6 +33,9 @@
 - [Spot](https://spot.io/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
 - [Zipkin](https://zipkin.io/)
+
+## Logging
+- [Fluentd](https://www.fluentd.org/)
 
 ## Usabilidade
 - [ClickTale](https://www.clicktale.com/)

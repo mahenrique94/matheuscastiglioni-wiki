@@ -35,6 +35,9 @@
 - [Hackers](https://pt.wikipedia.org/wiki/Hacker)
 
 ## Plataformas
+- [Anchore](https://anchore.com/)
+- [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud)
 - [Snyk](https://snyk.io/)
 - [SonarQube](https://www.sonarqube.org/)
   - [Sonar Qube SAST](https://www.sonarqube.org/features/security/sast/)
+- [Sysdig](https://sysdig.com/)
