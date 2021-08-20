@@ -30,6 +30,7 @@
 - [OrbitDB](https://orbitdb.org/)
 - [PostgresQL](https://www.postgresql.org/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
+- [Presto](https://prestodb.io/)
 - [QuestDB](https://questdb.io/)
 - [RAMCloud](https://ramcloud.atlassian.net/wiki/spaces/RAM/overview)
 - [RavenDB](https://ravendb.net/)

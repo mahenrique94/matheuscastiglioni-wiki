@@ -33,6 +33,7 @@
 - Gamifique sua vida ([https://habitica.com/static/home](https://habitica.com/static/home))
 - Gerar breakpoints e srcset de imagens ([https://responsivebreakpoints.com/](https://responsivebreakpoints.com/))
 - Gerenciador de tempo em tarefas ([https://clockify.me/](https://clockify.me/) [https://toggl.com/](https://toggl.com/))
+- Gerenciar WebHooks ([https://hookdeck.com/](https://hookdeck.com/))
 - Hospedar imagens ([https://cloudinary.com/](https://cloudinary.com/))
 - Hospedar videos ([https://muse.ai/](https://muse.ai/), [https://mux.com/](https://mux.com/), [https://vimeo.com/](https://vimeo.com/))
 - Ícones free ([https://www.flaticon.com/](https://www.flaticon.com/))

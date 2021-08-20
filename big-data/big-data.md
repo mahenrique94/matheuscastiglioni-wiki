@@ -27,6 +27,6 @@
 - [Dremio](https://www.dremio.com/)
 - [Flink](https://flink.apache.org/)
 - [Hadoop](https://hadoop.apache.org/)
-- [Preto](https://prestodb.io/)
+- [Presto](https://prestodb.io/)
 - [Spark](https://spark.apache.org/)
 - [Splunk](https://www.splunk.com/)
