@@ -22,7 +22,9 @@
 - [Pretender](https://github.com/pretenderjs/pretender)
 - [REST Assured](https://rest-assured.io/)
 - [RRWeb](https://github.com/rrweb-io/rrweb)
+- [ScanAPI](https://github.com/scanapi/scanapi)
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
+- [Vegeta](https://github.com/tsenart/vegeta)
 - [WireMock](http://wiremock.org/)
 
 ## Documentações

@@ -12,6 +12,7 @@
 ## Qualidade
 - [ArchUnit](https://www.archunit.org/)
 - [JDepend](https://github.com/clarkware/jdepend)
+- [Karate](https://github.com/intuit/karate)
 - [StereotypeCheck](https://github.com/NovatecConsulting/stereotype-check)
 
 ## Package Manager
