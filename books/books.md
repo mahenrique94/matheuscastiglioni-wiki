@@ -19,6 +19,7 @@
 - [Learning JavaScript Data Structures and Algorithms](https://www.packtpub.com/product/learning-javascript-data-structures-and-algorithms-third-edition/9781788623872)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848)
 - [Microservices – Up and Running: A Step-By-Step Guide to Building a Microservices Architecture](https://www.amazon.com.br/Microservices-Step-Step-Microservice-Architecture/dp/1492075450)
+- [Migrating to Microservice Databases](https://learning.oreilly.com/library/view/migrating-to-microservice/9781492048824/)
 - [Patterns Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)

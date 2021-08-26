@@ -140,6 +140,7 @@
 ## Servidores
 - [Apache](https://www.apache.org/)
 - [Glassfish](https://javaee.github.io/glassfish/)
+- [HAProxy](http://www.haproxy.org/)
 - [Jetty](https://www.eclipse.org/jetty/)
 - [NGINX](https://www.nginx.com/)
 - [OpenResty](https://openresty.org/en/)

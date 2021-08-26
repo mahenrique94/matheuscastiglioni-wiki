@@ -16,6 +16,7 @@
 - [Firebird](https://firebirdsql.org/)
 - [HazelCast](https://hazelcast.com/)
 - [HBase](https://hbase.apache.org/)
+- [Infinispan](https://infinispan.org/)
 - [InfluxDB](https://www.influxdata.com/)
 - [LevelDB](https://github.com/google/leveldb)
 - [MemCached](https://memcached.org/)

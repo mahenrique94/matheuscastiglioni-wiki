@@ -58,6 +58,7 @@
 
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
+- [Tachometer](https://github.com/Polymer/tachometer)
 
 ### Circuit Braker
 - [Opossum](https://github.com/nodeshift/opossum)

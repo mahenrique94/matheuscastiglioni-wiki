@@ -90,7 +90,7 @@
   - [Apache Ignite](https://ignite.apache.org/)
   - [HazelCast](https://hazelcast.com/)
   - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
-- [Strangler](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
+- [Strangler](https://microservices.io/patterns/refactoring/strangler-application.html)
 
 ## Documentação
 - [4+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
