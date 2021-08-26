@@ -46,7 +46,7 @@
 - Monitorar status de aplicações ([https://hyperping.io/](https://hyperping.io/))
 - Otimizador de imagens ([https://kraken.io/web-interface](https://kraken.io/web-interface), [https://squoosh.app/](https://squoosh.app/))
 - Pagamentos online ([https://stripe.com/br](https://stripe.com/br), [https://pagar.me/](https://pagar.me/))
-- Pair programming ou meets ([https://www.loom.com/](https://www.loom.com/))
+- Pair programming ou meets ([https://www.loom.com/](https://www.loom.com/), [https://pop.com/home](https://pop.com/home))
 - Publica e construir servicos IoT ([https://www.balena.io/](https://www.balena.io/))
 - Realizar envio de email ([https://sendgrid.com/](https://sendgrid.com/))
 - Realizar envio de SMS ([https://www.twilio.com/](https://www.twilio.com/))

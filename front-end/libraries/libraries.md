@@ -143,6 +143,7 @@
 - [HyperScript](https://github.com/bigskysoftware/_hyperscript)
 - [Inertia.js](https://github.com/inertiajs/inertia)
 - [Intro.js](https://github.com/usablica/intro.js)
+- [Lemonadejs](https://github.com/lemonadejs/lemonadejs)
 - [LWC](https://github.com/salesforce/lwc)
 - [Million](https://github.com/millionjs/million)
 - [Mint](https://github.com/mint-lang/mint)
@@ -412,6 +413,9 @@
 ## Realtime
 - [Geckos](https://github.com/geckosio/geckos.io)
 - [Socket.io](https://github.com/socketio/socket.io)
+
+## Reflexão
+- [ReflectMetadata](https://github.com/rbuckton/reflect-metadata)
 
 ## Regex
 - [Super Expressive](https://github.com/francisrstokes/super-expressive)
