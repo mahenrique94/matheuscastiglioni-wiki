@@ -81,6 +81,7 @@
 - [Vite](https://github.com/vitejs/vite)
 - [Webpack](https://webpack.js.org/)
   - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+  - [Webpack Merge](https://github.com/survivejs/webpack-merge)
 - [WMR](https://github.com/preactjs/wmr)
 
 ## Cálculos
@@ -340,6 +341,7 @@
 - [Husky](https://github.com/typicode/husky)
 - [Lint Staged](https://github.com/okonet/lint-staged)
 - [Prettier](https://github.com/prettier/prettier)
+  - [PrettyQuick](https://github.com/azz/pretty-quick)
 - [SemGrep](https://github.com/returntocorp/semgrep)
 - [Stylelint](https://github.com/stylelint/stylelint)
   - [Stylelint Config Recommended](https://github.com/stylelint/stylelint-config-recommended)

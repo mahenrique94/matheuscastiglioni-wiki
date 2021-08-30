@@ -50,7 +50,9 @@
 - [Continuent](https://www.continuent.com/)
 - [FlyWayDB](https://flywaydb.org/)
 - [Innobackupex](https://www.percona.com/doc/percona-xtrabackup/2.1/innobackupex/innobackupex_script.html)
+- [Liquibase](https://www.liquibase.org/)
 - [SchemaSpy](http://schemaspy.sourceforge.net/)
+- [Teiid](https://teiid.io/)
 - [Vitess](https://github.com/vitessio/vitess)
 
 
