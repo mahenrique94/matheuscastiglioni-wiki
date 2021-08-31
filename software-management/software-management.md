@@ -52,6 +52,7 @@
 - [Gestão 4.0](https://www.amazon.com.br/Management-4-0-Alfred-Oswald/dp/3743189291)
 
 ## Matrizes
+- [Business Capability Mapping](https://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/5173/What-is-Business-Capability-Mapping-and-why-it-is-beneficial.aspx)
 - [Influence-importance map](https://medium.com/@nvashanin/stakeholders-in-software-architecture-6d18f36250f9)
 - [Modern Roadmap](https://medium.com/geekculture/a-modern-roadmap-352ca01964f2)
   - [World of outcomes](https://medium.com/swlh/how-to-navigate-the-abstract-world-of-outcomes-58a81cdbab95)
@@ -61,6 +62,8 @@
 - [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - [Reality Check](https://www.realitychecktool.com/)
 - [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
+- [Value Stream Mapping](https://www.supero.com.br/blog/value-stream-mapping/)
+- [Wardley Value Chain](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
 
 ## Metodologias
 - [Agile](https://www.guru99.com/agile-scrum-extreme-testing.html#:~:text=AGILE%20methodology%20is%20a%20practice,concurrent%2C%20unlike%20the%20Waterfall%20model.)
