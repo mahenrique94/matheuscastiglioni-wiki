@@ -3,6 +3,7 @@
 ## Bibliotecas
 ### Animações
 - [Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)
+- [Moti](https://github.com/nandorojo/moti)
 
 ### Banco de Dados
 - [RealmDB](https://github.com/realm/realm-js)
