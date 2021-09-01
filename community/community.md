@@ -175,6 +175,7 @@
 - [Best of JS](https://bestofjs.org/)
 - [Better Dev](https://www.better.dev/)
 - [Bytes.dev](https://bytes.dev/advertise)
+- [Chak Shunyu](https://www.chakshunyu.com/)
 - [CSS Layout](https://csslayout.news/issue-311/)
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Weekly](https://css-weekly.com/)
