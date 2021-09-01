@@ -200,6 +200,7 @@
 - [IndieHackers](https://www.indiehackers.com/)
 - [InfoQ](https://www.infoq.com/br/)
 - [Inspiration Bits](https://inspiration-bits.com/)
+- [James Quick](https://www.jamesqquick.com/newsletter)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Josh Comeau](https://www.joshwcomeau.com/newsletter-issues/016/)
 - [Kent C. Dodds](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change?ck_subscriber_id=1078972114)
