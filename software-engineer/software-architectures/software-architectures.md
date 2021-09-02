@@ -96,6 +96,7 @@
 - [Saga](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Scatter/Gather](https://www.prostdev.com/post/intro-to-scatter-gather-integration-pattern)
 - [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
+- [Semi Shared](https://dzone.com/articles/architecting-database-systems-for-the-microservice)
 - [Service Oriented Architecture (SOA)](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec#:~:text=Service%2DOriented%20Architecture%20(SOA),of%20vendors%20and%20other%20technologies.)
 - [Shared Nothing Architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture#:~:text=A%20shared%2Dnothing%20architecture%20(SN,the%20same%20memory%20or%20storage.)
 - [Sidecar](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
