@@ -51,6 +51,7 @@
 - [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Master-slave](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Microapps Architecture](https://increment.com/mobile/microapps-architecture/)
 - [Microkernel Architecture](https://priyalwalpita.medium.com/software-architecture-patterns-microkernel-architecture-97cee200264e)
 - [Microservices](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
   - [Aggregator Pattern](https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541)
@@ -145,3 +146,4 @@
 - https://github.com/DovAmir/awesome-design-patterns
 - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
 - https://nealford.com/katas/
+- https://github.com/stemmlerjs/software-design-and-architecture-roadmap
