@@ -147,3 +147,4 @@
 - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
 - https://nealford.com/katas/
 - https://github.com/stemmlerjs/software-design-and-architecture-roadmap
+- https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
