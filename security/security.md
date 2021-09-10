@@ -20,6 +20,7 @@
 
 ## Ferramentas
 - [HCaptcha](https://www.hcaptcha.com/)
+- [Nikto2](https://cirt.net/Nikto2)
 - [Observatory Mozilla](https://observatory.mozilla.org/)
 - [SSL Trust](https://www.ssltrust.com.au/ssl-tools/website-security-check)
 - [TypingDNA](https://www.typingdna.com/)
