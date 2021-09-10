@@ -48,6 +48,7 @@
 - [FDD (Feature Driven Development)](https://www.devmedia.com.br/introducao-ao-fdd-feature-driven-development/27971)
 - [Feature Parity](https://martinfowler.com/articles/patterns-legacy-displacement/feature-parity.html)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+- [In-Memory Database Architecture](https://dzone.com/articles/in-memory-database-architecture-ten-years-of-exper)
 - [Infrastructure-Driven Packaging](https://codeforfunandmoney.wordpress.com/2016/07/13/domain-driven-design-and-package-organization/)
 - [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
