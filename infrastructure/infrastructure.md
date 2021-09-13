@@ -40,6 +40,7 @@
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - [DockStation](https://github.com/DockStation/dockstation)
   - [Label Schema](http://label-schema.org/rc1/)
+  - [Playground](https://www.docker.com/play-with-docker)
   - [Portainer](https://www.portainer.io/)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)

@@ -137,6 +137,7 @@
 ## Injeção de Dependência
 - [Awilix](https://github.com/jeffijoe/awilix)
 - [Inversify](https://inversify.io/)
+- [Tsyringe](https://github.com/microsoft/tsyringe)
 
 ### Instalação
 - [N](https://github.com/tj/n)

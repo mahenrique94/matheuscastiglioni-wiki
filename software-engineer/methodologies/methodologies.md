@@ -4,6 +4,7 @@
 - [CAP (Consistency Availability Partition Tolerance)](https://en.wikipedia.org/wiki/CAP_theorem)
 - [CDC (Consumer Driven Contracts)](https://martinfowler.com/articles/consumerDrivenContracts.html)
 - [CDD (Component Driven Development)](https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55)
+- [COC (Convention Over Configuration)](https://facilethings.com/blog/en/convention-over-configuration)
 - [CDUI (Client Driven UI)]()
 - [Chaos Engineering](https://solvimm.com/blog/o-que-e-chaos-engineering/)
   - [Chaos Gorilla](https://medium.com/@bfpimenta/o-simian-army-6a7c138460dd)
