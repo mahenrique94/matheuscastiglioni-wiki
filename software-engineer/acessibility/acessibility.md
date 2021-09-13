@@ -6,6 +6,7 @@ O que é acessibilidade? https://www.youtube.com/watch?v=pOmdL9LzDJg
 - [Cypress Axe](https://github.com/component-driven/cypress-axe)
 - [Jest Axe](https://github.com/nickcolley/jest-axe)
 - [JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
+- [PA11y](https://github.com/pa11y/pa11y)
 
 ## Ferramentas
 - [aXe](https://www.deque.com/axe/)
