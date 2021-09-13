@@ -23,6 +23,7 @@
   - [Twemproxy](https://github.com/twitter/twemproxy)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
+  - [ProxySQL](https://proxysql.com/)
   - [Tungsten](https://www.continuent.com/products/tungsten-replicator)
 - [Neo4j](https://neo4j.com/)
 - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
