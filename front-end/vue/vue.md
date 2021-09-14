@@ -27,4 +27,5 @@
 - [VueLidate](https://github.com/vuelidate/vuelidate)
 
 ### Gerenciamento de Estado
+- [Harlemjs](https://harlemjs.com/)
 - [Vuex](https://github.com/vuejs/vuex)
