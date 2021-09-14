@@ -6,6 +6,7 @@
 - [Ambassador](https://www.magalix.com/blog/kubernetes-patterns-the-ambassador-pattern)
 - [API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
 - [API Gateway](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+- [APP Shell](https://developers.google.com/web/fundamentals/architecture/app-shell?authuser=1)
 - [Backend-for-Frontend (BFF)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
 - [Blackboard](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [BLoC (Business Logic Components)](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/)
