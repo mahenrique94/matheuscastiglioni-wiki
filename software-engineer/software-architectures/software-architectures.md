@@ -89,6 +89,7 @@
 - [MVI (Model View Intent)](https://fueled.com/blog/what-is-mvi-model-view-intent/)
 - [MVP (Model View Presenter)](https://pt.wikipedia.org/wiki/Model-view-presenter)
 - [MVVM (Movel View View Model)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+- [Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 - [Peer-to-peer](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Pipe-filter](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [Plugin Architecture](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)
