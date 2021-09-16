@@ -23,6 +23,7 @@
 - [Migrating to Microservice Databases](https://learning.oreilly.com/library/view/migrating-to-microservice/9781492048824/)
 - [Patterns Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
+- [Sistemas Reativos](https://www.casadocodigo.com.br/products/livro-sistemas-reativos)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
