@@ -4,6 +4,7 @@
 - Apresentações em MarkDown ([https://play.presenta.cc/](https://play.presenta.cc/))
 - Biblioteca para criar contrastes de cores ([https://leonardocolor.io/](https://leonardocolor.io/))
 - Buscar trechos de códigos em repositórios ([https://about.sourcegraph.com/](https://about.sourcegraph.com/))
+- Capturar ações nas telas ([https://www.tango.us/](https://www.tango.us/))
 - Colaboração de código ponta à ponta ([https://radicle.xyz/](https://radicle.xyz/))
 - Colaboração em tempo real com mapas ([https://github.com/alyssaxuu/mapus](https://github.com/alyssaxuu/mapus))
 - Coletar informações de site ([https://www.woopra.com/](https://www.woopra.com/))

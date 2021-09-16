@@ -23,6 +23,7 @@
 - Lista de API's públicas para utilizar em projetos ([https://public-apis.io/](https://public-apis.io/))
 - Lista de dinâmicas para times ([http://www.funretrospectives.com/](http://www.funretrospectives.com/))
 - Lista com serviços free e open source ([https://free-for.dev/#/](https://free-for.dev/#/))
+- Lorem ipsum para imagens ([https://doodleipsum.com/](https://doodleipsum.com/))
 - Medir a performance de bibliotecas e frameworks client side ([https://perf-track.web.app/](https://perf-track.web.app/), [https://speedvitals.com/](https://speedvitals.com/))
 - Musicas sem copyright ([https://uppbeat.io/](https://uppbeat.io/))
 - Navegar na AST do JavaScript ([https://astexplorer.net/](https://astexplorer.net/))
