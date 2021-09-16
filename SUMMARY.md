@@ -4,6 +4,7 @@
 - [Armazenamento](/storage/storage.md)
 - [Back-End](/back-end/back-end.md)
   - [Deno](/back-end/deno/deno.md)
+  - [Elixir](/back-end/elixir/elixir.md)
   - [GraphQL](/back-end/graphql/graphql.md)
   - [Java](/back-end/java/java.md)
   - [NodeJS](/back-end/nodejs/nodejs.md)

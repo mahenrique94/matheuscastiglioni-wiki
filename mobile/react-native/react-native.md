@@ -7,6 +7,7 @@
 
 ### Banco de Dados
 - [RealmDB](https://github.com/realm/realm-js)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 
 ### CLI
 - [Expo](https://expo.io/)

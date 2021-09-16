@@ -46,6 +46,7 @@
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [TileDB](https://tiledb.com)
 - [VoltDB](https://www.voltdb.com/)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 
 ## Bibiliotecas
 - [Continuent](https://www.continuent.com/)

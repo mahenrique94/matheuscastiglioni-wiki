@@ -56,6 +56,7 @@
 - [Sinon](https://sinonjs.org/)
 - [Testing Library](https://testing-library.com/)
   - [React Testing Library](https://github.com/testing-library/react-testing-library)
+  - [React Hooks Testing Library](https://github.com/testing-library/react-hooks-testing-library)
 - [SlimerJS](https://slimerjs.org/)
 - [SonarQube](https://www.sonarqube.org/)
   - [Sonar Qube SAST](https://www.sonarqube.org/features/security/sast/)
