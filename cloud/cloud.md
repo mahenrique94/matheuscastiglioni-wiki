@@ -1,6 +1,7 @@
 # Cloud
 
 ## Provedores
+- [Alluxio](https://www.alluxio.io/)
 - [AWS](https://aws.amazon.com/)
   - [Vantage](https://www.vantage.sh/)
 - [Azure](https://azure.microsoft.com/)
