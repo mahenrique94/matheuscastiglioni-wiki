@@ -26,6 +26,7 @@
 - [PivotalTracker](https://www.pivotaltracker.com/)
 - [ProductBoard](https://www.productboard.com/)
 - [ProofHub](https://www.proofhub.com/)
+- [Quantify](https://www.quantifyhq.com/)
 - [Quire](https://quire.io/)
 - [Reflow](https://www.reflow.com.br/)
 - [Roads](https://roads.run/)
