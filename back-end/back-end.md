@@ -10,3 +10,4 @@
 - [NodeJS](/back-end/nodejs/nodejs.md)
 - [PHP](/back-end/php/php.md)
 - [Ruby](/back-end/ruby/ruby.md)
+- [Rust](/back-end/rust/rust.md)
