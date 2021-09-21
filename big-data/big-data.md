@@ -21,6 +21,7 @@
 - [Apache Spark](https://spark.apache.org/)
 - [Apache Superset](https://superset.apache.org/)
 - [Apache Tajo](https://tajo.apache.org/)
+- [Apache Tika](https://tika.apache.org/)
 - [AWS Athena](https://aws.amazon.com/pt/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 - [AWS Glue](https://aws.amazon.com/pt/glue/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 - [Beam](https://beam.apache.org/)
