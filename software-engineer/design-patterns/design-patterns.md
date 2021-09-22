@@ -1,5 +1,6 @@
 # Design Patterns
 
+- [Delegated Setup](http://xunitpatterns.com/Delegated%20Setup.html)
 - [Dependency Injection](https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671)
 - [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
