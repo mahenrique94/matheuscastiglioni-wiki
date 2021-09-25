@@ -24,6 +24,7 @@
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
 - [SmoothStep](https://smoothstep.io/)
+- [Theatrejs](https://www.theatrejs.com/)
 
 ## Apresentação
 - [Reveal.js](https://github.com/hakimel/reveal.js)
@@ -56,6 +57,7 @@
 - [BundleSize](https://github.com/siddharthkp/bundlesize)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [ESBuild](https://github.com/evanw/esbuild)
+  - [es-module-shims](https://github.com/guybedford/es-module-shims)
   - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [EStrella](https://github.com/rsms/estrella)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
@@ -123,6 +125,10 @@
 ## Comunicação
 - [FoxQL](https://github.com/foxql/foxql)
 - [PeerJS](https://github.com/peers/peerjs)
+
+
+## Contagem
+- [CountUp](https://github.com/inorganik/countUp.js)
 
 ## Cookie
 - [js-cookie](https://github.com/js-cookie/js-cookie)
@@ -222,6 +228,8 @@
 - [TUI Editor](https://github.com/nhn/tui.editor)
 
 ## Engines
+- [Elk](https://github.com/cesanta/elk)
+- [Hermes](https://github.com/facebook/hermes)
 - [v8](https://github.com/v8/v8)
 
 ## Estilização

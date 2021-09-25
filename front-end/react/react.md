@@ -25,6 +25,7 @@
 - [Customize CRA](https://github.com/arackaf/customize-cra)
 
 ### CLI
+- [Agrippa](https://github.com/NitzanHen/agrippa)
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Create React Library](https://github.com/transitive-bullshit/create-react-library)
 
