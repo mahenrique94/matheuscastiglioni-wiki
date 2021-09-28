@@ -21,6 +21,7 @@
 - [Lottie](https://github.com/airbnb/lottie)
   - [Lottie Web](https://github.com/airbnb/lottie-web)
 - [Mo.js](https://github.com/mojs/mojs)
+- [Motion](https://motion.dev/)
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
 - [SmoothStep](https://smoothstep.io/)
@@ -483,3 +484,4 @@
 
 ## Workers
 - [Comlink](https://github.com/GoogleChromeLabs/comlink)
+- [PartyTown](https://github.com/BuilderIO/partytown)

@@ -2,6 +2,7 @@
 
 ## Provedores
 - [Alluxio](https://www.alluxio.io/)
+- [Appwrite](https://appwrite.io/)
 - [AWS](https://aws.amazon.com/)
   - [Vantage](https://www.vantage.sh/)
 - [Azure](https://azure.microsoft.com/)
