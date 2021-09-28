@@ -1,6 +1,7 @@
 # Armazenamento
 
 ## Banco de dados
+- [AeroSpike](https://aerospike.com/)
 - [Apache Ignite](https://ignite.apache.org/)
 - [Apache Jena](https://jena.apache.org/tutorials/sparql_pt.html)
 - [Apache Parquet](https://parquet.apache.org/)
@@ -33,6 +34,7 @@
 - [OracleDB](https://www.oracle.com/br/database/)
   - [Golden Gate](https://www.oracle.com/br/integration/goldengate/)
 - [OrbitDB](https://orbitdb.org/)
+- [OrientDB](https://orientdb.org/)
 - [PlanetScale](https://planetscale.com/)
 - [PostgresQL](https://www.postgresql.org/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
@@ -78,6 +80,9 @@
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [Solr](https://lucene.apache.org/solr/)
 - [Sonic](https://crates.io/crates/sonic-server)
+
+## Integração
+- [MarkLogic](https://www.marklogic.com/)
 
 ## Links
 - [ACID](https://en.wikipedia.org/wiki/ACID)
