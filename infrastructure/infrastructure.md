@@ -124,6 +124,7 @@
 - [Apache Storm](https://storm.apache.org/)
 - [Debezium](https://debezium.io/)
 - [HornetQ](https://hornetq.jboss.org/)
+- [KubeMQ](https://kubemq.io/)
 - [NATS](https://nats.io/)
 - [PulseGuardian](https://pulseguardian.mozilla.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
