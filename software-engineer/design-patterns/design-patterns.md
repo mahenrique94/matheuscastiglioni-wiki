@@ -1,10 +1,12 @@
 # Design Patterns
 
+- [Access Token](https://microservices.io/patterns/security/access-token.html)
+- [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Delegated Setup](http://xunitpatterns.com/Delegated%20Setup.html)
 - [Dependency Injection](https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671)
-- [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
-- [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
 - [Rules](https://www.michael-whelan.net/rules-design-pattern/)
+- [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
+- [Service Template](https://microservices.io/patterns/service-template.html)
 
 ## Comportamento
 - [Chain of Responsability](https://pt.wikipedia.org/wiki/Chain_of_Responsibility)
