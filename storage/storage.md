@@ -73,6 +73,7 @@
 - [Maxwells](https://maxwells-daemon.io/)
 
 ## Ferramentas
+- [EverSQL](https://www.eversql.com/)
 - [SQLDBM](https://sqldbm.com/Home/)
 
 ## Indexação de dados

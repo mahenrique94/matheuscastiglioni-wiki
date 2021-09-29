@@ -3,6 +3,7 @@
 ## Automação
 - [Ansible](https://www.ansible.com/)
 - [Chef](https://www.chef.io/products/chef-infra)
+- [EasyCron](https://www.easycron.com/)
 - [GitOps](https://www.gitops.tech/)
   - [ArgoCD](https://argoproj.github.io/argo-cd/)
   - [Flux](https://www.weave.works/oss/flux/)
@@ -19,6 +20,7 @@
 ## CI/CD
 - [Argo CD](https://argoproj.github.io/argo-cd/)
 - [Bamboo](https://www.atlassian.com/br/software/bamboo)
+- [BitRise](https://www.bitrise.io/)
 - [Circle CI](https://circleci.com/)
 - [CruiseControl](http://cruisecontrol.sourceforge.net/)
 - [DPL](https://github.com/travis-ci/dpl)
@@ -45,6 +47,7 @@
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [DevopsStack](https://devops-stack.io)
+  - [Garden](https://garden.io/)
   - [Helm](https://helm.sh/)
   - [Knative](https://knative.dev/)
   - [Kubectx](https://github.com/ahmetb/kubectx)
