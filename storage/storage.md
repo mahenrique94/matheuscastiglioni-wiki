@@ -90,6 +90,7 @@
   - [Consistency](https://en.wikipedia.org/wiki/ACID)
   - [Isolation](https://en.wikipedia.org/wiki/ACID)
   - [Durability](https://en.wikipedia.org/wiki/ACID)
+- [ACID 2.0](https://lostechies.com/jimmybogard/2013/06/06/acid-2-0-in-action/)
 - [BASE](https://phoenixnap.com/kb/acid-vs-base)
 - [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
   - [Create](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
