@@ -8,9 +8,11 @@
 ## Bibliotecas
 
 ### APIs
+- [ActionHero](https://github.com/actionhero/actionhero)
 - [AdonisJS](https://adonisjs.com/)
 - [Amplication](https://github.com/amplication/amplication)
 - [Cote](https://github.com/dashersw/cote)
+- [Derby](https://github.com/derbyjs/derby)
 - [Egg](https://github.com/eggjs/egg)
 - [Express](https://expressjs.com/pt-br/)
   - [Consign](https://github.com/jarradseers/consign)
@@ -22,6 +24,7 @@
 - [Hapi](https://hapi.dev/)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Koa](https://koajs.com/)
+- [Lad](https://github.com/ladjs/lad#microservices)
 - [LoopBack](https://loopback.io/)
 - [Micro.vercel](https://github.com/vercel/micro)
 - [Micro.mu](https://github.com/micro/micro)
@@ -36,6 +39,7 @@
 - [Seneca](https://github.com/senecajs/seneca)
 - [Serverless](https://github.com/serverless/serverless)
   - [Serverless Stack](https://serverless-stack.com/)
+- [Totaljs](https://www.totaljs.com/)
 - [Webiny](https://github.com/webiny/webiny-js)
 
 ### Arquivos
