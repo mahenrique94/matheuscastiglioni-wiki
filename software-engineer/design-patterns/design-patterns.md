@@ -4,6 +4,7 @@
 - [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Delegated Setup](http://xunitpatterns.com/Delegated%20Setup.html)
 - [Dependency Injection](https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671)
+- [Problem Details](https://codeopinion.com/problem-details-for-better-rest-http-api-errors/)
 - [Rules](https://www.michael-whelan.net/rules-design-pattern/)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
 - [Service Template](https://microservices.io/patterns/service-template.html)
