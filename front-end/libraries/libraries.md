@@ -360,6 +360,9 @@
 - [NSFW](https://github.com/infinitered/nsfwjs)
 - [TensorFlow](https://github.com/tensorflow/tensorflow)
 
+## Manipulação
+- [DinoQL](https://github.com/victorvoid/dinoql)
+
 ## Mapas
 - [MapBox](https://www.mapbox.com/)
 - [Radar](https://radar.io/)
