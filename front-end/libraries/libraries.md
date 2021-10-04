@@ -111,6 +111,7 @@
 
 ## Coleções
 - [Grid.js](https://github.com/grid-js/gridjs)
+- [HandsonTable](https://github.com/handsontable/handsontable)
 - [List.js](https://github.com/javve/list.js)
 - [Sortable](https://github.com/SortableJS/Sortable)
 - [SortBy](https://github.com/kvnneff/sort-by)
@@ -286,6 +287,7 @@
 - [Frappe](https://github.com/frappe/charts)
 - [GraphVIZ](http://www.graphviz.org/)
 - [HighCharts](https://github.com/highcharts/highcharts)
+- [JSXGraph](https://jsxgraph.org/wp/index.html)
 - [Plotly.js](https://github.com/plotly/plotly.js)
 
 ## Icones
@@ -488,3 +490,4 @@
 ## Workers
 - [Comlink](https://github.com/GoogleChromeLabs/comlink)
 - [PartyTown](https://github.com/BuilderIO/partytown)
+- [Threads.js](https://github.com/andywer/threads.js)

@@ -12,6 +12,8 @@
 - [Godot](https://godotengine.org/)
 - [Gute](https://github.com/kevglass/gute/)
 - [KaboomJS](https://kaboomjs.com)
+- [LittleJS](https://github.com/KilledByAPixel/LittleJS)
+- [MelonJS](https://melonjs.org/)
 - [NAP](https://www.napframework.com/)
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)

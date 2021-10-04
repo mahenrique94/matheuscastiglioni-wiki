@@ -225,6 +225,7 @@
 - [Stack Overflow](https://stackoverflow.blog/newsletter/)
 - [State of Devops](https://puppet.com/resources/report/2021-state-of-devops-report)
 - [Stefan Judis](https://buttondown.email/stefanjudis)
+- [Trekhleb](https://trekhleb.dev/)
 
 ## Pessoas para seguir
 - [Adam Craven](https://twitter.com/principles_dev)
@@ -254,6 +255,7 @@
 - [Max Stoiber](https://twitter.com/mxstbr)
 - [Mel Conway](https://twitter.com/conways_law)
 - [Minko Gechev](https://twitter.com/mgechev)
+- [Oleksii Trekhleb](https://twitter.com/Trekhleb)
 - [Rebecca Parsons](https://twitter.com/rebeccaparsons)
 - [Rich Harris](https://twitter.com/Rich_Harris)
 - [Roberta Arcoverde](https://twitter.com/rla4)
