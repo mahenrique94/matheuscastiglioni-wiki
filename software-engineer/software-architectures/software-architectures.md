@@ -99,6 +99,7 @@
   - [Envoy](https://www.envoyproxy.io/)
 - [Reactive Architecture](https://dzone.com/articles/reactive-architecture-benefits-amp-use-cases#:~:text=A%20Reactive%20system%20is%20an,responsiveness%20under%20failure%2C%20and%20more.)
 - [Responsibility Driven Design](https://en.wikipedia.org/wiki/Responsibility-driven_design)
+- [Reusable API's](https://dzone.com/articles/minimizing-microservices-complexity-with-reusable-apis)
 - [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
 - [Saga](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [Scatter/Gather](https://www.prostdev.com/post/intro-to-scatter-gather-integration-pattern)
