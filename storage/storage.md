@@ -7,6 +7,7 @@
 - [Apache Parquet](https://parquet.apache.org/)
 - [Cascalog](https://github.com/nathanmarz/cascalog)
 - [Cassandra](https://cassandra.apache.org/)
+- [ClickHouse](https://clickhouse.com/)
 - [CouchBase](https://www.couchbase.com/)
 - [CouchDB](https://couchdb.apache.org/)
 - [Datastore](https://cloud.google.com/datastore)
