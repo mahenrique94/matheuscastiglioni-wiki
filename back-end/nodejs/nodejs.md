@@ -216,6 +216,9 @@
 - [Socket.io](https://socket.io/)
 - [WS](https://github.com/websockets/ws)
 
+### Redis
+- [IORedis](https://github.com/luin/ioredis)
+
 ### Rotinas
 - [Agenda](https://github.com/agenda/agenda)
 - [NodeSchedule](https://github.com/node-schedule/node-schedule)
