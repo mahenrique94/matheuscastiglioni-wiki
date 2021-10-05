@@ -5,6 +5,7 @@
 - [Detectron2](https://github.com/facebookresearch/detectron2)
 - [Numpy](https://numpy.org/)
 - [GeoPandas](https://geopandas.org/)
+- [Milvus](https://milvus.io/)
 - [Pandas](https://pandas.pydata.org/)
 - [Tabula](https://pypi.org/project/tabula-py/)
 

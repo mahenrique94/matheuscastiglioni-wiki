@@ -220,6 +220,9 @@
 - [JSDoc](https://github.com/jsdoc/jsdoc)
 - [Storybook](https://github.com/storybookjs/storybook)
 
+## E-Commerce
+- [CommerceJS](https://commercejs.com/)
+
 ## Editor
 - [CKEditor](https://ckeditor.com/)
 - [Editor.js](https://github.com/codex-team/editor.js)
@@ -324,6 +327,7 @@
 - [Spotlight](https://github.com/nextapps-de/spotlight)
 - [libSquoosh](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh)
 - [UpScalerJS](https://github.com/thekevinscott/UpscalerJS)
+- [Uppy](https://github.com/transloadit/uppy)
 - [Viewer.js](https://github.com/fengyuanchen/viewerjs)
 
 ## Integração

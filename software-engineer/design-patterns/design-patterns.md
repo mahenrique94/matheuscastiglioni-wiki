@@ -8,6 +8,7 @@
 - [Rules](https://www.michael-whelan.net/rules-design-pattern/)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
 - [Service Template](https://microservices.io/patterns/service-template.html)
+- [System UI Theme Specification](https://system-ui.com/theme)
 
 ## Comportamento
 - [Chain of Responsability](https://pt.wikipedia.org/wiki/Chain_of_Responsibility)

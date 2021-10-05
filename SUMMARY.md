@@ -49,6 +49,7 @@
   - [JamStack](/front-end/jamstack/jamstack.md)
   - [Micro Front-End (MFE)](/front-end/mfe/mfe.md)
   - [Mint](/front-end/mint/mint.md)
+  - [PureScript](/front-end/pure-script/pure-script.md)
   - [React](/front-end/react/react.md)
   - [Svelte](/front-end/svelte/svelte.md)
   - [Vue](/front-end/vue/vue.md)
