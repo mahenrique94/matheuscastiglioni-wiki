@@ -50,6 +50,9 @@
 - [PostgreSQL](https://www.casadocodigo.com.br/products/livro-postgresql)
 - [SQL](https://www.casadocodigo.com.br/products/livro-sql-oracle)
 
+## Dados
+- [Elasticsearch](https://www.casadocodigo.com.br/products/livro-elasticsearch)
+
 ## Front-End
 - [Acessibilidade na Web](https://www.casadocodigo.com.br/products/livro-acessibilidade?_pos=1&_sid=0e0d1eb70&_ss=r)
 - [Building Micro-Frontends](https://learning.oreilly.com/library/view/building-micro-frontends/9781492082989/)
