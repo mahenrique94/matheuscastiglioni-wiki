@@ -125,7 +125,8 @@
 - [Sparkpost](https://www.sparkpost.com/)
 
 ### Files
-- [xmlbuilder2](https://github.com/oozcitak/)
+- [XMLBuilder2](https://github.com/oozcitak/)
+- [Trash](https://github.com/sindresorhus/trash)
 
 ### Fixtures
 - [Faker.js](https://github.com/Marak/faker.js)
