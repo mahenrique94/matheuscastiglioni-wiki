@@ -26,6 +26,7 @@
 - [Koa](https://koajs.com/)
 - [Lad](https://github.com/ladjs/lad#microservices)
 - [LoopBack](https://loopback.io/)
+- [Marble](https://github.com/marblejs/marble)
 - [Micro.vercel](https://github.com/vercel/micro)
 - [Micro.mu](https://github.com/micro/micro)
 - [Moleculer](https://moleculer.services/)
@@ -54,6 +55,7 @@
 - [AccessControl](https://github.com/onury/accesscontrol)
 - [Argon2](https://www.npmjs.com/package/argon2)
 - [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
+- [CryptoHash](https://github.com/sindresorhus/crypto-hash)
 - [CryptoJS](https://github.com/brix/crypto-js)
 - [Magic](https://magic.link/)
 - [Ory](https://github.com/ory/keto)
@@ -63,6 +65,7 @@
 
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
+- [Benny](https://github.com/caderek/benny)
 - [Tachometer](https://github.com/Polymer/tachometer)
 
 ### Circuit Braker
