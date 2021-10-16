@@ -367,7 +367,10 @@
   - [Stylelint Config Standard](https://github.com/stylelint/stylelint-config-standard)
 
 ## Machine Learning
+- [Brain.js](https://brain.js.org/#/)
+- [KerasJS](https://transcranial.github.io/keras-js/#/)
 - [NSFW](https://github.com/infinitered/nsfwjs)
+- [TensorFire](https://tenso.rs/)
 - [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ## Manipulação
