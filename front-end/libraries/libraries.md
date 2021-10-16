@@ -125,6 +125,7 @@
 ## Componentes
 - [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel)
 - [Flicking](https://github.com/naver/egjs-flicking)
+- [HeadlessUI](https://github.com/tailwindlabs/headlessui)
 - [Tagify](https://github.com/yairEO/tagify)
 
 ## Comunicação

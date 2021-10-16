@@ -31,6 +31,7 @@
 - Ferramenta para regressão visual ([https://applitools.com/](https://applitools.com/), [https://percy.io/](https://percy.io/), [https://screenshotbot.io/](https://screenshotbot.io/))
 - Ferramenta para criar forum ([https://www.discourse.org/](https://www.discourse.org/), [https://flarum.org/](https://flarum.org/), [https://nodebb.org/](https://nodebb.org/))
 - Gamifique sua vida ([https://habitica.com/static/home](https://habitica.com/static/home))
+- Gerar API's com dados aleatórios ([https://randomapi.com/](https://randomapi.com/), [https://randomuser.me/api](https://randomuser.me/api))
 - Gerar breakpoints e srcset de imagens ([https://responsivebreakpoints.com/](https://responsivebreakpoints.com/))
 - Gerenciador de tempo em tarefas ([https://clockify.me/](https://clockify.me/) [https://toggl.com/](https://toggl.com/))
 - Gerenciar WebHooks ([https://hookdeck.com/](https://hookdeck.com/))
