@@ -5,6 +5,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
   - [Babylon Native](https://github.com/BabylonJS/BabylonNative)
 - [Cannon.js](https://schteppe.github.io/cannon.js/)
+- [Deck.gl](https://github.com/visgl/deck.gl)
 - [GPU.js](https://github.com/gpujs/gpu.js)
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)
