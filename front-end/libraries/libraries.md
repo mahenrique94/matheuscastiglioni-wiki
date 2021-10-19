@@ -281,6 +281,7 @@
   - [Redux Saga](https://github.com/redux-saga/redux-saga)
   - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
 - [Reselect](https://github.com/reduxjs/reselect)
+- [Robot](https://github.com/matthewp/robot)
 - [Valtio](https://github.com/pmndrs/valtio)
 - [XState](https://github.com/davidkpiano/xstate)
 
