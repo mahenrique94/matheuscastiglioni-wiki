@@ -24,6 +24,7 @@
 - [RRWeb](https://github.com/rrweb-io/rrweb)
 - [ScanAPI](https://github.com/scanapi/scanapi)
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
+- [Stryker Mutator](https://stryker-mutator.io/)
 - [Vegeta](https://github.com/tsenart/vegeta)
 - [WireMock](http://wiremock.org/)
 
