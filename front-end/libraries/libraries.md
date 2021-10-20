@@ -84,6 +84,8 @@
 - [Turbo](https://github.com/hotwired/turbo)
 - [Vite](https://github.com/vitejs/vite)
 - [Webpack](https://webpack.js.org/)
+  - [Module Federation](https://webpack.js.org/concepts/module-federation/)
+    - [create-mf-app](https://www.npmjs.com/package/create-mf-app)
   - [Source Map Explorer](https://github.com/danvk/source-map-explorer)
   - [Webpack Analyse](https://github.com/webpack/analyse)
   - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
@@ -145,6 +147,7 @@
 
 ## Criação e Maniputalção de Interface
 - [Alpine.js](https://github.com/alpinejs/alpine)
+- [Choo](https://github.com/choojs/choo)
 - [CSSDoodle](https://css-doodle.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)

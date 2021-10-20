@@ -32,6 +32,7 @@
 - [Roads](https://roads.run/)
 - [Rock](https://rock.so/)
 - [Runrun.it](https://runrun.it/pt-BR)
+- [ShortCut](https://shortcut.com/)
 - [Slack](http://slack.com/)
 - [StackOverflow Teams](https://stackoverflow.com/teams)
 - [Tara](https://tara.ai/)

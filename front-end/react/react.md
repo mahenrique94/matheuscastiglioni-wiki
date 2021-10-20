@@ -128,6 +128,7 @@
 - [Formik](https://github.com/formium/formik)
 
 ### Gerenciador de Estado
+- [DVA](https://github.com/dvajs/dva)
 - [HookState](https://hookstate.js.org/)
 - [Jotai](https://github.com/pmndrs/jotai)
 - [Little State Machine](https://github.com/bluebill1049/little-state-machine)
@@ -158,6 +159,9 @@
 - [React Use](https://github.com/streamich/react-use)
 - [Rooks](https://github.com/imbhargav5/rooks)
 - [Use Context Selector](https://github.com/dai-shi/use-context-selector)
+
+### Mapas
+- [PigeonMaps](https://github.com/mariusandra/pigeon-maps)
 
 ### Modal
 - [React Confirm Bootstrap](https://github.com/gregthebusker/react-confirm-bootstrap)
