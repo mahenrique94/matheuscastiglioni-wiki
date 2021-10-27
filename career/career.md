@@ -8,6 +8,7 @@
 - [AlgoExpert](https://www.algoexpert.io/)
 - [CodeSignal](https://codesignal.com/)
 - [CodeWars](https://www.codewars.com/)
+- [CSSBattle](https://cssbattle.dev/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
