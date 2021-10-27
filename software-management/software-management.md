@@ -65,6 +65,7 @@
 - [Reality Check](https://www.realitychecktool.com/)
 - [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
 - [Value Stream Mapping](https://www.supero.com.br/blog/value-stream-mapping/)
+- [Vision Tree](https://medium.com/swlh/we-don-t-build-feature-here-the-secret-to-empower-and-align-teams-using-the-vision-tree-cc8302684f51)
 - [Wardley Value Chain](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
 
 ## Metodologias
