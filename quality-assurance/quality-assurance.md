@@ -11,6 +11,7 @@
 - [Hoverfly](https://hoverfly.io/)
 - [JSDom](https://github.com/jsdom/jsdom)
 - [K6](https://k6.io/)
+- [Lambda Tester](https://github.com/vandium-io/lambda-tester)
 - [LoadNinja](https://loadninja.com/)
 - [Mirage.js](https://github.com/miragejs/miragejs)
 - [MounteBank](http://www.mbtest.org/)

@@ -50,6 +50,7 @@
   - [Garden](https://garden.io/)
   - [Helm](https://helm.sh/)
   - [Knative](https://knative.dev/)
+  - [Kosko](https://kosko.dev/)
   - [Kubectx](https://github.com/ahmetb/kubectx)
   - [Kubeless](https://kubeless.io/)
   - [Kubernetic](https://www.kubernetic.com/)
@@ -145,6 +146,7 @@
 
 ## Servidores
 - [Apache](https://www.apache.org/)
+- [Apache APISIX](https://apisix.apache.org/)
 - [Glassfish](https://javaee.github.io/glassfish/)
 - [HAProxy](http://www.haproxy.org/)
 - [Jetty](https://www.eclipse.org/jetty/)

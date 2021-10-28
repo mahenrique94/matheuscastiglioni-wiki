@@ -301,6 +301,7 @@
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [JSXGraph](https://jsxgraph.org/wp/index.html)
 - [Plotly.js](https://github.com/plotly/plotly.js)
+- [Vizzu](https://github.com/vizzuhq/vizzu-lib)
 
 ## Icones
 - [FlagPack](https://flagpack.xyz/)

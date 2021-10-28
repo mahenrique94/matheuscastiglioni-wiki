@@ -3,6 +3,7 @@
 - [Back-End RoadMap](https://roadmap.sh/backend)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
+- [Cue](/back-end/cue/cue.md)
 - [Deno](/back-end/deno/deno.md)
 - [Elixir](/back-end/elixir/elixir.md)
 - [Java](/back-end/java/java.md)

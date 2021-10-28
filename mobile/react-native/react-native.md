@@ -46,6 +46,7 @@
 - [React Native Navigation](https://github.com/wix/react-native-navigation)
 
 ### Notificação
+- [Notifee](https://notifee.app/)
 - [React Native Firebase](https://github.com/invertase/react-native-firebase)
 
 ### Utiliários

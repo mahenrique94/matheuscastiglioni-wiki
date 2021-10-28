@@ -21,6 +21,7 @@
 - [Bulma](https://bulma.io/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [CSS Nano](https://github.com/cssnano/cssnano)
+- [Flowbite](https://flowbite.com/)
 - [Foundation](https://get.foundation/)
 - [Halfmoon](https://github.com/halfmoonui/halfmoon)
 - [Helsinki Design System](https://hds.hel.fi/)
