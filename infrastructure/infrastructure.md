@@ -130,6 +130,7 @@
 - [NATS](https://nats.io/)
 - [PulseGuardian](https://pulseguardian.mozilla.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
+  - [Try RabbitMQ](http://tryrabbitmq.com/)
 - [Service Bus](https://docs.microsoft.com/pt-br/azure/service-bus-messaging/service-bus-messaging-overview)
   - [jBPM](https://www.jbpm.org/)
   - [Mule ESB](https://www.mulesoft.com/platform/soa/mule-esb-open-source-esb)

@@ -8,6 +8,8 @@
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [Fortio](https://fortio.org/)
 - [Gatling](https://gatling.io/)
+- [Google Sanitizers](https://github.com/google/sanitizers)
+- [Helgrind](https://valgrind.org/docs/manual/hg-manual.html)
 - [Hoverfly](https://hoverfly.io/)
 - [JSDom](https://github.com/jsdom/jsdom)
 - [K6](https://k6.io/)
@@ -26,6 +28,7 @@
 - [ScanAPI](https://github.com/scanapi/scanapi)
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 - [Stryker Mutator](https://stryker-mutator.io/)
+- [Valgrind](https://valgrind.org/)
 - [Vegeta](https://github.com/tsenart/vegeta)
 - [WireMock](http://wiremock.org/)
 
@@ -70,6 +73,10 @@
 - [Canary Release](https://martinfowler.com/bliki/CanaryRelease.html)
 - [Dark Launching](https://martinfowler.com/bliki/DarkLaunching.html)
 - [Red/Black Deploy](https://stackoverflow.com/questions/45259589/whats-the-difference-between-red-black-deployment-and-blue-green-deployment)
+
+## Tipos de testes
+- [Fuzz Testing](https://www.contrastsecurity.com/knowledge-hub/glossary/fuzz-testing#:~:text=In%20the%20world%20of%20cybersecurity,coding%20errors%20and%20security%20loopholes.)
+  - [Peach Fuzzer](https://wiki.mozilla.org/Security/Fuzzing/Peach)
 
 ## Links
 - https://github.com/goldbergyoni/javascript-testing-best-practices
