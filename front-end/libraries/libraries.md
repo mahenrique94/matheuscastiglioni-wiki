@@ -317,6 +317,7 @@
 ## Identificação
 - [CUID](https://github.com/ericelliott/cuid)
 - [NanoID](https://github.com/ai/nanoid/)
+- [ULID](https://github.com/ulid/javascript)
 - [UUID](https://github.com/uuidjs/uuid)
 
 ## Imagens
