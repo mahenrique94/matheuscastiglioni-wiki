@@ -39,6 +39,7 @@
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
   - [Apache Mesos](http://mesos.apache.org/)
+  - [Dive](https://github.com/wagoodman/dive)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - [DockStation](https://github.com/DockStation/dockstation)
   - [Label Schema](http://label-schema.org/rc1/)
@@ -113,6 +114,7 @@
   - [Istio](https://github.com/istio/istio)
     - [Kiali](https://kiali.io/)
   - [Kong](https://konghq.com/)
+    - [Konga](https://pantsel.github.io/konga/)
 
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)

@@ -64,6 +64,8 @@
 - [Zanzibar](https://research.google/pubs/pub48190/)
 
 ### Automação
+- [Comby](https://github.com/comby-tools/comby)
+- [JSCodeShift](https://github.com/facebook/jscodeshift)
 - [RobotJS](https://github.com/octalmage/robotjs)
 
 ### Benchmark

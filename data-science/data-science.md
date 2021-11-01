@@ -3,10 +3,12 @@
 ## Bibliotecas
 - [Detectron](https://github.com/facebookresearch/Detectron)
 - [Detectron2](https://github.com/facebookresearch/detectron2)
+- [Kats](https://github.com/facebookresearch/Kats)
 - [Numpy](https://numpy.org/)
 - [GeoPandas](https://geopandas.org/)
 - [Milvus](https://milvus.io/)
 - [Pandas](https://pandas.pydata.org/)
+- [Polars](https://github.com/pola-rs/polars)
 - [Tabula](https://pypi.org/project/tabula-py/)
 
 ## Ferramentas

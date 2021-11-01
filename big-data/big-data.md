@@ -12,6 +12,7 @@
 ## Bibliotecas
 - [AbInitio](https://www.abinitio.com/en/)
 - [Amundsen](https://www.amundsen.io/)
+- [Apache Airflow](https://airflow.apache.org/)
 - [Apache Atlas](https://atlas.apache.org/#/)
 - [Apache Drill](https://drill.apache.org/)
 - [Apache Druid](https://druid.apache.org/)
@@ -29,6 +30,8 @@
 - [Dremio](https://www.dremio.com/)
 - [Flink](https://flink.apache.org/)
 - [Hadoop](https://hadoop.apache.org/)
+- [Prefect](https://github.com/prefecthq/prefect)
 - [Presto](https://prestodb.io/)
 - [Spark](https://spark.apache.org/)
 - [Splunk](https://www.splunk.com/)
+- [Tableau](https://www.tableau.com/pt-br)

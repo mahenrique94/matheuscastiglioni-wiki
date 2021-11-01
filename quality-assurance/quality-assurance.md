@@ -3,6 +3,8 @@
 ## Bibliotecas
 - [Apache JMeter](https://jmeter.apache.org/)
 - [Artillery](https://github.com/artilleryio/artillery)
+- [Batect](https://batect.dev/)
+- [Conftest](https://github.com/open-policy-agent/conftest)
 - [Cucumber.js](https://github.com/cucumber/cucumber-js)
 - [Detox](https://github.com/wix/Detox)
 - [Expect.js](https://github.com/Automattic/expect.js)
