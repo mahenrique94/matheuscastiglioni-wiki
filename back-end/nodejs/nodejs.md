@@ -63,6 +63,9 @@
 - [SCrypt](https://www.npmjs.com/package/scrypt)
 - [Zanzibar](https://research.google/pubs/pub48190/)
 
+### Automação
+- [RobotJS](https://github.com/octalmage/robotjs)
+
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
 - [Benny](https://github.com/caderek/benny)

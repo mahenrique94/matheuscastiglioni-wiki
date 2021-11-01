@@ -121,6 +121,7 @@
 - [List.js](https://github.com/javve/list.js)
 - [Sortable](https://github.com/SortableJS/Sortable)
 - [SortBy](https://github.com/kvnneff/sort-by)
+- [Tabulator](https://github.com/olifolkerd/tabulator)
 
 ## Compiladores/Parsers
 - [OHM](https://github.com/harc/ohm)
