@@ -100,6 +100,7 @@
 - [Pensamento e aprendizado pragmático](https://www.casadocodigo.com.br/products/livro-pensamento-aprendizado)
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com.br/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
 - [The Manager`s Path](https://www.amazon.com.br/Manager%60s-Path-Camille-Fournier/dp/1491973897)
+- [The Staff Engineer's Path](https://learning.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
 ## Relatórios
 - [iReport](https://www.casadocodigo.com.br/products/livro-ireport)
