@@ -499,6 +499,7 @@
 - [Vime](https://github.com/vime-js/vime)
 
 ## WebAssembly
+- [EMScripten](https://github.com/emscripten-core/emscripten)
 - [Lucet](https://github.com/bytecodealliance/lucet)
 
 ## WebComponents
