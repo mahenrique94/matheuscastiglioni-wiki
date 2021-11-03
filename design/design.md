@@ -21,8 +21,13 @@
 
 ## Softwares
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
+- [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
+  - [Natron](https://natrongithub.github.io/)
 - [Adobe Illustrator](https://www.adobe.com/br/products/illustrator.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+  - [Photopea](https://www.photopea.com/)
+- [Adobe Premiere Pro](https://www.adobe.com/br/products/premiere.html)
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve)
 - [AnimaApp](https://www.animaapp.com/)
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/)

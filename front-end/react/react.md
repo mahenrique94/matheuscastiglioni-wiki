@@ -175,6 +175,9 @@
 ### Protótipos
 - [Reactype](https://reactype.io/)
 
+### Qualidade
+- [https://github.com/keiya01/react-performance-testing](https://github.com/keiya01/react-performance-testing)
+
 ### Requisições
 - [React Query](https://github.com/tannerlinsley/react-query)
 - [RTK Query](https://github.com/rtk-incubator/rtk-query)

@@ -14,6 +14,7 @@
 - [Engineering Management](https://github.com/charlax/engineering-management)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Gitignore](https://github.com/github/gitignore)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [NamingCheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [Principles.dev](https://github.com/PrinciplesDotDev/principles)
 - [Public API's](https://github.com/public-apis/public-apis)
