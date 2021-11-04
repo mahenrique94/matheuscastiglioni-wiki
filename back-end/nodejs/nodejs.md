@@ -71,6 +71,7 @@
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
 - [Benny](https://github.com/caderek/benny)
+- [Hasty](https://hasty.dev/)
 - [Tachometer](https://github.com/Polymer/tachometer)
 
 ### Circuit Braker
