@@ -477,6 +477,7 @@
 
 ## Tradução
 - [I18n Manager](https://github.com/gilmarsquinelato/i18n-manager)
+- [Tolgee](https://tolgee.io/)
 
 ## Utils
 - [DetectBrowser](https://github.com/DamonOehlman/detect-browser)
