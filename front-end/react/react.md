@@ -201,6 +201,9 @@
 ### Videos
 - [Remotion](https://www.remotion.dev/)
 
+### WebComponents
+- [DireFlow](https://github.com/Silind-Software/direflow)
+
 ## Frameworks
 - [Relay](https://github.com/facebook/relay)
 
