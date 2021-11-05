@@ -26,6 +26,7 @@
 - [InfluxDB](https://www.influxdata.com/)
 - [KsqlDB](https://ksqldb.io/)
 - [LevelDB](https://github.com/google/leveldb)
+- [MangoDB](https://www.mangodb.io/)
 - [MemCached](https://memcached.org/)
   - [Twemproxy](https://github.com/twitter/twemproxy)
 - [MongoDB](https://www.mongodb.com/)

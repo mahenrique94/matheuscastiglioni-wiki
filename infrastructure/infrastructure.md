@@ -62,6 +62,7 @@
   - [Operator](https://operatorframework.io/)
   - [Rancher](https://rancher.com/)
     - [K3D](https://k3d.io/)
+    - [k3S](https://k3s.io/)
   - [Telepresence](https://www.telepresence.io/)
 - [Nomad](https://www.nomadproject.io/)
 - [Simplenetes](https://github.com/simplenetes-io/simplenetes)
