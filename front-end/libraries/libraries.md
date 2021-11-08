@@ -475,6 +475,10 @@
 ## Segurança
 - [DOMPurify](https://github.com/cure53/DOMPurify)
 
+## SSR
+- [Razzle](https://github.com/jaredpalmer/razzle)
+- [Umi](https://github.com/umijs/umi)
+
 ## Tradução
 - [I18n Manager](https://github.com/gilmarsquinelato/i18n-manager)
 - [Tolgee](https://tolgee.io/)
