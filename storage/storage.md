@@ -55,6 +55,7 @@
 - [RonDB](https://www.rondb.com/)
 - [SingleStore](https://www.singlestore.com/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+- [TiDB](https://pingcap.com/)
 - [TileDB](https://tiledb.com)
 - [Upstash](https://webrate.org/index.php/site/upstash.com/)
 - [VoltDB](https://www.voltdb.com/)
