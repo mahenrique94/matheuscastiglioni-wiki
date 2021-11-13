@@ -43,6 +43,7 @@
 ## Programas
 - [3DS Max](https://www.autodesk.com.br/products/3ds-max/overview?plc=3DSMAX&term=1-YEAR&support=ADVANCED&quantity=1)
 - [3D Coat](https://3dcoat.com/)
+- [Adobe Animate](https://www.adobe.com/br/products/animate.html)
 - [Atavism Online](https://atavismonline.com/)
 - [Black Magic](https://www.blackmagicdesign.com/br/products/fusion/)
 - [Blender](https://www.blender.org/)
@@ -57,7 +58,7 @@
 - [iClone](https://www.reallusion.com/iclone/)
 - [Instalod](https://instalod.com/)
 - [Light Tracer Render](https://lighttracer.org/)
-- [Live Link Fac‪e](https://apps.apple.com/us/app/live-link-face/id1495370836)
+- [Live Link Face](https://apps.apple.com/us/app/live-link-face/id1495370836)
 - [Mari](https://www.foundry.com/products/mari)
 - [Marvelous Designer](https://www.marvelousdesigner.com/)
 - [Maya](https://www.autodesk.com.br/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1)

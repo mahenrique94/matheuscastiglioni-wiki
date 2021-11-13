@@ -7,6 +7,7 @@
   - [Deno](/back-end/deno/deno.md)
   - [Elixir](/back-end/elixir/elixir.md)
   - [GraphQL](/back-end/graphql/graphql.md)
+  - [Halide](/back-end/halide/halide.md)
   - [Java](/back-end/java/java.md)
   - [NodeJS](/back-end/nodejs/nodejs.md)
   - [PHP](/back-end/php/php.md)

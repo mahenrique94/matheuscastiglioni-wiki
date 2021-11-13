@@ -351,6 +351,9 @@
 ## IoT
 - [JerryScript](https://github.com/jerryscript-project/jerryscript)
 
+## Layout
+- [MiniMasonry.js](https://github.com/Spope/MiniMasonry.js)
+
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
 - [DangerJS](https://danger.systems/js/)
@@ -475,6 +478,10 @@
 
 ## Segurança
 - [DOMPurify](https://github.com/cure53/DOMPurify)
+
+## SSR
+- [Razzle](https://github.com/jaredpalmer/razzle)
+- [Umi](https://github.com/umijs/umi)
 
 ## Tradução
 - [I18n Manager](https://github.com/gilmarsquinelato/i18n-manager)
