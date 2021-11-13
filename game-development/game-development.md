@@ -18,6 +18,7 @@
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)
 - [Photon](https://www.photonengine.com/en-US/Photon)
+- [PyGame](https://www.pygame.org/news)
 - [Radiant](https://radiant.robotrenegade.com/)
 - [ReplayJS](https://replay.js.org/)
 - [Source](https://en.m.wikipedia.org/wiki/Source_(game_engine))

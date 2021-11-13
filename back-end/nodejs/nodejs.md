@@ -95,7 +95,6 @@
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [Meow](https://github.com/sindresorhus/meow)
 - [Yargs](https://github.com/yargs/yargs)
-- [ZX](https://github.com/google/zx)
 
 ### Configuração
 - [Cloc](https://github.com/AlDanial/cloc)
@@ -163,8 +162,12 @@
 ### Integração
 - [Neon](https://neon-bindings.com/)
 
+### Job
+- [Bree](https://github.com/breejs/bree)
+
 ### Logging
 - [Bunyan](https://github.com/trentm/node-bunyan)
+- [Cabin](https://github.com/cabinjs/cabin)
 - [Morgan](https://github.com/expressjs/morgan)
 - [Pino](https://github.com/pinojs/pino)
 - [Winston](https://github.com/winstonjs/winston)
@@ -234,6 +237,9 @@
 - [NodeSchedule](https://github.com/node-schedule/node-schedule)
 - [Outrun](https://github.com/Overv/outrun)
 - [ISOWorker](https://github.com/101arrowz/isoworker)
+
+### Script
+- [ZX](https://github.com/google/zx)
 
 ### Template Engine
 - [EJS](https://github.com/mde/ejs)

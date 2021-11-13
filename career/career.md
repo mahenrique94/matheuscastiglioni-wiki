@@ -29,6 +29,7 @@
 - [FullStackAcademy](https://www.fullstackacademy.com/)
 - [Gama Academy](https://www.gama.academy/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [Goblin School](https://goblinschool.com.br/)
 - [Grasshopper](https://grasshopper.app/pt_br/)
 - [IGTI](https://www.igti.com.br/)
 - [KodeKloud](https://kodekloud.com/)
