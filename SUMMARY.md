@@ -11,6 +11,7 @@
   - [Java](/back-end/java/java.md)
   - [NodeJS](/back-end/nodejs/nodejs.md)
   - [PHP](/back-end/php/php.md)
+  - [Python](/back-end/python/python.md)
   - [Ruby](/back-end/ruby/ruby.md)
   - [Rust](/back-end/rust/rust.md)
 - [Big Data](/big-data/big-data.md)

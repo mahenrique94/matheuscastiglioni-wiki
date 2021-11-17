@@ -15,6 +15,7 @@
 - [Brackets](http://brackets.io/)
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
+- [Micro](https://micro-editor.github.io/)
 - [Nova](https://nova.app/)
 - [Nuclide](https://nuclide.io/)
 - [PHPStorm](https://www.jetbrains.com/pt-br/phpstorm/)

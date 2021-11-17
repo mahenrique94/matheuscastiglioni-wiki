@@ -6,6 +6,7 @@
 - [ColorsInspo](https://colorsinspo.com/)
 - [FlatIcon](https://www.flaticon.com/)
 - [FreePik](https://www.freepik.com/)
+- [PixilArt](https://www.pixilart.com/)
 - [ShutterStock](https://www.shutterstock.com/)
 - [UnDesign](https://undesign.learn.uno/)
 - [UnSplash](https://unsplash.com/)
