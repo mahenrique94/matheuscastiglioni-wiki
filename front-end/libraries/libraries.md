@@ -136,7 +136,6 @@
 - [FoxQL](https://github.com/foxql/foxql)
 - [PeerJS](https://github.com/peers/peerjs)
 
-
 ## Contagem
 - [CountUp](https://github.com/inorganik/countUp.js)
 
@@ -174,6 +173,7 @@
 - [QWIK](https://github.com/builderio/qwik)
 - [Solid](https://github.com/solidjs/solid)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+- [Slim.js](https://github.com/slimjs/slim.js)
 - [Stencil](https://github.com/ionic-team/stencil)
 - [Stimulus](https://github.com/hotwired/stimulus)
 - [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
@@ -185,7 +185,7 @@
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
 - [WinBox](https://github.com/nextapps-de/winbox)
 
-## CSS in JS
+## CSS-in-JS
 - [Emotion](https://github.com/emotion-js/emotion)
 - [Fower](https://fower.vercel.app/)
 - [Goober](https://github.com/cristianbote/goober)
@@ -386,6 +386,7 @@
 
 ## Manipulação
 - [DinoQL](https://github.com/victorvoid/dinoql)
+- [Liqe](https://github.com/gajus/liqe)
 
 ## Mapas
 - [MapBox](https://www.mapbox.com/)
@@ -509,6 +510,11 @@
 ## WebAssembly
 - [EMScripten](https://github.com/emscripten-core/emscripten)
 - [Lucet](https://github.com/bytecodealliance/lucet)
+- [Percy](https://github.com/chinedufn/percy)
+- [YEW](https://github.com/yewstack/yew)
+- [Stork](https://stork-search.net/)
+- [Sycamore](https://github.com/sycamore-rs/sycamore)
+
 
 ## WebComponents
 - [Lit](https://github.com/lit/lit)
