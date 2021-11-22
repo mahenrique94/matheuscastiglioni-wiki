@@ -219,6 +219,7 @@
 - [Diff2HTML](https://github.com/rtfpessoa/diff2html)
 - [GraphTage](https://github.com/trailofbits/graphtage)
 - [JSDiff](https://github.com/kpdecker/jsdiff)
+- [MicroDiff](https://github.com/AsyncBanana/microdiff)
 
 ## Dinheiro
 - [Dinero.js](https://github.com/dinerojs/dinero.js)
@@ -302,7 +303,11 @@
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [JSXGraph](https://jsxgraph.org/wp/index.html)
 - [Plotly.js](https://github.com/plotly/plotly.js)
+- [Plottable](https://github.com/palantir/plottable)
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib)
+
+## GraphQL
+- [URQL](https://formidable.com/open-source/urql/)
 
 ## Icones
 - [FlagPack](https://flagpack.xyz/)

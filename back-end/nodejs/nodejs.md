@@ -77,16 +77,6 @@
 ### Circuit Braker
 - [Opossum](https://github.com/nodeshift/opossum)
 
-### CMS
-- [Apostrophe](https://github.com/apostrophecms/apostrophe)
-- [Dato](https://www.datocms.com/)
-- [FlameLink](https://flamelink.io/)
-- [Ghost](https://github.com/TryGhost/Ghost)
-- [Hexo](https://github.com/hexojs/hexo)
-- [KeyStone](https://github.com/keystonejs/keystone)
-- [Prismic](https://prismic.io/)
-- [Strapi](https://strapi.io/)
-
 ### Command Line
 - [Blessed](https://github.com/chjj/blessed)
 - [Chalk](https://github.com/chalk/chalk)
@@ -211,7 +201,9 @@
 
 ### Process
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
+- [Execa](https://github.com/sindresorhus/execa)
 - [Forever](https://github.com/foreversd/forever)
+- [Nodekeeper](https://github.com/Pankajtanwarbanna/nodekeeper)
 - [Nodemon](https://github.com/remy/nodemon)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [PM2](https://github.com/Unitech/pm2)
