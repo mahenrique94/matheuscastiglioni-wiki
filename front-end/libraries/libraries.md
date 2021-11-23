@@ -142,6 +142,9 @@
 ## Cookie
 - [js-cookie](https://github.com/js-cookie/js-cookie)
 
+## Cópias
+- [RFDC](https://github.com/davidmarkclements/rfdc)
+
 ## Crawlers
 - [PlayWRight](https://github.com/microsoft/playwright)
 
@@ -248,6 +251,7 @@
 - [v8](https://github.com/v8/v8)
 
 ## Estilização
+- [CLSX](https://github.com/lukeed/clsx)
 - [Chroma.js](https://github.com/gka/chroma.js)
 - [Normalize.css](https://github.com/necolas/normalize.css)
 

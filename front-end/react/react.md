@@ -31,6 +31,9 @@
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Create React Library](https://github.com/transitive-bullshit/create-react-library)
 
+### Códigos
+- [Prism React Renderer](https://github.com/FormidableLabs/prism-react-renderer)
+
 ### Componentes
 - [Ant Design](https://github.com/ant-design/ant-design/)
 - [Atomize](https://atomizecode.com/)
@@ -116,7 +119,6 @@
 
 ### Estilização
 - [ClassNames](https://github.com/JedWatson/classnames)
-- [CLSX](https://github.com/lukeed/clsx)
 - [Compiled](https://github.com/atlassian-labs/compiled)
 - [Emotion](https://github.com/emotion-js/emotion)
 - [Styled Components](https://styled-components.com/)
