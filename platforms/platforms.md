@@ -25,6 +25,7 @@
 - Criar template para emails ([https://mailstudio.app/](https://mailstudio.app/))
 - Criar votação ([https://doodle.com/pt_BR/](https://doodle.com/pt_BR/))
 - Desminificar JS, CSS e HTML ([https://unminify.com/](https://unminify.com/))
+- Doações e apoios da comunidade ([https://apoia.se/](https://apoia.se/), [https://www.patreon.com/pt-BR](https://www.patreon.com/pt-BR))
 - Editor de texto colaborativo online ([https://etherpad.org/](https://etherpad.org/))
 - Email marketing ([https://mailchimp.com/](https://mailchimp.com/))
 - Escrever códigos JavaScript de forma interativa ([https://natto.dev/](https://natto.dev/))

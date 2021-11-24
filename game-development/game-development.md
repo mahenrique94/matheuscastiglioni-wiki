@@ -8,6 +8,7 @@
 - [Construct](https://www.construct.net/en)
 - [CRYEngine](https://www.cryengine.com/)
 - [Eva.js](https://github.com/eva-engine/eva.js)
+- [Flame](https://flame-engine.org/)
 - [FlaxEngine](https://flaxengine.com/)
 - [Godot](https://godotengine.org/)
 - [Gute](https://github.com/kevglass/gute/)

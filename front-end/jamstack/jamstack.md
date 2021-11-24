@@ -24,6 +24,7 @@ https://jamstack.org
 - [Next.js](https://github.com/vercel/next.js)
   - [Nookies](https://github.com/maticzav/nookies)
   - [Plasmic](https://www.plasmic.app/)
+- [Nuxt](https://nuxtjs.org/)
 - [Obelisk](https://github.com/BennyHallett/obelisk)
 - [Prismic](https://prismic.io/)
 - [RedWood](https://github.com/redwoodjs/redwood)
