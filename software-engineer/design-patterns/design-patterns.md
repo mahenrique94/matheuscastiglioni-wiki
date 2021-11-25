@@ -1,6 +1,7 @@
 # Design Patterns
 
 - [Access Token](https://microservices.io/patterns/security/access-token.html)
+- [Claim Check](https://www.enterpriseintegrationpatterns.com/StoreInLibrary.html)
 - [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Delegated Setup](http://xunitpatterns.com/Delegated%20Setup.html)
 - [Dependency Injection](https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671)

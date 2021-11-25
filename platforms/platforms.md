@@ -40,6 +40,7 @@
 - Hospedar videos ([https://muse.ai/](https://muse.ai/), [https://mux.com/](https://mux.com/), [https://vimeo.com/](https://vimeo.com/))
 - Ícones free ([https://www.flaticon.com/](https://www.flaticon.com/))
 - IDEs Online ([https://jsitor.com](https://jsitor.com)], [https://codepen.io/](https://codepen.io/), [https://codesphere.com/](https://codesphere.com/), [https://jsfiddle.net/](https://jsfiddle.net/), [https://repl.it/](https://repl.it/), [https://codesandbox.io/](https://codesandbox.io/), [https://jsbin.com/?html,output](https://jsbin.com/?html,output), [https://ideone.com/](https://ideone.com/), [https://stackblitz.com/](https://stackblitz.com/))
+- Integrações de API ([https://autocode.com/](https://autocode.com/), [https://pipedream.com/](https://pipedream.com/))
 - Jogos e bate papo online ([https://backyard.co/](https://backyard.co/))
 - Lista de tarefas ([https://www.rememberthemilk.com/](https://www.rememberthemilk.com/) [https://todoist.com/pt-BR](https://todoist.com/pt-BR) [https://wunderlist.com/](https://wunderlist.com/))
 - Mapas em real-time ([https://radar.io/](https://radar.io/))
