@@ -123,6 +123,7 @@
 - [Sparkpost](https://www.sparkpost.com/)
 
 ### Files
+- [FileType](https://github.com/sindresorhus/file-type)
 - [XMLBuilder2](https://github.com/oozcitak/)
 - [Trash](https://github.com/sindresorhus/trash)
 
@@ -216,6 +217,9 @@
 ### Queue
 - [Bull](https://github.com/OptimalBits/bull)
 
+### QRCode
+- [Node QRCode](https://github.com/soldair/node-qrcode)
+
 ### Realtime
 - [PusherJS](https://pusher.com/)
 - [Socket.io](https://socket.io/)
@@ -246,6 +250,9 @@
 
 ### Threads
 - [Piscina](https://github.com/piscinajs/piscina)
+
+### Time
+- [ReadingTime](https://github.com/ngryman/reading-time)
 
 ### Tipagem
 - [fp-ts](https://github.com/gcanti/fp-ts)

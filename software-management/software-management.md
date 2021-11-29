@@ -14,6 +14,7 @@
 - [Favro](https://www.favro.com/)
 - [FocalBoard](https://www.focalboard.com/)
 - [GitScrum](https://site.gitscrum.com/)
+- [HyperContext](https://hypercontext.com/)
 - [Infinity](https://startinfinity.com/)
 - [Jestor](https://jestor.com/)
 - [Jira](https://www.atlassian.com/br/software/jira)
