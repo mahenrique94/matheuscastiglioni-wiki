@@ -248,6 +248,7 @@
 ## Engines
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
+- [QuickJS](https://bellard.org/quickjs/)
 - [v8](https://github.com/v8/v8)
 
 ## Estilização

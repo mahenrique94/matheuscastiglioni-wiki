@@ -1,5 +1,6 @@
 # Sites
 
+- Acompanhar proposals do JavaScript ([https://www.proposals.es/](https://www.proposals.es/))
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
 - Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
