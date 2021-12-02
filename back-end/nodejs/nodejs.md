@@ -272,6 +272,7 @@
 
 ### Webhooks
 - [Diahook](https://www.diahook.com)
+- [Hook Relay](https://www.hookrelay.dev/)
 
 ## Links
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)

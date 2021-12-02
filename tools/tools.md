@@ -14,7 +14,7 @@
 - Criar temas ([https://themer.dev/](https://themer.dev/))
 - Cria anotações online ([https://evernote.com/intl/pt-br](https://evernote.com/intl/pt-br))
 - Criação de aplicações no-code ([https://retool.com/](https://retool.com/))
-- Crie documentos colaborativos ([https://coda.io/](https://coda.io/) [https://www.notion.so/](https://www.notion.so/))
+- Crie documentos colaborativos ([AppFlowy](https://www.appflowy.io/), [https://coda.io/](https://coda.io/) [https://www.notion.so/](https://www.notion.so/))
 - Crie diagramas à partir de textos ([https://kroki.io/](https://kroki.io/))
 - Crie tema para o VSCode([https://themes.vscode.one](https://themes.vscode.one))
 - Crie uma rede de conhecimento ([https://obsidian.md/](https://obsidian.md/))
