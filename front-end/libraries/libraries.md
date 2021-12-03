@@ -230,6 +230,7 @@
 ## Documentação
 - [Docusaurus](https://github.com/facebook/docusaurus)
 - [DocZ](https://github.com/doczjs/docz)
+- [DocX](https://github.com/dolanmiu/docx)
 - [JSDoc](https://github.com/jsdoc/jsdoc)
 - [Storybook](https://github.com/storybookjs/storybook)
 
@@ -389,6 +390,7 @@
 
 ## Machine Learning
 - [Brain.js](https://brain.js.org/#/)
+- [DannJS](https://dannjs.org/)
 - [KerasJS](https://transcranial.github.io/keras-js/#/)
 - [NSFW](https://github.com/infinitered/nsfwjs)
 - [TensorFire](https://tenso.rs/)

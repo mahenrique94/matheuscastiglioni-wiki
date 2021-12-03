@@ -175,6 +175,7 @@
 
 ### ORM
 - [BookShelf](https://bookshelfjs.org/)
+- [Kysely](https://github.com/koskimas/kysely)
 - [Mongoose](https://github.com/Automattic/mongoose)
   - [Historical](https://github.com/stennettm/historical)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)

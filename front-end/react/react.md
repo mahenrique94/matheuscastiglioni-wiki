@@ -186,6 +186,7 @@
 - [https://github.com/keiya01/react-performance-testing](https://github.com/keiya01/react-performance-testing)
 
 ### Requisições
+- [React Async](https://github.com/async-library/react-async)
 - [React Query](https://github.com/tannerlinsley/react-query)
 - [RTK Query](https://github.com/rtk-incubator/rtk-query)
 - [SWR](https://github.com/vercel/swr)
