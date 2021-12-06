@@ -27,6 +27,7 @@
 - [Helsinki Design System](https://hds.hel.fi/)
 - [Materialize CSS](https://materializecss.com/)
 - [Milligram](https://milligram.io/)
+- [Open Props](https://open-props.style/)
 - [Primer](https://primer.style/)
 - [PureCSS](https://purecss.io/)
 - [Semantic UI](https://semantic-ui.com/)
