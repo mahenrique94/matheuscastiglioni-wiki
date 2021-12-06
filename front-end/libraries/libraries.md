@@ -154,6 +154,7 @@
 - [CSSDoodle](https://css-doodle.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
+- [FloatingUI](https://github.com/atomiks/floating-ui)
 - [ForgoJS](https://forgojs.org/)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
 - [Haunted](https://github.com/matthewp/haunted)
@@ -167,6 +168,7 @@
 - [LWC](https://github.com/salesforce/lwc)
 - [Million](https://github.com/millionjs/million)
 - [Mint](https://github.com/mint-lang/mint)
+- [Mitosis](https://github.com/BuilderIO/mitosis)
 - [Moon](https://github.com/kbrsh/moon)
 - [Mosaic](https://github.com/Authman2/Mosaic/)
 - [Neo](https://github.com/neomjs/neo)
@@ -249,6 +251,7 @@
 ## Engines
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
+- [JSVU](https://github.com/GoogleChromeLabs/jsvu)
 - [QuickJS](https://bellard.org/quickjs/)
 - [v8](https://github.com/v8/v8)
 
