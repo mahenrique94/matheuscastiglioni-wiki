@@ -141,6 +141,7 @@
 - [Recoil](https://recoiljs.org/)
 - [React Sweet State](https://github.com/atlassian/react-sweet-state)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
+  - [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview)
 - [Teaful](https://github.com/teafuljs/teaful)
 - [UniStore](https://github.com/developit/unistore)
 - [Unstated Next](https://github.com/jamiebuilds/unstated-next)

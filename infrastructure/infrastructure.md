@@ -17,6 +17,11 @@
 - [Terraform](https://www.terraform.io/)
 - [Vagrant](https://www.vagrantup.com/)
 
+## CDN
+- [Akamai](https://www.akamai.com/pt)
+- [CloudFlare](https://www.cloudflare.com/pt-br/learning/cdn/what-is-a-cdn/)
+- [CloudFront](https://aws.amazon.com/pt/cloudfront/)
+
 ## CI/CD
 - [Argo CD](https://argoproj.github.io/argo-cd/)
 - [Bamboo](https://www.atlassian.com/br/software/bamboo)
