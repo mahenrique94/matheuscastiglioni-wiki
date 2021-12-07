@@ -34,6 +34,7 @@
 - [MySQL](https://www.mysql.com/)
   - [ProxySQL](https://proxysql.com/)
   - [Tungsten](https://www.continuent.com/products/tungsten-replicator)
+  - [Vitess](https://vitess.io/)
 - [Neo4j](https://neo4j.com/)
 - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
 - [OracleDB](https://www.oracle.com/br/database/)
@@ -69,9 +70,8 @@
 - [Innobackupex](https://www.percona.com/doc/percona-xtrabackup/2.1/innobackupex/innobackupex_script.html)
 - [Liquibase](https://www.liquibase.org/)
 - [SchemaSpy](http://schemaspy.sourceforge.net/)
+- [SQLFluff](https://github.com/sqlfluff/sqlfluff)
 - [Teiid](https://teiid.io/)
-- [Vitess](https://github.com/vitessio/vitess)
-
 
 ## CDC (Change Data Capture)
 - [Apache Gobblin](https://gobblin.apache.org/)
