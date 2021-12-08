@@ -28,6 +28,7 @@
 - [KsqlDB](https://ksqldb.io/)
 - [LevelDB](https://github.com/google/leveldb)
 - [MangoDB](https://www.mangodb.io/)
+- [M3](https://m3db.io/)
 - [MemCached](https://memcached.org/)
   - [Twemproxy](https://github.com/twitter/twemproxy)
 - [MongoDB](https://www.mongodb.com/)
