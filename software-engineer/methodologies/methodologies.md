@@ -15,6 +15,7 @@
   - [Chaos Toolkit](https://chaostoolkit.org/)
 - [DCP (Data Centric Principle)](http://www.datacentricmanifesto.org/#:~:text=These%20are%20the%20key%20principles%20of%20the%20data%20centric%20manifesto%3A&text=Data%20is%20self%2Ddescribing%20and,and%20not%20managed%20by%20applications.)
 - [DDD (Data Driven Development)](https://www.targetprocess.com/blog/data-driven-development/)
+- [DDD (Document Driven Design)](https://medium.com/paypal-tech/using-documentation-driven-design-to-guide-api-decisions-e451d7f3e8fd)
 - [DDD (Domain Driven Design)](https://en.wikipedia.org/wiki/Domain-driven_design)
   - [Assertions](http://ddd.fed.wiki.org/view/welcome-visitors/view/assertions)
   - [Closure of Operations](https://opus.ch/ddd-concepts-and-patterns-supple-design-2/#:~:text=Closure%20of%20Operation,values%20of%20the%20same%20type.)
