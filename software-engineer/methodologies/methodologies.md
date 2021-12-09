@@ -28,6 +28,7 @@
 - [MDD (Monitoring Check?-Driven Development)](https://benjiweber.co.uk/blog/2015/03/02/monitoring-check-smells/)
 - [RDR (Receiver Driven Routing)](https://www.confluent.io/blog/build-services-backbone-events/)
 - [SDUI (Server Driven UI)](https://medium.com/better-programming/exploring-server-driven-ui-cf67b3da919)
+- [Shared Responsibility](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/shared-responsibility.html)
 - [SRP (Single Repository Principle)]()
 - [SWP (Single Writer Principle)](https://mechanical-sympathy.blogspot.com/2011/09/single-writer-principle.html#:~:text=The%20Single%20Writer%20Principle%20is,execution%20context%20for%20all%20mutations.)
 - [TBD (Trunk Based Development)](https://trunkbaseddevelopment.com/)
