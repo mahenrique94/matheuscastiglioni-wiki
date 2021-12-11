@@ -29,6 +29,7 @@
 - [Bit/Bytes](/software-engineer/bit-bytes/bit-bytes.md)
 - [Blockchain](/software-engineer/blockchain/blockchain.md)
 - [Criptografia](/software-engineer/cryptography/cryptography.md)
+- [Code Smells](/software-engineer/code-smell/code-smell.md)
 - [Design Patterns](/software-engineer/design-patterns/design-patterns.md)
 - [DNS](/software-engineer/dns/dns.md)
 - [E-commerce](/software-engineer/ecommerce/ecommerce.md)

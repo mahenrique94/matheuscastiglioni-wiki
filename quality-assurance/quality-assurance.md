@@ -76,6 +76,9 @@
 - [Dark Launching](https://martinfowler.com/bliki/DarkLaunching.html)
 - [Red/Black Deploy](https://stackoverflow.com/questions/45259589/whats-the-difference-between-red-black-deployment-and-blue-green-deployment)
 
+## Técnicas
+- [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
+
 ## Tipos de testes
 - [Fuzz Testing](https://www.contrastsecurity.com/knowledge-hub/glossary/fuzz-testing#:~:text=In%20the%20world%20of%20cybersecurity,coding%20errors%20and%20security%20loopholes.)
   - [Peach Fuzzer](https://wiki.mozilla.org/Security/Fuzzing/Peach)

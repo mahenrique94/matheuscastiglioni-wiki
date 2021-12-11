@@ -427,6 +427,9 @@
 - [StackTrace.js](https://github.com/stacktracejs/stacktrace.js)
 - [WebVitals](https://github.com/GoogleChrome/web-vitals)
 
+## Mocks
+- [MockDate](https://github.com/boblauer/MockDate)
+
 ## Navigação
 - [History](https://github.com/ReactTraining/history)
 
