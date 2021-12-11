@@ -84,6 +84,7 @@
   - [Peach Fuzzer](https://wiki.mozilla.org/Security/Fuzzing/Peach)
 
 ## Links
+- http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 - https://github.com/goldbergyoni/javascript-testing-best-practices
-- https://miro.medium.com/max/7016/1*LFnVVlLrgrvXQ5ScrHVKjg.jpeg
 - https://github.com/analysis-tools-dev/static-analysis
+- https://miro.medium.com/max/7016/1*LFnVVlLrgrvXQ5ScrHVKjg.jpeg
