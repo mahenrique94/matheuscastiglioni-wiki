@@ -26,6 +26,7 @@
 - [Digital Innovation One](https://digitalinnovation.one/)
 - [Domestika](https://www.domestika.org/pt)
 - [EBAC Online](https://ebaconline.com.br/)
+- [FreeCodecamp](https://www.freecodecamp.org/)
 - [FullStackAcademy](https://www.fullstackacademy.com/)
 - [Gama Academy](https://www.gama.academy/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)

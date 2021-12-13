@@ -258,6 +258,7 @@
 ### Tipagem
 - [fp-ts](https://github.com/gcanti/fp-ts)
 - [io-ts](https://github.com/gcanti/io-tshttps://github.com/gcanti/io-ts)
+- [ts-belt](https://github.com/mobily/ts-belt)
 - [TRPC](https://trpc.io/)
 - [Typebox](https://github.com/sinclairzx81/typebox)
 

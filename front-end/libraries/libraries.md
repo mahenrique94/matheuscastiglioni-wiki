@@ -272,6 +272,9 @@
 - [Final Form](https://github.com/final-form/final-form)
 - [Form Serialize](https://github.com/defunctzombie/form-serialize)
 
+## Framework Web
+- [QWIK](https://github.com/builderio/qwik)
+
 ## Generator
 - [Hygen](https://github.com/jondot/hygen)
 - [Plop](https://github.com/plopjs/plop)

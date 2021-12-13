@@ -44,6 +44,7 @@
 - [FluentUI](https://github.com/microsoft/fluentui)
 - [Grommet](https://github.com/grommet/grommet)
 - [Hook Router](https://github.com/Paratron/hookrouter)
+- [Ink](https://github.com/vadimdemedes/ink)
 - [Leva](https://github.com/pmndrs/leva)
 - [Mantine](https://mantine.dev/)
 - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
