@@ -76,11 +76,15 @@
 - [Dark Launching](https://martinfowler.com/bliki/DarkLaunching.html)
 - [Red/Black Deploy](https://stackoverflow.com/questions/45259589/whats-the-difference-between-red-black-deployment-and-blue-green-deployment)
 
+## Técnicas
+- [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
+
 ## Tipos de testes
 - [Fuzz Testing](https://www.contrastsecurity.com/knowledge-hub/glossary/fuzz-testing#:~:text=In%20the%20world%20of%20cybersecurity,coding%20errors%20and%20security%20loopholes.)
   - [Peach Fuzzer](https://wiki.mozilla.org/Security/Fuzzing/Peach)
 
 ## Links
+- http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 - https://github.com/goldbergyoni/javascript-testing-best-practices
-- https://miro.medium.com/max/7016/1*LFnVVlLrgrvXQ5ScrHVKjg.jpeg
 - https://github.com/analysis-tools-dev/static-analysis
+- https://miro.medium.com/max/7016/1*LFnVVlLrgrvXQ5ScrHVKjg.jpeg

@@ -132,6 +132,7 @@
 - [CONOPSSE (Concept of Operations)](https://acqnotes.com/acqnote/careerfields/concept-of-operations-conopsse)
 - [Design Document](https://www.toptal.com/freelance/why-design-documents-matter)
 - [Diagrama de Contexto](https://escritoriodeprojetos.com.br/diagrama-de-contexto)
+- [Diagrama Dinâmico](https://engsoftmoderna.info/cap4.html)
 - [EDD (Engineering Design Docs)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 - [Explanatory Model](https://en.m.wikipedia.org/wiki/Explanatory_model)
 - [FR's](https://en.wikipedia.org/wiki/Functional_requirement)
