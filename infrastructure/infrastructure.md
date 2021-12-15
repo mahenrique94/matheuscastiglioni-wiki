@@ -2,6 +2,7 @@
 
 ## Automação
 - [Ansible](https://www.ansible.com/)
+- [BackStage](https://github.com/backstage/backstage)
 - [Chef](https://www.chef.io/products/chef-infra)
 - [EasyCron](https://www.easycron.com/)
 - [GitOps](https://www.gitops.tech/)
@@ -40,6 +41,10 @@
 - [Tekton](https://tekton.dev/)
 - [Travis CI](https://travis-ci.org/)
 
+## Comunicação entre serviços
+- [DAPR](https://dapr.io/)
+- [gRPC](https://grpc.io/)
+
 ## Containers/Virtualização
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
@@ -61,6 +66,7 @@
   - [Kubeless](https://kubeless.io/)
   - [Kubernetic](https://www.kubernetic.com/)
   - [KubeSQL](https://github.com/Dentrax/kubesql)
+  - [KubeVela](https://kubevela.io/)
   - [Lens](https://k8slens.dev/)
   - [OpenFAAS](https://www.openfaas.com/)
   - [OpenShift](https://www.openshift.com/)
@@ -114,6 +120,8 @@
   - [Apache Curator](https://curator.apache.org/)
   - [Apache Zookeeper](https://zookeeper.apache.org/)
   - [Crossbar](https://crossbar.io/)
+  - [DAPR](https://dapr.io/)
+  - [gRPC](https://grpc.io/)
 - Service Mesh
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
   - [Gloo](https://www.solo.io/products/gloo-mesh/)
@@ -133,6 +141,7 @@
 - [Apache Samza](http://samza.apache.org/)
 - [Apache Storm](https://storm.apache.org/)
 - [Debezium](https://debezium.io/)
+- [DAPR](https://dapr.io/)
 - [HornetQ](https://hornetq.jboss.org/)
 - [KubeMQ](https://kubemq.io/)
 - [NATS](https://nats.io/)
