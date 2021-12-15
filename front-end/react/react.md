@@ -30,6 +30,7 @@
 - [Agrippa](https://github.com/NitzanHen/agrippa)
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Create React Library](https://github.com/transitive-bullshit/create-react-library)
+- [Rekit](https://github.com/rekit/rekit)
 
 ### Códigos
 - [Prism React Renderer](https://github.com/FormidableLabs/prism-react-renderer)

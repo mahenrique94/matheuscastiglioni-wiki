@@ -61,3 +61,4 @@
 - HTM5 UP ([https://html5up.net/](https://html5up.net/))
 - ThemeForest ([https://themeforest.net/](https://themeforest.net/))
 - Uplabds ([https://www.uplabs.com/](https://www.uplabs.com/))
+- Wrappixel [https://www.wrappixel.com/](https://www.wrappixel.com/)

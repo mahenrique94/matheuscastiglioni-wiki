@@ -30,6 +30,7 @@
 - [ScanAPI](https://github.com/scanapi/scanapi)
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 - [Stryker Mutator](https://stryker-mutator.io/)
+- [ToxiProxy](https://github.com/Shopify/toxiproxy)
 - [Valgrind](https://valgrind.org/)
 - [Vegeta](https://github.com/tsenart/vegeta)
 - [WireMock](http://wiremock.org/)
