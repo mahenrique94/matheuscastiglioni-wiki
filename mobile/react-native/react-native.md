@@ -5,6 +5,7 @@
 - [Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)
 - [Moti](https://github.com/nandorojo/moti)
 - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
+- [React Native Skia](https://github.com/react-native-skia/react-native-skia)
 
 ### Banco de Dados
 - [RealmDB](https://github.com/realm/realm-js)

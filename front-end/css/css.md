@@ -28,6 +28,7 @@
 - [Materialize CSS](https://materializecss.com/)
 - [Milligram](https://milligram.io/)
 - [Open Props](https://open-props.style/)
+- [PicoCSS](https://github.com/picocss/pico)
 - [Primer](https://primer.style/)
 - [PureCSS](https://purecss.io/)
 - [Semantic UI](https://semantic-ui.com/)
@@ -41,6 +42,9 @@
 - [UIKit](https://getuikit.com/)
 - [UnoCSS](https://github.com/antfu/unocss)
 - [WindiCSS](https://windicss.org/)
+
+## Engine
+- [CSSSelect](https://github.com/fb55/css-select)
 
 ## Links
 - https://github.com/iamvdo/css-houdini.rocks

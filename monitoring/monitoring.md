@@ -16,6 +16,7 @@
 - [AppDynamics](https://www.appdynamics.com/)
 - [Asayer](https://asayer.io/)
 - [Atera](https://www.atera.com/)
+- [AWS RUM](https://aws.amazon.com/pt/blogs/aws/cloudwatch-rum/)
 - [Dapper](https://lightstep.com/dapper/)
 - [DataDog](https://www.datadoghq.com/)
 - [DynaTrace](https://www.dynatrace.com/)

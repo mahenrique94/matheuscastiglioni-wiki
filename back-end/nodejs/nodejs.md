@@ -59,6 +59,7 @@
 - [CryptoJS](https://github.com/brix/crypto-js)
 - [Magic](https://magic.link/)
 - [Ory](https://github.com/ory/keto)
+- [OTPGenerator](https://github.com/Maheshkumar-Kakade/otp-generator)
 - [Passport](https://github.com/jaredhanson/passport)
 - [SCrypt](https://www.npmjs.com/package/scrypt)
 - [Zanzibar](https://research.google/pubs/pub48190/)
@@ -228,6 +229,9 @@
 
 ### Redis
 - [IORedis](https://github.com/luin/ioredis)
+
+### Requisição
+- [GOT](https://github.com/sindresorhus/got)
 
 ### Rotinas
 - [Agenda](https://github.com/agenda/agenda)
