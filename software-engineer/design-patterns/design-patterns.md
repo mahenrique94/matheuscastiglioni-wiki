@@ -5,6 +5,7 @@
 - [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Delegated Setup](http://xunitpatterns.com/Delegated%20Setup.html)
 - [Dependency Injection](https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671)
+- [Front Controller](https://en.wikipedia.org/wiki/Front_controller)
 - [Problem Details](https://codeopinion.com/problem-details-for-better-rest-http-api-errors/)
 - [Rules](https://www.michael-whelan.net/rules-design-pattern/)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
@@ -39,3 +40,7 @@
 - [Facade](https://pt.wikipedia.org/wiki/Fa%C3%A7ade)
 - [Flyweight](https://pt.wikipedia.org/wiki/Flyweight)
 - [Proxy](https://pt.wikipedia.org/wiki/Proxy_(padr%C3%B5es_de_projeto))
+
+## Tráfico de dados
+- [East-West Traffic](https://en.wikipedia.org/wiki/East-west_traffic)
+- [North-South Traffic](https://en.wikipedia.org/wiki/North-south_traffic)

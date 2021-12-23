@@ -10,6 +10,7 @@
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [Fortio](https://fortio.org/)
 - [Gatling](https://gatling.io/)
+- [GHZ](https://ghz.sh/)
 - [Google Sanitizers](https://github.com/google/sanitizers)
 - [Helgrind](https://valgrind.org/docs/manual/hg-manual.html)
 - [Hoverfly](https://hoverfly.io/)

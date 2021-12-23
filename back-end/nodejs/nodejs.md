@@ -1,10 +1,5 @@
 # NodeJS
 
-- [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
-- [Awesome NodeJS Security](https://github.com/lirantal/awesome-nodejs-security)
-- [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
-- [Node Developer Roadmap for 2021](https://medium.com/javascript-in-plain-english/node-js-developer-roadmap-for-2021-2ae9c057bff4)
-
 ## Bibliotecas
 
 ### APIs
@@ -138,7 +133,7 @@
 - [Boom](https://github.com/hapijs/boom)
 - [Node Fetch](https://github.com/node-fetch/node-fetch)
 
-### Images
+### Imagens
 - [Sharp](https://github.com/lovell/sharp)
 
 ## Injeção de Dependência
@@ -282,3 +277,6 @@
 
 ## Links
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
+- [Awesome NodeJS Security](https://github.com/lirantal/awesome-nodejs-security)
+- [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Node Developer Roadmap for 2021](https://medium.com/javascript-in-plain-english/node-js-developer-roadmap-for-2021-2ae9c057bff4)

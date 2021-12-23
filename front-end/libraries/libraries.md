@@ -82,6 +82,7 @@
 - [Size Limit](https://github.com/ai/size-limit)
 - [SWC](https://github.com/swc-project/swc)
 - [Turbo](https://github.com/hotwired/turbo)
+- [Turborepo](https://turborepo.org/)
 - [Vite](https://github.com/vitejs/vite)
 - [Webpack](https://webpack.js.org/)
   - [Module Federation](https://webpack.js.org/concepts/module-federation/)
@@ -418,6 +419,7 @@
 ## Monorepo
 - [Lerna](https://github.com/lerna/lerna)
 - [NX](https://github.com/nrwl/nx)
+- [Turborepo](https://turborepo.org/)
 
 ## Métricas
 - [Analytics.js](https://github.com/segmentio/analytics.js)

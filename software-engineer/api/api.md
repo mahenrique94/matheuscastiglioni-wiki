@@ -3,6 +3,11 @@
 ## Documentação
 - [Swagger](https://swagger.io/)
 
+## Guia
+- [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines)
+- [OData](https://www.odata.org/)
+- [Paypal API Standards](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+
 ## Links
 - [API Gateway](https://microservices.io/patterns/apigateway.html)
 - [Rest](https://rockcontent.com/br/blog/rest-api/)

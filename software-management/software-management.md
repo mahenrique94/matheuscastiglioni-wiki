@@ -64,6 +64,7 @@
 - [Pain Point Priorization](https://medium.com/pragma-partners/step-by-step-designing-a-system-to-prioritise-ux-pain-points-9c9092414d65)
 - [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 - [Reality Check](https://www.realitychecktool.com/)
+- [Ship/Show/Ask](https://refactoring.fm/p/code-reviews)
 - [SWOT](https://www.heflo.com/pt-br/swot/o-que-e-analise-swot/)
 - [Value Stream Mapping](https://www.supero.com.br/blog/value-stream-mapping/)
 - [Vision Tree](https://medium.com/swlh/we-don-t-build-feature-here-the-secret-to-empower-and-align-teams-using-the-vision-tree-cc8302684f51)

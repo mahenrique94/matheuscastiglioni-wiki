@@ -37,6 +37,7 @@
 - Gerenciador de tempo em tarefas ([https://clockify.me/](https://clockify.me/), [https://www.getharvest.com/](https://www.getharvest.com/), [https://toggl.com/](https://toggl.com/))
 - Gerenciar WebHooks ([https://hookdeck.com/](https://hookdeck.com/))
 - Gerenciar investimentos ([https://carta.com/](https://carta.com/))
+- Gestão de times em engenharia ([https://www.botany.io/](https://www.botany.io/))
 - Hospedar imagens ([https://cloudinary.com/](https://cloudinary.com/))
 - Hospedar videos ([https://muse.ai/](https://muse.ai/), [https://mux.com/](https://mux.com/), [https://vimeo.com/](https://vimeo.com/))
 - Ícones free ([https://www.flaticon.com/](https://www.flaticon.com/))

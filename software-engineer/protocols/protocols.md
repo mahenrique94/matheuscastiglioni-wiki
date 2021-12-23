@@ -11,6 +11,7 @@
 - [RPC (Remote Procedure Calls)](https://pt.wikipedia.org/wiki/Chamada_de_procedimento_remoto)
   - [Finagle](https://twitter.github.io/finagle/)
   - [gRPC (gRPC Remote Procedure Calls)](https://grpc.io/)
+    - [GHZ](https://ghz.sh/)
   - [Rest.li](https://linkedin.github.io/rest.li/)
 - [QUIC (Quick UDP Internet Connections)](https://pt.wikipedia.org/wiki/QUIC)
 - [WS (Web Socket)](https://pt.wikipedia.org/wiki/WebSocket)
