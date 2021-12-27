@@ -16,6 +16,7 @@
 - [Pulumi](https://www.pulumi.com/)
 - [SaltStack](https://saltproject.io/)
 - [Terraform](https://www.terraform.io/)
+  - [Atlantis](https://github.com/runatlantis/atlantis)
 - [Vagrant](https://www.vagrantup.com/)
 
 ## CDN
@@ -144,6 +145,7 @@
 - [DAPR](https://dapr.io/)
 - [HornetQ](https://hornetq.jboss.org/)
 - [KubeMQ](https://kubemq.io/)
+- [Lenses](https://lenses.io/)
 - [NATS](https://nats.io/)
 - [PulseGuardian](https://pulseguardian.mozilla.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)

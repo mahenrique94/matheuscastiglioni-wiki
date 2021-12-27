@@ -11,6 +11,7 @@
 - [Columns](https://columns.app/)
 - [Condution](https://www.condution.com/)
 - [Confluence](https://www.atlassian.com/br/software/confluence)
+- [Elofy](https://www.elofy.com.br/)
 - [Favro](https://www.favro.com/)
 - [FocalBoard](https://www.focalboard.com/)
 - [GitScrum](https://site.gitscrum.com/)

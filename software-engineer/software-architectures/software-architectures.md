@@ -75,6 +75,8 @@
     - [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/index.html)
     - [JSON Schema](https://json-schema.org/)
     - [JSON Schema Diff Validator](https://www.npmjs.com/package/json-schema-diff-validator)
+    - [Karapace](https://karapace.io/)
+    - [Lenses](https://lenses.io/)
     - [OpenAPI](https://www.openapis.org/)
     - [OpenAPI Diff](https://github.com/Azure/openapi-diff)
     - [ProtoLock](https://protolock.dev/)

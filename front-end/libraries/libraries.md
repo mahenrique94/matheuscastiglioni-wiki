@@ -10,6 +10,7 @@
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)
 - [Paper.js](https://github.com/paperjs/paper.js)
+- [Particles.js](https://github.com/VincentGarreau/particles.js/)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
 - [Three.js](https://github.com/mrdoob/three.js)
 - [SmoothStep](https://smoothstep.io/)
