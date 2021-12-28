@@ -6,6 +6,7 @@
 - [Aha](https://www.aha.io/)
 - [Asana](https://asana.com/pt)
 - [Basecamp](https://basecamp.com/)
+- [Canny](https://canny.io/)
 - [ClickUP](https://clickup.com/)
 - [ClubHouse](https://clubhouse.io/)
 - [Columns](https://columns.app/)

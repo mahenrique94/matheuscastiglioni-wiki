@@ -71,6 +71,7 @@
 - [PostHTML](https://github.com/posthtml/posthtml)
 - [Prepack](https://prepack.io/)
 - [PurgeCSS](https://github.com/FullHuman/purgecss)
+- [RePack](https://github.com/callstack/repack)
 - [RollUp](https://github.com/rollup/rollup)
   - [Rollup Plugin Analyzer](https://github.com/doesdev/rollup-plugin-analyzer)
   - [Rollup Plugin Visualizer](https://github.com/btd/rollup-plugin-visualizer)
