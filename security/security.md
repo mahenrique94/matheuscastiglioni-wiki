@@ -38,6 +38,7 @@
 
 ## Plataformas
 - [Anchore](https://anchore.com/)
+- [BridgeCrew](https://bridgecrew.io/)
 - [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud)
 - [Snyk](https://snyk.io/)
 - [SonarQube](https://www.sonarqube.org/)
