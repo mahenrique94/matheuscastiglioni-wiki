@@ -36,6 +36,7 @@
 - [Howler.js](https://github.com/goldfire/howler.js)
 
 ## Autenticação
+- [Clerk](https://clerk.dev/)
 - [FingerPrintJS](https://github.com/fingerprintjs/fingerprintjs)
 - [UserFront](https://userfront.com/)
 - [ZXCVBN](https://github.com/dropbox/zxcvbn)
