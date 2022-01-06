@@ -31,6 +31,7 @@
 - [ScanAPI](https://github.com/scanapi/scanapi)
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 - [Stryker Mutator](https://stryker-mutator.io/)
+- [TestContainers](https://www.testcontainers.org/)
 - [ToxiProxy](https://github.com/Shopify/toxiproxy)
 - [Valgrind](https://valgrind.org/)
 - [Vegeta](https://github.com/tsenart/vegeta)
@@ -80,7 +81,10 @@
 - [Red/Black Deploy](https://stackoverflow.com/questions/45259589/whats-the-difference-between-red-black-deployment-and-blue-green-deployment)
 
 ## Técnicas
-- [TestDouble](https://martinfowler.com/bliki/TestDouble.html)
+- [Agile Testing Quadrants](https://www.onpathtesting.com/blog/what-are-agile-testing-quadrants)
+- [Test Double](https://martinfowler.com/bliki/TestDouble.html)
+- [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Testing Ice-Cream Cone](https://alisterbscott.com/kb/testing-pyramids/)
 
 ## Tipos de testes
 - [Fuzz Testing](https://www.contrastsecurity.com/knowledge-hub/glossary/fuzz-testing#:~:text=In%20the%20world%20of%20cybersecurity,coding%20errors%20and%20security%20loopholes.)
