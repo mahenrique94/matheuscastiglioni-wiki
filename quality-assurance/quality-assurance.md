@@ -53,6 +53,7 @@
 ## Ferramentas
 - [CasperJS](https://www.casperjs.org/)
 - [Chai](https://www.chaijs.com/)
+- [DeepSource](https://deepsource.io/)
 - [Jasmine](https://github.com/jasmine/jasmine)
   - [Jasmine AJAX](https://github.com/jasmine/jasmine-ajax)
 - [Jest](https://jestjs.io/)

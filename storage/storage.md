@@ -23,6 +23,7 @@
 - [HarperDB](https://harperdb.io/)
 - [HazelCast](https://hazelcast.com/)
 - [HBase](https://hbase.apache.org/)
+- [ImmuDB](https://codenotary.com/technologies/immudb)
 - [Infinispan](https://infinispan.org/)
 - [InfluxDB](https://www.influxdata.com/)
 - [KsqlDB](https://ksqldb.io/)

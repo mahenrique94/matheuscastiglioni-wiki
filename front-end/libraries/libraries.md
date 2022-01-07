@@ -379,6 +379,7 @@
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
 - [DangerJS](https://danger.systems/js/)
+- [DeepSource](https://deepsource.io/)
 - [EditorConfig](https://github.com/editorconfig/editorconfig)
 - [ESLint](https://github.com/eslint/eslint)
   - [Dotenv Linter](https://github.com/dotenv-linter/dotenv-linter)
