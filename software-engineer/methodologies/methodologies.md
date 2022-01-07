@@ -34,5 +34,6 @@
 - [TBD (Trunk Based Development)](https://trunkbaseddevelopment.com/)
 - [TDD (Test Driven Development)](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533)
   - [TFD (Test First Development)](http://tutorials.jenkov.com/java-unit-testing/test-first-development.html)
+- [UCD (Use case driven)](https://www.informit.com/articles/article.aspx?p=24671&seqNum=4#:~:text=The%20phrase%20use%20case%20driven,negotiation%20of%20requirements%20through%20code.&text=Use%20cases%20are%20highly%20suitable,and%20implementation%20for%20several%20reasons.)
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it#:~:text=%22You%20aren't%20gonna%20need,add%20functionality%20until%20deemed%20necessary.)
 - [WET](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
