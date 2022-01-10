@@ -28,4 +28,5 @@
 
 ### Gerenciamento de Estado
 - [Harlemjs](https://harlemjs.com/)
+- [Pinia](https://github.com/vuejs/pinia)
 - [Vuex](https://github.com/vuejs/vuex)

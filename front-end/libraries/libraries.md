@@ -28,6 +28,7 @@
 - [PopMotion](https://github.com/Popmotion/popmotion)
 - [SmoothStep](https://smoothstep.io/)
 - [Theatrejs](https://www.theatrejs.com/)
+- [Vanta](https://github.com/tengbao/vanta)
 
 ## Apresentação
 - [Reveal.js](https://github.com/hakimel/reveal.js)
@@ -187,7 +188,6 @@
 - [Stencil](https://github.com/ionic-team/stencil)
 - [Stimulus](https://github.com/hotwired/stimulus)
 - [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
-- [Tauri](https://github.com/tauri-apps/tauri)
 - [TextMask](https://github.com/text-mask/text-mask)
 - [TippyJS](https://github.com/atomiks/tippyjs)
 - [Tornis](https://github.com/robb0wen/tornis)
@@ -218,6 +218,8 @@
 
 ## Desktop
 - [NeutralinoJS](https://neutralino.js.org/#one)
+- [NodeGUI](https://github.com/nodegui/nodegui)
+- [Tauri](https://github.com/tauri-apps/tauri)
 
 ## Design System
 - [Lona](https://github.com/airbnb/Lona)
@@ -319,12 +321,16 @@
 - [GraphVIZ](http://www.graphviz.org/)
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [JSXGraph](https://jsxgraph.org/wp/index.html)
+- [Perspective](https://github.com/finos/perspective/)
 - [Plotly.js](https://github.com/plotly/plotly.js)
 - [Plottable](https://github.com/palantir/plottable)
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib)
 
 ## GraphQL
 - [URQL](https://formidable.com/open-source/urql/)
+
+## Hardware
+- [Fuite](https://github.com/nolanlawson/fuite)
 
 ## Icones
 - [FlagPack](https://flagpack.xyz/)
