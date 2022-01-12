@@ -125,6 +125,7 @@
 
 ### Fixtures
 - [Faker.js](https://github.com/Marak/faker.js)
+- [Falso](https://github.com/ngneat/falso)
 
 ### Headless BrowserStack
 - [Puppeteer](https://github.com/puppeteer/puppeteer)
