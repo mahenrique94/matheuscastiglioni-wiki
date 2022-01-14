@@ -131,6 +131,9 @@
   - [Kong](https://konghq.com/)
     - [Konga](https://pantsel.github.io/konga/)
 
+## Jobs
+- [Bistro](https://facebook.github.io/bistro/)
+
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)
 - [Apache Beam](https://beam.apache.org/)

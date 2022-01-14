@@ -14,6 +14,7 @@
 - [WayDev](https://waydev.co/)
 
 ## Dashs
+- [AppSmith](https://github.com/appsmithorg/appsmith)
 - [Cube.js](https://github.com/cube-js/cube.js)
 - [Metabase](https://www.metabase.com/)
 - [Retool](https://retool.com/)
