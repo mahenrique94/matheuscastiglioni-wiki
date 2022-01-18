@@ -26,6 +26,7 @@
 - [ImmuDB](https://codenotary.com/technologies/immudb)
 - [Infinispan](https://infinispan.org/)
 - [InfluxDB](https://www.influxdata.com/)
+- [Keyv](https://github.com/jaredwray/keyv)
 - [KsqlDB](https://ksqldb.io/)
 - [LevelDB](https://github.com/google/leveldb)
 - [MangoDB](https://www.mangodb.io/)
