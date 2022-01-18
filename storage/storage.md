@@ -45,6 +45,7 @@
 - [OrientDB](https://orientdb.org/)
 - [PlanetScale](https://planetscale.com/)
 - [PostgresQL](https://www.postgresql.org/)
+  - [Citus](https://www.citusdata.com/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
   - [PgPool](https://www.npmjs.com/package/pg-pool)
 - [Presto](https://prestodb.io/)
@@ -120,3 +121,9 @@
 ## Serialização
 - [Apache Avro](http://avro.apache.org/)
 - [Apache Thrift](https://thrift.apache.org/)
+
+## Sharding
+- [Citus](https://www.citusdata.com/)
+- [DistSQL](https://opensource.com/article/21/9/distsql)
+- [ShardingSphere](https://shardingsphere.apache.org)
+- [Vitess](https://vitess.io/)
