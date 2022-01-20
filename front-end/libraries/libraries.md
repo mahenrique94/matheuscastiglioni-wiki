@@ -292,6 +292,7 @@
 ## Gerenciador de Estado
 - [Akita](https://github.com/datorama/akita)
 - [Effector](https://github.com/effector/effector)
+- [Elf](https://github.com/ngneat/elf)
 - [Immer](https://github.com/immerjs/immer)
 - [MobX](https://github.com/mobxjs/mobx)
 - [NanoStores](https://github.com/ai/nanostores)
