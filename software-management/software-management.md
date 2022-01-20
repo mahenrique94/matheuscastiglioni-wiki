@@ -58,6 +58,7 @@
 
 ## Matrizes
 - [Business Capability Mapping](https://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/5173/What-is-Business-Capability-Mapping-and-why-it-is-beneficial.aspx)
+- [BPMN (Business Process Model and Notation)](https://www.lucidchart.com/pages/pt/o-que-e-bpmn)
 - [Influence-importance map](https://medium.com/@nvashanin/stakeholders-in-software-architecture-6d18f36250f9)
 - [Modern Roadmap](https://medium.com/geekculture/a-modern-roadmap-352ca01964f2)
   - [World of outcomes](https://medium.com/swlh/how-to-navigate-the-abstract-world-of-outcomes-58a81cdbab95)
