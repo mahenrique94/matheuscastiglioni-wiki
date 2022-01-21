@@ -133,6 +133,7 @@
 ### HTTP
 - [Boom](https://github.com/hapijs/boom)
 - [Node Fetch](https://github.com/node-fetch/node-fetch)
+- [Undici](https://github.com/nodejs/undici)
 
 ### Imagens
 - [Sharp](https://github.com/lovell/sharp)
