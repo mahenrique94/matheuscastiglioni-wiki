@@ -307,8 +307,10 @@
   - [Redux PouchDB](https://github.com/vicentedealencar/redux-pouchdb)
   - [Redux Saga](https://github.com/redux-saga/redux-saga)
   - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Rematch](https://github.com/rematch/rematch)
 - [Reselect](https://github.com/reduxjs/reselect)
 - [Robot](https://github.com/matthewp/robot)
+- [TinyBase](https://tinybase.org/)
 - [Valtio](https://github.com/pmndrs/valtio)
 - [XState](https://github.com/davidkpiano/xstate)
 
