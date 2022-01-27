@@ -29,7 +29,7 @@
 - Editor de texto colaborativo online ([https://etherpad.org/](https://etherpad.org/))
 - Email marketing ([https://mailchimp.com/](https://mailchimp.com/))
 - Escrever códigos JavaScript de forma interativa ([https://natto.dev/](https://natto.dev/))
-- Ferramenta para regressão visual ([https://applitools.com/](https://applitools.com/), [https://percy.io/](https://percy.io/), [https://screenshotbot.io/](https://screenshotbot.io/))
+- Ferramenta para regressão visual (UI tests) ([https://applitools.com/](https://applitools.com/), [https://www.chromatic.com/](https://www.chromatic.com/), [https://percy.io/](https://percy.io/), [https://screenshotbot.io/](https://screenshotbot.io/))
 - Ferramenta para criar forum ([https://www.discourse.org/](https://www.discourse.org/), [https://flarum.org/](https://flarum.org/), [https://nodebb.org/](https://nodebb.org/))
 - Gamifique sua vida ([https://habitica.com/static/home](https://habitica.com/static/home))
 - Gerar API's com dados aleatórios ([https://randomapi.com/](https://randomapi.com/), [https://randomuser.me/api](https://randomuser.me/api))
