@@ -26,6 +26,7 @@
 - [HDD (Hypothesis Driven Development)](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
 - [KISS](https://www.interaction-design.org/literature/topics/keep-it-simple-stupid#:~:text=Keep%20it%20simple%2C%20stupid%20(KISS)%20is%20a%20design%20principle,of%20user%20acceptance%20and%20interaction.)
 - [MDD (Monitoring Check?-Driven Development)](https://benjiweber.co.uk/blog/2015/03/02/monitoring-check-smells/)
+- [RDD (Responsability Driven Design)](https://en.wikipedia.org/wiki/Responsibility-driven_design#:~:text=Responsibility%2Ddriven%20design%20is%20a,information%20that%20the%20object%20shares.)
 - [RDR (Receiver Driven Routing)](https://www.confluent.io/blog/build-services-backbone-events/)
 - [SDUI (Server Driven UI)](https://medium.com/better-programming/exploring-server-driven-ui-cf67b3da919)
 - [Shared Responsibility](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/shared-responsibility.html)

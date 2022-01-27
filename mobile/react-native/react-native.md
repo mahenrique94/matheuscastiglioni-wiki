@@ -51,6 +51,9 @@
 - [Notifee](https://notifee.app/)
 - [React Native Firebase](https://github.com/invertase/react-native-firebase)
 
+### Qualidade
+- [React Native Owl](https://github.com/FormidableLabs/react-native-owl)
+
 ### Utiliários
 - [React Native Camera](https://github.com/react-native-camera/react-native-camera)
 

@@ -7,6 +7,7 @@
 - Capturar ações nas telas ([https://www.tango.us/](https://www.tango.us/))
 - Colaboração de código ponta à ponta ([https://radicle.xyz/](https://radicle.xyz/), [https://www.codestream.com/](https://www.codestream.com/))
 - Colaboração em tempo real com mapas ([https://github.com/alyssaxuu/mapus](https://github.com/alyssaxuu/mapus))
+- Calendários familiar ([https://www.cozi.com/](https://www.cozi.com/))
 - Coletar informações de site ([https://www.woopra.com/](https://www.woopra.com/))
 - Comunicação de equipe ([https://www.microsoft.com/pt-br/microsoft-teams/free](https://www.microsoft.com/pt-br/microsoft-teams/free) [https://slack.com/intl/pt-br/](https://slack.com/intl/pt-br/), [https://twist.com/pt-BR](https://twist.com/pt-BR))
 - Criar eventos online ([https://hopin.com/](https://hopin.com/))

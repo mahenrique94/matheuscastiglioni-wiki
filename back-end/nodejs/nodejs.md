@@ -110,6 +110,7 @@
 ### Email
 - [Heml](https://github.com/SparkPost/heml)
 - [Mailgun](https://www.mailgun.com/)
+- [Mailjet](https://www.mailjet.com/)
 - [Maizzle](https://maizzle.com/)
 - [Mandrill](https://mailchimp.com/pt-br/features/transactional-email/)
 - [MJML](https://mjml.io/)
