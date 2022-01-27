@@ -122,6 +122,7 @@
 - Microsserviços
   - [Apache Curator](https://curator.apache.org/)
   - [Apache Zookeeper](https://zookeeper.apache.org/)
+  - [Conductor](https://github.com/Netflix/conductor)
   - [Crossbar](https://crossbar.io/)
   - [DAPR](https://dapr.io/)
   - [gRPC](https://grpc.io/)
