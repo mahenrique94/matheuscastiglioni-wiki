@@ -70,6 +70,10 @@
 - [Hasty](https://hasty.dev/)
 - [Tachometer](https://github.com/Polymer/tachometer)
 
+### Builders
+- [Builder Pattern](https://www.npmjs.com/package/builder-pattern)
+- [Factory Girl](https://www.npmjs.com/package/factory-girl)
+
 ### Circuit Braker
 - [Opossum](https://github.com/nodeshift/opossum)
 
@@ -133,6 +137,7 @@
 
 ### HTTP
 - [Boom](https://github.com/hapijs/boom)
+- [HTTP Status Code](https://www.npmjs.com/package/http-status-codes)
 - [Node Fetch](https://github.com/node-fetch/node-fetch)
 - [Undici](https://github.com/nodejs/undici)
 
@@ -142,6 +147,7 @@
 ## Injeção de Dependência
 - [Awilix](https://github.com/jeffijoe/awilix)
 - [Inversify](https://inversify.io/)
+- [Typedi](https://github.com/typestack/typedi)
 - [Tsyringe](https://github.com/microsoft/tsyringe)
 
 ### Instalação
