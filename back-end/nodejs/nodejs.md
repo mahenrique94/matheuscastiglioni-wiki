@@ -82,8 +82,10 @@
 - [Chalk](https://github.com/chalk/chalk)
 - [Colors.js](https://github.com/Marak/colors.js)
 - [Commander.js](https://github.com/tj/commander.js)
+- [GlueGun](https://github.com/infinitered/gluegun)
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [Meow](https://github.com/sindresorhus/meow)
+- [Oclif](https://github.com/oclif/oclif)
 - [Yargs](https://github.com/yargs/yargs)
 
 ### Configuração

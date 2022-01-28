@@ -24,6 +24,7 @@
 - [Codecademy](https://www.codecademy.com/)
 - [Codeworks](https://codeworks.me/)
 - [Coursera](https://pt.coursera.org/)
+- [DataCamp](https://www.datacamp.com/)
 - [Digital Innovation One](https://digitalinnovation.one/)
 - [Domestika](https://www.domestika.org/pt)
 - [EBAC Online](https://ebaconline.com.br/)

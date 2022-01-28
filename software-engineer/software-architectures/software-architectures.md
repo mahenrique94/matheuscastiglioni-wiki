@@ -95,6 +95,7 @@
   - [Front Controller](https://en.wikipedia.org/wiki/Front_controller)
 - [MVI (Model View Intent)](https://fueled.com/blog/what-is-mvi-model-view-intent/)
 - [MVP (Model View Presenter)](https://pt.wikipedia.org/wiki/Model-view-presenter)
+- [MVT (MOdel View Template)](https://www.treinaweb.com.br/blog/entendendo-o-mtv-do-django)
 - [MVVM (Movel View View Model)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 - [N-Tier Architecture/N-Tiered Architecture](https://www.techopedia.com/definition/17185/n-tier-architecture#:~:text=N%2Dtier%20architecture%20is%20a,both%20logically%20and%20physically%20separated.&text=N%2Dtier%20architecture%20is%20also%20known%20as%20multi%2Dtier%20architecture.)
   - [Front Controller](https://en.wikipedia.org/wiki/Front_controller)

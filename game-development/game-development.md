@@ -10,6 +10,7 @@
 - [Eva.js](https://github.com/eva-engine/eva.js)
 - [Flame](https://flame-engine.org/)
 - [FlaxEngine](https://flaxengine.com/)
+- [GDevelop](https://gdevelop.io/)
 - [Godot](https://godotengine.org/)
 - [Gute](https://github.com/kevglass/gute/)
 - [KaboomJS](https://kaboomjs.com)
