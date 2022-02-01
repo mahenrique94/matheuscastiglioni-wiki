@@ -57,6 +57,7 @@
 - [Face FX](https://facefx.com/)
 - [FaceWare](https://facewaretech.com/software/retargeter/)
 - [FiberShop](https://cgpal.com/fibershop/)
+- [GraphN](https://www.polygonflow.io/)
 - [Havok](https://www.havok.com/)
 - [Houdini](https://www.sidefx.com/products/houdini/)
 - [iClone](https://www.reallusion.com/iclone/)

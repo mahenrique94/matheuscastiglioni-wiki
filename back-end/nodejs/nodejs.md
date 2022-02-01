@@ -207,6 +207,7 @@
 ### Parser
 - [Espree](https://github.com/eslint/espree)
 - [Node CSV](https://github.com/adaltas/node-csv)
+- [Parse Domain](https://github.com/peerigon/parse-domain)
 
 ### Process
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
