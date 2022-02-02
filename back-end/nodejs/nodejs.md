@@ -282,6 +282,7 @@
 ### Validação
 - [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
+- [Zod](https://github.com/colinhacks/zod)
 
 ### Webhooks
 - [Diahook](https://www.diahook.com)
