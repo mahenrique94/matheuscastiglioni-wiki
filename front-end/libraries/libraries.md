@@ -278,6 +278,7 @@
 - [Cleave.js](https://github.com/nosir/cleave.js)
 - [HighLight](highlight.js)
 - [Prism](https://prismjs.com/)
+- [Refractor](https://github.com/wooorm/refractor)
 
 ## Formulário
 - [Final Form](https://github.com/final-form/final-form)
