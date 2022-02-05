@@ -63,6 +63,7 @@
 - [ShareDB](https://github.com/share/sharedb)
 - [SingleStore](https://www.singlestore.com/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+- [Spanner](https://cloud.google.com/spanner)
 - [TiDB](https://pingcap.com/)
 - [TileDB](https://tiledb.com)
 - [Upstash](https://webrate.org/index.php/site/upstash.com/)
