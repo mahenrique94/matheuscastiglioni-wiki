@@ -7,6 +7,7 @@
 - [Conftest](https://github.com/open-policy-agent/conftest)
 - [Cucumber.js](https://github.com/cucumber/cucumber-js)
 - [Detox](https://github.com/wix/Detox)
+- [Drill](https://github.com/fcsonline/drill)
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [Fortio](https://fortio.org/)
 - [Gatling](https://gatling.io/)
@@ -36,6 +37,7 @@
 - [Valgrind](https://valgrind.org/)
 - [Vegeta](https://github.com/tsenart/vegeta)
 - [WireMock](http://wiremock.org/)
+- [Wrk](https://github.com/wg/wrk)
 
 ## Documentações
 - [13 principais tipos de testes de software](https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/)

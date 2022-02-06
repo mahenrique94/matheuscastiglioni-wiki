@@ -320,6 +320,7 @@
 - [JSXGraph](https://jsxgraph.org/wp/index.html)
 - [Plotly.js](https://github.com/plotly/plotly.js)
 - [Plottable](https://github.com/palantir/plottable)
+- [Sigma](https://github.com/jacomyal/sigma.js)
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib)
 
 ## GraphQL
