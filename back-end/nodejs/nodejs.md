@@ -70,6 +70,10 @@
 - [Hasty](https://hasty.dev/)
 - [Tachometer](https://github.com/Polymer/tachometer)
 
+### Builders
+- [Builder Pattern](https://www.npmjs.com/package/builder-pattern)
+- [Factory Girl](https://www.npmjs.com/package/factory-girl)
+
 ### Circuit Braker
 - [Opossum](https://github.com/nodeshift/opossum)
 
@@ -78,8 +82,10 @@
 - [Chalk](https://github.com/chalk/chalk)
 - [Colors.js](https://github.com/Marak/colors.js)
 - [Commander.js](https://github.com/tj/commander.js)
+- [GlueGun](https://github.com/infinitered/gluegun)
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [Meow](https://github.com/sindresorhus/meow)
+- [Oclif](https://github.com/oclif/oclif)
 - [Yargs](https://github.com/yargs/yargs)
 
 ### Configuração
@@ -110,6 +116,7 @@
 ### Email
 - [Heml](https://github.com/SparkPost/heml)
 - [Mailgun](https://www.mailgun.com/)
+- [Mailjet](https://www.mailjet.com/)
 - [Maizzle](https://maizzle.com/)
 - [Mandrill](https://mailchimp.com/pt-br/features/transactional-email/)
 - [MJML](https://mjml.io/)
@@ -125,13 +132,16 @@
 
 ### Fixtures
 - [Faker.js](https://github.com/Marak/faker.js)
+- [Falso](https://github.com/ngneat/falso)
 
 ### Headless BrowserStack
 - [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 ### HTTP
 - [Boom](https://github.com/hapijs/boom)
+- [HTTP Status Code](https://www.npmjs.com/package/http-status-codes)
 - [Node Fetch](https://github.com/node-fetch/node-fetch)
+- [Undici](https://github.com/nodejs/undici)
 
 ### Imagens
 - [Sharp](https://github.com/lovell/sharp)
@@ -139,6 +149,7 @@
 ## Injeção de Dependência
 - [Awilix](https://github.com/jeffijoe/awilix)
 - [Inversify](https://inversify.io/)
+- [Typedi](https://github.com/typestack/typedi)
 - [Tsyringe](https://github.com/microsoft/tsyringe)
 
 ### Instalação
@@ -196,6 +207,7 @@
 ### Parser
 - [Espree](https://github.com/eslint/espree)
 - [Node CSV](https://github.com/adaltas/node-csv)
+- [Parse Domain](https://github.com/peerigon/parse-domain)
 
 ### Process
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
@@ -270,6 +282,7 @@
 ### Validação
 - [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
+- [Zod](https://github.com/colinhacks/zod)
 
 ### Webhooks
 - [Diahook](https://www.diahook.com)

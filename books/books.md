@@ -3,6 +3,7 @@
 - https://github.com/mhadidg/software-architecture-books
 
 ## Arquitetura
+- [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://www.amazon.com.br/Architecture-Patterns-Python-Harry-Percival/dp/1492052205)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com.br/Building-Event-Driven-Microservices-Leveraging-Organizational-ebook/dp/B08C9V1FC9/ref=asc_df_B08C9V1FC9/?tag=googleshopp00-20&linkCode=df0&hvadid=452952491673&hvpos=&hvnetw=g&hvrand=5684167765196931599&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-936910562799&psc=1)
 - [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com.br/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com.br/Building-Microservices-Second-Sam-Newman/dp/1492034029/ref=asc_df_1492034029/?tag=googleshopp00-20&linkCode=df0&hvadid=379733272930&hvpos=&hvnetw=g&hvrand=4222125241391095705&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-464425939893&psc=1)
@@ -10,6 +11,7 @@
 - [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com.br/Chaos-Engineering-Casey-Rosenthal/dp/1492043869)
 - [Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=asc_df_B085PP6Y8P/?tag=googleshopp00-20&linkCode=df0&hvadid=426564911966&hvpos=&hvnetw=g&hvrand=11450558934850062724&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-893564488271&psc=1)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Continuous API Management, 2nd Edition](https://learning.oreilly.com/library/view/continuous-api-management/9781098103514/)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [Designing Data–Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)

@@ -26,8 +26,10 @@
 - [Motion](https://motion.dev/)
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
+- [Shifty](https://github.com/jeremyckahn/shifty)
 - [SmoothStep](https://smoothstep.io/)
 - [Theatrejs](https://www.theatrejs.com/)
+- [Vanta](https://github.com/tengbao/vanta)
 
 ## Apresentação
 - [Reveal.js](https://github.com/hakimel/reveal.js)
@@ -36,6 +38,7 @@
 - [Howler.js](https://github.com/goldfire/howler.js)
 
 ## Autenticação
+- [Clerk](https://clerk.dev/)
 - [FingerPrintJS](https://github.com/fingerprintjs/fingerprintjs)
 - [UserFront](https://userfront.com/)
 - [ZXCVBN](https://github.com/dropbox/zxcvbn)
@@ -83,6 +86,7 @@
 - [UnCSS](https://github.com/uncss/uncss)
 - [Size Limit](https://github.com/ai/size-limit)
 - [SWC](https://github.com/swc-project/swc)
+- [TSup](https://github.com/egoist/tsup)
 - [Turbo](https://github.com/hotwired/turbo)
 - [Turborepo](https://turborepo.org/)
 - [Vite](https://github.com/vitejs/vite)
@@ -166,11 +170,13 @@
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
 - [HyperScript](https://github.com/bigskysoftware/_hyperscript)
 - [Inertia.js](https://github.com/inertiajs/inertia)
+- [Inferno](https://www.infernojs.org/)
 - [Intro.js](https://github.com/usablica/intro.js)
 - [Lemonadejs](https://github.com/lemonadejs/lemonadejs)
 - [LWC](https://github.com/salesforce/lwc)
 - [Million](https://github.com/millionjs/million)
 - [Mint](https://github.com/mint-lang/mint)
+- [Mithril](https://mithril.js.org/)
 - [Mitosis](https://github.com/BuilderIO/mitosis)
 - [Moon](https://github.com/kbrsh/moon)
 - [Mosaic](https://github.com/Authman2/Mosaic/)
@@ -186,7 +192,6 @@
 - [Stencil](https://github.com/ionic-team/stencil)
 - [Stimulus](https://github.com/hotwired/stimulus)
 - [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
-- [Tauri](https://github.com/tauri-apps/tauri)
 - [TextMask](https://github.com/text-mask/text-mask)
 - [TippyJS](https://github.com/atomiks/tippyjs)
 - [Tornis](https://github.com/robb0wen/tornis)
@@ -217,6 +222,8 @@
 
 ## Desktop
 - [NeutralinoJS](https://neutralino.js.org/#one)
+- [NodeGUI](https://github.com/nodegui/nodegui)
+- [Tauri](https://github.com/tauri-apps/tauri)
 
 ## Design System
 - [Lona](https://github.com/airbnb/Lona)
@@ -271,6 +278,7 @@
 - [Cleave.js](https://github.com/nosir/cleave.js)
 - [HighLight](highlight.js)
 - [Prism](https://prismjs.com/)
+- [Refractor](https://github.com/wooorm/refractor)
 
 ## Formulário
 - [Final Form](https://github.com/final-form/final-form)
@@ -287,6 +295,7 @@
 ## Gerenciador de Estado
 - [Akita](https://github.com/datorama/akita)
 - [Effector](https://github.com/effector/effector)
+- [Elf](https://github.com/ngneat/elf)
 - [Immer](https://github.com/immerjs/immer)
 - [MobX](https://github.com/mobxjs/mobx)
 - [NanoStores](https://github.com/ai/nanostores)
@@ -301,8 +310,10 @@
   - [Redux PouchDB](https://github.com/vicentedealencar/redux-pouchdb)
   - [Redux Saga](https://github.com/redux-saga/redux-saga)
   - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Rematch](https://github.com/rematch/rematch)
 - [Reselect](https://github.com/reduxjs/reselect)
 - [Robot](https://github.com/matthewp/robot)
+- [TinyBase](https://tinybase.org/)
 - [Valtio](https://github.com/pmndrs/valtio)
 - [XState](https://github.com/davidkpiano/xstate)
 
@@ -318,6 +329,7 @@
 - [GraphVIZ](http://www.graphviz.org/)
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [JSXGraph](https://jsxgraph.org/wp/index.html)
+- [Perspective](https://github.com/finos/perspective/)
 - [Plotly.js](https://github.com/plotly/plotly.js)
 - [Plottable](https://github.com/palantir/plottable)
 - [Sigma](https://github.com/jacomyal/sigma.js)
@@ -325,6 +337,9 @@
 
 ## GraphQL
 - [URQL](https://formidable.com/open-source/urql/)
+
+## Hardware
+- [Fuite](https://github.com/nolanlawson/fuite)
 
 ## Icones
 - [FlagPack](https://flagpack.xyz/)
@@ -379,6 +394,7 @@
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
 - [DangerJS](https://danger.systems/js/)
+- [DeepSource](https://deepsource.io/)
 - [EditorConfig](https://github.com/editorconfig/editorconfig)
 - [ESLint](https://github.com/eslint/eslint)
   - [Dotenv Linter](https://github.com/dotenv-linter/dotenv-linter)

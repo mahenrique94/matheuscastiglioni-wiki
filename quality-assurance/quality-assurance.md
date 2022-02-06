@@ -55,6 +55,7 @@
 ## Ferramentas
 - [CasperJS](https://www.casperjs.org/)
 - [Chai](https://www.chaijs.com/)
+- [DeepSource](https://deepsource.io/)
 - [Jasmine](https://github.com/jasmine/jasmine)
   - [Jasmine AJAX](https://github.com/jasmine/jasmine-ajax)
 - [Jest](https://jestjs.io/)
@@ -74,6 +75,7 @@
 - [SonarQube](https://www.sonarqube.org/)
   - [Sonar Qube SAST](https://www.sonarqube.org/features/security/sast/)
 - [Spearmint](https://github.com/open-source-labs/spearmint)
+- [Vitest](https://github.com/vitest-dev/vitest)
 
 ## Serviços
 - [Blue/Green Deploy](https://stackoverflow.com/questions/45259589/whats-the-difference-between-red-black-deployment-and-blue-green-deployment)

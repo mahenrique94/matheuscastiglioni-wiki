@@ -28,6 +28,7 @@
 - [Argo CD](https://argoproj.github.io/argo-cd/)
 - [Bamboo](https://www.atlassian.com/br/software/bamboo)
 - [BitRise](https://www.bitrise.io/)
+- [BuildKite](https://buildkite.com/)
 - [Circle CI](https://circleci.com/)
 - [CruiseControl](http://cruisecontrol.sourceforge.net/)
 - [DPL](https://github.com/travis-ci/dpl)
@@ -55,12 +56,15 @@
   - [DockStation](https://github.com/DockStation/dockstation)
   - [Label Schema](http://label-schema.org/rc1/)
   - [Playground](https://www.docker.com/play-with-docker)
+  - [Podman](https://podman.io/)
   - [Portainer](https://www.portainer.io/)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [DevopsStack](https://devops-stack.io)
   - [Garden](https://garden.io/)
   - [Helm](https://helm.sh/)
+  - [K9s](https://github.com/derailed/k9s)
+  - [Kind](https://kind.sigs.k8s.io/)
   - [Knative](https://knative.dev/)
   - [Kosko](https://kosko.dev/)
   - [Kubectx](https://github.com/ahmetb/kubectx)
@@ -120,6 +124,7 @@
 - Microsserviços
   - [Apache Curator](https://curator.apache.org/)
   - [Apache Zookeeper](https://zookeeper.apache.org/)
+  - [Conductor](https://github.com/Netflix/conductor)
   - [Crossbar](https://crossbar.io/)
   - [DAPR](https://dapr.io/)
   - [gRPC](https://grpc.io/)
@@ -130,6 +135,9 @@
     - [Kiali](https://kiali.io/)
   - [Kong](https://konghq.com/)
     - [Konga](https://pantsel.github.io/konga/)
+
+## Jobs
+- [Bistro](https://facebook.github.io/bistro/)
 
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)

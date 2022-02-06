@@ -16,6 +16,10 @@
 - [NGClickOutside](https://github.com/arkon/ng-click-outside)
 - [NGXSlider](https://github.com/angular-slider/ngx-slider)
 
+### Gerenciador de estado
+- [NgRx](https://ngrx.io/)
+- [NgXs](https://github.com/ngxs/store)
+
 ### Gráficos
 - [Angular2 Chartjs](https://github.com/emn178/angular2-chartjs)
 

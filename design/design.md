@@ -23,6 +23,7 @@
 - [Material Design](https://material.io/design)
 
 ## Softwares
+- [Abstract](https://www.abstract.com/)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
   - [Natron](https://natrongithub.github.io/)
@@ -35,12 +36,15 @@
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/)
 - [Figma](https://www.figma.com/)
+- [Fusion](https://www.autodesk.com/products/fusion-360/overview)
 - [InVision](https://www.invisionapp.com/home)
+- [JustSketchMe](https://justsketch.me/)
 - [LookBack](https://lookback.io/)
 - [MarvelApp](https://marvelapp.com/)
 - [Maze](https://maze.design/)
 - [NinjaMock](https://ninjamock.com/)
 - [Overflow](https://overflow.io/)
+- [Rebelle](https://www.escapemotions.com/products/rebelle/download.php)
 - [Shuffle](https://shuffle.dev/)
 - [Sketch](https://www.sketch.com/)
 - [Spline](https://spline.design/)

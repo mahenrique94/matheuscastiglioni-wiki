@@ -20,6 +20,7 @@
 - [Mandic](https://www.mandic.com.br/)
 - [Netlify](https://www.netlify.com/)
 - [Render](https://render.com/)
+- [Supabase](https://github.com/supabase/supabase)
 - [Umbler](https://umbler.com/)
 - [Vercel](https://vercel.com/)
 - [Vultr](https://www.vultr.com/)
