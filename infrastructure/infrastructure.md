@@ -125,6 +125,7 @@
 ## Ferramentas
 - Microsserviços
   - [Apache Curator](https://curator.apache.org/)
+  - [Apache Mesos](https://mesos.apache.org/)
   - [Apache Zookeeper](https://zookeeper.apache.org/)
   - [Conductor](https://github.com/Netflix/conductor)
   - [Crossbar](https://crossbar.io/)
@@ -151,6 +152,7 @@
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [Apache Samza](http://samza.apache.org/)
 - [Apache Storm](https://storm.apache.org/)
+- [Celery](https://docs.celeryproject.org/en/latest/index.html)
 - [Debezium](https://debezium.io/)
 - [DAPR](https://dapr.io/)
 - [HornetQ](https://hornetq.jboss.org/)

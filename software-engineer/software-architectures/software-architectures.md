@@ -108,6 +108,7 @@
 - [Proxy](https://www.citrix.com/pt-br/products/citrix-adc/form/choose-the-right-proxy-architecture/)
   - [Envoy](https://www.envoyproxy.io/)
 - [Reactive Architecture](https://dzone.com/articles/reactive-architecture-benefits-amp-use-cases#:~:text=A%20Reactive%20system%20is%20an,responsiveness%20under%20failure%2C%20and%20more.)
+- [Realtime Devent Driven](https://www.infoq.com/br/articles/realtime-event-driven-ecosystem/)
 - [Responsibility Driven Design](https://en.wikipedia.org/wiki/Responsibility-driven_design)
 - [Reusable API's](https://dzone.com/articles/minimizing-microservices-complexity-with-reusable-apis)
 - [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)

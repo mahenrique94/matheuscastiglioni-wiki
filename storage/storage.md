@@ -67,6 +67,7 @@
 - [TiDB](https://pingcap.com/)
 - [TileDB](https://tiledb.com)
 - [Upstash](https://webrate.org/index.php/site/upstash.com/)
+- [Vertica](https://www.vertica.com/)
 - [VoltDB](https://www.voltdb.com/)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 

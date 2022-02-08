@@ -7,6 +7,7 @@
 
 ### Criação de UI
 - [Dioxus](https://dioxuslabs.com/)
+- [Yew](https://yew.rs/)
 
 ### GPU
 - [Ash](https://github.com/MaikKlein/ash)
