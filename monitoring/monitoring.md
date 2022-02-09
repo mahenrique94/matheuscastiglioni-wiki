@@ -45,6 +45,7 @@
 - [OpsEngine](https://www.atlassian.com/software/opsgenie)
 - [PingDom](https://www.pingdom.com/)
 - [Prometheus](https://prometheus.io/)
+  - [Cortex](https://cortexmetrics.io/)
 - [Rollbar](https://rollbar.com/)
 - [Sentry](https://sentry.io/welcome/)
 - [Signoz](https://github.com/SigNoz/signoz)
