@@ -15,6 +15,7 @@
 - [Doccano](https://github.com/doccano/doccano)
 - [Google Collab](https://colab.research.google.com/)
 - [Jupyter Notebook](https://jupyter.org/)
+- [Kaggle](https://www.kaggle.com/)
 - [Scikit Learn](https://scikit-learn.org/stable/)
 
 ## Inteligência Artificial (AI)
