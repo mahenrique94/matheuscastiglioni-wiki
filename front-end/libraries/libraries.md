@@ -139,6 +139,12 @@
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui)
 - [Tagify](https://github.com/yairEO/tagify)
 
+## Componentização
+- [Haunted](https://github.com/matthewp/haunted)
+- [LWC](https://github.com/salesforce/lwc)
+- [Mitosis](https://github.com/BuilderIO/mitosis)
+- [Stencil](https://github.com/ionic-team/stencil)
+
 ## Comunicação
 - [FoxQL](https://github.com/foxql/foxql)
 - [PeerJS](https://github.com/peers/peerjs)
@@ -164,7 +170,6 @@
 - [FloatingUI](https://github.com/atomiks/floating-ui)
 - [ForgoJS](https://forgojs.org/)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
-- [Haunted](https://github.com/matthewp/haunted)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
 - [Hybrid.js](https://hybrids.js.org/#/)
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
@@ -173,7 +178,6 @@
 - [Inferno](https://www.infernojs.org/)
 - [Intro.js](https://github.com/usablica/intro.js)
 - [Lemonadejs](https://github.com/lemonadejs/lemonadejs)
-- [LWC](https://github.com/salesforce/lwc)
 - [Million](https://github.com/millionjs/million)
 - [Mint](https://github.com/mint-lang/mint)
 - [Mithril](https://mithril.js.org/)
@@ -189,7 +193,6 @@
 - [Solid](https://github.com/solidjs/solid)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 - [Slim.js](https://github.com/slimjs/slim.js)
-- [Stencil](https://github.com/ionic-team/stencil)
 - [Stimulus](https://github.com/hotwired/stimulus)
 - [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
 - [TextMask](https://github.com/text-mask/text-mask)
