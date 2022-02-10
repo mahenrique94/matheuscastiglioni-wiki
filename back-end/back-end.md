@@ -6,6 +6,7 @@
 - [Cue](/back-end/cue/cue.md)
 - [Deno](/back-end/deno/deno.md)
 - [Elixir](/back-end/elixir/elixir.md)
+- [Go](/back-end/go/go.md)
 - [GraphQL](/back-end/graphql/graphql.md)
 - [Halide](/back-end/halide/halide.md)
 - [Java](/back-end/java/java.md)
