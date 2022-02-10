@@ -7,6 +7,9 @@
 
 ## Bibliotecas
 
+### Injeção de Dependência
+- [Dig](https://github.com/uber-go/dig)
+
 ### ORM
 - [Gorm](https://gorm.io/index.html)
 
