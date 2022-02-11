@@ -13,6 +13,9 @@
 ### ORM
 - [Gorm](https://gorm.io/index.html)
 
+### Validação
+- [Validator](https://github.com/go-playground/validator)
+
 ## Frameworks
 
 ### API
