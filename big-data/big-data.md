@@ -38,3 +38,7 @@
 
 ## Dashboard's
 - [DevLake](https://github.com/merico-dev/lake)
+
+## Plataformas
+- [DataBricks](https://databricks.com/)
+- [Looker](https://looker.com/)

@@ -15,6 +15,7 @@
 - [Gute](https://github.com/kevglass/gute/)
 - [KaboomJS](https://kaboomjs.com)
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS)
+- [LWJGL](https://www.lwjgl.org/)
 - [MelonJS](https://melonjs.org/)
 - [NAP](https://www.napframework.com/)
 - [P5JS](https://p5js.org/)
