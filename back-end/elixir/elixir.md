@@ -1,5 +1,8 @@
 # Elixir
+
 - https://elixirschool.com/pt/
+- https://elixir-lang.org/docs.html
+- https://hexdocs.pm/elixir/master/api-reference.html
 
 ## Bibliotecas
 
