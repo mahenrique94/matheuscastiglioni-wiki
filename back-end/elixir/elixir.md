@@ -9,6 +9,9 @@
 ### Autenticação
 - [Guardian](https://github.com/ueberauth/guardian)
 
+### Build
+- [Mix](https://hexdocs.pm/mix/1.13/Mix.html)
+
 ### ORM
 - [Ecto](https://hexdocs.pm/ecto/Ecto.html)
 
