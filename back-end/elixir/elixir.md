@@ -12,6 +12,9 @@
 ### Build
 - [Mix](https://hexdocs.pm/mix/1.13/Mix.html)
 
+### Dependências
+- [Hex](https://hex.pm/)
+
 ### ORM
 - [Ecto](https://hexdocs.pm/ecto/Ecto.html)
 
