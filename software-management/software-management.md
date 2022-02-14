@@ -16,6 +16,7 @@
 - [Favro](https://www.favro.com/)
 - [FocalBoard](https://www.focalboard.com/)
 - [GitScrum](https://site.gitscrum.com/)
+- [Hive](https://hive.com/)
 - [HyperContext](https://hypercontext.com/)
 - [Infinity](https://startinfinity.com/)
 - [Jestor](https://jestor.com/)
@@ -31,6 +32,7 @@
 - [ProofHub](https://www.proofhub.com/)
 - [Quantify](https://www.quantifyhq.com/)
 - [Quire](https://quire.io/)
+- [Paymo](https://www.paymoapp.com/)
 - [Reflow](https://www.reflow.com.br/)
 - [Roads](https://roads.run/)
 - [Rock](https://rock.so/)
@@ -40,7 +42,9 @@
 - [StackOverflow Teams](https://stackoverflow.com/teams)
 - [Tara](https://tara.ai/)
 - [Taskade](https://www.taskade.com/)
+- [Teamwork](https://www.teamwork.com/)
 - [Trello](https://trello.com/)
+- [Wrike](https://www.wrike.com/vh/)
 - [Zepel](https://zepel.io/)
 
 ## Frameworks
