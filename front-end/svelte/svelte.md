@@ -11,5 +11,13 @@
 ### Gráficos
 - [Pancake](https://github.com/Rich-Harris/pancake)
 
+## Frameworks
+
+### Mobile
+- [Svelte Native](https://svelte-native.technology/)
+
+### Web
+- []()
+
 ## Links
 - [awesome-svelte-resources](https://github.com/ryanatkn/awesome-svelte-resources)

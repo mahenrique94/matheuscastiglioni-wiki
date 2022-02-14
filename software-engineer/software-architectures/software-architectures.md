@@ -19,6 +19,7 @@
 - [Content-Based Router](https://www.enterpriseintegrationpatterns.com/ContentBasedRouter.html)
 - [Coreographed Architecture](https://solace.com/blog/microservices-choreography-vs-orchestration/)
 - [CQRS (Command Query Responsibility Segregation)](https://microservices.io/patterns/data/cqrs.html)
+- [Declarative UI](https://docs.flutter.dev/get-started/flutter-for/declarative)
 - [DIET](https://rasa.com/blog/introducing-dual-intent-and-entity-transformer-diet-state-of-the-art-performance-on-a-lightweight-architecture/)
 - [Distributed Systems](https://www.splunk.com/en_us/data-insider/what-are-distributed-systems.html)
   - [Adapters](https://learning.oreilly.com/library/view/designing-distributed-systems/9781491983638/ch04.html#idm139824738845552)
