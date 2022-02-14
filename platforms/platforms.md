@@ -2,6 +2,7 @@
 
 - Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/))
 - Aplicar efeito blur em imagens ([https://blurha.sh/](https://blurha.sh/))
+- Automatizar respostas para clientes ([https://rasa.com/](https://rasa.com/))
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/), [https://www.skypack.dev/](https://www.skypack.dev/))
 - Chamadas remotas ([https://usetalk.io/](https://usetalk.io/))
 - Chat para sites ([https://www.intercom.com/](https://www.intercom.com/))
@@ -14,7 +15,7 @@
 - Criar animações para Flutter ([https://rive.app/](https://rive.app/))
 - Criar back-end direto no navegador ([https://www.napkin.io/](https://www.napkin.io/))
 - Criar boards e cards ([https://trello.com/](https://trello.com/))
-- Criar diagramas e desenhos ([https://www.draw.io/](https://www.draw.io/), [https://excalidraw.com](https://excalidraw.com), [https://lucid.app/](https://lucid.app/), [https://whimsical.com/](https://whimsical.com/), [https://www.diagrams.net/](https://www.diagrams.net/), [https://www.omnigroup.com/omnigraffle/](https://www.omnigroup.com/omnigraffle/), [https://github.com/honzaap/Systemizer](https://github.com/honzaap/Systemizer), [https://excalidraw.com/](https://excalidraw.com/), [https://sketchboard.me/](https://sketchboard.me/))
+- Criar diagramas e desenhos ([https://www.draw.io/](https://www.draw.io/), [https://excalidraw.com](https://excalidraw.com), [https://lucid.app/](https://lucid.app/), [https://whimsical.com/](https://whimsical.com/), [https://www.diagrams.net/](https://www.diagrams.net/), [https://www.omnigroup.com/omnigraffle/](https://www.omnigroup.com/omnigraffle/), [https://github.com/honzaap/Systemizer](https://github.com/honzaap/Systemizer), [https://excalidraw.com/](https://excalidraw.com/), [https://sketchboard.me/](https://sketchboard.me/), [https://github.com/hikerpig/pintora](https://github.com/hikerpig/pintora))
 - Criar documentações ([https://readme.com/](https://readme.com/))
 - Criar e visualizar arquiteturas da AWS ([https://cloudcraft.co/](https://cloudcraft.co/))
 - Criar endpoints mockados ([https://www.mocky.io/](https://www.mocky.io/), [http://jsonplaceholder.typicode.com/](http://jsonplaceholder.typicode.com/))

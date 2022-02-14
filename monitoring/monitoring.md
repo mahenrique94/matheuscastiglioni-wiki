@@ -15,8 +15,11 @@
 
 ## Dashs
 - [AppSmith](https://github.com/appsmithorg/appsmith)
+- [DataBricks](https://databricks.com/)
 - [Cube.js](https://github.com/cube-js/cube.js)
+- [Looker](https://looker.com/)
 - [Metabase](https://www.metabase.com/)
+- [MixPanel](https://mixpanel.com/)
 - [Retool](https://retool.com/)
 - [Rockset](https://rockset.com/)
 
@@ -42,6 +45,8 @@
   - [Filebeat](https://www.elastic.co/pt/beats/filebeat)
 - [Nagios](https://www.nagios.org/)
 - [NewRelic](https://newrelic.com/)
+- [NodeSource](https://nodesource.com/)
+- [OpenTelemetry](https://opentelemetry.io/)
 - [OpsEngine](https://www.atlassian.com/software/opsgenie)
 - [PingDom](https://www.pingdom.com/)
 - [Prometheus](https://prometheus.io/)

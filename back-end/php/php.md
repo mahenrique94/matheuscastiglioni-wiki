@@ -1,6 +1,8 @@
 # PHP
 
 ## Bibliotecas
+
+### Banco de dados
 - [Doctrine](https://www.doctrine-project.org/)
 - [PDO](https://www.php.net/manual/pt_BR/book.pdo.php)
 
@@ -22,3 +24,6 @@
 
 ## Qualidade
 - [Grumphp](https://github.com/phpro/grumphp)
+
+## Jobs
+- [Swoole](https://openswoole.com/)
