@@ -135,6 +135,7 @@
   - [gRPC](https://grpc.io/)
 - Service Mesh
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
+  - [Consul](https://www.consul.io/)
   - [Gloo](https://www.solo.io/products/gloo-mesh/)
   - [Istio](https://github.com/istio/istio)
     - [Kiali](https://kiali.io/)
@@ -189,3 +190,8 @@
 - [Tomcat](http://tomcat.apache.org/)
 - [Undertow](https://undertow.io/)
 - [Wildfly](https://www.wildfly.org/)
+
+## Workflows
+- [Conductor](https://netflix.github.io/conductor/)
+- [Frinx](https://frinx.io/)
+- [Orkes](https://orkes.io/)
