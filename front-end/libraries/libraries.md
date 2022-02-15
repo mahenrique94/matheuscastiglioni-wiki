@@ -254,9 +254,12 @@
 - [CommerceJS](https://commercejs.com/)
 
 ## Editor
+- [Ace](https://ace.c9.io/)
 - [CKEditor](https://ckeditor.com/)
+- [CodeMirror](https://codemirror.net/)
 - [Editor.js](https://github.com/codex-team/editor.js)
 - [Milkdown](https://github.com/Saul-Mirone/milkdown)
+- [Monaco](https://microsoft.github.io/monaco-editor/)
 - [Quill](https://quilljs.com/)
 - [SimpleMDE MarkDown Editor](https://github.com/sparksuite/simplemde-markdown-editor)
 - [TinyMCE](https://github.com/tinymce/tinymce)
