@@ -16,6 +16,7 @@ https://jamstack.org
 - [Gatsby](https://github.com/gatsbyjs/gatsby)
   - [Clerk](https://clerk.dev/)
 - [Ghost](https://github.com/TryGhost/Ghost)
+- [GraphCMS](https://graphcms.com/)
 - [Gridsome](https://gridsome.org/)
 - [Hexo](https://github.com/hexojs/hexo)
 - [Hugo](https://gohugo.io/)

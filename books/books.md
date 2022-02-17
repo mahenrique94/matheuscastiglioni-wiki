@@ -111,6 +111,12 @@
 - [The Manager`s Path](https://www.amazon.com.br/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [The Staff Engineer's Path](https://learning.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
+## Mentoria
+- [O Mentor Minuto](https://record.com.br/produto/o-mentor-minuto/)
+
+## Pessoal
+- [Hábitos Atômicos](https://altabooks.com.br/produto/habitos-atomicos/)
+
 ## Relatórios
 - [iReport](https://www.casadocodigo.com.br/products/livro-ireport)
 

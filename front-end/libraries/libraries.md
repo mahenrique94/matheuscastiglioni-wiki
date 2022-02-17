@@ -163,11 +163,13 @@
 
 ## Criação e Maniputalção de Interface
 - [Alpine.js](https://github.com/alpinejs/alpine)
+- [Aurelia](https://aurelia.io/)
 - [Choo](https://github.com/choojs/choo)
 - [CSSDoodle](https://css-doodle.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
 - [FloatingUI](https://github.com/atomiks/floating-ui)
+- [FlowBite](https://flowbite.com/)
 - [ForgoJS](https://forgojs.org/)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
@@ -186,6 +188,7 @@
 - [Mosaic](https://github.com/Authman2/Mosaic/)
 - [Neo](https://github.com/neomjs/neo)
 - [OpenMCT](https://github.com/nasa/openmct)
+- [OpenUI5](https://openui5.org/)
 - [PopperCore](https://github.com/popperjs/popper-core)
 - [Preact](https://github.com/preactjs/preact)
 - [Riot](https://riot.js.org/)
@@ -267,6 +270,7 @@
 - [TUI Editor](https://github.com/nhn/tui.editor)
 
 ## Engines
+- [ChakraCore](https://github.com/chakra-core/ChakraCore)
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
 - [JSVU](https://github.com/GoogleChromeLabs/jsvu)
@@ -446,6 +450,7 @@
 ## Monorepo
 - [Lerna](https://github.com/lerna/lerna)
 - [NX](https://github.com/nrwl/nx)
+- [Rush](https://rushjs.io/)
 - [Turborepo](https://turborepo.org/)
 
 ## Métricas

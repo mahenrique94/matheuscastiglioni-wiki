@@ -50,7 +50,7 @@
 - [LocalStack](https://localstack.cloud/)
 - [Protactor](https://www.protractortest.org/#/)
 - [Selenium](https://www.selenium.dev/)
-- [TestCafe](https://devexpress.github.io/testcafe/)
+- [TestCafe](https://testcafe.io/)
 
 ## Ferramentas
 - [CasperJS](https://www.casperjs.org/)
@@ -67,6 +67,7 @@
 - [Mocha](https://mochajs.org/)
 - [PhantomCSS](https://github.com/HuddleEng/PhantomCSS)
 - [PhantomJS](https://phantomjs.org/)
+- [QUnitjs](https://qunitjs.com/)
 - [Sinon](https://sinonjs.org/)
 - [Testing Library](https://testing-library.com/)
   - [React Testing Library](https://github.com/testing-library/react-testing-library)

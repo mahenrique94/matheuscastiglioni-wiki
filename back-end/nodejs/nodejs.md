@@ -201,6 +201,7 @@
   - [Moiva](https://moiva.io/)
   - [NPM SemVer Calculator](https://semver.npmjs.com/)
   - [NPM Trends](https://www.npmtrends.com/)
+- [Verdaccio](https://github.com/verdaccio/verdaccio)
 - [Yarn](https://yarnpkg.com/)
   - [Improved Yarn Audit](https://github.com/djfdyuruiry/improved-yarn-audit)
 
