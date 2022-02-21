@@ -202,6 +202,7 @@
 - [TippyJS](https://github.com/atomiks/tippyjs)
 - [Tornis](https://github.com/robb0wen/tornis)
 - [Typed.js](https://github.com/mattboldt/typed.js)
+- [Typeit](https://github.com/alexmacarthur/typeit)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
 - [WinBox](https://github.com/nextapps-de/winbox)
 
@@ -447,6 +448,7 @@
 
 ## MarkDown
 - [MarkDown.js](https://github.com/evilstreak/markdown-js)
+- [Marked](https://github.com/markedjs/marked)
 
 ## Monorepo
 - [Lerna](https://github.com/lerna/lerna)
@@ -557,6 +559,7 @@
 ## Validação
 - [ForgJS](https://github.com/oussamahamdaoui/forgJs)
 - [Joi](https://github.com/sideway/joi)
+- [V8n](https://github.com/imbrn/v8n)
 - [Yup](https://github.com/jquense/yup)
 
 ## Videos
