@@ -191,6 +191,8 @@
 - [Sequelize](https://github.com/sequelize/sequelize)
 - [Typegoose](https://typegoose.github.io/typegoose/)
 - [TypeORM](https://github.com/typeorm/typeorm)
+  - [TypeORM Extension](https://www.npmjs.com/package/typeorm-extension)
+  - [TypeORM Fixtures CLI](https://www.npmjs.com/package/typeorm-fixtures-cli)
 - [Waterline](https://waterlinejs.org/)
 
 ## Package Manager
