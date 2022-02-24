@@ -4,8 +4,11 @@
 ### Animações
 - [Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)
 - [Moti](https://github.com/nandorojo/moti)
+- [React Native Animtable](https://github.com/oblador/react-native-animatable)
 - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated/)
+- [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
 - [React Native Skia](https://github.com/react-native-skia/react-native-skia)
+- [React Navigation Transitions](https://www.npmjs.com/package/react-navigation-transitions)
 
 ### Banco de Dados
 - [RealmDB](https://github.com/realm/realm-js)
@@ -53,6 +56,9 @@
 
 ### Qualidade
 - [React Native Owl](https://github.com/FormidableLabs/react-native-owl)
+
+### Responsividade
+- [React Native Responsive FontSize](https://www.npmjs.com/package/react-native-responsive-fontsize)
 
 ### Utiliários
 - [React Native Camera](https://github.com/react-native-camera/react-native-camera)
