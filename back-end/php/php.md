@@ -7,6 +7,7 @@
 - [PDO](https://www.php.net/manual/pt_BR/book.pdo.php)
 
 ## Frameworks
+- [API Platform](https://api-platform.com/)
 - [CakePHP](https://cakephp.org/)
 - [Code Igniter](https://codeigniter.com/)
 - [Laravel](https://laravel.com/)

@@ -103,7 +103,6 @@
 
 ### CRUD
 - [Adminjs](https://github.com/SoftwareBrothers/adminjs)
-- [API Platform](https://api-platform.com/)
 
 ### Database
 - [LokiJS](https://github.com/techfort/LokiJS)
