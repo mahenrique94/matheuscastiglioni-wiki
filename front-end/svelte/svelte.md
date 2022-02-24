@@ -17,6 +17,7 @@
 - [Svelte Native](https://svelte-native.technology/)
 
 ### Web
+- [Sapper](https://sapper.svelte.dev/)
 - [Svelte Kit](https://kit.svelte.dev/)
 
 ## Links

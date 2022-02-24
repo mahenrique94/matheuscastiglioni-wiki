@@ -91,6 +91,7 @@
 - [SQLDBM](https://sqldbm.com/Home/)
 
 ## Indexação de dados
+- [Algolia](https://www.algolia.com/doc/)
 - [ElasticSearch](https://www.elastic.co/)
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [Solr](https://lucene.apache.org/solr/)

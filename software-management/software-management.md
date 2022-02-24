@@ -21,6 +21,7 @@
 - [Infinity](https://startinfinity.com/)
 - [Jestor](https://jestor.com/)
 - [Jira](https://www.atlassian.com/br/software/jira)
+- [Linear](https://linear.app/)
 - [KiteMaker](https://www.kitemaker.co/)
 - [Menti](https://www.menti.com/)
 - [Mentimeter](https://www.mentimeter.com/)
