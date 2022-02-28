@@ -132,6 +132,7 @@
 
 ## Documentação
 - [4+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
+- [Arc42](https://arc42.org/overview)
 - [Archimate](https://elemarjr.com/arquivo/archimate-o-que-e-para-que-serve-e-como-comecar-a-aprender/#:~:text=Archimate%20%C3%A9%20uma%20linguagem%20visual,e%20aplica%C3%A7%C3%A3o%20bem%20mais%20amplos.)
   - [ArchimateTool](https://www.archimatetool.com/)
 - [ASR's](https://en.wikipedia.org/wiki/Architecturally_significant_requirements)
