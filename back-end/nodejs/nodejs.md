@@ -131,6 +131,7 @@
 - [Trash](https://github.com/sindresorhus/trash)
 
 ### Fixtures
+- [ChanceJS](https://github.com/chancejs/chancejs)
 - [Faker.js](https://github.com/Marak/faker.js)
 - [Falso](https://github.com/ngneat/falso)
 

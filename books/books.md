@@ -91,6 +91,7 @@
 - [Scrum](https://www.casadocodigo.com.br/products/livro-scrum)
 
 ## Hardware
+- [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture](https://www.amazon.com.br/Inside-Machine-Jon-Stokes/dp/1593276680/ref=asc_df_1593276680/?tag=googleshopp06-20&linkCode=df0&hvadid=379787784239&hvpos=&hvnetw=g&hvrand=1031914450658564546&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9100546&hvtargid=pla-434984541508&psc=1)
 
 ## Infra
