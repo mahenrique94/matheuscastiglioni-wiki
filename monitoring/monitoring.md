@@ -8,6 +8,7 @@
 
 ## Códigos
 - [Botany](https://www.botany.io/)
+- [Glean](https://glean.software/)
 - [LinearB](https://linearb.io/)
 - [Graphite](https://graphite.dev/)
 - [Phacility](https://www.phacility.com/)

@@ -9,6 +9,7 @@
 - [Milvus](https://milvus.io/)
 - [Pandas](https://pandas.pydata.org/)
 - [Polars](https://github.com/pola-rs/polars)
+- [SkTime](https://www.sktime.org/en/stable/)
 - [Tabula](https://pypi.org/project/tabula-py/)
 
 ## Ferramentas
