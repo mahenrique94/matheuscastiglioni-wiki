@@ -58,6 +58,7 @@
 ## Temas e inspirações
 - Awwwards ([https://www.awwwards.com/](https://www.awwwards.com/))
 - Behance ([https://www.behance.net/galleries/interaction](https://www.behance.net/galleries/interaction))
+- CSS Design Awards ([https://www.cssdesignawards.com/](https://www.cssdesignawards.com/))
 - Dribble ([https://dribbble.com/](https://dribbble.com/))
 - HTM5 UP ([https://html5up.net/](https://html5up.net/))
 - ThemeForest ([https://themeforest.net/](https://themeforest.net/))

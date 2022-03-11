@@ -148,7 +148,10 @@
 ### Imagens
 - [Sharp](https://github.com/lovell/sharp)
 
-## Injeção de Dependência
+### Indexação de Dados
+- [ElasticSearch.js](https://github.com/elastic/elasticsearch-js)
+
+### Injeção de Dependência
 - [Awilix](https://github.com/jeffijoe/awilix)
 - [Inversify](https://inversify.io/)
 - [Typedi](https://github.com/typestack/typedi)
@@ -214,6 +217,7 @@
 - [Espree](https://github.com/eslint/espree)
 - [Node CSV](https://github.com/adaltas/node-csv)
 - [Parse Domain](https://github.com/peerigon/parse-domain)
+- [PSD](https://github.com/webtoon/psd)
 
 ### Process
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
