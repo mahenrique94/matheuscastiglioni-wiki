@@ -35,6 +35,7 @@
 - [Spark](https://spark.apache.org/)
 - [Splunk](https://www.splunk.com/)
 - [Tableau](https://www.tableau.com/pt-br)
+- [Trino](https://trino.io/)
 
 ## Dashboard's
 - [DevLake](https://github.com/merico-dev/lake)
@@ -42,3 +43,4 @@
 ## Plataformas
 - [DataBricks](https://databricks.com/)
 - [Looker](https://looker.com/)
+- [Meltano](https://meltano.com/)
