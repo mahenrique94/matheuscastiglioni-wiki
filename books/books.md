@@ -22,6 +22,7 @@
 - [Implementing Domain-Driven Design](https://www.amazon.com.br/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - [Learning JavaScript Data Structures and Algorithms](https://www.packtpub.com/product/learning-javascript-data-structures-and-algorithms-third-edition/9781788623872)
 - [Mastering API Architecture](https://learning.oreilly.com/library/view/mastering-api-architecture/9781492090625/)
+- [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848)
 - [Microservices – Up and Running: A Step-By-Step Guide to Building a Microservices Architecture](https://www.amazon.com.br/Microservices-Step-Step-Microservice-Architecture/dp/1492075450)
 - [Migrating to Microservice Databases](https://learning.oreilly.com/library/view/migrating-to-microservice/9781492048824/)
