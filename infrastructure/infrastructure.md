@@ -169,6 +169,7 @@
   - [jBPM](https://www.jbpm.org/)
   - [Mule ESB](https://www.mulesoft.com/platform/soa/mule-esb-open-source-esb)
   - [Oracle BPEL Process Manager](https://www.oracle.com/middleware/technologies/bpel-process-manager.html)
+- [Solace](https://solace.com/)
 - [ZeroMQ](https://zeromq.org/)
 
 ## Progressive Delivery
