@@ -1,5 +1,8 @@
 # Desenvolvimento de Jogos
 
+## Bibliotecas
+- [Assimp](https://github.com/assimp/assimp)
+
 ## Engines
 - [Acid](https://github.com/EQMG/Acid)
 - [Bevy](https://github.com/bevyengine/bevy)
