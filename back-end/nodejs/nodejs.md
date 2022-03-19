@@ -133,7 +133,7 @@
 
 ### Fixtures
 - [ChanceJS](https://github.com/chancejs/chancejs)
-- [Faker.js](https://github.com/Marak/faker.js)
+- [Faker.js](https://github.com/faker-js/faker)
 - [Falso](https://github.com/ngneat/falso)
 
 ### Headless BrowserStack
