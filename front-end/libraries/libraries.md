@@ -255,6 +255,7 @@
 - [DocZ](https://github.com/doczjs/docz)
 - [DocX](https://github.com/dolanmiu/docx)
 - [JSDoc](https://github.com/jsdoc/jsdoc)
+- [Ladle](https://github.com/tajo/ladle)
 - [Storybook](https://github.com/storybookjs/storybook)
 
 ## E-Commerce

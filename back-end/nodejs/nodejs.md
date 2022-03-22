@@ -6,6 +6,7 @@
 - [ActionHero](https://github.com/actionhero/actionhero)
 - [AdonisJS](https://adonisjs.com/)
 - [Amplication](https://github.com/amplication/amplication)
+- [ChiselStrike](https://www.chiselstrike.com/)
 - [Cote](https://github.com/dashersw/cote)
 - [Derby](https://github.com/derbyjs/derby)
 - [Egg](https://github.com/eggjs/egg)
