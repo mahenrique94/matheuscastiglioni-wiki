@@ -1,5 +1,9 @@
 # Carreira
 
+- https://dropbox.github.io/dbx-career-framework/
+- https://about.gitlab.com/handbook/engineering/career-development/
+- https://career-ladders.dev/
+
 ## Escolas de formação profissional
 - [Caelum](https://www.caelum.com.br/)
 - [Trybe](https://www.betrybe.com/)
@@ -20,6 +24,7 @@
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)
 - [Aulapp](https://www.aulapp.com.br/)
+- [BlueEdTech](https://blueedtech.com.br/)
 - [Cademi](https://cademi.com.br/)
 - [Cataline](https://www.cataline.io/)
 - [Cod3r](https://www.cod3r.com.br/)
