@@ -8,6 +8,7 @@
 - [HTTPS (Hyper Text Transfer Protocol Secure)](https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure)
   - [Multiplexing](https://developers.google.com/web/fundamentals/performance/http2)
 - [MQTT (Message Queuing Telemetry Transpor)](https://pt.wikipedia.org/wiki/MQTT)
+- [RTMP (Real Time Messaging Protocol)](https://www.dacast.com/blog/rtmp-real-time-messaging-protocol/)
 - [RPC (Remote Procedure Calls)](https://pt.wikipedia.org/wiki/Chamada_de_procedimento_remoto)
   - [Finagle](https://twitter.github.io/finagle/)
   - [gRPC (gRPC Remote Procedure Calls)](https://grpc.io/)

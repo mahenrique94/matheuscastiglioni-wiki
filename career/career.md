@@ -3,6 +3,7 @@
 - https://dropbox.github.io/dbx-career-framework/
 - https://about.gitlab.com/handbook/engineering/career-development/
 - https://career-ladders.dev/
+- http://www.engineeringladders.com/
 
 ## Escolas de formação profissional
 - [Caelum](https://www.caelum.com.br/)
@@ -43,6 +44,7 @@
 - [Goblin School](https://goblinschool.com.br/)
 - [Grasshopper](https://grasshopper.app/pt_br/)
 - [IGTI](https://www.igti.com.br/)
+- [InterviewReady](https://interviewready.io)
 - [KodeKloud](https://kodekloud.com/)
 - [OneBitCode](https://onebitcode.com/)
 - [Oreilly](https://www.oreilly.com/)

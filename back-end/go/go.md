@@ -4,6 +4,7 @@
 - https://gobyexample.com/
 - https://gowebexamples.com/
 - https://pkg.go.dev/
+- https://github.com/golang-standards/project-layout
 
 ## Bibliotecas
 

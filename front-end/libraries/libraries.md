@@ -343,6 +343,7 @@
 - [Delaunator](https://github.com/mapbox/delaunator)
 - [Dendron](https://www.dendron.so/)
 - [Frappe](https://github.com/frappe/charts)
+- [Google Charts](https://developers.google.com/chart/interactive/docs)
 - [GraphVIZ](http://www.graphviz.org/)
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [JSXGraph](https://jsxgraph.org/wp/index.html)

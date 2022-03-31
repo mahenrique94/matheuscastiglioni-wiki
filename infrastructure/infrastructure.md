@@ -84,6 +84,7 @@
     - [K3D](https://k3d.io/)
     - [k3S](https://k3s.io/)
   - [Telepresence](https://www.telepresence.io/)
+  - [ValidKube](https://validkube.com/)
 - [Nomad](https://www.nomadproject.io/)
 - [Simplenetes](https://github.com/simplenetes-io/simplenetes)
 - [Traefik](https://traefik.io/)
