@@ -20,6 +20,7 @@
 - [SaltStack](https://saltproject.io/)
 - [Terraform](https://www.terraform.io/)
   - [Atlantis](https://github.com/runatlantis/atlantis)
+  - [TFSec](https://github.com/aquasecurity/tfsec)
 - [Vagrant](https://www.vagrantup.com/)
 
 ## CDN
@@ -55,6 +56,7 @@
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
   - [Apache Mesos](http://mesos.apache.org/)
+  - [Colima](https://github.com/abiosoft/colima)
   - [Dive](https://github.com/wagoodman/dive)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - [DockStation](https://github.com/DockStation/dockstation)
@@ -172,6 +174,7 @@
   - [Mule ESB](https://www.mulesoft.com/platform/soa/mule-esb-open-source-esb)
   - [Oracle BPEL Process Manager](https://www.oracle.com/middleware/technologies/bpel-process-manager.html)
 - [Solace](https://solace.com/)
+- [VerneMQ](https://vernemq.com/)
 - [ZeroMQ](https://zeromq.org/)
 
 ## Progressive Delivery

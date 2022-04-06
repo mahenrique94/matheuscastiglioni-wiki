@@ -33,6 +33,7 @@
 - [DataDog](https://www.datadoghq.com/)
 - [DynaTrace](https://www.dynatrace.com/)
 - [ElvenWorks](https://elven.works/pt/)
+- [eBPF](https://ebpf.io/)
 - [FluentBit](https://fluentbit.io/)
 - [Grafana](https://grafana.com/)
 - [HoneyComb](https://www.honeycomb.io/)

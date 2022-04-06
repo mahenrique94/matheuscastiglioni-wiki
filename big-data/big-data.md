@@ -18,6 +18,7 @@
 - [Apache Druid](https://druid.apache.org/)
 - [Apache Hive](https://hive.apache.org/)
 - [Apache Hudi](https://hudi.apache.org/)
+- [Apache Iceberg](https://iceberg.apache.org/)
 - [Apache Pig](https://pig.apache.org/)
 - [Apache Spark](https://spark.apache.org/)
 - [Apache Superset](https://superset.apache.org/)

@@ -76,6 +76,7 @@
 - [FlyWayDB](https://flywaydb.org/)
 - [Innobackupex](https://www.percona.com/doc/percona-xtrabackup/2.1/innobackupex/innobackupex_script.html)
 - [Liquibase](https://www.liquibase.org/)
+- [MistQL](https://www.mistql.com/)
 - [SchemaSpy](http://schemaspy.sourceforge.net/)
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff)
 - [Teiid](https://teiid.io/)
