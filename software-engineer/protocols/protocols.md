@@ -1,5 +1,6 @@
 # Protocolos
 
+- [AMQP (Advanced Message Queuing Protocol)](https://www.amqp.org/)
 - [HTTP (Hyper Text Transfer Protocol)](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
   - [HTTP 1](https://www.w3.org/Protocols/HTTP/1.0/draft-ietf-http-spec.html)
   - [HTTP 1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)

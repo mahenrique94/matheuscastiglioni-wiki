@@ -1,7 +1,8 @@
 # Big Data
 
-- [Data Mesh](https://medium.com/data-hackers/data-mesh-indo-al%C3%A9m-do-data-lake-e-data-warehouse-465d57539d89)
 - [Data Lake](https://www.redhat.com/pt-br/topics/data-storage/what-is-a-data-lake)
+- [Data Lineage](https://www.imperva.com/learn/data-security/data-lineage/)
+- [Data Mesh](https://medium.com/data-hackers/data-mesh-indo-al%C3%A9m-do-data-lake-e-data-warehouse-465d57539d89)
 - [Data Warehouse](https://www.oracle.com/br/database/what-is-a-data-warehouse/#:~:text=Data%20Warehouse%20definido,-Um%20data%20warehouse&text=Um%20data%20warehouse%20centraliza%20e,melhorar%20a%20tomada%20de%20decis%C3%B5es.)
 
 ## Banco de Dados

@@ -51,6 +51,7 @@
 ## Comunicação entre serviços
 - [DAPR](https://dapr.io/)
 - [gRPC](https://grpc.io/)
+  - [Evans](https://github.com/ktr0731/evans)
 
 ## Containers/Virtualização
 - [DCOS](https://dcos.io/)
