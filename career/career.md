@@ -26,6 +26,7 @@
 - [Alura](https://www.alura.com.br/)
 - [Aulapp](https://www.aulapp.com.br/)
 - [BlueEdTech](https://blueedtech.com.br/)
+- [BPB](https://bpbonline.com/)
 - [Cademi](https://cademi.com.br/)
 - [Cataline](https://www.cataline.io/)
 - [Cod3r](https://www.cod3r.com.br/)
