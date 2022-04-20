@@ -186,6 +186,9 @@
 ### Notificação
 - [Node Notifier](https://github.com/mikaelbr/node-notifier)
 
+### Objetos
+- [wild-wild-path](https://github.com/ehmicky/wild-wild-path)
+
 ### ORM
 - [BookShelf](https://bookshelfjs.org/)
 - [Kysely](https://github.com/koskimas/kysely)
@@ -294,6 +297,9 @@
 - [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
 - [Zod](https://github.com/colinhacks/zod)
+
+### Videos
+- [YouTube.js](https://github.com/LuanRT/YouTube.js)
 
 ### Webhooks
 - [Diahook](https://www.diahook.com)
