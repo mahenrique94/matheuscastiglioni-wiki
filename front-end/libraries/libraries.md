@@ -563,6 +563,7 @@
 ## Validação
 - [ForgJS](https://github.com/oussamahamdaoui/forgJs)
 - [Joi](https://github.com/sideway/joi)
+- [TV4](https://www.npmjs.com/package/tv4)
 - [V8n](https://github.com/imbrn/v8n)
 - [Yup](https://github.com/jquense/yup)
 
