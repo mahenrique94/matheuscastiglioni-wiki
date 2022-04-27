@@ -266,6 +266,7 @@
 - [CKEditor](https://ckeditor.com/)
 - [CodeMirror](https://codemirror.net/)
 - [Editor.js](https://github.com/codex-team/editor.js)
+- [Lexical](https://lexical.dev/)
 - [Milkdown](https://github.com/Saul-Mirone/milkdown)
 - [Monaco](https://microsoft.github.io/monaco-editor/)
 - [Quill](https://quilljs.com/)

@@ -8,7 +8,7 @@
 - Criação de apresentações ([https://sli.dev/](https://sli.dev/))
 - Color picker online ([https://coolors.co/](https://coolors.co/), [https://colordrop.io/](https://colordrop.io/), [https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel), [https://mycolor.space/](https://mycolor.space/), [https://paletton.com](https://paletton.com), [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp))
 - Comparação de bundles ([https://bundlers.tooling.report/](https://bundlers.tooling.report/))
-- Compartilhar trechos de códigos ([https://carbon.now.sh/](https://carbon.now.sh/), [https://ray.so/](https://ray.so/))
+- Compartilhar trechos de códigos ([https://carbon.now.sh/](https://carbon.now.sh/), [https://chalk.ist/](https://chalk.ist/),[https://ray.so/](https://ray.so/))
 - Comprar livros de desenvolvimento ([https://www.packtpub.com/](https://www.packtpub.com/))
 - Criar arquivos gitignore automaticamente ([http://gitignore.io/](http://gitignore.io/))
 - Criar avatars ([http://avatars.adorable.io/](http://avatars.adorable.io/))

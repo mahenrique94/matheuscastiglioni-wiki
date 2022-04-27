@@ -32,6 +32,7 @@ https://jamstack.org
 - [Prismic](https://prismic.io/)
 - [RedWood](https://github.com/redwoodjs/redwood)
 - [Remix](https://remix.run/)
+- [Sanity](https://www.sanity.io/)
 - [Scully](https://github.com/scullyio/scully)
 - [Storyblok](https://www.storyblok.com/)
 - [Strapi](https://strapi.io/)

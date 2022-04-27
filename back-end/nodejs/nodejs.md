@@ -58,6 +58,7 @@
 - [OTPGenerator](https://github.com/Maheshkumar-Kakade/otp-generator)
 - [Passport](https://github.com/jaredhanson/passport)
 - [SCrypt](https://www.npmjs.com/package/scrypt)
+- [Stytch](https://stytch.com/)
 - [Zanzibar](https://research.google/pubs/pub48190/)
 
 ### Automação
