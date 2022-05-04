@@ -207,6 +207,7 @@
 - [Typeit](https://github.com/alexmacarthur/typeit)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
 - [WinBox](https://github.com/nextapps-de/winbox)
+- [Zag.js](https://zagjs.com/)
 
 ## CSS-in-JS
 - [Emotion](https://github.com/emotion-js/emotion)
