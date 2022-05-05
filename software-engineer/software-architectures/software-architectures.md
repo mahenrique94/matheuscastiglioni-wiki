@@ -57,6 +57,7 @@
 - [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
   - [Front Controller](https://en.wikipedia.org/wiki/Front_controller)
+- [Macroservice](https://dzone.com/articles/micro-service-mini-service-and-macro-service)
 - [Master-slave](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Microapps Architecture](https://increment.com/mobile/microapps-architecture/)
 - [Microkernel Architecture](https://priyalwalpita.medium.com/software-architecture-patterns-microkernel-architecture-97cee200264e)
