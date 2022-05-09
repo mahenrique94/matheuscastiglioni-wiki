@@ -1,6 +1,7 @@
 # Plataformas
 
 - Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/))
+- Agendar execução de códigos ([https://mergent.co/](https://mergent.co/))
 - Aplicar efeito blur em imagens ([https://blurha.sh/](https://blurha.sh/))
 - Automatizar respostas para clientes ([https://rasa.com/](https://rasa.com/))
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/), [https://www.skypack.dev/](https://www.skypack.dev/))
