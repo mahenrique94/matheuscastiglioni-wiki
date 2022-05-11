@@ -61,6 +61,7 @@
 - [Broccoli](https://broccoli.build/)
 - [BrowserList](https://github.com/browserslist/browserslist)
 - [Buck](https://buck.build/)
+- [BundleBuddy](https://bundle-buddy.com/)
 - [BundleSize](https://github.com/siddharthkp/bundlesize)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [ESBuild](https://github.com/evanw/esbuild)

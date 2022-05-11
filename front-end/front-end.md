@@ -2,6 +2,7 @@
 
 - [APP Ideas](https://github.com/florinpop17/app-ideas)
 - [Checklist Front-End](https://github.com/thedaviddias/Front-End-Checklist)
+- [Component Party](https://component-party.dev/)
 - [FireCode](https://github.com/tonsky/FiraCode)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Learning Front-End Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
