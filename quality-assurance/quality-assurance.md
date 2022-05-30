@@ -9,6 +9,7 @@
 - [Detox](https://github.com/wix/Detox)
 - [Drill](https://github.com/fcsonline/drill)
 - [Expect.js](https://github.com/Automattic/expect.js)
+- [Fast Check](https://github.com/dubzzz/fast-check)
 - [Fortio](https://fortio.org/)
 - [Gatling](https://gatling.io/)
 - [GHZ](https://ghz.sh/)

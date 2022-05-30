@@ -5,6 +5,7 @@
 
 ## Engines
 - [Acid](https://github.com/EQMG/Acid)
+- [Amazon Lumberyard](https://en.m.wikipedia.org/wiki/Amazon_Lumberyard)
 - [Bevy](https://github.com/bevyengine/bevy)
 - [Coconut2D](https://www.coconut2d.com/)
 - [Cocos Creator](https://www.cocos.com/en)
@@ -24,6 +25,7 @@
 - [Marmalade](https://en.wikipedia.org/wiki/Marmalade_(software))
 - [MelonJS](https://melonjs.org/)
 - [NAP](https://www.napframework.com/)
+- [O3DE](https://www.o3de.org/)
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)
 - [Photon](https://www.photonengine.com/en-US/Photon)
@@ -78,6 +80,7 @@
 - [MetaHuman Creator](https://www.unrealengine.com/en-US/digital-humans)
 - [Modo 3D](https://www.foundry.com/products/modo)
 - [Mocha Pro](https://borisfx.com/products/mocha-pro/?collection=mocha-pro&product=mocha-pro)
+- [Moho](https://moho.lostmarble.com/)
 - [MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview?plc=MOBPRO&term=1-YEAR&support=ADVANCED&quantity=1)
 - [Mudbox](https://www.autodesk.com.br/products/mudbox/overview)
 - [Nuke](https://www.foundry.com/products/nuke)

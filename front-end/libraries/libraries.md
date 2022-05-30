@@ -69,6 +69,8 @@
   - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [EStrella](https://github.com/rsms/estrella)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
+- [NCC](https://github.com/vercel/ncc)
+- [NFT](https://github.com/vercel/nft)
 - [Package Check](https://github.com/skypackjs/package-check)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Parsel](https://github.com/LeaVerou/parsel)
