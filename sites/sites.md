@@ -31,6 +31,7 @@
 - Musicas sem copyright ([https://uppbeat.io/](https://uppbeat.io/))
 - Navegar na AST do JavaScript ([https://astexplorer.net/](https://astexplorer.net/))
 - Quadro branco online ([https://jamboard.google.com/](https://jamboard.google.com/))
+- Quantidade de demissões das empresas ([https://layoffs.fyi/](https://layoffs.fyi/))
 - Paleta de cores ([https://coolors.co/](https://coolors.co/), [https://color.adobe.com/](https://color.adobe.com/))
 - Perguntas em reuniões, talks e palestras ([https://www.sli.do/](https://www.sli.do/))
 - Pesquisa e estado do Ágil ([https://stateofagile.com/](https://stateofagile.com/))

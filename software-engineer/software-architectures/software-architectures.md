@@ -51,6 +51,7 @@
 - [FDD (Feature Driven Development)](https://www.devmedia.com.br/introducao-ao-fdd-feature-driven-development/27971)
 - [Feature Parity](https://martinfowler.com/articles/patterns-legacy-displacement/feature-parity.html)
 - [Feature Oriented Architecture](https://medium.com/@nate_wang/feature-oriented-architecture-for-web-applications-2b48e358afb0)
+- [Federated Architecture](https://en.wikipedia.org/wiki/Federated_Architecture)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 - [In-Memory Database Architecture](https://dzone.com/articles/in-memory-database-architecture-ten-years-of-exper)
 - [Infrastructure-Driven Packaging](https://codeforfunandmoney.wordpress.com/2016/07/13/domain-driven-design-and-package-organization/)

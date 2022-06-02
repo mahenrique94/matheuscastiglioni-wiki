@@ -2,6 +2,11 @@
 
 - https://oam.dev/
 
+## Autenticação
+- [Keycloak](https://www.keycloak.org/)
+- [Okta](https://www.okta.com/)
+- [PingID](https://apidocs.pingidentity.com/pingid-api/guide/pingid-api/pid_c_PingIDapiAuthentication/)
+
 ## Automação
 - [Ansible](https://www.ansible.com/)
 - [BackStage](https://github.com/backstage/backstage)
@@ -146,6 +151,9 @@
     - [Kiali](https://kiali.io/)
   - [Kong](https://konghq.com/)
     - [Konga](https://pantsel.github.io/konga/)
+  - [Kuma](https://kuma.io/)
+  - [Linkerd](https://linkerd.io/)
+  - [Traefik Mesh](https://traefik.io/traefik-mesh/)
 
 ## Jobs
 - [Bistro](https://facebook.github.io/bistro/)
