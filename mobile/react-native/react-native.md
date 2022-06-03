@@ -10,6 +10,9 @@
 - [React Native Skia](https://github.com/react-native-skia/react-native-skia)
 - [React Navigation Transitions](https://www.npmjs.com/package/react-navigation-transitions)
 
+### Build
+- [Metro](https://facebook.github.io/metro/)
+
 ### Banco de Dados
 - [RealmDB](https://github.com/realm/realm-js)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
