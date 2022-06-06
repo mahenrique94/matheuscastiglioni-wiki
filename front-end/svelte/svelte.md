@@ -8,6 +8,9 @@
 ### Desktop App
 - [Svelte Node Gui](https://svelte.nodegui.org/#quick-start)
 
+### Diagramas
+- [Svelvet](https://svelvet.io/)
+
 ### Gráficos
 - [Pancake](https://github.com/Rich-Harris/pancake)
 
