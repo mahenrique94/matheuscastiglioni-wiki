@@ -4,6 +4,7 @@
 - https://about.gitlab.com/handbook/engineering/career-development/
 - https://career-ladders.dev/
 - http://www.engineeringladders.com/
+- https://github.com/careertopologies
 
 ## Escolas de formação profissional
 - [Caelum](https://www.caelum.com.br/)
