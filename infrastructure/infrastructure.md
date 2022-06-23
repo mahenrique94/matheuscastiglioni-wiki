@@ -2,6 +2,13 @@
 
 - https://oam.dev/
 
+## API Gateway
+- [Kong](https://konghq.com/)
+- [Krakend](https://www.krakend.io/)
+  - [Lura](https://github.com/luraproject/lura)
+- [NGINX](https://www.nginx.com/)
+- [Traefik](https://traefik.io/)
+
 ## Autenticação
 - [Keycloak](https://www.keycloak.org/)
 - [Okta](https://www.okta.com/)
