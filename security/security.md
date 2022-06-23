@@ -16,6 +16,7 @@
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 - [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit/)
   - [NPM Audit HTML](https://github.com/eventOneHQ/npm-audit-html)
+- [Gitleaks](https://github.com/zricethezav/gitleaks)
 - [Retire.js](https://github.com/RetireJS/retire.js)
 
 ## Ferramentas
