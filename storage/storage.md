@@ -48,6 +48,7 @@
 - [PlanetScale](https://planetscale.com/)
 - [PostgresQL](https://www.postgresql.org/)
   - [Citus](https://www.citusdata.com/)
+  - [Dalibo Explain](https://explain.dalibo.com/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
   - [PgPool](https://www.npmjs.com/package/pg-pool)
 - [Presto](https://prestodb.io/)
