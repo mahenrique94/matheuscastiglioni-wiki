@@ -4,6 +4,7 @@
 - [Detectron](https://github.com/facebookresearch/Detectron)
 - [Detectron2](https://github.com/facebookresearch/detectron2)
 - [Kats](https://github.com/facebookresearch/Kats)
+- [HuggingFace](https://huggingface.co/)
 - [Numpy](https://numpy.org/)
 - [GeoPandas](https://geopandas.org/)
 - [Milvus](https://milvus.io/)
@@ -11,6 +12,7 @@
 - [Polars](https://github.com/pola-rs/polars)
 - [SkTime](https://www.sktime.org/en/stable/)
 - [Tabula](https://pypi.org/project/tabula-py/)
+- [Tidyverse](https://www.tidyverse.org/)
 
 ## Ferramentas
 - [Doccano](https://github.com/doccano/doccano)

@@ -40,6 +40,7 @@
 - [Trino](https://trino.io/)
 
 ## Dashboard's
+- [Budibase](https://budibase.com/)
 - [DevLake](https://github.com/merico-dev/lake)
 
 ## Plataformas
