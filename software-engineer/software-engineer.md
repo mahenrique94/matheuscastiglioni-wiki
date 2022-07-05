@@ -21,6 +21,7 @@
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Tiny Helpers](https://tiny-helpers.dev/)
+- [Trilha](https://www.trilha.info/)
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
 - [Algoritmos](/software-engineer/algorithms/algorithms.md)

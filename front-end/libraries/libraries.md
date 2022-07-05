@@ -167,6 +167,7 @@
 - [PlayWRight](https://github.com/microsoft/playwright)
 
 ## Criação e Maniputalção de Interface
+- [AgnosticUI](https://www.agnosticui.com/)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Aurelia](https://aurelia.io/)
 - [Choo](https://github.com/choojs/choo)
