@@ -22,6 +22,7 @@
 - [Ignite](https://github.com/infinitered/ignite)
 
 ### Componentes
+- [FlashList](https://github.com/shopify/flash-list)
 - [Native base](https://github.com/GeekyAnts/NativeBase)
 - [React Native Elements](https://github.com/react-native-elements/react-native-elements)
 - [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)

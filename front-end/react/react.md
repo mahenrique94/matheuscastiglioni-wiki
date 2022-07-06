@@ -111,6 +111,7 @@
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
+- [TanStack](https://tanstack.com/table/v8)
 - [Webrix](https://github.com/open-amdocs/webrix/)
 - [Wouter](https://github.com/molefrog/wouter)
 
@@ -150,6 +151,7 @@
 - [Little State Machine](https://github.com/bluebill1049/little-state-machine)
 - [Recoil](https://recoiljs.org/)
 - [React Sweet State](https://github.com/atlassian/react-sweet-state)
+- [React Tracked](https://github.com/dai-shi/react-tracked)
 - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit)
   - [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview)
 - [Teaful](https://github.com/teafuljs/teaful)

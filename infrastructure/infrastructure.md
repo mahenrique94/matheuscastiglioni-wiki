@@ -13,6 +13,7 @@
 - [Keycloak](https://www.keycloak.org/)
 - [Okta](https://www.okta.com/)
 - [PingID](https://apidocs.pingidentity.com/pingid-api/guide/pingid-api/pid_c_PingIDapiAuthentication/)
+- [SuperTokens](https://supertokens.com/)
 
 ## Automação
 - [Ansible](https://www.ansible.com/)
