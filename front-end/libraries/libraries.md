@@ -280,6 +280,7 @@
 - [TUI Editor](https://github.com/nhn/tui.editor)
 
 ## Engines
+- [Bun](https://bun.sh/)
 - [ChakraCore](https://github.com/chakra-core/ChakraCore)
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
