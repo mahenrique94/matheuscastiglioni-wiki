@@ -208,6 +208,7 @@
 ## Package Manager
 - [NPM](https://www.npmjs.com/)
   - [Anvaka](http://npm.anvaka.com/)
+  - [BundleJS](https://bundlejs.com/)
   - [BundlePhobia](https://bundlephobia.com/)
   - [Deps.dev](https://deps.dev/)
   - [Moiva](https://moiva.io/)
