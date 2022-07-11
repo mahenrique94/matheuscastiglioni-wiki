@@ -145,6 +145,7 @@
 - [Tagify](https://github.com/yairEO/tagify)
 
 ## Componentização
+- [Atomico](https://atomicojs.dev/)
 - [Haunted](https://github.com/matthewp/haunted)
 - [LWC](https://github.com/salesforce/lwc)
 - [Mitosis](https://github.com/BuilderIO/mitosis)
@@ -442,7 +443,7 @@
   - [Stylelint Config Standard](https://github.com/stylelint/stylelint-config-standard)
 
 ## Machine Learning
-- [Brain.js](https://brain.js.org/#/)
+- [Brain.js](https://brain.js.org/)
 - [DannJS](https://dannjs.org/)
 - [KerasJS](https://transcranial.github.io/keras-js/#/)
 - [NSFW](https://github.com/infinitered/nsfwjs)
