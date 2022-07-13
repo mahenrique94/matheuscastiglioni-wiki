@@ -111,6 +111,7 @@
 ## Controle de Versão
 - [Git](https://git-scm.com/)
   - [BitBucket](https://bitbucket.org/)
+  - [GitDash](https://gitdash.dev/)
   - [GitGist](https://gist.github.com/)
   - [GitHub](https://github.com/)
     - [Codacy](https://github.com/marketplace/codacy)

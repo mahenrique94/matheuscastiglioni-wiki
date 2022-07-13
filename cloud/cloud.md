@@ -19,6 +19,7 @@
 - [Locaweb](https://www.locaweb.com.br/)
 - [Mandic](https://www.mandic.com.br/)
 - [Netlify](https://www.netlify.com/)
+- [Pocketbase](https://pocketbase.io/)
 - [Render](https://render.com/)
 - [Supabase](https://github.com/supabase/supabase)
 - [Umbler](https://umbler.com/)

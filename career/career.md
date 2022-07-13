@@ -47,6 +47,7 @@
 - [Grasshopper](https://grasshopper.app/pt_br/)
 - [IGTI](https://www.igti.com.br/)
 - [InterviewReady](https://interviewready.io)
+- [KadabraSchool](https://kadabra.school/en/)
 - [KodeKloud](https://kodekloud.com/)
 - [OneBitCode](https://onebitcode.com/)
 - [Oreilly](https://www.oreilly.com/)

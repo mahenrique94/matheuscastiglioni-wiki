@@ -91,6 +91,7 @@
   - [Strangler Fig](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Miniservice](https://blog.bitsrc.io/microservices-are-dead-long-live-miniservices-40e4ccf4741)
 - [MDD (Model Driven Development)](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/aulas/mdd-termos_v01.pdf)
+- [Monolith In A Box](https://semaphoreci.com/blog/monolith-microservices)
 - [Monolithic Architecture](https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541)
 - [Multi Tenant](https://levelup.gitconnected.com/multi-tenant-architecture-8c1f597e069c)
 - [Multi Thread](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)#:~:text=In%20computer%20architecture%2C%20multithreading%20is,This%20approach%20differs%20from%20multiprocessing.)
