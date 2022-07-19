@@ -51,6 +51,7 @@
 - https://github.com/w3c/css-houdini-drafts
 - https://github.com/GoogleChromeLabs/houdini-samples
 - https://cssstats.com/
+- https://defensivecss.dev/
 
 ## Pré Processadores
 - [LESS](http://lesscss.org/)

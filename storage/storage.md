@@ -2,6 +2,7 @@
 
 ## Banco de dados
 - [AeroSpike](https://aerospike.com/)
+- [AlloyDB](https://cloud.google.com/alloydb)
 - [Apache Ignite](https://ignite.apache.org/)
 - [Apache Jena](https://jena.apache.org/tutorials/sparql_pt.html)
 - [Apache Parquet](https://parquet.apache.org/)
@@ -91,6 +92,7 @@
 
 ## Ferramentas
 - [EverSQL](https://www.eversql.com/)
+- [RepliByte](https://www.replibyte.com/docs/introduction)
 - [SQLDBM](https://sqldbm.com/Home/)
 
 ## Indexação de dados

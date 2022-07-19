@@ -50,6 +50,7 @@
 - Verificar busca por palavras chaves na Google ([https://keywordtool.io/](https://keywordtool.io/))
 - Verificar como ficaria seu site para pessoas com deficiências visuais ([https://www.toptal.com/designers/colorfilter/](https://www.toptal.com/designers/colorfilter/))
 - Verificar contraste de cores ([https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/))
+- Verificar horário atual no mundo ([https://time.is/](https://time.is/))
 - Verificar mudanças em códigos ([https://www.w3docs.com/tools/code-diff/](https://www.w3docs.com/tools/code-diff/))
 - Verificar perda de pacotes ([https://pt.packetlosstest.com/](https://pt.packetlosstest.com/))
 - Veriricar portas abertas em um IP ([https://www.whatismyip.com/port-scanner/](https://www.whatismyip.com/port-scanner/))

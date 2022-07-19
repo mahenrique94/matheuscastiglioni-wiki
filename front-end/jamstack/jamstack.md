@@ -37,3 +37,4 @@ https://jamstack.org
 - [Storyblok](https://www.storyblok.com/)
 - [Strapi](https://strapi.io/)
 - [Umi](https://github.com/umijs/umi)
+- [VitePress](https://vitepress.vuejs.org/)
