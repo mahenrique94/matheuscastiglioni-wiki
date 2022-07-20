@@ -5,6 +5,15 @@
 ### Animaçõess
 - [Svelte Motion](https://github.com/micha-lmxt/svelte-motion)
 
+### Componentes
+- [Attractions](https://illright.github.io/attractions)
+- [SmelteJS](https://smeltejs.com/)
+- [Svelma](https://c0bra.github.io/svelma/)
+- [SvelteAtoms](https://gitlab.com/az67128/svelte-atoms)
+- [Svelterial](https://github.com/masyukun/svelterial)
+- [SvelteStrap](https://sveltestrap.js.org/)
+- [SvelteUI](https://www.svelteui.org/)
+
 ### Desktop App
 - [Svelte Node Gui](https://svelte.nodegui.org/#quick-start)
 
