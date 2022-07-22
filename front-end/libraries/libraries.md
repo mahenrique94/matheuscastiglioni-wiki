@@ -106,6 +106,10 @@
 - [WMR](https://github.com/preactjs/wmr)
 
 ## Cálculos
+- [Big.js](https://github.com/MikeMcl/big.js)
+- [BigNumber.js](https://github.com/MikeMcl/bignumber.js)
+- [Decimal.js](https://github.com/MikeMcl/decimal.js)
+- [JSBigDecimal](https://github.com/royNiladri/js-big-decimal)
 - [Math.js](https://github.com/josdejong/mathjs)
 - [Mathicall.js](https://github.com/PatGleeson101/mathicall.js)
 

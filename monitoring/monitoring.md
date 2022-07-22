@@ -50,6 +50,7 @@
 - [Nagios](https://www.nagios.org/)
 - [NewRelic](https://newrelic.com/)
 - [NodeSource](https://nodesource.com/)
+- [OpenReplay](https://openreplay.com/index.html)
 - [OpenTelemetry](https://opentelemetry.io/)
 - [OpsEngine](https://www.atlassian.com/software/opsgenie)
 - [PingDom](https://www.pingdom.com/)
