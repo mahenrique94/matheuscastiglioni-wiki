@@ -341,6 +341,7 @@
 - [Reselect](https://github.com/reduxjs/reselect)
 - [Robot](https://github.com/matthewp/robot)
 - [Stately](https://stately.ai/)
+- [SuperState](https://superstate.dev/)
 - [TinyBase](https://tinybase.org/)
 - [Valtio](https://github.com/pmndrs/valtio)
 - [XState](https://github.com/davidkpiano/xstate)
