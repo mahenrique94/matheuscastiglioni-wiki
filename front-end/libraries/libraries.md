@@ -460,6 +460,8 @@
 - [Liqe](https://github.com/gajus/liqe)
 
 ## Mapas
+- [Felt](https://felt.com/)
+- [Google Maps](https://www.google.com/maps)
 - [MapBox](https://www.mapbox.com/)
 - [Radar](https://radar.io/)
 
