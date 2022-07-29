@@ -135,6 +135,7 @@
   - [HazelCast](https://hazelcast.com/)
   - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
 - [Strangler](https://microservices.io/patterns/refactoring/strangler-application.html)
+- [VIPER](https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac)
 
 ## Documentação
 - [4+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
