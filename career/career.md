@@ -23,6 +23,10 @@
 - [TreeHouse](https://teamtreehouse.com/)
 - [VulnHub](https://www.vulnhub.com/)
 
+## Plataformas para criar desafios
+- [DevSkiller](https://devskiller.com/)
+- [Qualified](https://www.qualified.io/)
+
 ## Plataformas para estudo
 - [Alura](https://www.alura.com.br/)
 - [Aulapp](https://www.aulapp.com.br/)
