@@ -10,6 +10,7 @@
 - [GraphQL](/back-end/graphql/graphql.md)
 - [Halide](/back-end/halide/halide.md)
 - [Java](/back-end/java/java.md)
+- [Kotlin](/back-end/kotlin/kotlin.md)
 - [NodeJS](/back-end/nodejs/nodejs.md)
 - [PHP](/back-end/php/php.md)
 - [Python](/back-end/python/python.md)
