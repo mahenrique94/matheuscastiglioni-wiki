@@ -17,4 +17,5 @@
 - [AWS Lambda](https://aws.amazon.com/pt/lambda/)
 - [Azure Functions](https://azure.microsoft.com/pt-br/services/functions/#overview)
 - [CloudFlare Serverless](https://www.cloudflare.com/pt-br/learning/serverless/glossary/serverless-and-cloudflare-workers/)
+- [Fly](https://fly.io/)
 - [Google Cloud Functions](https://cloud.google.com/functions)

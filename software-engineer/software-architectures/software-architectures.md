@@ -146,6 +146,7 @@
 - [C4 (Contexto, Containers, Componentes e Códigos)](https://www.infoq.com/br/articles/C4-architecture-model/)
   - [Structurizr](https://structurizr.com/)
 - [CDD (Capability Development Document)](https://acqnotes.com/acqnote/acquisitions/capability-development-document-cdd)
+- [CMDB (Configuration management database)](https://en.wikipedia.org/wiki/Configuration_management_database)
 - [CPD (Capability Production Document)](https://acqnotes.com/acqnote/tasks/capability-production-documentrequirements)
 - [Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
 - [CONOPSSE (Concept of Operations)](https://acqnotes.com/acqnote/careerfields/concept-of-operations-conopsse)

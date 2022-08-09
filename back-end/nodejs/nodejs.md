@@ -152,6 +152,7 @@
 
 ### Indexação de Dados
 - [ElasticSearch.js](https://github.com/elastic/elasticsearch-js)
+- [Lyra](https://lyrajs.io/)
 
 ### Injeção de Dependência
 - [Awilix](https://github.com/jeffijoe/awilix)
@@ -257,6 +258,7 @@
 
 ### Requisição
 - [GOT](https://github.com/sindresorhus/got)
+- [TRPC](https://trpc.io/)
 
 ### Rotinas
 - [Agenda](https://github.com/agenda/agenda)
