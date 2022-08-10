@@ -47,6 +47,9 @@
 ### Imagem
 - [React Native Image Picker](https://github.com/react-native-image-picker/react-native-image-picker)
 
+### Layout
+- [Yoga](https://github.com/facebook/yoga)
+
 ### Mapas
 - [React Native Maps](https://github.com/react-native-maps/react-native-maps)
 

@@ -421,6 +421,7 @@
 
 ## Layout
 - [MiniMasonry.js](https://github.com/Spope/MiniMasonry.js)
+- [Yoga](https://github.com/facebook/yoga)
 
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
