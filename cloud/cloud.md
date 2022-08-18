@@ -22,6 +22,7 @@
 - [Pocketbase](https://pocketbase.io/)
 - [Render](https://render.com/)
 - [Supabase](https://github.com/supabase/supabase)
+- [Temporal](https://temporal.io/)
 - [Umbler](https://umbler.com/)
 - [Vercel](https://vercel.com/)
 - [Vultr](https://www.vultr.com/)

@@ -162,6 +162,7 @@
 - [JAD (Joint Application Design)](https://en.wikipedia.org/wiki/Joint_application_design#:~:text=Joint%20application%20design%20(JAD)%20is,information%20systems%20for%20a%20company.)
 - [Kroki](https://kroki.io/)
 - [Marketing Requirements Document (MRD)](https://280group.com/what-is-product-management/documents-templates/market-requirements-document-mrd/#:~:text=An%20MRD%20or%20Market%20Requirements,and%20when%20that%20problem%20occurs.)
+- [MHC](https://medium.com/qe-unit/mach-architecture-the-quality-engineering-guide-9e28d37da936)
 - [NFR's](https://en.wikipedia.org/wiki/Non-functional_requirement)
 - [ORD (Operational Requirements Document)](https://acqnotes.com/acqnote/careerfields/operational-requirements-document#:~:text=An%20Operational%20Requirements%20Document%20(ORD,Concept%20of%20Operations%20(CONOPS).)
 - [PASSME](https://jfdeclercq.biz/en/2016/06/02/passme/)

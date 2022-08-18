@@ -46,8 +46,10 @@
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Mixamo](https://www.mixamo.com/)
+- [Models Resource](https://www.models-resource.com/)
 - [PolyHaven](https://polyhaven.com/)
 - [Sketchfab](https://sketchfab.com/)
+- [Spriters Resource](https://www.spriters-resource.com/)
 
 ## Processos
 - [GDD (Game Design Document)](https://www.alura.com.br/conteudo/game-design)
