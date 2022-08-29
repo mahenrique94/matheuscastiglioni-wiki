@@ -18,6 +18,7 @@
 - [GDevelop](https://gdevelop.io/)
 - [Godot](https://godotengine.org/)
 - [Gute](https://github.com/kevglass/gute/)
+- [Hazel](https://hazelengine.com/)
 - [HeroEngine](https://pt.wikipedia.org/wiki/HeroEngine)
 - [KaboomJS](https://kaboomjs.com)
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS)
@@ -43,6 +44,8 @@
 - [Ux3D](https://ux3d.io/)
 
 ## Links
+- [Bluezone](https://www.bluezone-corporation.com/)
+- [Craftpix](https://craftpix.net/)
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Mixamo](https://www.mixamo.com/)

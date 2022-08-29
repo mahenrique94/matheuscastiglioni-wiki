@@ -103,6 +103,9 @@
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - [Mux.js](https://github.com/videojs/mux.js)
 
+### Crawler
+- [Crawlee](https://crawlee.dev/)
+
 ### CRUD
 - [Adminjs](https://github.com/SoftwareBrothers/adminjs)
 
@@ -247,6 +250,7 @@
 
 ### QRCode
 - [Node QRCode](https://github.com/soldair/node-qrcode)
+- [QRCodeJS](https://davidshimjs.github.io/qrcodejs/)
 
 ### Realtime
 - [PusherJS](https://pusher.com/)

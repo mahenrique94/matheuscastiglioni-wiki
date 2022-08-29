@@ -1,6 +1,7 @@
 # Sites
 
 - Acompanhar proposals do JavaScript ([https://www.proposals.es/](https://www.proposals.es/))
+- Banco de dados de timezones ([https://www.iana.org/time-zones](https://www.iana.org/time-zones))
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
 - Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
@@ -35,6 +36,7 @@
 - Quantidade de demissões das empresas ([https://layoffs.fyi/](https://layoffs.fyi/))
 - Paleta de cores ([https://coolors.co/](https://coolors.co/), [https://color.adobe.com/](https://color.adobe.com/))
 - Perguntas em reuniões, talks e palestras ([https://www.sli.do/](https://www.sli.do/))
+- Perguntas aleatórias sobre entrevistas técnicas ([https://30secondsofinterviews.org/](https://30secondsofinterviews.org/))
 - Pesquisa e estado do Ágil ([https://stateofagile.com/](https://stateofagile.com/))
 - Placeholders de imagens online ([https://placeholder.com/](https://placeholder.com/))
 - Rastrear pedidos ([https://track.ebanx.com/](https://track.ebanx.com/))

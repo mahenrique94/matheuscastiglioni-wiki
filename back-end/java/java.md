@@ -6,6 +6,7 @@
 - [Axoniq](https://www.axoniq.io/)
   - [Axoniq Initializr](https://start.axoniq.io/)
 - [Finagle](https://twitter.github.io/finagle/)
+- [Hilla](https://hilla.dev/)
 - [Micronaut](https://micronaut.io/)
 - [Quarkus](https://quarkus.io/)
 - [Quartz](http://www.quartz-scheduler.org/)
