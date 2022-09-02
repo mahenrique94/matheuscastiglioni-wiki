@@ -71,6 +71,7 @@
 - [Benny](https://github.com/caderek/benny)
 - [Hasty](https://hasty.dev/)
 - [Tachometer](https://github.com/Polymer/tachometer)
+- [TinyBench](https://github.com/tinylibs/tinybench)
 
 ### Builders
 - [Builder Pattern](https://www.npmjs.com/package/builder-pattern)
