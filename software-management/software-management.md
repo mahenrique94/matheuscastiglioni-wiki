@@ -6,6 +6,7 @@
 - [Aha](https://www.aha.io/)
 - [Asana](https://asana.com/pt)
 - [Basecamp](https://basecamp.com/)
+- [Breeze](https://www.breeze.pm/)
 - [Canny](https://canny.io/)
 - [ClickUP](https://clickup.com/)
 - [ClubHouse](https://clubhouse.io/)
