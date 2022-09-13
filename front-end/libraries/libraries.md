@@ -68,6 +68,7 @@
   - [es-module-shims](https://github.com/guybedford/es-module-shims)
   - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [EStrella](https://github.com/rsms/estrella)
+- [LightningCSS](https://lightningcss.dev/)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [NCC](https://github.com/vercel/ncc)
 - [NFT](https://github.com/vercel/nft)

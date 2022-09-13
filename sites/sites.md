@@ -60,6 +60,7 @@
 - Veriricar portas abertas em um IP ([https://www.whatismyip.com/port-scanner/](https://www.whatismyip.com/port-scanner/))
 - Verificar suporte dos navegadores sobre acessibilidade ([https://www.html5accessibility.com/](https://www.html5accessibility.com/))
 - Visualizando repositórios Git ([https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/))
+- Visualizar JSON como grafos ([https://jsoncrack.com/](https://jsoncrack.com/))
 - Visualizar sites antigos ([https://web.archive.org/](https://web.archive.org/))
 
 ## Temas e inspirações
