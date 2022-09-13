@@ -15,6 +15,7 @@
   - [PreRender](https://github.com/prerender/prerender-node)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Fastify](https://www.fastify.io/)
+  - [Mercurius](https://github.com/mercurius-js/mercurius)
 - [Feathers](https://github.com/feathersjs/feathers)
 - [Grind](https://grind.rocks/)
 - [Hapi](https://hapi.dev/)
@@ -305,8 +306,10 @@
 - [TSC Watch](https://github.com/gilamran/tsc-watch)
 
 ### Validação
+- [AJV]([AJV](https://github.com/ajv-validator/ajv))
 - [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
+- [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)
 - [Zod](https://github.com/colinhacks/zod)
 
 ### Videos

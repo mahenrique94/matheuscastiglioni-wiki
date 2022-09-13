@@ -585,6 +585,8 @@
 - [UnderScore](https://github.com/jashkenas/underscore)
 
 ## Validação
+- [AJV](https://github.com/ajv-validator/ajv)
+- [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)
 - [ForgJS](https://github.com/oussamahamdaoui/forgJs)
 - [Joi](https://github.com/sideway/joi)
 - [TV4](https://www.npmjs.com/package/tv4)

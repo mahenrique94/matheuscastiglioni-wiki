@@ -33,6 +33,7 @@
 - [Dapper](https://lightstep.com/dapper/)
 - [DataDog](https://www.datadoghq.com/)
 - [DynaTrace](https://www.dynatrace.com/)
+- [Clinic.js](https://clinicjs.org/)
 - [ElvenWorks](https://elven.works/pt/)
 - [eBPF](https://ebpf.io/)
 - [FluentBit](https://fluentbit.io/)
