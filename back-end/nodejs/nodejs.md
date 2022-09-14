@@ -97,6 +97,7 @@
 - [DepCheck](https://github.com/depcheck/depcheck)
 - [DotEnv](https://github.com/motdotla/dotenv)
 - [Loc](https://github.com/cgag/loc)
+- [MRM](https://github.com/sapegin/mrm)
 - [Node Convict](https://github.com/mozilla/node-convict)
 - [Node Dependency Tree](https://github.com/dependents/node-dependency-tree)
 - [NPM Check Updates](https://github.com/raineorshine/npm-check-updates)

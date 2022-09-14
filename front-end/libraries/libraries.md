@@ -13,6 +13,7 @@
 - [Particles.js](https://github.com/VincentGarreau/particles.js/)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
 - [Three.js](https://github.com/mrdoob/three.js)
+- [use.GPU](https://gitlab.com/unconed/use.gpu)
 - [SmoothStep](https://smoothstep.io/)
 - [ZDog](https://github.com/metafizzy/zdog)
 

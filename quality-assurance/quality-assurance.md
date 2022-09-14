@@ -5,6 +5,7 @@
 - [Artillery](https://github.com/artilleryio/artillery)
 - [AutoCannon](https://github.com/mcollina/autocannon)
 - [Batect](https://batect.dev/)
+- [C8](https://github.com/bcoe/c8)
 - [Conftest](https://github.com/open-policy-agent/conftest)
 - [Cucumber.js](https://github.com/cucumber/cucumber-js)
 - [Detox](https://github.com/wix/Detox)

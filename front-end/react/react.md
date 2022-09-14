@@ -130,6 +130,7 @@
 
 ### Estilização
 - [ClassNames](https://github.com/JedWatson/classnames)
+- [CLSX](https://www.npmjs.com/package/clsx)
 - [Compiled](https://github.com/atlassian-labs/compiled)
 - [Emotion](https://github.com/emotion-js/emotion)
 - [Styled Components](https://styled-components.com/)
