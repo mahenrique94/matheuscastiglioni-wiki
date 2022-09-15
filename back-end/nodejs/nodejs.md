@@ -96,6 +96,7 @@
 - [Cloc](https://github.com/AlDanial/cloc)
 - [DepCheck](https://github.com/depcheck/depcheck)
 - [DotEnv](https://github.com/motdotla/dotenv)
+- [EnvSchema](https://github.com/fastify/env-schema)
 - [Loc](https://github.com/cgag/loc)
 - [MRM](https://github.com/sapegin/mrm)
 - [Node Convict](https://github.com/mozilla/node-convict)
@@ -135,6 +136,7 @@
 - [Sparkpost](https://www.sparkpost.com/)
 
 ### Files
+- [DESM](https://github.com/mcollina/desm)
 - [FileType](https://github.com/sindresorhus/file-type)
 - [XMLBuilder2](https://github.com/oozcitak/)
 - [Trash](https://github.com/sindresorhus/trash)
@@ -285,6 +287,7 @@
 
 ### Testes
 - [JSDOM](https://github.com/jsdom/jsdom)
+- [Node Tap](https://github.com/tapjs/node-tap)
 - [Supertest](https://github.com/visionmedia/supertest)
 
 ### Threads
