@@ -193,6 +193,9 @@
 - [PollyJS](https://github.com/Netflix/pollyjs)
 - [Retool](https://retool.com/api-generator)
 
+### Migrations
+- [PostgratorCLI](https://github.com/MattiLehtinen/postgrator-cli)
+
 ### Notificação
 - [Node Notifier](https://github.com/mikaelbr/node-notifier)
 

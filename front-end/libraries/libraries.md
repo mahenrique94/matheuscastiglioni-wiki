@@ -311,6 +311,7 @@
 - [HighLight](highlight.js)
 - [Prism](https://prismjs.com/)
 - [Refractor](https://github.com/wooorm/refractor)
+- [Syntax](https://syntax.page/)
 
 ## Formulário
 - [Final Form](https://github.com/final-form/final-form)
@@ -441,6 +442,7 @@
   - [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
   - [ESLint Plugin JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
   - [ESLint Plugin Security](https://github.com/nodesecurity/eslint-plugin-security)
+  - [SafeQL](https://safeql.dev/)
 - [ESUtils](https://github.com/estools/esutils)
 - [HTMLHint](https://github.com/htmlhint/HTMLHint)
 - [HTMLLint](https://github.com/htmllint/htmllint)

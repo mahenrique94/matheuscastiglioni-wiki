@@ -53,6 +53,7 @@
   - [Dalibo Explain](https://explain.dalibo.com/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
   - [PgPool](https://www.npmjs.com/package/pg-pool)
+  - [Tatiyants](https://tatiyants.com/pev/#/plans)
 - [Presto](https://prestodb.io/)
 - [QuestDB](https://questdb.io/)
 - [RAMCloud](https://ramcloud.atlassian.net/wiki/spaces/RAM/overview)
