@@ -3,6 +3,8 @@
 - [Introdução](README.md)
 - [Armazenamento](/storage/storage.md)
 - [Back-End](/back-end/back-end.md)
+  - [C#](/back-end/c-sharp/c-sharp.md)
+  - [C++](/back-end/cpp/cpp.md)
   - [Carbon](/back-end/carbon/carbon.md)
   - [Cue](/back-end/cue/cue.md)
   - [Deno](/back-end/deno/deno.md)

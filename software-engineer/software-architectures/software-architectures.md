@@ -145,6 +145,7 @@
 - [Archimate](https://elemarjr.com/arquivo/archimate-o-que-e-para-que-serve-e-como-comecar-a-aprender/#:~:text=Archimate%20%C3%A9%20uma%20linguagem%20visual,e%20aplica%C3%A7%C3%A3o%20bem%20mais%20amplos.)
   - [ArchimateTool](https://www.archimatetool.com/)
 - [ASR's](https://en.wikipedia.org/wiki/Architecturally_significant_requirements)
+- [ATM (Architecture Tradeoff Analysis Method)](https://en.wikipedia.org/wiki/Architecture_tradeoff_analysis_method)
 - [C4 (Contexto, Containers, Componentes e Códigos)](https://www.infoq.com/br/articles/C4-architecture-model/)
   - [Structurizr](https://structurizr.com/)
 - [CDD (Capability Development Document)](https://acqnotes.com/acqnote/acquisitions/capability-development-document-cdd)

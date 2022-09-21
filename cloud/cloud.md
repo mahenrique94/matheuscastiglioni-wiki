@@ -13,6 +13,7 @@
 - [Fly.io](https://fly.io/)
 - [Firebase](https://firebase.google.com/)
 - [GCP (Google Cloud Platform)](https://cloud.google.com/)
+- [Glitch](https://glitch.com/)
 - [Heroku](https://www.heroku.com/)
 - [Hostgator](https://www.hostgator.com.br/)
 - [Hostinger](https://www.hostinger.com.br/)

@@ -3,6 +3,8 @@
 - [Back-End RoadMap](https://roadmap.sh/backend)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
+- [C#](/back-end/c-sharp/c-sharp.md)
+- [C++](/back-end/cpp/cpp.md)
 - [Carbon](/back-end/carbon/carbon.md)
 - [Cue](/back-end/cue/cue.md)
 - [Deno](/back-end/deno/deno.md)

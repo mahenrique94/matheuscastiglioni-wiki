@@ -68,6 +68,7 @@
 - [SingleStore](https://www.singlestore.com/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [Spanner](https://cloud.google.com/spanner)
+- [SurrealDB](https://surrealdb.com/)
 - [TiDB](https://pingcap.com/)
 - [TileDB](https://tiledb.com)
 - [Upstash](https://www.upstash.com/)

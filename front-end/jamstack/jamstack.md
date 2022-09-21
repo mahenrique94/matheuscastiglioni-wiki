@@ -22,6 +22,7 @@ https://jamstack.org
 - [Hugo](https://gohugo.io/)
 - [Jekyll](https://jekyllrb.com/)
 - [KeyStone](https://github.com/keystonejs/keystone)
+- [Lume](https://lume.land/)
 - [Meli](https://docs.meli.sh/)
 - [Next.js](https://github.com/vercel/next.js)
   - [Clerk](https://clerk.dev/)

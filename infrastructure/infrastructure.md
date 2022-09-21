@@ -49,6 +49,7 @@
 - [Circle CI](https://circleci.com/)
 - [CruiseControl](http://cruisecontrol.sourceforge.net/)
 - [DPL](https://github.com/travis-ci/dpl)
+- [Foresight](https://www.runforesight.com/)
 - [GitHub Actions](https://github.com/features/actions)
 - [GitLab Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 - [GoCD](https://www.gocd.org/)

@@ -60,6 +60,7 @@
 ## Programas
 - [3DS Max](https://www.autodesk.com.br/products/3ds-max/overview?plc=3DSMAX&term=1-YEAR&support=ADVANCED&quantity=1)
 - [3D Coat](https://3dcoat.com/)
+- [accuRIG](https://actorcore.reallusion.com/auto-rig)
 - [Adobe Animate](https://www.adobe.com/br/products/animate.html)
 - [Atavism Online](https://atavismonline.com/)
 - [Black Magic](https://www.blackmagicdesign.com/br/products/fusion/)
