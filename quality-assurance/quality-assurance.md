@@ -20,6 +20,7 @@
 - [Helgrind](https://valgrind.org/docs/manual/hg-manual.html)
 - [Hoverfly](https://hoverfly.io/)
 - [Hurl](https://hurl.dev/)
+- [Japa](https://japa.dev/docs)
 - [JSDom](https://github.com/jsdom/jsdom)
 - [K6](https://k6.io/)
 - [Katalon](https://katalon.com/)

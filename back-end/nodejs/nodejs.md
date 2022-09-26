@@ -157,6 +157,7 @@
 
 ### Imagens
 - [Sharp](https://github.com/lovell/sharp)
+- [Tesseract](https://tesseract.projectnaptha.com/)
 
 ### Indexação de Dados
 - [ElasticSearch.js](https://github.com/elastic/elasticsearch-js)
@@ -249,6 +250,9 @@
 - [PM2](https://github.com/Unitech/pm2)
 - [WaitON](https://github.com/jeffbski/wait-on)
 - [WSRun](https://github.com/hfour/wsrun)
+
+### Qualidade
+- [Japa](https://japa.dev/docs)
 
 ### Query Builder
 - [Knex](https://github.com/knex/knex)
