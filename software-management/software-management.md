@@ -23,6 +23,7 @@
 - [Jestor](https://jestor.com/)
 - [Jira](https://www.atlassian.com/br/software/jira)
 - [Leankor](https://www.leankor.com/)
+- [Leapsome](https://www.leapsome.com/)
 - [Linear](https://linear.app/)
 - [KiteMaker](https://www.kitemaker.co/)
 - [Mattermost](https://mattermost.com/)
