@@ -41,3 +41,4 @@
 - Transcrição de audio para texto em tempo real ([https://webcaptioner.com/](https://webcaptioner.com/))
 - Visualizar chamadas de funções ([https://codemap.app/](https://codemap.app/), [https://www.codesee.io/](https://www.codesee.io/))
 - Visualizar mapas mentais em Markdown ([https://markmap.js.org/](https://markmap.js.org/))
+- VPN ([https://openvpn.net/](https://openvpn.net/), [https://tailscale.com/](https://tailscale.com/), [https://tunnelblick.net/](https://tunnelblick.net/))

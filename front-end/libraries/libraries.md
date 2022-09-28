@@ -208,7 +208,7 @@
 - [PopperCore](https://github.com/popperjs/popper-core)
 - [Preact](https://github.com/preactjs/preact)
 - [Riot](https://riot.js.org/)
-- [QWIK](https://github.com/builderio/qwik)
+- [Qwik](https://qwik.builder.io/)
 - [Solid](https://github.com/solidjs/solid)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 - [Slim.js](https://github.com/slimjs/slim.js)

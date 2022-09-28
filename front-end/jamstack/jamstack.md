@@ -31,6 +31,7 @@ https://jamstack.org
 - [Nuxt](https://nuxtjs.org/)
 - [Obelisk](https://github.com/BennyHallett/obelisk)
 - [Prismic](https://prismic.io/)
+- [Qwik](https://qwik.builder.io/)
 - [RedWood](https://github.com/redwoodjs/redwood)
 - [Remix](https://remix.run/)
 - [Sanity](https://www.sanity.io/)

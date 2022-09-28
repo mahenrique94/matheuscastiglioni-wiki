@@ -47,6 +47,8 @@
 
 ### Async
 - [Async](https://github.com/caolan/async)
+- [AsyncAPI](https://www.asyncapi.com/)
+  - [AsyncAPI Cupid](https://github.com/asyncapi/cupid)
 
 ### Authentication
 - [AccessControl](https://github.com/onury/accesscontrol)
@@ -60,6 +62,7 @@
 - [Passport](https://github.com/jaredhanson/passport)
 - [SCrypt](https://www.npmjs.com/package/scrypt)
 - [Stytch](https://stytch.com/)
+- [Teleport](https://goteleport.com/)
 - [Zanzibar](https://research.google/pubs/pub48190/)
 
 ### Automação
@@ -253,6 +256,10 @@
 
 ### Qualidade
 - [Japa](https://japa.dev/docs)
+- [JSDOM](https://github.com/jsdom/jsdom)
+- [Node Tap](https://github.com/tapjs/node-tap)
+- [Supertest](https://github.com/visionmedia/supertest)
+- [Wallabyjs](https://wallabyjs.com/)
 
 ### Query Builder
 - [Knex](https://github.com/knex/knex)
@@ -291,11 +298,6 @@
 - [Marko](https://github.com/marko-js/marko)
 - [Pug](https://github.com/pugjs/pug)
   - [Pug Lint](https://github.com/pugjs/pug-lint)
-
-### Testes
-- [JSDOM](https://github.com/jsdom/jsdom)
-- [Node Tap](https://github.com/tapjs/node-tap)
-- [Supertest](https://github.com/visionmedia/supertest)
 
 ### Threads
 - [Piscina](https://github.com/piscinajs/piscina)

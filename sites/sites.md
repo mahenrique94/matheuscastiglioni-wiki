@@ -39,6 +39,7 @@
 - Perguntas aleatórias sobre entrevistas técnicas ([https://30secondsofinterviews.org/](https://30secondsofinterviews.org/))
 - Pesquisa e estado do Ágil ([https://stateofagile.com/](https://stateofagile.com/))
 - Placeholders de imagens online ([https://placeholder.com/](https://placeholder.com/))
+- Ranking de projetos open-source ([https://ossinsight.io/collections/open-source-database/](https://ossinsight.io/collections/open-source-database/))
 - Rastrear pedidos ([https://track.ebanx.com/](https://track.ebanx.com/))
 - Remover background de imagens ([https://removal.ai/](https://removal.ai/))
 - Roadmap do desenvolvedor ([https://roadmap.sh/](https://roadmap.sh/))

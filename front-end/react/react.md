@@ -82,6 +82,7 @@
 - [React Helmet](https://github.com/nfl/react-helmet)
 - [React Hot Toast](https://github.com/timolins/react-hot-toast)
 - [React I18n](https://github.com/i18next/react-i18next)
+- [React If](https://github.com/romac/react-if)
 - [React Input Mask](https://github.com/sanniassin/react-input-mask)
 - [React Joyride](https://github.com/gilbarbara/react-joyride)
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
