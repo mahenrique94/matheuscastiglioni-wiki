@@ -459,6 +459,7 @@
 ## Machine Learning
 - [Brain.js](https://brain.js.org/)
 - [DannJS](https://dannjs.org/)
+- [Guess.js](https://guess-js.github.io/docs)
 - [KerasJS](https://transcranial.github.io/keras-js/#/)
 - [NSFW](https://github.com/infinitered/nsfwjs)
 - [TensorFire](https://tenso.rs/)

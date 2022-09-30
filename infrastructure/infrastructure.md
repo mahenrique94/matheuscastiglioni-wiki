@@ -1,6 +1,7 @@
 # Infraestrutura
 
 - https://oam.dev/
+- https://medium.com/@rphilogene/17-best-devops-tools-to-use-in-2022-for-infrastructure-automation-and-monitoring-b3470cf9e00f
 
 ## API Gateway
 - [Kong](https://konghq.com/)
