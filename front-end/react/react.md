@@ -116,6 +116,12 @@
 - [Webrix](https://github.com/open-amdocs/webrix/)
 - [Wouter](https://github.com/molefrog/wouter)
 
+### Configurações
+- [Craco](https://github.com/dilanx/craco)
+- [React App Rewired](https://github.com/timarney/react-app-rewired)
+- [Rescripts](https://github.com/harrysolovay/rescripts)
+- [Rewire](https://github.com/jhnns/rewire)
+
 ### Desenvolvimento
 - [React Cosmos](https://reactcosmos.org/)
 
