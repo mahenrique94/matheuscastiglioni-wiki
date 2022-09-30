@@ -67,6 +67,7 @@
 - [RonDB](https://www.rondb.com/)
 - [ShareDB](https://github.com/share/sharedb)
 - [SingleStore](https://www.singlestore.com/)
+- [Snowflake](https://www.snowflake.com/en/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [Spanner](https://cloud.google.com/spanner)
 - [SurrealDB](https://surrealdb.com/)
