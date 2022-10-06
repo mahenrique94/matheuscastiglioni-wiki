@@ -331,6 +331,7 @@
 - [Effector](https://github.com/effector/effector)
 - [Elf](https://github.com/ngneat/elf)
 - [Immer](https://github.com/immerjs/immer)
+- [Legend State](https://github.com/LegendApp/legend-state)
 - [MobX](https://github.com/mobxjs/mobx)
 - [NanoStores](https://github.com/ai/nanostores)
 - [Redux](https://github.com/reduxjs/redux)
