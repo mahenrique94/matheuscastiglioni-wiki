@@ -39,6 +39,7 @@
 - [AseSrite](https://www.aseprite.org/)
 - [Axure](https://www.axure.com/)
 - [Balsamiq](https://balsamiq.com/)
+- [Corona](https://corona-renderer.com/download)
 - [Figma](https://www.figma.com/)
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview)
 - [InVision](https://www.invisionapp.com/home)
