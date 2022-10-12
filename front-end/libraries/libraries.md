@@ -125,6 +125,10 @@
 ## Cache
 - [VarnishCache](https://github.com/varnishcache/varnish-cache)
 
+## Changelogs
+- [Changesets](https://github.com/changesets/changesets)
+- [Release Please](https://github.com/googleapis/release-please)
+
 ## Cloud
 - [AWS SDK](https://github.com/aws/aws-sdk-js)
 

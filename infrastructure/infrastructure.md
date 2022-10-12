@@ -63,6 +63,10 @@
 - [Tekton](https://tekton.dev/)
 - [Travis CI](https://travis-ci.org/)
 
+## Changelogs
+- [Changesets](https://github.com/changesets/changesets)
+- [Release Please](https://github.com/googleapis/release-please)
+
 ## Comunicação entre serviços
 - [DAPR](https://dapr.io/)
 - [gRPC](https://grpc.io/)
