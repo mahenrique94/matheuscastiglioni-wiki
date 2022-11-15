@@ -33,6 +33,8 @@
 - [PyGame](https://www.pygame.org/news)
 - [Radiant](https://radiant.robotrenegade.com/)
 - [ReplayJS](https://replay.js.org/)
+- [RPG Bakin](https://rpgbakin.com/en)
+- [RPG Maker](https://www.rpgmakerweb.com/downloads)
 - [Source](https://en.m.wikipedia.org/wiki/Source_(game_engine))
 - [Stencyl](http://www.stencyl.om/)
 - [Stride3D](https://stride3d.net/)

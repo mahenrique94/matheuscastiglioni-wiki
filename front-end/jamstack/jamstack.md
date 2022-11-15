@@ -30,6 +30,7 @@ https://jamstack.org
   - [Plasmic](https://www.plasmic.app/)
 - [Nuxt](https://nuxtjs.org/)
 - [Obelisk](https://github.com/BennyHallett/obelisk)
+- [Payload](https://payloadcms.com/)
 - [Prismic](https://prismic.io/)
 - [Qwik](https://qwik.builder.io/)
 - [RedWood](https://github.com/redwoodjs/redwood)

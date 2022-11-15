@@ -23,7 +23,7 @@
 - Diversos emulaadores para diferentes video games ([https://www.retroarch.com/](https://www.retroarch.com/))
 - Edição e manipulação de audio ([https://www.reaper.fm/](https://www.reaper.fm/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))
-- Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser), [https://responsively.app/](https://responsively.app/))
+- Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser), [https://polypane.app/](https://polypane.app/), [https://responsively.app/](https://responsively.app/))
 - Otimizar imagens em tempo real ([https://imagekit.io/](https://imagekit.io/))
 - Otimizar vídeos ([https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake))
 - Rastreie seu tempo automaticamente ([https://memory.ai/timely](https://memory.ai/timely))

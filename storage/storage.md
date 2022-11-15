@@ -77,6 +77,7 @@
 - [Vertica](https://www.vertica.com/)
 - [VoltDB](https://www.voltdb.com/)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+- [Xata](https://xata.io/)
 
 ## Bibiliotecas
 - [Continuent](https://www.continuent.com/)

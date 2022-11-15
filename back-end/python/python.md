@@ -8,6 +8,9 @@
 ### Dados
 - [Mito](https://trymito.io/)
 
+### ORM
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+
 ### Requisição
 - [HTTPX](https://www.python-httpx.org/)
 
