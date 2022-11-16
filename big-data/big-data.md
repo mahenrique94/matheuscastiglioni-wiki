@@ -42,6 +42,7 @@
 ## Dashboard's
 - [Budibase](https://budibase.com/)
 - [DevLake](https://github.com/merico-dev/lake)
+- [Grid](https://grid.is/)
 
 ## Plataformas
 - [DataBricks](https://databricks.com/)
