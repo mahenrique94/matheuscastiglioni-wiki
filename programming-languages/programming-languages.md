@@ -22,7 +22,7 @@
 - [Rust](https://www.rust-lang.org/pt-BR)
 - [Swift](https://developer.apple.com/swift/)
 - [TypeScript](https://www.typescriptlang.org/)
-  - [TypeScript Book](https://github.com/basarat/typescript-book)
+  - [TypeScript Book](https://basarat.gitbook.io/typescript/)
 
 ## Links
 - https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
