@@ -12,6 +12,7 @@
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Electronic References](https://csgordon.github.io/books.html)
 - [Engineering Management](https://github.com/charlax/engineering-management)
+- [Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources](https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Gitignore](https://github.com/github/gitignore)
 - [JSON Api](https://jsonapi.org/)

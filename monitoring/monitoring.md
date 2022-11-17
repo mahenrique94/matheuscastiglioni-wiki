@@ -63,6 +63,7 @@
 - [Signoz](https://github.com/SigNoz/signoz)
 - [Splunk](https://www.splunk.com/)
 - [Spot](https://spot.io/)
+- [Stackify](https://stackify.com/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
 - [Zipkin](https://zipkin.io/)
 
