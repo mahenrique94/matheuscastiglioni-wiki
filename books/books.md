@@ -39,6 +39,7 @@
 - [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
 ## Back-End
+- [A linguagem de Programação Go](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=asc_df_8575225464/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=15902922161636502660&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9101483&hvtargid=pla-396486666170&psc=1)
 - [Aplicações web real-time com Node.js](https://www.casadocodigo.com.br/products/livro-nodejs)
 - [CDI](https://www.casadocodigo.com.br/products/livro-cdi)
 - [Componentes Reutilizáveis em Java com Reflexão e Anotações](https://www.casadocodigo.com.br/products/livro-reflexao-anotacoes)
@@ -102,6 +103,7 @@
 ## Infra
 - [Começando com o Linux](https://www.casadocodigo.com.br/products/livro-linux)
 - [Containers com Docker](https://www.casadocodigo.com.br/products/livro-docker)
+- [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_00.html)
 - [Google App Engine](https://www.casadocodigo.com.br/products/livro-gae)
 - [Jenkins](https://www.casadocodigo.com.br/products/livro-jenkins)
 - [Kubernetes](https://www.casadocodigo.com.br/products/livro-kubernetes)

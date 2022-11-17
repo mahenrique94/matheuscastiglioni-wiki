@@ -12,9 +12,12 @@
 
 ## Plataformas para aprender códigos resolvendo desafios
 - [AlgoExpert](https://www.algoexpert.io/)
+- [Beecrowd](https://www.beecrowd.com.br/)
+- [CodeChef](https://www.codechef.com/)
 - [CodeSignal](https://codesignal.com/)
 - [CodeWars](https://www.codewars.com/)
 - [CSSBattle](https://cssbattle.dev/)
+- [Exercism](https://exercism.org/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
