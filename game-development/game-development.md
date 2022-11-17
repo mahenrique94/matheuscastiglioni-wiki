@@ -32,7 +32,9 @@
 - [Photon](https://www.photonengine.com/en-US/Photon)
 - [PyGame](https://www.pygame.org/news)
 - [Radiant](https://radiant.robotrenegade.com/)
+- [Raylib](https://www.raylib.com/)
 - [ReplayJS](https://replay.js.org/)
+- [Rogue Engine](https://rogueengine.io/)
 - [RPG Bakin](https://rpgbakin.com/en)
 - [RPG Maker](https://www.rpgmakerweb.com/downloads)
 - [Source](https://en.m.wikipedia.org/wiki/Source_(game_engine))
@@ -46,8 +48,10 @@
 - [Ux3D](https://ux3d.io/)
 
 ## Links
+- [Armor Games](https://armorgames.com/)
 - [Bluezone](https://www.bluezone-corporation.com/)
 - [Craftpix](https://craftpix.net/)
+- [Epidemic Sound](https://www.epidemicsound.com/)
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Game Audiog DC](https://sonniss.com/gameaudiogdc)
@@ -57,8 +61,11 @@
 - [Models Resource](https://www.models-resource.com/)
 - [Open Game Art](https://opengameart.org/)
 - [PolyHaven](https://polyhaven.com/)
+- [Pond5](https://www.pond5.com/)
 - [Sketchfab](https://sketchfab.com/)
 - [Spriters Resource](https://www.spriters-resource.com/)
+- [The Noun Project](https://thenounproject.com/)
+- [Turbosquid](https://www.turbosquid.com/)
 
 ## Processos
 - [GDD (Game Design Document)](https://www.alura.com.br/conteudo/game-design)
