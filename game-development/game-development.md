@@ -15,6 +15,7 @@
 - [Eva.js](https://github.com/eva-engine/eva.js)
 - [Flame](https://flame-engine.org/)
 - [FlaxEngine](https://flaxengine.com/)
+- [Frostbite](https://en.wikipedia.org/wiki/Frostbite_(game_engine))
 - [GDevelop](https://gdevelop.io/)
 - [Godot](https://godotengine.org/)
 - [Gute](https://github.com/kevglass/gute/)

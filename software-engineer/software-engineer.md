@@ -22,6 +22,7 @@
 - [Public API's](https://github.com/public-apis/public-apis)
 - [Sli.dev](https://sli.dev/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [TanStack](https://tanstack.com/)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Tiny Helpers](https://tiny-helpers.dev/)
 - [Trilha](https://www.trilha.info/)

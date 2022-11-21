@@ -323,6 +323,7 @@
 - [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
 - [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)
+- [Typescript JSON Schema](https://www.npmjs.com/package/typescript-json-schema)
 - [Zod](https://github.com/colinhacks/zod)
 
 ### Videos

@@ -60,6 +60,7 @@
 - [OneBitCode](https://onebitcode.com/)
 - [Oreilly](https://www.oreilly.com/)
 - [Origamid](https://www.origamid.com/)
+- [Percipio](percipio.com)
 - [Pirple](https://www.pirple.com/)
 - [PluralSight](https://www.pluralsight.com/)
 - [Revelo](https://www.revelo.com.br/)

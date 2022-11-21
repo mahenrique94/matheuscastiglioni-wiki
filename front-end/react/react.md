@@ -116,7 +116,8 @@
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
-- [TanStack](https://tanstack.com/table/v8)
+- [TanStack Router](https://tanstack.com/router/v1)
+- [TanStack Table](https://tanstack.com/table/v8)
 - [Webrix](https://github.com/open-amdocs/webrix/)
 - [Wouter](https://github.com/molefrog/wouter)
 

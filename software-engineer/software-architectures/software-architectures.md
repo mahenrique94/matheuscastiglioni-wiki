@@ -120,6 +120,7 @@
 - [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
 - [Saga](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 - [SBA (Service Based Architecture)](https://www.infoq.com/news/2016/10/service-based-architecture/)
+- [Single Activity Pattern](https://levelup.gitconnected.com/modernize-your-android-app-with-the-single-activity-pattern-1526407a7d4)
 - [Scatter/Gather](https://www.prostdev.com/post/intro-to-scatter-gather-integration-pattern)
 - [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 - [SEDA (Staged Event Driven Architecture)](https://en.wikipedia.org/wiki/Staged_event-driven_architecture)
@@ -137,6 +138,7 @@
   - [HazelCast](https://hazelcast.com/)
   - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
 - [Strangler](https://microservices.io/patterns/refactoring/strangler-application.html)
+- [Subscription Based Architecture](https://www.researchgate.net/figure/Overview-of-subscription-based-architecture_fig4_220367928)
 - [VIPER](https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac)
 
 ## Documentação

@@ -94,7 +94,8 @@
 - [SWC](https://github.com/swc-project/swc)
 - [TSup](https://github.com/egoist/tsup)
 - [Turbo](https://github.com/hotwired/turbo)
-- [Turborepo](https://turborepo.org/)
+- [Turbopack](https://turbo.build/pack)
+- [Turborepo](https://turbo.build/)
 - [Vite](https://github.com/vitejs/vite)
   - [Vitest](https://vitest.dev/)
 - [Webpack](https://webpack.js.org/)
@@ -236,6 +237,7 @@
 - [Linaria](https://github.com/callstack/linaria)
 - [Stitches](https://github.com/modulz/stitches)
 - [Styled JSX](https://github.com/vercel/styled-jsx)
+- [Stylify](https://stylifycss.com/)
 - [Twin](https://github.com/ben-rogerson/twin.macro)
 - [Vanilla Extract](https://github.com/seek-oss/vanilla-extract)
 
@@ -392,6 +394,7 @@
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
 - [Iconoir](https://iconoir.com/)
+- [PhosphorIcons](https://phosphoricons.com/)
 - [RemixIcon](https://remixicon.com/)
 - [SVG Repo](https://www.svgrepo.com/)
 
@@ -489,7 +492,7 @@
 - [Moon](https://moonrepo.dev/)
 - [NX](https://github.com/nrwl/nx)
 - [Rush](https://rushjs.io/)
-- [Turborepo](https://turborepo.org/)
+- [Turborepo](https://turbo.build/)
 
 ## Métricas
 - [Analytics.js](https://github.com/segmentio/analytics.js)
