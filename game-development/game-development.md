@@ -4,6 +4,7 @@
 - [Assimp](https://github.com/assimp/assimp)
 
 ## Engines
+- [AbyssEngine](https://www.abyssengine.com/)
 - [Acid](https://github.com/EQMG/Acid)
 - [Amazon Lumberyard](https://en.m.wikipedia.org/wiki/Amazon_Lumberyard)
 - [Bevy](https://github.com/bevyengine/bevy)
@@ -26,12 +27,15 @@
 - [LWJGL](https://www.lwjgl.org/)
 - [Marmalade](https://en.wikipedia.org/wiki/Marmalade_(software))
 - [MelonJS](https://melonjs.org/)
+- [MonoGame](https://www.monogame.net/)
 - [NAP](https://www.napframework.com/)
 - [O3DE](https://www.o3de.org/)
 - [P5JS](https://p5js.org/)
 - [Phaser](https://phaser.io/)
 - [Photon](https://www.photonengine.com/en-US/Photon)
+- [PlayCanvas](https://playcanvas.com/)
 - [PyGame](https://www.pygame.org/news)
+- [Pyxel](https://github.com/kitao/pyxel)
 - [Radiant](https://radiant.robotrenegade.com/)
 - [Raylib](https://www.raylib.com/)
 - [ReplayJS](https://replay.js.org/)

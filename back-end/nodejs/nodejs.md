@@ -319,6 +319,7 @@
 - [TSC Watch](https://github.com/gilamran/tsc-watch)
 
 ### Validação
+- [Assert](https://www.npmjs.com/package/assert)
 - [AJV]([AJV](https://github.com/ajv-validator/ajv))
 - [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)

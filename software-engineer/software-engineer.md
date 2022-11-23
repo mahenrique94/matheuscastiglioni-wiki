@@ -15,6 +15,7 @@
 - [Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources](https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Gitignore](https://github.com/github/gitignore)
+- [GitStar Ranking](https://gitstar-ranking.com/)
 - [JSON Api](https://jsonapi.org/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [NamingCheatsheet](https://github.com/kettanaito/naming-cheatsheet)
