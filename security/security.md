@@ -13,6 +13,7 @@
 - [XML External Entities (XXE)](https://owasp.org/www-project-top-ten/2017/A4_2017-XML_External_Entities_(XXE))
 
 ## Bibliotecas
+- [Advisor](https://snyk.io/advisor)
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 - [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit/)
   - [NPM Audit HTML](https://github.com/eventOneHQ/npm-audit-html)

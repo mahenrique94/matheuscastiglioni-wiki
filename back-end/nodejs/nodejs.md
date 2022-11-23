@@ -223,6 +223,7 @@
 
 ## Package Manager
 - [NPM](https://www.npmjs.com/)
+  - [Advisor](https://snyk.io/advisor)
   - [Anvaka](http://npm.anvaka.com/)
   - [BundleJS](https://bundlejs.com/)
   - [BundlePhobia](https://bundlephobia.com/)

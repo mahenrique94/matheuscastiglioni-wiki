@@ -26,6 +26,7 @@
 - [Katalon](https://katalon.com/)
 - [Lambda Tester](https://github.com/vandium-io/lambda-tester)
 - [LoadNinja](https://loadninja.com/)
+- [MemLab](https://facebook.github.io/memlab/)
 - [Mirage.js](https://github.com/miragejs/miragejs)
 - [MounteBank](http://www.mbtest.org/)
 - [NeoLoad](https://www.neotys.com/)
