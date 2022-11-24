@@ -30,6 +30,7 @@
 - [Railway](https://railway.app/)
 - [Render](https://render.com/)
 - [Supabase](https://github.com/supabase/supabase)
+- [Surge](https://surge.sh/)
 - [Temporal](https://temporal.io/)
 - [Umbler](https://umbler.com/)
 - [Vercel](https://vercel.com/)

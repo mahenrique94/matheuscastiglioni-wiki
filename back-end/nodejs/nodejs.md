@@ -19,6 +19,7 @@
 - [Feathers](https://github.com/feathersjs/feathers)
 - [Grind](https://grind.rocks/)
 - [Hapi](https://hapi.dev/)
+- [HyperStackjs](https://hyperstackjs.io/)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Koa](https://koajs.com/)
 - [Lad](https://github.com/ladjs/lad#microservices)
@@ -207,6 +208,7 @@
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path)
 
 ### ORM
+- [Better SQLite3](https://github.com/WiseLibs/better-sqlite3)
 - [BookShelf](https://bookshelfjs.org/)
 - [Kysely](https://github.com/koskimas/kysely)
 - [Mongoose](https://github.com/Automattic/mongoose)
