@@ -72,6 +72,7 @@
 - [Jest](https://jestjs.io/)
   - [JestDOM](https://github.com/testing-library/jest-dom)
   - [Jest Extended](https://github.com/jest-community/jest-extended)
+  - [Jest MongoDB](https://github.com/shelfio/jest-mongodb)
   - [Jest Silent Reporter](https://github.com/rickhanlonii/jest-silent-reporter)
   - [TSJest](https://github.com/kulshekhar/ts-jest)
 - [Karma](https://karma-runner.github.io/latest/index.html)
