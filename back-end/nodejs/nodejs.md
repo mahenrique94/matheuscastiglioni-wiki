@@ -203,6 +203,7 @@
 
 ### Notificação
 - [Node Notifier](https://github.com/mikaelbr/node-notifier)
+- [Novu](https://novu.co/)
 
 ### Objetos
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path)

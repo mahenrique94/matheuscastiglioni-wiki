@@ -39,3 +39,4 @@
 ## Serviços
 - [Atomist](https://atomist.com/)
 - [Budibase](https://www.budibase.com/)
+- [Novu](https://novu.co/)

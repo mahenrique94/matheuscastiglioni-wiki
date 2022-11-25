@@ -226,6 +226,7 @@
 - [Typed.js](https://github.com/mattboldt/typed.js)
 - [Typeit](https://github.com/alexmacarthur/typeit)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
+- [Vulcan](https://github.com/VulcanJS/Vulcan)
 - [WinBox](https://github.com/nextapps-de/winbox)
 - [Zag.js](https://zagjs.com/)
 
