@@ -58,6 +58,7 @@
 - [In-Memory Database Architecture](https://dzone.com/articles/in-memory-database-architecture-ten-years-of-exper)
 - [Infrastructure-Driven Packaging](https://codeforfunandmoney.wordpress.com/2016/07/13/domain-driven-design-and-package-organization/)
 - [Interpreter](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [LMAX Architecture](https://martinfowler.com/articles/lmax.html)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
   - [Front Controller](https://en.wikipedia.org/wiki/Front_controller)
 - [Macroservice](https://dzone.com/articles/micro-service-mini-service-and-macro-service)

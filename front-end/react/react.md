@@ -43,6 +43,7 @@
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
 - [DND Kit](https://github.com/clauderic/dnd-kit)
+- [Elastic UI](https://eui.elastic.co/)
 - [FluentUI](https://github.com/microsoft/fluentui)
 - [Grommet](https://github.com/grommet/grommet)
 - [Hook Router](https://github.com/Paratron/hookrouter)
