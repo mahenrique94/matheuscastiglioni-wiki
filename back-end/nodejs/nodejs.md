@@ -17,6 +17,7 @@
 - [Fastify](https://www.fastify.io/)
   - [Mercurius](https://github.com/mercurius-js/mercurius)
 - [Feathers](https://github.com/feathersjs/feathers)
+- [Formidablejs](https://www.formidablejs.org/)
 - [Grind](https://grind.rocks/)
 - [Hapi](https://hapi.dev/)
 - [HyperStackjs](https://hyperstackjs.io/)

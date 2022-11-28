@@ -46,6 +46,7 @@
   - [Protocolos](/software-engineer/protocols/protocols.md)
   - [SEO](/software-engineer/seo/seo.md)
   - [SOLID](/software-engineer/solid/solid.md)
+  - [Web3](/software-engineer/web3/web.md)
 - [Ferramentas](/tools/tools.md)
 - [Front-End](/front-end/front-end.md)
   - [Angular](/front-end/angular/angular.md)

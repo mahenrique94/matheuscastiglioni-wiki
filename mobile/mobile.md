@@ -8,6 +8,9 @@
 - [Fast Lane](https://fastlane.tools/)
 - [Test Fairy](https://www.testfairy.com/)
 
+## Console
+- [Eruda](https://github.com/liriliri/eruda)
+
 ## Hibrido (Multi Plataforma)
 - [Capacitor](https://github.com/ionic-team/capacitor)
 - [Cordova/Phonegap](https://cordova.apache.org/)
