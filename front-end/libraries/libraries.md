@@ -241,7 +241,7 @@
 - [Styled JSX](https://github.com/vercel/styled-jsx)
 - [Stylify](https://stylifycss.com/)
 - [Twin](https://github.com/ben-rogerson/twin.macro)
-- [Vanilla Extract](https://github.com/seek-oss/vanilla-extract)
+- [Vanilla Extract](https://github.com/vanilla-extract-css/vanilla-extract)
 
 ## Datas
 - [Date FNS](https://github.com/date-fns/date-fns)
@@ -624,6 +624,7 @@
 
 
 ## WebComponents
+- [Bayjs](https://bayjs.org/)
 - [Lit](https://github.com/lit/lit)
   - [Lit Element](https://github.com/Polymer/lit-element)
   - [Lit HTML](https://github.com/Polymer/lit-html)

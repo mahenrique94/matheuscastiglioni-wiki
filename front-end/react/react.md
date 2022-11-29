@@ -30,6 +30,7 @@
 - [Agrippa](https://github.com/NitzanHen/agrippa)
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Create React Library](https://github.com/transitive-bullshit/create-react-library)
+- [Create React Package](https://github.com/haseebanwar/create-react-pkg)
 - [Rekit](https://github.com/rekit/rekit)
 
 ### Códigos
@@ -153,6 +154,7 @@
 - [Stitches](https://stitches.dev/)
 - [Styled System](https://github.com/styled-system/styled-system)
 - [ThemeUI](https://github.com/system-ui/theme-ui)
+- [TW Classed](https://github.com/sannajammeh/tw-classed)
 - [XStyled](https://xstyled.dev/)
 
 ### Formulário
