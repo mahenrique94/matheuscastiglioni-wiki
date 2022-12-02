@@ -17,6 +17,7 @@
 - [Fastify](https://www.fastify.io/)
   - [Mercurius](https://github.com/mercurius-js/mercurius)
 - [Feathers](https://github.com/feathersjs/feathers)
+- [Foalts](https://foalts.org/)
 - [Formidablejs](https://www.formidablejs.org/)
 - [Grind](https://grind.rocks/)
 - [Hapi](https://hapi.dev/)
@@ -139,6 +140,9 @@
 - [PostmarkApp](https://postmarkapp.com/)
 - [SendGrid](https://sendgrid.com/)
 - [Sparkpost](https://www.sparkpost.com/)
+
+### Eventos
+- [EventEmitter3](https://github.com/primus/eventemitter3)
 
 ### Files
 - [DESM](https://github.com/mcollina/desm)
