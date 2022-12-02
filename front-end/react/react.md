@@ -42,6 +42,7 @@
 - [Atomize](https://atomizecode.com/)
 - [BluePrintJS](https://blueprintjs.com/)
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
+- [Cloudscape](https://cloudscape.design/)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
 - [DND Kit](https://github.com/clauderic/dnd-kit)
 - [Elastic UI](https://eui.elastic.co/)

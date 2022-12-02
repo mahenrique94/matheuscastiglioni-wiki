@@ -9,6 +9,9 @@
 - [Dioxus](https://dioxuslabs.com/)
 - [Yew](https://yew.rs/)
 
+### ORM
+- [Diesel](https://diesel.rs/)
+
 ### GPU
 - [Ash](https://github.com/MaikKlein/ash)
 
@@ -16,6 +19,7 @@
 
 ### API
 -  [Rocket](https://rocket.rs/)
+-  [Salvo](https://salvo.rs/)
 
 ### Web
 -  [Seed](https://seed-rs.org/)

@@ -60,7 +60,7 @@
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Game Audiog DC](https://sonniss.com/gameaudiogdc)
-- [Humble Bundle](https://www.humblebundle.com/software/unity-art-software)
+- [Humble Bundle](https://www.humblebundle.com/)
 - [Itch](https://itch.io/)
 - [Mixamo](https://www.mixamo.com/)
 - [Models Resource](https://www.models-resource.com/)
@@ -69,6 +69,7 @@
 - [Pond5](https://www.pond5.com/)
 - [Sketchfab](https://sketchfab.com/)
 - [Spriters Resource](https://www.spriters-resource.com/)
+- [Synty Store](https://syntystore.com/)
 - [The Noun Project](https://thenounproject.com/)
 - [Turbosquid](https://www.turbosquid.com/)
 

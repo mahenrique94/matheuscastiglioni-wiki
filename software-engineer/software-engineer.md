@@ -33,7 +33,6 @@
 - [API (Application Programming Interface)](/software-engineer/api/api.md)
 - [Arquiteturas de Software](/software-engineer/software-architectures/software-architectures.md)
 - [Bit/Bytes](/software-engineer/bit-bytes/bit-bytes.md)
-- [Blockchain](/software-engineer/blockchain/blockchain.md)
 - [Criptografia](/software-engineer/cryptography/cryptography.md)
 - [Code Smells](/software-engineer/code-smell/code-smell.md)
 - [Design Patterns](/software-engineer/design-patterns/design-patterns.md)
@@ -47,4 +46,4 @@
 - [Protocolos](/software-engineer/protocols/protocols.md)
 - [SEO](/software-engineer/seo/seo.md)
 - [SOLID](/software-engineer/solid/solid.md)
-- [Web3](/software-engineer/web3/web.md)
+- [Web3](/software-engineer/web3/web3.md)

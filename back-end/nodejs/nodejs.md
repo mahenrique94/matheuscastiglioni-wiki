@@ -279,6 +279,7 @@
 ### Realtime
 - [PusherJS](https://pusher.com/)
 - [Socket.io](https://socket.io/)
+- [Soketi](https://soketi.app/)
 - [WS](https://github.com/websockets/ws)
 
 ### Redis
@@ -312,7 +313,7 @@
 
 ### Tipagem
 - [fp-ts](https://github.com/gcanti/fp-ts)
-- [io-ts](https://github.com/gcanti/io-tshttps://github.com/gcanti/io-ts)
+- [io-ts](https://gcanti.github.io/io-ts/)
 - [ts-belt](https://github.com/mobily/ts-belt)
 - [TRPC](https://trpc.io/)
 - [Typebox](https://github.com/sinclairzx81/typebox)

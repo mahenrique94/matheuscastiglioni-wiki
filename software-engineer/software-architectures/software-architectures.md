@@ -34,6 +34,7 @@
   - [Sharded Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/ch06.html)
   - [Sidecar](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
   - [Work Queue Systems](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/ch10.html)
+- [DOTS (Data Oriented Technology Stack)](https://hub.packtpub.com/what-is-unitys-new-data-oriented-technology-stack-dots/)
 - [ECS (Entity Component System)](https://pt.wikipedia.org/wiki/Entity-component-system)
 - [Event-bus](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Event Driven Architecture](https://microservices.io/patterns/data/event-driven-architecture.html)

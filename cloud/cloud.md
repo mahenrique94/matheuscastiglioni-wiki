@@ -14,6 +14,7 @@
 - [Firebase](https://firebase.google.com/)
 - [GCP (Google Cloud Platform)](https://cloud.google.com/)
 - [Glitch](https://glitch.com/)
+- [Gradient](https://www.paperspace.com/gradient)
 - [Heroku](https://www.heroku.com/)
 - [Hostgator](https://www.hostgator.com.br/)
 - [Hostinger](https://www.hostinger.com.br/)
