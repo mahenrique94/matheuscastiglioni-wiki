@@ -323,6 +323,7 @@
 - [Syntax](https://syntax.page/)
 
 ## Formulário
+- [Choices](https://github.com/Choices-js/Choices)
 - [Final Form](https://github.com/final-form/final-form)
 - [Form Serialize](https://github.com/defunctzombie/form-serialize)
 
@@ -616,6 +617,7 @@
 
 ## WebAssembly
 - [EMScripten](https://github.com/emscripten-core/emscripten)
+- [Extism](https://github.com/extism/extism)
 - [Lucet](https://github.com/bytecodealliance/lucet)
 - [Percy](https://github.com/chinedufn/percy)
 - [YEW](https://github.com/yewstack/yew)

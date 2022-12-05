@@ -213,6 +213,7 @@
 
 ## Script
 - [Bash](https://pt.wikipedia.org/wiki/Bash)
+  - [ShellCheck](https://www.shellcheck.net/)
 - [Makefile](https://www.gnu.org/software/make/manual/make.html)
 - [Shell Script](https://pt.wikipedia.org/wiki/Shell_script)
 

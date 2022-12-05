@@ -116,6 +116,7 @@
 - [Rebass](https://github.com/rebassjs/rebass)
 - [Refine](https://refine.dev/)
 - [Replay](https://github.com/vimond/replay)
+- [Reapop](https://github.com/LouisBarranqueiro/reapop)
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
