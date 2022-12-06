@@ -28,6 +28,7 @@ https://jamstack.org
   - [Clerk](https://clerk.dev/)
   - [Nookies](https://github.com/maticzav/nookies)
   - [Plasmic](https://www.plasmic.app/)
+- [Nextra](https://nextra.site/)
 - [Nuxt](https://nuxtjs.org/)
 - [Obelisk](https://github.com/BennyHallett/obelisk)
 - [Payload](https://payloadcms.com/)
