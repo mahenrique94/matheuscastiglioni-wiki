@@ -43,6 +43,7 @@
   - [Tungsten](https://www.continuent.com/products/tungsten-replicator)
   - [Vitess](https://vitess.io/)
 - [Neo4j](https://neo4j.com/)
+  - [Neo4j AuraDB](https://neo4j.com/cloud/platform/aura-graph-database/)
 - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
 - [OracleDB](https://www.oracle.com/br/database/)
   - [Golden Gate](https://www.oracle.com/br/integration/goldengate/)

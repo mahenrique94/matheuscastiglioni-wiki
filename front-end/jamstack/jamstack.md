@@ -20,6 +20,7 @@ https://jamstack.org
 - [Gridsome](https://gridsome.org/)
 - [Hexo](https://github.com/hexojs/hexo)
 - [Hugo](https://gohugo.io/)
+- [Hygraph](https://hygraph.com/)
 - [Jekyll](https://jekyllrb.com/)
 - [KeyStone](https://github.com/keystonejs/keystone)
 - [Lume](https://lume.land/)

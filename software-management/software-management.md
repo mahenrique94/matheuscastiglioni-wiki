@@ -36,6 +36,7 @@
 - [PivotalTracker](https://www.pivotaltracker.com/)
 - [ProductBoard](https://www.productboard.com/)
 - [ProofHub](https://www.proofhub.com/)
+- [Qatalog](https://qatalog.com/)
 - [Quantify](https://www.quantifyhq.com/)
 - [Quire](https://quire.io/)
 - [Paymo](https://www.paymoapp.com/)

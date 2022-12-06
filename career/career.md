@@ -66,6 +66,7 @@
 - [Revelo](https://www.revelo.com.br/)
 - [Rocketseat](https://rocketseat.com.br/)
 - [School of Net](https://www.schoolofnet.com/)
+- [Scrimba](https://scrimba.com/)
 - [SkillSoft](https://www.skillsoft.com/)
 - [Skore](https://www.skore.io/)
 - [Staart](https://staart.com/)

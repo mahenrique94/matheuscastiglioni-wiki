@@ -87,6 +87,10 @@
 ### Circuit Braker
 - [Opossum](https://github.com/nodeshift/opossum)
 
+### Comentários
+- [Disqus](https://disqus.com/)
+- [Giscus](https://giscus.app/)
+
 ### Command Line
 - [Blessed](https://github.com/chjj/blessed)
 - [Chalk](https://github.com/chalk/chalk)
