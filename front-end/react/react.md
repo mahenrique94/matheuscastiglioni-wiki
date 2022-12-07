@@ -47,7 +47,7 @@
 - [DND Kit](https://github.com/clauderic/dnd-kit)
 - [Elastic UI](https://eui.elastic.co/)
 - [FluentUI](https://github.com/microsoft/fluentui)
-- [Grommet](https://github.com/grommet/grommet)
+- [Grommet](https://v2.grommet.io/)
 - [Hook Router](https://github.com/Paratron/hookrouter)
 - [Ink](https://github.com/vadimdemedes/ink)
 - [Leva](https://github.com/pmndrs/leva)

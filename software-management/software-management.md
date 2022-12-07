@@ -48,6 +48,7 @@
 - [Slack](http://slack.com/)
 - [StackOverflow Teams](https://stackoverflow.com/teams)
 - [Sunsama](https://sunsama.com/)
+- [Taiga](https://www.taiga.io/)
 - [Tara](https://tara.ai/)
 - [Taskade](https://www.taskade.com/)
 - [Teamwork](https://www.teamwork.com/)

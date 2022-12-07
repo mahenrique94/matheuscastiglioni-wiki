@@ -30,6 +30,12 @@
 ### Imagens
 - [Cached Network Image](https://pub.dev/packages/cached_network_image)
 
+### Injeção de dependência
+- [GetIt](https://pub.dev/packages/get_it)
+
+### Mock
+- [Mockito](https://pub.dev/packages/mockito)
+
 ### Requisição
 - [Dio](https://pub.dev/packages/dio)
 - [HTTP](https://pub.dev/packages/http)
