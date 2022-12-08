@@ -15,6 +15,7 @@
 - [CodeSignal](https://codesignal.com/)
 - [CodeWars](https://www.codewars.com/)
 - [CSSBattle](https://cssbattle.dev/)
+- [Exercism](https://exercism.org/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [HackTheBox](https://www.hackthebox.eu/)

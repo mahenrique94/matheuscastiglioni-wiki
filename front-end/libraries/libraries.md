@@ -141,6 +141,7 @@
 - [JSBase64](https://github.com/dankogai/js-base64)
 
 ## Coleções
+- [AG Grid](https://www.ag-grid.com/)
 - [Grid.js](https://github.com/grid-js/gridjs)
 - [HandsonTable](https://github.com/handsontable/handsontable)
 - [List.js](https://github.com/javve/list.js)
@@ -252,6 +253,9 @@
 - [MS](https://github.com/vercel/ms)
 - [PikaDay](https://github.com/Pikaday/Pikaday)
 - [SpaceTime](https://github.com/spencermountain/spacetime)
+
+## Debug
+- [LogT](https://github.com/sidhantpanda/logt)
 
 ## Desktop
 - [NeutralinoJS](https://neutralino.js.org/#one)
@@ -599,6 +603,7 @@
 - [Ramda](https://github.com/ramda/ramda)
 - [Social Share URLs](https://github.com/bradvin/social-share-urls)
 - [UnderScore](https://github.com/jashkenas/underscore)
+- [UrlCat](https://github.com/balazsbotond/urlcat)
 
 ## Validação
 - [AJV](https://github.com/ajv-validator/ajv)

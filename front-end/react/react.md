@@ -51,6 +51,7 @@
 - [Hook Router](https://github.com/Paratron/hookrouter)
 - [Ink](https://github.com/vadimdemedes/ink)
 - [Leva](https://github.com/pmndrs/leva)
+- [Loadable Components](https://github.com/gregberge/loadable-components)
 - [Mantine](https://mantine.dev/)
 - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
 - [Material UI](https://material-ui.com/pt/)
@@ -197,6 +198,8 @@
 - [React Use](https://github.com/streamich/react-use)
 - [Rooks](https://github.com/imbhargav5/rooks)
 - [Use Context Selector](https://github.com/dai-shi/use-context-selector)
+- [Use Hooks](https://github.com/uidotdev/usehooks)
+- [Use Hooks TS](https://github.com/juliencrn/usehooks-ts)
 
 ### Mapas
 - [PigeonMaps](https://github.com/mariusandra/pigeon-maps)
@@ -208,6 +211,7 @@
 - [FusionJS](https://github.com/fusionjs/fusionjs)
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [React Lazyload](https://github.com/twobin/react-lazyload)
+- [Use Hooks](https://github.com/uidotdev/usehooks)
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
 
 ### Protótipos
