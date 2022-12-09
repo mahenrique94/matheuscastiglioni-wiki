@@ -156,6 +156,7 @@
 - [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel)
 - [Flicking](https://github.com/naver/egjs-flicking)
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui)
+- [Papani.js](https://papanasi.js.org/)
 - [Tagify](https://github.com/yairEO/tagify)
 
 ## Componentização

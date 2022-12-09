@@ -44,6 +44,7 @@
 - [Digital Innovation One](https://digitalinnovation.one/)
 - [Domestika](https://www.domestika.org/pt)
 - [EBAC Online](https://ebaconline.com.br/)
+- [Educative](https://www.educative.io/)
 - [FreeCodecamp](https://www.freecodecamp.org/)
 - [FrontendMentor](https://www.frontendmentor.io/)
 - [FullStackAcademy](https://www.fullstackacademy.com/)
