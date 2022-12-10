@@ -1,6 +1,7 @@
 # Engenharia de Software
 
 - [50+ Free Awesome Certificates to Earn in 2021](https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g)
+- [ApiLayer](https://apilayer.com/)
 - [Availability Service Level](https://web.archive.org/web/20180728204314/https:/www.digitaldaniels.com/availability-service-level-9s-equate/)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)

@@ -37,6 +37,7 @@
 - [DynaTrace](https://www.dynatrace.com/)
 - [ElvenWorks](https://elven.works/pt/)
 - [eBPF](https://ebpf.io/)
+  - [Cilium](https://cilium.io/)
 - [FluentBit](https://fluentbit.io/)
 - [Google Analytics](https://analytics.google.com/)
 - [Grafana](https://grafana.com/)

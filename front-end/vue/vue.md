@@ -9,6 +9,7 @@
 
 ### Componentes
 - [Element Plus](https://element-plus.org/#/en-US)
+- [Maska](https://beholdr.github.io/maska/#/)
 - [Vant](https://github.com/youzan/vant)
 - [Vuestic UI](https://github.com/epicmaxco/vuestic-ui)
 - [Vuetify](https://vuetifyjs.com/en/)

@@ -27,6 +27,7 @@ https://jamstack.org
 - [Meli](https://docs.meli.sh/)
 - [Next.js](https://github.com/vercel/next.js)
   - [Clerk](https://clerk.dev/)
+  - [NextAuth](https://next-auth.js.org/)
   - [Nookies](https://github.com/maticzav/nookies)
   - [Plasmic](https://www.plasmic.app/)
 - [Nextra](https://nextra.site/)

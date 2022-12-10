@@ -10,6 +10,7 @@
 - [Rules](https://www.michael-whelan.net/rules-design-pattern/)
 - [Specification](https://en.wikipedia.org/wiki/Specification_pattern)
 - [Service Template](https://microservices.io/patterns/service-template.html)
+- [State Initializer](https://kentcdodds.com/blog/the-state-initializer-pattern)
 - [System UI Theme Specification](https://system-ui.com/theme)
 
 ## Comportamento
