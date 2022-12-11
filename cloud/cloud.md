@@ -43,4 +43,5 @@
 - [Atomist](https://atomist.com/)
 - [Budibase](https://www.budibase.com/)
 - [Novu](https://novu.co/)
+- [RapidAPI](https://rapidapi.com/)
 - [WayScript](https://www.wayscript.com/)

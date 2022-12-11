@@ -327,7 +327,13 @@
 - [Typebox](https://github.com/sinclairzx81/typebox)
 
 ### Utils
+- [Fast Memoize](https://github.com/caiogondim/fast-memoize.js)
+- [Mem](https://github.com/sindresorhus/mem)
+- [Memoize One](https://github.com/alexreardon/memoize-one)
+- [Memoizee](https://github.com/medikoo/memoizee)
+- [Memoizerific](https://github.com/thinkloop/memoizerific)
 - [Node APP Root Path](https://github.com/inxilpro/node-app-root-path)
+- [P Memoize](https://github.com/sindresorhus/p-memoize)
 - [Replace In File](https://github.com/adamreisnz/replace-in-file)
 - [Start Server And Test](https://github.com/bahmutov/start-server-and-test)
 - [TSC Watch](https://github.com/gilamran/tsc-watch)

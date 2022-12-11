@@ -5,10 +5,11 @@
 
 ## Bibliotecas
 ### API's
-- [Ethers](https://www.npmjs.com/package/ethers)
+- [Ethers](https://docs.ethers.org/ethers.js/v3.0/html/#)
+- [Ganache](https://trufflesuite.com/ganache/)
 - [Lisk](https://lisk.com/)
 - [Moralis](https://moralis.io/)
-- [Web3](https://www.npmjs.com/package/web3)
+- [Web3](https://github.com/web3/web3.js)
 
 ### Qualidade
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
@@ -33,15 +34,19 @@
 - [Polygon](https://polygon.technology/)
 - [Solana](https://solana.com/)
 
+## Carteiras
+- [MetaMask](https://metamask.io/)
+
 ## Infraestrutura
 ### Cloud
 - [Arweave](https://www.arweave.org/)
 - [Ethswarm](https://www.ethswarm.org/)
+- [Infura](https://www.infura.io/)
 - [IPFS](https://ipfs.tech/)
 - [OnMachina](https://www.onmachina.io/)
 
 ### IDE's
 - [Remix](https://remix-project.org/)
 
-## Linguagens
+### Linguagens
 - [Solidity](https://soliditylang.org/)
