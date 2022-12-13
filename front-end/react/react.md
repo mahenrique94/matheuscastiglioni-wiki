@@ -225,6 +225,7 @@
 - [React Query](https://github.com/tannerlinsley/react-query)
 - [RTK Query](https://github.com/rtk-incubator/rtk-query)
 - [SWR](https://github.com/vercel/swr)
+- [TanStack Query](https://tanstack.com/query/v4/docs/guides/queries)
 
 ### Templates
 - [Bootstrapbay](https://bootstrapbay.com/theme/datta-able-free-reactjs-admin-dashboard-template-BFD950F)

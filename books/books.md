@@ -30,6 +30,7 @@
 - [Patterns Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization](https://www.amazon.com.br/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
+- [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)
 - [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Deploy-Production-Ready-Software/dp/0978739213)
 - [Sistemas Reativos](https://www.casadocodigo.com.br/products/livro-sistemas-reativos)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)

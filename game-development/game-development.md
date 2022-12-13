@@ -6,6 +6,7 @@
 ## Engines
 - [AbyssEngine](https://www.abyssengine.com/)
 - [Acid](https://github.com/EQMG/Acid)
+- [Allegro](https://liballeg.org/git.html)
 - [Amazon Lumberyard](https://en.m.wikipedia.org/wiki/Amazon_Lumberyard)
 - [Bevy](https://github.com/bevyengine/bevy)
 - [Coconut2D](https://www.coconut2d.com/)
