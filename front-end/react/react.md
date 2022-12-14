@@ -103,6 +103,7 @@
 - [React Player](https://github.com/cookpete/react-player)
 - [React Popper](https://github.com/floating-ui/react-popper)
 - [React Progress Bar](https://github.com/react-component/progress)
+- [React Reader](https://github.com/gerhardsletten/react-reader)
 - [React Redux](https://github.com/reduxjs/react-redux)
 - [React Router](https://github.com/ReactTraining/react-router)
 - [React Select](https://github.com/JedWatson/react-select)

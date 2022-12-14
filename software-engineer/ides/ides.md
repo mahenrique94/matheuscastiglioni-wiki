@@ -13,6 +13,7 @@
 ## Editores de Código
 - [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
+- [Codux](https://www.codux.com/)
 - [Emacs](https://www.gnu.org/software/emacs/)
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
 - [Lapce](https://lapce.dev/)
