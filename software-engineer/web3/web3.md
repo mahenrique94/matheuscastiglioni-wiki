@@ -32,6 +32,7 @@
 - [Near](https://near.org/)
 - [Optimism](https://www.optimism.io/)
 - [Polygon](https://polygon.technology/)
+- [QuickNode](https://www.quicknode.com/)
 - [Solana](https://solana.com/)
 
 ## Carteiras
