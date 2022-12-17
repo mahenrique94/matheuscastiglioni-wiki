@@ -112,6 +112,7 @@
 - [React Star Rating Component](https://github.com/voronianski/react-star-rating-component)
 - [React Stick](https://github.com/akiran/react-slick)
 - [React Suite](https://github.com/rsuite/rsuite)
+- [React Timezone Select](https://github.com/ndom91/react-timezone-select)
 - [React Tooltip](https://github.com/wwayne/react-tooltip)
 - [React Virtualized](https://github.com/bvaughn/react-virtualized)
 - [Reactstrap](https://reactstrap.github.io/)

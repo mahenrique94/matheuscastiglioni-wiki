@@ -28,6 +28,7 @@
 - [Motion](https://motion.dev/)
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
+- [Scenejs](https://github.com/daybrush/scenejs)
 - [Shifty](https://github.com/jeremyckahn/shifty)
 - [SmoothStep](https://smoothstep.io/)
 - [Theatrejs](https://www.theatrejs.com/)
@@ -303,6 +304,9 @@
 - [TinyMCE](https://github.com/tinymce/tinymce)
 - [TUI Editor](https://github.com/nhn/tui.editor)
 
+## Email
+- [EmailJS](https://www.emailjs.com/)
+
 ## Engines
 - [Bun](https://bun.sh/)
 - [ChakraCore](https://github.com/chakra-core/ChakraCore)
@@ -318,6 +322,7 @@
 - [Normalize.css](https://github.com/necolas/normalize.css)
 
 ## Fluxo
+- [Is](https://github.com/enricomarino/is)
 - [Is.js](https://github.com/arasatasaygin/is.js)
 
 ## Formatação
@@ -454,8 +459,9 @@
 - [ESLint](https://github.com/eslint/eslint)
   - [Dotenv Linter](https://github.com/dotenv-linter/dotenv-linter)
   - [ESLint Config Canonical](https://github.com/gajus/eslint-config-canonical)
+  - [ESlint Import Resolver Typescript](https://github.com/import-js/eslint-import-resolver-typescript)
   - [ESLint Plugin Clean Regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex)
-  - [ESLint Plugin Import](https://github.com/benmosher/eslint-plugin-import)
+  - [ESLint Plugin Import](https://github.com/import-js/eslint-plugin-import)
   - [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
   - [ESLint Plugin JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
   - [ESLint Plugin Security](https://github.com/nodesecurity/eslint-plugin-security)
