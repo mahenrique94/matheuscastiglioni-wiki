@@ -18,6 +18,7 @@
 - [GHZ](https://ghz.sh/)
 - [Google Sanitizers](https://github.com/google/sanitizers)
 - [Helgrind](https://valgrind.org/docs/manual/hg-manual.html)
+- [Hey](https://github.com/rakyll/hey)
 - [Hoverfly](https://hoverfly.io/)
 - [Hurl](https://hurl.dev/)
 - [Japa](https://japa.dev/docs)
