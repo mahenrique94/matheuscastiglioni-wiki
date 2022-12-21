@@ -345,6 +345,7 @@
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
 - [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)
 - [Typescript JSON Schema](https://www.npmjs.com/package/typescript-json-schema)
+- [Typia](https://github.com/samchon/typia)
 - [Zod](https://github.com/colinhacks/zod)
 
 ### Videos

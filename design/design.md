@@ -8,6 +8,7 @@
 - [DrawKit](https://www.drawkit.com/)
 - [FlatIcon](https://www.flaticon.com/)
 - [FreePik](https://www.freepik.com/)
+- [Mdigi Tools](https://mdigi.tools/all/)
 - [Pexels](https://www.pexels.com/pt-br/)
 - [Pinterest](https://br.pinterest.com/)
 - [PixelArt](https://pixelart.io/character/)

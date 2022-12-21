@@ -23,6 +23,7 @@
 - [Principles.dev](https://github.com/PrinciplesDotDev/principles)
 - [Public API's](https://github.com/public-apis/public-apis)
 - [Sli.dev](https://sli.dev/)
+- [Small Dev Tools](https://smalldev.tools/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [TanStack](https://tanstack.com/)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)

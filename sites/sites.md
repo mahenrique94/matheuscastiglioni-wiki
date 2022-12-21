@@ -7,7 +7,7 @@
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
 - Calcular dias úteis ([https://www.dias-uteis.com/](https://www.dias-uteis.com/))
 - Criação de apresentações ([https://grid.is/](https://grid.is/), [https://pitch.com/](https://pitch.com/), [https://sli.dev/](https://sli.dev/))
-- Color picker online ([https://coolors.co/](https://coolors.co/), [https://colordrop.io/](https://colordrop.io/), [https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel), [https://mycolor.space/](https://mycolor.space/), [https://paletton.com](https://paletton.com), [https://primer.style/prism/](https://primer.style/prism/), [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp))
+- Color picker online ([https://www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/), [https://coolors.co/](https://coolors.co/), [https://colordrop.io/](https://colordrop.io/), [https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel), [https://mycolor.space/](https://mycolor.space/), [https://paletton.com](https://paletton.com), [https://primer.style/prism/](https://primer.style/prism/), [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp))
 - Comparação de bundles ([https://bundlers.tooling.report/](https://bundlers.tooling.report/))
 - Compartilhar trechos de códigos ([https://carbon.now.sh/](https://carbon.now.sh/), [https://chalk.ist/](https://chalk.ist/),[https://ray.so/](https://ray.so/))
 - Comprar livros de desenvolvimento ([https://www.packtpub.com/](https://www.packtpub.com/))
