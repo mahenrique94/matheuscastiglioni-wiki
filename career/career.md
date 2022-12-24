@@ -69,11 +69,13 @@
 - [Rocketseat](https://rocketseat.com.br/)
 - [School of Net](https://www.schoolofnet.com/)
 - [Scrimba](https://scrimba.com/)
+- [SkillShare](https://www.skillshare.com/)
 - [SkillSoft](https://www.skillsoft.com/)
 - [Skore](https://www.skore.io/)
 - [Staart](https://staart.com/)
 - [TipsCode](https://tipscode.com.br/)
 - [TreinaWeb](https://www.treinaweb.com.br/)
+- [UIStart](https://uistart.com.br/)
 - [Udemy](https://www.udemy.com/pt/)
 
 ## Plataformas para mentoria
