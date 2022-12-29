@@ -9,6 +9,7 @@
 - [Career Ladders](https://github.com/sdras/career-ladders)
 - [Clone Wars](https://gourav.io/clone-wars)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Companies Tools](https://www.companies.tools/)
 - [DevDocs](https://devdocs.io/)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Electronic References](https://csgordon.github.io/books.html)
@@ -20,6 +21,7 @@
 - [JSON Api](https://jsonapi.org/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [NamingCheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [Omatsuri](https://omatsuri.app/)
 - [Principles.dev](https://github.com/PrinciplesDotDev/principles)
 - [Public API's](https://github.com/public-apis/public-apis)
 - [Sli.dev](https://sli.dev/)
@@ -29,6 +31,7 @@
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Tiny Helpers](https://tiny-helpers.dev/)
 - [Trilha](https://www.trilha.info/)
+- [Use The Keyboard](https://usethekeyboard.com/)
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
 - [Algoritmos](/software-engineer/algorithms/algorithms.md)

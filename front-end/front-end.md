@@ -6,6 +6,7 @@
 - [FireCode](https://github.com/tonsky/FiraCode)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [JS Framework Benchmark](https://github.com/krausest/js-framework-benchmark)
+- [Keyframes App](https://keyframes.app/)
 - [Learning Front-End Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 - [RealWorld Apps](https://github.com/gothinkster/realworld)
 - [Roadmap Front-End](https://github.com/kamranahmedse/developer-roadmap)
