@@ -7,6 +7,7 @@
 
 ### Criação de UI
 - [Dioxus](https://dioxuslabs.com/)
+- [Leptos](https://docs.rs/leptos/latest/leptos/)
 - [Yew](https://yew.rs/)
 
 ### ORM

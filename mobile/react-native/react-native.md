@@ -31,6 +31,7 @@
 - [React Native Paper](https://github.com/callstack/react-native-paper)
 - [React Native Snap Carousel](https://github.com/meliorence/react-native-snap-carousel)
 - [Stacks](https://github.com/mobily/stacks)
+- [Tamagui](https://tamagui.dev/)
 
 ### Engines
 - [Hermes](https://github.com/facebook/hermes)

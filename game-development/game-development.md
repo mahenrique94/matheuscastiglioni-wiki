@@ -91,6 +91,7 @@
 - [Character Animator](https://www.adobe.com/br/products/character-animator.html)
 - [Embergen](https://jangafx.com/software/embergen/)
 - [Face FX](https://facefx.com/)
+- [FaceGen](https://facegen.com/)
 - [FaceWare](https://facewaretech.com/software/retargeter/)
 - [FiberShop](https://cgpal.com/fibershop/)
 - [GraphN](https://www.polygonflow.io/)

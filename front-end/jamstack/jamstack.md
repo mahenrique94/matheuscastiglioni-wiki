@@ -9,6 +9,7 @@ https://jamstack.org
 - [Blitz](https://blitzjs.com/)
 - [ButterCMS](https://buttercms.com/)
 - [Dato](https://www.datocms.com/)
+- [Deskree](https://www.deskree.com/)
 - [ElderJS](https://github.com/Elderjs/elderjs)
 - [Eleventy](https://www.11ty.dev/)
 - [Factorjs](https://www.factorjs.org/)

@@ -181,6 +181,7 @@
 - [UML (Unified Modeling Language)](https://pt.wikipedia.org/wiki/UML)
   - [Plant Text](https://www.planttext.com/)
   - [Plant UML](https://plantuml.com/)
+- [Wardley Mapping](https://learnwardleymapping.com/)
 
 ## Links
 - https://github.com/DovAmir/awesome-design-patterns

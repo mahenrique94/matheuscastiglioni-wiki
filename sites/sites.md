@@ -6,6 +6,7 @@
 - Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
 - Calcular dias úteis ([https://www.dias-uteis.com/](https://www.dias-uteis.com/))
+- Criar perfil do GitHub ([https://www.profileme.dev/](https://www.profileme.dev/))
 - Criação de apresentações ([https://grid.is/](https://grid.is/), [https://pitch.com/](https://pitch.com/), [https://sli.dev/](https://sli.dev/))
 - Color picker online ([https://www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/), [https://coolors.co/](https://coolors.co/), [https://colordrop.io/](https://colordrop.io/), [https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel), [https://mycolor.space/](https://mycolor.space/), [https://paletton.com](https://paletton.com), [https://primer.style/prism/](https://primer.style/prism/), [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp))
 - Comparação de bundles ([https://bundlers.tooling.report/](https://bundlers.tooling.report/))
