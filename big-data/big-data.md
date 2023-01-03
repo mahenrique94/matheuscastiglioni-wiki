@@ -38,6 +38,7 @@
 - [Splunk](https://www.splunk.com/)
 - [Tableau](https://www.tableau.com/pt-br)
 - [Trino](https://trino.io/)
+- [Vertica](https://www.vertica.com/)
 
 ## Dashboard's
 - [Budibase](https://budibase.com/)
@@ -46,5 +47,6 @@
 
 ## Plataformas
 - [DataBricks](https://databricks.com/)
+- [Firebolt](https://www.firebolt.io/)
 - [Looker](https://looker.com/)
 - [Meltano](https://meltano.com/)

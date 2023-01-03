@@ -114,7 +114,7 @@
 - [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com.br/Management-3-0-Leading-Developers-Developing/dp/0321712471/ref=asc_df_0321712471/?tag=googleshopp00-20&linkCode=df0&hvadid=379726347250&hvpos=&hvnetw=g&hvrand=14751776824756060987&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-421604506510&psc=1)
 - [Pensamento e aprendizado pragmático](https://www.casadocodigo.com.br/products/livro-pensamento-aprendizado)
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com.br/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
-- [The Manager`s Path](https://www.amazon.com.br/Manager%60s-Path-Camille-Fournier/dp/1491973897)
+- [The Manager's Path](https://www.amazon.com.br/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [The Staff Engineer's Path](https://learning.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
 ## Mentoria
