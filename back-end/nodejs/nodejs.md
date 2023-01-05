@@ -169,6 +169,8 @@
 - [Undici](https://github.com/nodejs/undici)
 
 ### Imagens
+- [Jimp](https://www.npmjs.com/package/jimp)
+- [OpenCV](https://docs.opencv.org/)
 - [Sharp](https://github.com/lovell/sharp)
 - [Tesseract](https://tesseract.projectnaptha.com/)
 

@@ -6,10 +6,12 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)
   - [Babylon Native](https://github.com/BabylonJS/BabylonNative)
 - [Cannon.js](https://schteppe.github.io/cannon.js/)
+- [Cairo](https://www.cairographics.org/)
 - [Deck.gl](https://github.com/visgl/deck.gl)
 - [GPU.js](https://github.com/gpujs/gpu.js)
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)
+- [Node Canvas](https://www.npmjs.com/package/canvas)
 - [Paper.js](https://github.com/paperjs/paper.js)
 - [Particles.js](https://github.com/VincentGarreau/particles.js/)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
@@ -275,6 +277,7 @@
 - [GraphTage](https://github.com/trailofbits/graphtage)
 - [JSDiff](https://github.com/kpdecker/jsdiff)
 - [MicroDiff](https://github.com/AsyncBanana/microdiff)
+- [SuperDiff](https://github.com/DoneDeal0/superdiff)
 
 ## Dinheiro
 - [Dinero.js](https://github.com/dinerojs/dinero.js)
