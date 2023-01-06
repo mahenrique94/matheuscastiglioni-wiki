@@ -26,6 +26,9 @@
 ### Build
 - [Customize CRA](https://github.com/arackaf/customize-cra)
 
+### Cálculos
+- [Mafs](https://mafs.dev/)
+
 ### CLI
 - [Agrippa](https://github.com/NitzanHen/agrippa)
 - [Create React App](https://github.com/facebook/create-react-app)
@@ -170,6 +173,9 @@
 
 ### Formulário
 - [Formik](https://github.com/formium/formik)
+- [React Final Form](https://final-form.org/react)
+- [React Hook Form](https://react-hook-form.com/)
+- [React TS Form](https://github.com/iway1/react-ts-form)
 
 ### Gerenciador de Estado
 - [DVA](https://github.com/dvajs/dva)

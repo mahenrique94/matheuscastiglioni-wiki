@@ -37,6 +37,7 @@
   - [KDB+](https://kx.com/)
 - [KsqlDB](https://ksqldb.io/)
 - [LevelDB](https://github.com/google/leveldb)
+- [LiteStream](https://litestream.io/)
 - [MangoDB](https://www.mangodb.io/)
 - [M3](https://m3db.io/)
 - [MemCached](https://memcached.org/)
@@ -108,6 +109,7 @@
 - [Maxwells](https://maxwells-daemon.io/)
 
 ## Ferramentas
+- [Directus](https://directus.io/)
 - [EverSQL](https://www.eversql.com/)
 - [RepliByte](https://www.replibyte.com/docs/introduction)
 - [SQLDBM](https://sqldbm.com/Home/)

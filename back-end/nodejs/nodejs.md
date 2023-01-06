@@ -48,6 +48,9 @@
 - [junk](https://github.com/sindresorhus/junk)
 - [node-glob](https://github.com/isaacs/node-glob)
 
+### Asserções
+- [TinyInvariant](https://www.npmjs.com/package/tiny-invariant)
+
 ### Async
 - [Async](https://github.com/caolan/async)
 - [AsyncAPI](https://www.asyncapi.com/)

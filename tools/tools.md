@@ -24,6 +24,7 @@
 - Diversos emulaadores para diferentes video games ([https://www.retroarch.com/](https://www.retroarch.com/))
 - Edição e manipulação de audio ([https://www.reaper.fm/](https://www.reaper.fm/))
 - Emuladores de PS1 ([https://www.duckstation.org/index.html](https://www.duckstation.org/index.html), [http://emurayden.net/](http://emurayden.net/), [https://www.epsxe.com/](https://www.epsxe.com/))
+- Gerar transcrições para videos ([https://descript.com/](https://descript.com/))
 - Gerenciar calendários ([https://cron.com/](https://cron.com/), [https://www.usemotion.com/](https://www.usemotion.com/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))
 - Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser), [https://polypane.app/](https://polypane.app/), [https://responsively.app/](https://responsively.app/))
