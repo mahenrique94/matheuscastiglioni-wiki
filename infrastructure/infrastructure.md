@@ -152,6 +152,7 @@
 
 ## Feature Flag
 - [LaunchDarkly](https://launchdarkly.com/)
+- [Permit](https://www.permit.io/)
 - [Split](https://www.split.io/)
 - [Unleash](https://www.getunleash.io/)
 
