@@ -23,6 +23,9 @@
 ### Gráficos
 - [Pancake](https://github.com/Rich-Harris/pancake)
 
+### GraphQL
+- [Houdini](https://www.houdinigraphql.com/)
+
 ## Frameworks
 
 ### Mobile

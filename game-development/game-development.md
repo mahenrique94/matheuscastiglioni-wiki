@@ -120,6 +120,7 @@
 - [Rebelle](https://www.escapemotions.com/products/rebelle/download.php)
 - [SideFX](https://www.sidefx.com/)
 - [Silhouette](https://borisfx.com/products/silhouette/?collection=silhouette&product=silhouette)
+- [Simplygon](https://www.simplygon.com/)
 - [SpeedTree](https://store.speedtree.com/)
 - [Substance 3D](https://www.substance3d.com/)
 - [SynthEtes](https://www.ssontech.com/)

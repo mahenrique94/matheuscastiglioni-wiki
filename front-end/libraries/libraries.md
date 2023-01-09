@@ -400,6 +400,7 @@
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib)
 
 ## GraphQL
+- [Houdini](https://www.houdinigraphql.com/)
 - [URQL](https://formidable.com/open-source/urql/)
 
 ## Hardware

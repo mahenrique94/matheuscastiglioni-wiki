@@ -9,7 +9,7 @@
 - [GeoPandas](https://geopandas.org/)
 - [Milvus](https://milvus.io/)
 - [Pandas](https://pandas.pydata.org/)
-- [Polars](https://github.com/pola-rs/polars)
+- [Polars](https://www.pola.rs/)
 - [SkTime](https://www.sktime.org/en/stable/)
 - [Tabula](https://pypi.org/project/tabula-py/)
 - [Tidyverse](https://www.tidyverse.org/)

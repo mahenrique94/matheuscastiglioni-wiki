@@ -144,6 +144,11 @@
   - [VSFForGit](https://github.com/microsoft/VFSForGit)
 - [Sapling](https://sapling-scm.com/)
 
+## DNS
+- [Bind9](https://www.isc.org/bind/)
+- [Pi-Hole](https://pi-hole.net/)
+- [SophOS](https://www.sophos.com/en-us)
+
 ## Documentação
 - Self Documenting
   - [Contexture](https://github.com/Softwarepark/Contexture)
