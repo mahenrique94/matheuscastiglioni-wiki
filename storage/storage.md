@@ -112,6 +112,7 @@
 - [Directus](https://directus.io/)
 - [EverSQL](https://www.eversql.com/)
 - [RepliByte](https://www.replibyte.com/docs/introduction)
+- [Retable](https://www.retable.io/)
 - [SQLDBM](https://sqldbm.com/Home/)
 
 ## Indexação de dados

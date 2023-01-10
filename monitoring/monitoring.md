@@ -30,6 +30,7 @@
 - [Atera](https://www.atera.com/)
 - [AWS RUM](https://aws.amazon.com/pt/blogs/aws/cloudwatch-rum/)
 - [Axiom](https://www.axiom.co/)
+- [Clarity](https://clarity.microsoft.com/)
 - [Clinic.js](https://clinicjs.org/)
 - [Dapper](https://lightstep.com/dapper/)
 - [DataDog](https://www.datadoghq.com/)

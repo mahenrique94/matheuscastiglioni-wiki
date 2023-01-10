@@ -6,6 +6,7 @@
 - [GTMetrix](https://gtmetrix.com)
 - [LightHouse](https://developers.google.com/web/tools/lighthouse?hl=pt_br)
 - [ScreamingFrog](https://www.screamingfrog.co.uk/)
+- [Spyfu](https://www.spyfu.com/)
 - [YellowLab](https://yellowlab.tools/)
 - [Waterfaller](https://waterfaller.dev/)
 - [WebPageTest](https://www.webpagetest.org/)
