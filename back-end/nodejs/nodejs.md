@@ -76,6 +76,9 @@
 - [JSCodeShift](https://github.com/facebook/jscodeshift)
 - [RobotJS](https://github.com/octalmage/robotjs)
 
+### Banco de Dados
+- [Node Postgres](https://github.com/brianc/node-postgres)
+
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
 - [Benny](https://github.com/caderek/benny)

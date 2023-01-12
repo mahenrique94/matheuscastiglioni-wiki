@@ -173,6 +173,7 @@
 
 ### Formulário
 - [Formik](https://github.com/formium/formik)
+- [Mantine Form](https://mantine.dev/form/use-form/)
 - [React Final Form](https://final-form.org/react)
 - [React Hook Form](https://react-hook-form.com/)
 - [React TS Form](https://github.com/iway1/react-ts-form)
@@ -206,6 +207,7 @@
 
 ### Hooks
 - [AHooks](https://ahooks.js.org/)
+- [Mantine Hooks](https://mantine.dev/hooks/)
 - [React Adaptive Hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
 - [React Hanger](https://github.com/kitze/react-hanger)
 - [React Responsive](https://github.com/contra/react-responsive)

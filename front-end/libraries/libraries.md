@@ -417,6 +417,7 @@
 - [PhosphorIcons](https://phosphoricons.com/)
 - [RemixIcon](https://remixicon.com/)
 - [SVG Repo](https://www.svgrepo.com/)
+- [Tabler](https://tabler-icons.io/)
 
 ## Identificação
 - [CUID](https://github.com/ericelliott/cuid)
