@@ -1,5 +1,6 @@
 # Gerenciamento de Software
 
+- https://toolfinder.xyz/
 - https://zedaio.medium.com/product-management-tools-to-have-in-your-stack-de78aa12377
 
 ## Ferramentas
