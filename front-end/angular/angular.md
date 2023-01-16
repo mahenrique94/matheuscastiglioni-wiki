@@ -18,6 +18,7 @@
 
 ### Gerenciador de estado
 - [NgRx](https://ngrx.io/)
+  - [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage)
 - [NgXs](https://github.com/ngxs/store)
 
 ### Gráficos

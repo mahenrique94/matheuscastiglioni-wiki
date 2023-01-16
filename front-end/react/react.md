@@ -14,7 +14,7 @@
 
 ### Apresentações
 - [MDX Deck](https://github.com/jxnblk/mdx-deck)
-- [Visx](https://github.com/airbnb/visx)
+- [Visx](https://airbnb.io/visx)
 
 ### Animações
 - [Motion](https://github.com/framer/motion)

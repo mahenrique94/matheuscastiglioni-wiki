@@ -3,6 +3,10 @@
 ## Documentação
 - [Swagger](https://swagger.io/)
 
+## Ferramentas
+- [HTTP Status Dogs](https://httpstatusdogs.com/)
+- [LoremFaces](https://loremfaces.com/)
+
 ## Guia
 - [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines)
 - [OData](https://www.odata.org/)

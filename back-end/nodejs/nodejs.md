@@ -139,6 +139,10 @@
 - [Compodoc](https://compodoc.app/guides/getting-started.html)
 - [Swagger JSDoc](https://github.com/Surnet/swagger-jsdoc)
 
+### Drivers
+- [Node Mysql2](https://github.com/sidorares/node-mysql2)
+- [Node Postgres](https://github.com/brianc/node-postgres)
+
 ### Email
 - [Heml](https://github.com/SparkPost/heml)
 - [Mailgun](https://www.mailgun.com/)
@@ -287,6 +291,7 @@
 
 ### Queue
 - [Bull](https://github.com/OptimalBits/bull)
+- [PG Boss](https://github.com/timgit/pg-boss)
 
 ### QRCode
 - [Node QRCode](https://github.com/soldair/node-qrcode)
