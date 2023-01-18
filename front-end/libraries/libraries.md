@@ -410,9 +410,12 @@
 - [Fuite](https://github.com/nolanlawson/fuite)
 
 ## Icones
+- [AtlasIcons](https://atlasicons.vectopus.com/)
 - [FlagPack](https://flagpack.xyz/)
 - [FontAwesome](https://fontawesome.com/)
 - [FontEllo](https://fontello.com/)
+- [Glyphs](https://glyphs.fyi/)
+- [HealthIcons](https://healthicons.org/)
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
@@ -422,6 +425,7 @@
 - [RemixIcon](https://remixicon.com/)
 - [SVG Repo](https://www.svgrepo.com/)
 - [Tabler](https://tabler-icons.io/)
+- [UnicornIcons](https://unicornicons.com/)
 
 ## Identificação
 - [CUID](https://github.com/ericelliott/cuid)
