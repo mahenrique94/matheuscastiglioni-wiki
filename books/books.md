@@ -19,10 +19,12 @@
 - [Designing Event-Driven Systems](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/)
 - [Domain-Driven Design: Atacando as complexidades no coração do software](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651)
 - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
+- [Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Sofware com Produtividade](https://engsoftmoderna.info/)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com.br/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451/ref=asc_df_1492043451/?tag=googleshopp00-20&linkCode=df0&hvadid=379795170134&hvpos=&hvnetw=g&hvrand=246121054958374246&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-751683725274&psc=1)
 - [Implementing Domain-Driven Design](https://www.amazon.com.br/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - [Learning Domain-Driven Design](https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY)
 - [Learning JavaScript Data Structures and Algorithms](https://www.packtpub.com/product/learning-javascript-data-structures-and-algorithms-third-edition/9781788623872)
+- [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 - [Mastering API Architecture](https://learning.oreilly.com/library/view/mastering-api-architecture/9781492090625/)
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848)
@@ -39,6 +41,7 @@
 - [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
 ## Back-End
+- [A linguagem de Programação Go](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=asc_df_8575225464/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=15902922161636502660&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9101483&hvtargid=pla-396486666170&psc=1)
 - [Aplicações web real-time com Node.js](https://www.casadocodigo.com.br/products/livro-nodejs)
 - [CDI](https://www.casadocodigo.com.br/products/livro-cdi)
 - [Componentes Reutilizáveis em Java com Reflexão e Anotações](https://www.casadocodigo.com.br/products/livro-reflexao-anotacoes)
@@ -102,6 +105,7 @@
 ## Infra
 - [Começando com o Linux](https://www.casadocodigo.com.br/products/livro-linux)
 - [Containers com Docker](https://www.casadocodigo.com.br/products/livro-docker)
+- [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_00.html)
 - [Google App Engine](https://www.casadocodigo.com.br/products/livro-gae)
 - [Jenkins](https://www.casadocodigo.com.br/products/livro-jenkins)
 - [Kubernetes](https://www.casadocodigo.com.br/products/livro-kubernetes)
