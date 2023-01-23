@@ -23,7 +23,7 @@
 - Escaner bibliotecas em uso nos sites ([https://bundlescanner.com/](https://bundlescanner.com/))
 - Ferramentas para pensar melhor em colaboração ([https://untools.co/](https://untools.co/))
 - Free for Dev ([https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev))
-- Gerador de imagens para sites ([https://picsum.photos/](https://picsum.photos/))
+- Gerador de imagens para sites ([https://picsum.photos/](https://picsum.photos/), [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/))
 - Habilidades de desenvolvedores web de maneira visual ([https://andreasbm.github.io/web-skills/](https://andreasbm.github.io/web-skills/))
 - Imagens SVG's gratuitas ([https://undraw.co/illustrations](https://undraw.co/illustrations))
 - Lista de alternativas open-source ((https://www.btw.so/open-source-alternatives)[https://www.btw.so/open-source-alternatives])

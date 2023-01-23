@@ -21,6 +21,7 @@
 - [Formidablejs](https://www.formidablejs.org/)
 - [Grind](https://grind.rocks/)
 - [Hapi](https://hapi.dev/)
+- [Herb.js](https://herbsjs.org/)
 - [HyperStackjs](https://hyperstackjs.io/)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Koa](https://koajs.com/)
