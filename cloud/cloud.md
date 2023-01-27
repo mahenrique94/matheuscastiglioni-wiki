@@ -25,6 +25,7 @@
 - [Locaweb](https://www.locaweb.com.br/)
 - [Mandic](https://www.mandic.com.br/)
 - [Netlify](https://www.netlify.com/)
+- [Nhost](https://nhost.io/)
 - [Northflank](https://northflank.com/)
 - [Pocketbase](https://pocketbase.io/)
 - [Porter](https://www.getporter.dev/)

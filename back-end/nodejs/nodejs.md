@@ -203,6 +203,9 @@
 ### Integração
 - [Neon](https://neon-bindings.com/)
 
+### IO
+- [NodeUSB](https://github.com/node-usb/node-usb)
+
 ### Job
 - [Bree](https://github.com/breejs/bree)
 
