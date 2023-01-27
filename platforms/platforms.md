@@ -39,6 +39,7 @@
 - Gerenciador de tempo em tarefas ([https://clockify.me/](https://clockify.me/), [https://www.getharvest.com/](https://www.getharvest.com/), [https://toggl.com/](https://toggl.com/))
 - Gerenciar WebHooks ([https://hookdeck.com/](https://hookdeck.com/))
 - Gerenciar investimentos ([https://carta.com/](https://carta.com/))
+- Gestão de agendas ([https://www.getclockwise.com/](https://www.getclockwise.com/), [https://reclaim.ai/](https://reclaim.ai/))
 - Gestão de comunicação ([https://www.vonage.com.br/](https://www.vonage.com.br/))
 - Gestão de times em engenharia ([https://www.botany.io/](https://www.botany.io/))
 - Hospedar imagens ([https://cloudinary.com/](https://cloudinary.com/))
