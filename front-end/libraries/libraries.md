@@ -49,6 +49,7 @@
 - [ZXCVBN](https://github.com/dropbox/zxcvbn)
 
 ## Banco de Dados
+- [AlaSQL](https://github.com/alasql/alasql)
 - [Dexie.js](https://github.com/dfahlander/Dexie.js)
 - [iDB](https://github.com/jakearchibald/idb)
 - [ImmortalDB](https://github.com/gruns/ImmortalDB)
@@ -100,6 +101,7 @@
 - [Size Limit](https://github.com/ai/size-limit)
 - [SWC](https://github.com/swc-project/swc)
 - [TSup](https://github.com/egoist/tsup)
+- [TSX](https://github.com/esbuild-kit/tsx)
 - [Turbo](https://github.com/hotwired/turbo)
 - [Turbopack](https://turbo.build/pack)
 - [Turborepo](https://turbo.build/)
@@ -582,6 +584,7 @@
 
 ## Realtime
 - [Geckos](https://github.com/geckosio/geckos.io)
+- [LiveBlocks](https://liveblocks.io/)
 - [Socket.io](https://github.com/socketio/socket.io)
 
 ## Reflexão

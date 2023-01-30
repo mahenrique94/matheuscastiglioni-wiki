@@ -47,6 +47,7 @@
 - [Hypertrace](https://www.hypertrace.org/)
 - [Jaeger](https://www.jaegertracing.io/)
 - [Kibana](https://www.elastic.co/pt/kibana)
+- [Komiser](https://www.komiser.io/)
 - [LightStep](https://lightstep.com/)
 - [LogRocket](https://logrocket.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)

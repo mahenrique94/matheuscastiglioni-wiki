@@ -46,6 +46,7 @@
 - [Infura](https://www.infura.io/)
 - [IPFS](https://ipfs.tech/)
 - [OnMachina](https://www.onmachina.io/)
+- [Tatum](https://tatum.io/)
 
 ### IDE's
 - [Remix](https://remix-project.org/)
