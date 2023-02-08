@@ -58,6 +58,7 @@
 - Pair programming ou meets ([https://www.loom.com/](https://www.loom.com/), [https://pop.com/home](https://pop.com/home))
 - Publica e construir servicos IoT ([https://www.balena.io/](https://www.balena.io/))
 - Realizar envio de email ([https://sendgrid.com/](https://sendgrid.com/))
+- Realizar envio de notificações ([https://www.courier.com/](https://www.courier.com/))
 - Realizar envio de SMS ([https://www.twilio.com/](https://www.twilio.com/))
 - Realizar estimativa ágil usando Poker ([https://firepoker.io/](https://firepoker.io/))
 - Realizar pesquisa ([https://www.typeform.com/](https://www.typeform.com/))

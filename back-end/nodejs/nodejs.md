@@ -325,6 +325,7 @@
 
 ### Template Engine
 - [EJS](https://github.com/mde/ejs)
+- [Eta](https://eta.js.org/)
 - [HandleBars](https://github.com/handlebars-lang/handlebars.js)
 - [Marko](https://github.com/marko-js/marko)
 - [Pug](https://github.com/pugjs/pug)
