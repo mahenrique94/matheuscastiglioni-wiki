@@ -118,6 +118,7 @@
 ## Indexação de dados
 - [Algolia](https://www.algolia.com/doc/)
 - [ElasticSearch](https://www.elastic.co/)
+- [MeiliSearch](https://www.meilisearch.com/)
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [Solr](https://lucene.apache.org/solr/)
 - [Sonic](https://crates.io/crates/sonic-server)

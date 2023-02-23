@@ -134,6 +134,7 @@
 - [Tamagui](https://tamagui.dev/)
 - [TanStack Router](https://tanstack.com/router/v1)
 - [TanStack Table](https://tanstack.com/table/v8)
+- [Tremor](https://www.tremor.so/)
 - [Webrix](https://github.com/open-amdocs/webrix/)
 - [Wouter](https://github.com/molefrog/wouter)
 

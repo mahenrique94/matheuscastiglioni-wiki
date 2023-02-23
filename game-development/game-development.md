@@ -12,6 +12,7 @@
 - [Coconut2D](https://www.coconut2d.com/)
 - [Cocos Creator](https://www.cocos.com/en)
 - [Construct](https://www.construct.net/en)
+- [CopperCube](https://www.ambiera.com/coppercube/)
 - [CRYEngine](https://www.cryengine.com/)
 - [Decima](https://pt.wikipedia.org/wiki/Decima_(motor_de_jogo))
 - [Eva.js](https://github.com/eva-engine/eva.js)

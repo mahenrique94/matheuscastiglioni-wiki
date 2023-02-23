@@ -19,8 +19,9 @@
 ## Frameworks
 
 ### API
--  [Rocket](https://rocket.rs/)
--  [Salvo](https://salvo.rs/)
+- [Axum](https://docs.rs/axum/latest/axum/)
+- [Rocket](https://rocket.rs/)
+- [Salvo](https://salvo.rs/)
 
 ### Web
--  [Seed](https://seed-rs.org/)
+- [Seed](https://seed-rs.org/)

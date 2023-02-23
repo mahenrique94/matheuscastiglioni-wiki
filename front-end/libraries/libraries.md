@@ -28,6 +28,7 @@
   - [Lottie Web](https://github.com/airbnb/lottie-web)
 - [Mo.js](https://github.com/mojs/mojs)
 - [Motion](https://motion.dev/)
+- [Motion Canvas](https://motioncanvas.io/)
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
 - [Scenejs](https://github.com/daybrush/scenejs)
@@ -340,6 +341,7 @@
 - [HighLight](highlight.js)
 - [Prism](https://prismjs.com/)
 - [Refractor](https://github.com/wooorm/refractor)
+- [Shiki](https://github.com/shikijs/shiki)
 - [Syntax](https://syntax.page/)
 
 ## Formulário
@@ -362,7 +364,7 @@
 - [Immer](https://github.com/immerjs/immer)
 - [Legend State](https://github.com/LegendApp/legend-state)
 - [MobX](https://github.com/mobxjs/mobx)
-- [NanoStores](https://github.com/ai/nanostores)
+- [NanoStores](https://github.com/nanostores/nanostores)
 - [Redux](https://github.com/reduxjs/redux)
   - [Awesome Reedux](https://github.com/xgrommx/awesome-redux)
   - [Redux Actions](https://github.com/redux-utilities/redux-actions)
@@ -422,6 +424,7 @@
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
 - [Iconoir](https://iconoir.com/)
+- [Lucide](https://lucide.dev/)
 - [MingCute](https://www.mingcute.com/)
 - [PhosphorIcons](https://phosphoricons.com/)
 - [RemixIcon](https://remixicon.com/)

@@ -25,6 +25,7 @@
 - [FlashList](https://github.com/shopify/flash-list)
 - [Native base](https://github.com/GeekyAnts/NativeBase)
 - [NativeWind](https://www.nativewind.dev/)
+- [Notifee](https://notifee.app/)
 - [React Native Elements](https://github.com/react-native-elements/react-native-elements)
 - [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
 - [React Native Material TextField](https://github.com/n4kz/react-native-material-textfield)
