@@ -22,6 +22,7 @@
 
 ## Animação
 - [Anime.js](https://github.com/juliangarnier/anime)
+- [AutoAnimate](https://auto-animate.formkit.com/)
 - [Bounce.js](https://github.com/tictail/bounce.js)
 - [Lax.js](https://github.com/alexfoxy/lax.js)
 - [Lottie](https://github.com/airbnb/lottie)
@@ -198,6 +199,7 @@
 - [CerebralJS](https://cerebraljs.com/)
 - [Choo](https://github.com/choojs/choo)
 - [CSSDoodle](https://css-doodle.com/)
+- [DnDKit](https://dndkit.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
 - [FloatingUI](https://github.com/atomiks/floating-ui)
@@ -588,6 +590,7 @@
 ## Realtime
 - [Geckos](https://github.com/geckosio/geckos.io)
 - [LiveBlocks](https://liveblocks.io/)
+- [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
 - [Socket.io](https://github.com/socketio/socket.io)
 
 ## Reflexão
@@ -597,6 +600,7 @@
 - [Super Expressive](https://github.com/francisrstokes/super-expressive)
 
 ## Requisição
+- [Alova.JS](https://alova.js.org/)
 - [Apollo](https://github.com/apollographql/apollo)
 - [Axios](https://github.com/axios/axios)
   - [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)

@@ -12,6 +12,7 @@
 - [BLoC (Business Logic Components)](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/)
 - [Branch by Abstraction](https://martinfowler.com/bliki/BranchByAbstraction.html)
 - [Broker](http://www.dossier-andreas.net/software_architecture/broker.html)
+- [Bulkhead](https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Client-server](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)

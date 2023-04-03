@@ -42,6 +42,7 @@
 - [FluentBit](https://fluentbit.io/)
 - [Google Analytics](https://analytics.google.com/)
 - [Grafana](https://grafana.com/)
+- [Highlight](https://www.highlight.io/)
 - [HoneyComb](https://www.honeycomb.io/)
 - [Humio](https://www.humio.com/)
 - [Hypertrace](https://www.hypertrace.org/)
@@ -59,6 +60,7 @@
 - [OpenTelemetry](https://opentelemetry.io/)
 - [OpsEngine](https://www.atlassian.com/software/opsgenie)
 - [PingDom](https://www.pingdom.com/)
+- [Plausible](https://plausible.io/)
 - [Posthog](https://posthog.com/)
 - [Prometheus](https://prometheus.io/)
   - [Cortex](https://cortexmetrics.io/)
@@ -70,6 +72,7 @@
 - [Stackify](https://stackify.com/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
 - [Zipkin](https://zipkin.io/)
+- [Woopra](https://www.woopra.com/)
 
 ## Logging
 - [Fluentd](https://www.fluentd.org/)

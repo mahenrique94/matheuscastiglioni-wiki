@@ -26,3 +26,6 @@
 
 ### Application
 - [Pushup](https://pushup.adhoc.dev/)
+
+### Microservices
+- [Service Weaver](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html)

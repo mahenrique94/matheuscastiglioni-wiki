@@ -21,6 +21,7 @@
 - [Hostinger](https://www.hostinger.com.br/)
 - [Hostman](https://hostman.com/)
 - [King Host](https://king.host/)
+- [Kinsta](https://kinsta.com/)
 - [Koyeb](https://www.koyeb.com/)
 - [Locaweb](https://www.locaweb.com.br/)
 - [Mandic](https://www.mandic.com.br/)

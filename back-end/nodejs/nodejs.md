@@ -199,6 +199,7 @@
 - [Tsyringe](https://github.com/microsoft/tsyringe)
 
 ### Instalação
+- [FNM](https://github.com/Schniz/fnm)
 - [N](https://github.com/tj/n)
 - [NVM](https://github.com/nvm-sh/nvm)
 - [NVM Windows](https://github.com/coreybutler/nvm-windows)
@@ -379,6 +380,7 @@
 ### Webhooks
 - [Diahook](https://www.diahook.com)
 - [Hook Relay](https://www.hookrelay.dev/)
+- [WebHookThing](https://webhookthing.com/)
 
 ## Links
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)
