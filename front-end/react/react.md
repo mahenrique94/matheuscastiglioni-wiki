@@ -85,7 +85,6 @@
 - [React DatePicker](https://github.com/Hacker0x01/react-datepicker)
 - [React Dates](https://github.com/airbnb/react-dates)
 - [React DND](https://github.com/react-dnd/react-dnd)
-- [React Error Boundary](https://github.com/bvaughn/react-error-boundary)
 - [React Flow](https://github.com/wbkd/react-flow)
 - [React Final Form](https://github.com/final-form/react-final-form)
 - [React Grid Layout](https://github.com/react-grid-layout/react-grid-layout)
@@ -157,6 +156,9 @@
 ### Ecommerce
 - [Hydrogen](https://shopify.dev/custom-storefronts/hydrogen)
 
+### Error Handling
+- [React Error Boundary](https://github.com/bvaughn/react-error-boundary)
+
 ### Estilização
 - [ClassNames](https://github.com/JedWatson/classnames)
 - [CLSX](https://www.npmjs.com/package/clsx)
@@ -202,7 +204,11 @@
 - [Victory](https://github.com/FormidableLabs/victory)
 - [VisX](https://github.com/airbnb/visx)
 
-## HOC
+### Hightlight
+- [Bright](https://github.com/code-hike/bright)
+- [CodeHike](https://codehike.org/)
+
+### HOC
 - [Recompose](https://github.com/acdlite/recompose)
 - [Recompact](https://github.com/gregberge/recompact)
 
