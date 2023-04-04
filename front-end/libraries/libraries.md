@@ -626,6 +626,11 @@
 - [Razzle](https://github.com/jaredpalmer/razzle)
 - [Umi](https://github.com/umijs/umi)
 
+## Task Runner
+- [Gulp](https://gulpjs.com/)
+- [Grunt](https://gruntjs.com/)
+- [Lage](https://github.com/microsoft/lage)
+
 ## Tradução
 - [I18n Manager](https://github.com/gilmarsquinelato/i18n-manager)
 - [Tolgee](https://tolgee.io/)

@@ -20,11 +20,15 @@
 ### Diagramas
 - [Svelvet](https://svelvet.io/)
 
+### Formulários
+- [Felte](https://felte.dev/)
+
 ### Gráficos
 - [Pancake](https://github.com/Rich-Harris/pancake)
 
 ### GraphQL
 - [Houdini](https://www.houdinigraphql.com/)
+- [URQL](https://formidable.com/open-source/urql/)
 
 ## Frameworks
 
@@ -37,3 +41,4 @@
 
 ## Links
 - [awesome-svelte-resources](https://github.com/ryanatkn/awesome-svelte-resources)
+- [Svelte Society](https://github.com/svelte-society/sveltesociety.dev/)
