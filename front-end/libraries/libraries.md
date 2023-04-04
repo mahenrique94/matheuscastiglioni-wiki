@@ -166,6 +166,7 @@
 - [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel)
 - [Flicking](https://github.com/naver/egjs-flicking)
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui)
+- [Keen Slider](https://keen-slider.io/)
 - [Papani.js](https://papanasi.js.org/)
 - [Tagify](https://github.com/yairEO/tagify)
 
@@ -344,6 +345,7 @@
 - [Prism](https://prismjs.com/)
 - [Refractor](https://github.com/wooorm/refractor)
 - [Shiki](https://github.com/shikijs/shiki)
+- [SQLFormatter](https://github.com/sql-formatter-org/sql-formatter)
 - [Syntax](https://syntax.page/)
 
 ## Formulário
