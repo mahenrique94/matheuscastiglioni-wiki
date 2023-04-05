@@ -86,6 +86,7 @@
 - [TigerGraph](https://www.tigergraph.com/)
 - [TileDB](https://tiledb.com)
 - [TimescaleDB](https://docs.timescale.com/)
+- [Turso](https://chiselstrike.com/)
 - [Upstash](https://www.upstash.com/)
 - [Vertica](https://www.vertica.com/)
 - [VoltDB](https://www.voltdb.com/)
