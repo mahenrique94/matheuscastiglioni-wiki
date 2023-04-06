@@ -75,6 +75,7 @@
 ### Automação
 - [Comby](https://github.com/comby-tools/comby)
 - [JSCodeShift](https://github.com/facebook/jscodeshift)
+- [Magicast](https://github.com/unjs/magicast)
 - [RobotJS](https://github.com/octalmage/robotjs)
 
 ### Banco de Dados
@@ -212,6 +213,7 @@
 
 ### Job
 - [Bree](https://github.com/breejs/bree)
+- [Croner](https://github.com/hexagon/croner)
 
 ### Logging
 - [Bunyan](https://github.com/trentm/node-bunyan)

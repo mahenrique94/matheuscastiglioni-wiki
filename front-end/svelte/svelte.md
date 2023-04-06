@@ -7,6 +7,7 @@
 
 ### Componentes
 - [Attractions](https://illright.github.io/attractions)
+- [Skeleton](https://www.skeleton.dev/)
 - [SmelteJS](https://smeltejs.com/)
 - [Svelma](https://c0bra.github.io/svelma/)
 - [SvelteAtoms](https://gitlab.com/az67128/svelte-atoms)

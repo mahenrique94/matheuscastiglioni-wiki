@@ -25,6 +25,7 @@
 - [Rockset](https://rockset.com/)
 
 ## Ferramentas
+- [Airbrake](https://www.airbrake.io/)
 - [AppDynamics](https://www.appdynamics.com/)
 - [Asayer](https://asayer.io/)
 - [Atera](https://www.atera.com/)
