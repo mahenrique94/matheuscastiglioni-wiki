@@ -53,6 +53,7 @@
 - Testar especificações WCAG em sites ([https://wave.webaim.org/](https://wave.webaim.org/))
 - Testar diferentes combinações de fontes ([https://fontflipper.com/](https://fontflipper.com/))
 - Teste de conhecimento, entenda seu perfil em como gosta de aprender ([http://www.cchla.ufpb.br/ccmd/aprendizagem/](http://www.cchla.ufpb.br/ccmd/aprendizagem/))
+- Teste de digitação ([https://monkeytype.com/](https://monkeytype.com/))
 - Teste de personalidade ([https://www.16personalities.com/](https://www.16personalities.com/))
 - Traduzir textos de um idioma para outro ([https://www.deepl.com/translator](https://www.deepl.com/translator))
 - Verificar busca por palavras chaves na Google ([https://keywordtool.io/](https://keywordtool.io/))

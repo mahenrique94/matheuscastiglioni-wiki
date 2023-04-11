@@ -242,7 +242,7 @@
 ### ORM
 - [Better SQLite3](https://github.com/WiseLibs/better-sqlite3)
 - [BookShelf](https://bookshelfjs.org/)
-- [Kysely](https://github.com/koskimas/kysely)
+- [Kysely](https://github.com/kysely-org/kysely)
 - [Mongoose](https://github.com/Automattic/mongoose)
   - [Historical](https://github.com/stennettm/historical)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)

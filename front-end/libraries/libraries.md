@@ -47,6 +47,7 @@
 ## Autenticação
 - [Clerk](https://clerk.dev/)
 - [FingerPrintJS](https://github.com/fingerprintjs/fingerprintjs)
+- [Lucia](https://lucia-auth.com/)
 - [UserFront](https://userfront.com/)
 - [ZXCVBN](https://github.com/dropbox/zxcvbn)
 
@@ -77,6 +78,7 @@
   - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [EStrella](https://github.com/rsms/estrella)
 - [LightningCSS](https://lightningcss.dev/)
+- [Lando](https://lando.dev/)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [NCC](https://github.com/vercel/ncc)
 - [NFT](https://github.com/vercel/nft)
@@ -95,6 +97,7 @@
   - [Rome CLI](https://docs.rome.tools/cli/)
   - [Rome Formatter](https://docs.rome.tools/formatter/)
   - [Rome Linter](https://docs.rome.tools/linter/)
+- [RsPack](https://www.rspack.dev/)
 - [Skypack](https://www.skypack.dev/)
 - [Snowpack](https://github.com/snowpackjs/snowpack)
 - [Sucrase](https://github.com/alangpierce/sucrase)
@@ -168,6 +171,7 @@
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui)
 - [Keen Slider](https://keen-slider.io/)
 - [Papani.js](https://papanasi.js.org/)
+- [Swiper.js](https://swiperjs.com/)
 - [Tagify](https://github.com/yairEO/tagify)
 
 ## Componentização

@@ -21,6 +21,7 @@
 - [Bulma](https://bulma.io/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [CSS Nano](https://github.com/cssnano/cssnano)
+- [DaisyUI](https://daisyui.com/)
 - [Flowbite](https://flowbite.com/)
 - [Foundation](https://get.foundation/)
 - [Halfmoon](https://github.com/halfmoonui/halfmoon)
@@ -42,6 +43,7 @@
 - [UIKit](https://getuikit.com/)
 - [UnoCSS](https://github.com/unocss/unocss)
 - [WindiCSS](https://windicss.org/)
+- [Winduum](https://winduum.dev/)
 
 ## Engine
 - [CSSSelect](https://github.com/fb55/css-select)
