@@ -32,6 +32,7 @@
 - [Micro.mu](https://github.com/micro/micro)
 - [Moleculer](https://moleculer.services/)
 - [NestJS](https://nestjs.com/)
+  - [awesome-nestjs](https://github.com/nestjs/awesome-nestjs)
 - [Node RED](https://nodered.org/)
 - [Polka](https://github.com/lukeed/polka)
 - [Restify](http://restify.com/)

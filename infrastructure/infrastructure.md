@@ -230,6 +230,7 @@
 ## Servidores
 - [Apache](https://www.apache.org/)
 - [Apache APISIX](https://apisix.apache.org/)
+- [Caddy](https://caddyserver.com/)
 - [Glassfish](https://javaee.github.io/glassfish/)
 - [HAProxy](http://www.haproxy.org/)
 - [Jetty](https://www.eclipse.org/jetty/)

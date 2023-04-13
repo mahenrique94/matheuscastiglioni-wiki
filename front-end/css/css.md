@@ -19,6 +19,7 @@
 - [Bootstrap](https://getbootstrap.com/)
 - [Buefy](https://buefy.org/)
 - [Bulma](https://bulma.io/)
+- [Carbon Design System](https://carbondesignsystem.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [CSS Nano](https://github.com/cssnano/cssnano)
 - [DaisyUI](https://daisyui.com/)

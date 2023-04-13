@@ -70,6 +70,9 @@
 ### Responsividade
 - [React Native Responsive FontSize](https://www.npmjs.com/package/react-native-responsive-fontsize)
 
+### Storage
+- [React Native MMKV](https://github.com/mrousavy/react-native-mmkv)
+
 ### Utiliários
 - [React Native Camera](https://github.com/react-native-camera/react-native-camera)
 
