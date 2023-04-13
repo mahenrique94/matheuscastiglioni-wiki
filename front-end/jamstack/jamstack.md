@@ -26,6 +26,7 @@ https://jamstack.org
 - [KeyStone](https://github.com/keystonejs/keystone)
 - [Lume](https://lume.land/)
 - [Meli](https://docs.meli.sh/)
+- [Modern.js](https://modernjs.dev/en)
 - [Next.js](https://github.com/vercel/next.js)
   - [Clerk](https://clerk.dev/)
   - [NextAuth](https://next-auth.js.org/)
