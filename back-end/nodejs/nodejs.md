@@ -89,6 +89,9 @@
 - [Tachometer](https://github.com/Polymer/tachometer)
 - [TinyBench](https://github.com/tinylibs/tinybench)
 
+### Bot
+- [Discord.js](https://discord.js.org/)
+
 ### Builders
 - [Builder Pattern](https://www.npmjs.com/package/builder-pattern)
 - [Factory Girl](https://www.npmjs.com/package/factory-girl)

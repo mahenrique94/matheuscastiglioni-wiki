@@ -77,6 +77,7 @@
 
 ## Logging
 - [Fluentd](https://www.fluentd.org/)
+- [Logtail](https://betterstack.com/logtail)
 
 ## Usabilidade
 - [ClickTale](https://www.clicktale.com/)
