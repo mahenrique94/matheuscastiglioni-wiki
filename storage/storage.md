@@ -24,6 +24,7 @@
 - [EspressoDB](https://espressodb.readthedocs.io/en/latest/)
 - [Event Store](https://www.eventstore.com/)
 - [FaunaDB](https://fauna.com/)
+- [FerretDB](https://www.ferretdb.io/)
 - [Firebird](https://firebirdsql.org/)
 - [HarperDB](https://harperdb.io/)
 - [HazelCast](https://hazelcast.com/)

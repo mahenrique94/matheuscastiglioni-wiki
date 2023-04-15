@@ -142,6 +142,7 @@
   - [Oracle Coherence](https://www.oracle.com/middleware/technologies/coherence.html)
 - [Strangler](https://microservices.io/patterns/refactoring/strangler-application.html)
 - [Subscription Based Architecture](https://www.researchgate.net/figure/Overview-of-subscription-based-architecture_fig4_220367928)
+- [Vertical Slice Architecture](https://garywoodfine.com/implementing-vertical-slice-architecture/)
 - [VIPER](https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac)
 
 ## Documentação

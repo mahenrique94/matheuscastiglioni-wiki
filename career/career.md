@@ -26,6 +26,8 @@
 
 ## Plataformas para criar desafios
 - [DevSkiller](https://devskiller.com/)
+- [Front-End Mentor](https://www.frontendmentor.io/)
+- [Front-End Practice](https://www.frontendpractice.com/)
 - [Qualified](https://www.qualified.io/)
 
 ## Plataformas para estudo

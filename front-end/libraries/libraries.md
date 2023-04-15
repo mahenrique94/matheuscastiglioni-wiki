@@ -572,6 +572,7 @@
 - [Micromark](https://github.com/micromark/micromark)
 
 ## PDF
+- [HTML2PDF](https://html2pdf.com/)
 - [PDFKit](https://github.com/foliojs/pdfkit)
 - [PDFMake](https://github.com/bpampuch/pdfmake)
 - [Print.js](https://github.com/crabbly/Print.js)

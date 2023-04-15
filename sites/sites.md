@@ -63,6 +63,7 @@
 - Verificar mudanças em códigos ([https://www.w3docs.com/tools/code-diff/](https://www.w3docs.com/tools/code-diff/))
 - Verificar perda de pacotes ([https://pt.packetlosstest.com/](https://pt.packetlosstest.com/))
 - Veriricar portas abertas em um IP ([https://www.whatismyip.com/port-scanner/](https://www.whatismyip.com/port-scanner/))
+- Verificar pronuncia de palavras ([https://forvo.com/](https://forvo.com/), [https://accenthero.com/](https://accenthero.com/))
 - Verificar suporte dos navegadores sobre acessibilidade ([https://www.html5accessibility.com/](https://www.html5accessibility.com/))
 - Visualizando repositórios Git ([https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/))
 - Visualizar JSON como grafos ([https://jsoncrack.com/](https://jsoncrack.com/), [https://jsonhero.io/](https://jsonhero.io/))
