@@ -2,6 +2,10 @@
 
 - [Java LibHunt](https://java.libhunt.com/)
 
+## ORM
+- [Hibernate](https://hibernate.org/)
+- [JPA](https://www.baeldung.com/learn-jpa-hibernate)
+
 ## Frameworks
 - [Axoniq](https://www.axoniq.io/)
   - [Axoniq Initializr](https://start.axoniq.io/)
@@ -11,7 +15,9 @@
 - [Quarkus](https://quarkus.io/)
 - [Quartz](http://www.quartz-scheduler.org/)
 - [Spring](https://spring.io/)
-  - [Sprint Initializr](https://start.spring.io/)
+  - [Spring Boot](https://spring.io/projects/spring-boot)
+  - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+  - [Spring Initializr](https://start.spring.io/)
 
 ## Qualidade
 - [ArchUnit](https://www.archunit.org/)

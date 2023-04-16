@@ -45,6 +45,7 @@
 - [Howler.js](https://github.com/goldfire/howler.js)
 
 ## Autenticação
+- [Auth0](https://auth0.com/)
 - [Clerk](https://clerk.dev/)
 - [FingerPrintJS](https://github.com/fingerprintjs/fingerprintjs)
 - [Lucia](https://lucia-auth.com/)
