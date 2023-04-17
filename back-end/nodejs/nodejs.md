@@ -373,6 +373,7 @@
 ### Validação
 - [Assert](https://www.npmjs.com/package/assert)
 - [AJV]([AJV](https://github.com/ajv-validator/ajv))
+- [ArkType](https://github.com/arktypeio/arktype)
 - [class-validator](https://github.com/typestack/class-validator)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
 - [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)

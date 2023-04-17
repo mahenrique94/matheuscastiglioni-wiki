@@ -13,6 +13,7 @@
 
 ### ORM
 - [Gorm](https://gorm.io/index.html)
+- [Upper/DB](https://upper.io/v4/)
 
 ### Validação
 - [Validator](https://github.com/go-playground/validator)

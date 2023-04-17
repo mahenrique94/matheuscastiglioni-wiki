@@ -8,6 +8,7 @@
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
 - Calcular dias úteis ([https://www.dias-uteis.com/](https://www.dias-uteis.com/))
 - Comprar diagramas ([https://text-to-diagram.com/](https://text-to-diagram.com/))
+- Converter unix timestamp para datas ([https://www.epochconverter.com/](https://www.epochconverter.com/))
 - Criar perfil do GitHub ([https://www.profileme.dev/](https://www.profileme.dev/))
 - Criação de apresentações ([https://grid.is/](https://grid.is/), [https://pitch.com/](https://pitch.com/), [https://sli.dev/](https://sli.dev/))
 - Coletar ideias e bugs de aplicações/sites ([https://www.pendo.io/](https://www.pendo.io/), [https://userback.io/](https://userback.io/), [https://userreport.com/](https://userreport.com/))

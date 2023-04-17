@@ -90,6 +90,7 @@
 - [Cartoon Animator](https://www.reallusion.com/cartoon-animator/download.html)
 - [Cascadeur](https://cascadeur.com/)
 - [Character Animator](https://www.adobe.com/br/products/character-animator.html)
+- [Character Creator](https://www.reallusion.com/character-creator/)
 - [Embergen](https://jangafx.com/software/embergen/)
 - [Face FX](https://facefx.com/)
 - [FaceGen](https://facegen.com/)

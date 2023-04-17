@@ -167,6 +167,7 @@
 - [Event Catalog](https://www.eventcatalog.dev/)
 - [Explanatory Model](https://en.m.wikipedia.org/wiki/Explanatory_model)
 - [FR's](https://en.wikipedia.org/wiki/Functional_requirement)
+- [Framework for Technical Documentation](https://diataxis.fr/)
 - [ICD (Initial Capabilities Document)](https://acqnotes.com/acqnote/tasks/initial-capabilities-documentrequirements)
 - [JAD (Joint Application Design)](https://en.wikipedia.org/wiki/Joint_application_design#:~:text=Joint%20application%20design%20(JAD)%20is,information%20systems%20for%20a%20company.)
 - [Kroki](https://kroki.io/)

@@ -13,6 +13,7 @@
 - [Companies Tools](https://www.companies.tools/)
 - [DevDocs](https://devdocs.io/)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Diataxis](https://diataxis.fr/)
 - [Electronic References](https://csgordon.github.io/books.html)
 - [Engineering Management](https://github.com/charlax/engineering-management)
 - [Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources](https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l)
