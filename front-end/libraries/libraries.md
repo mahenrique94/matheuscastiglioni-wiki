@@ -37,6 +37,7 @@
 - [SmoothStep](https://smoothstep.io/)
 - [Theatrejs](https://www.theatrejs.com/)
 - [Vanta](https://github.com/tengbao/vanta)
+- [Vivus](https://github.com/maxwellito/vivus)
 
 ## Apresentação
 - [Reveal.js](https://github.com/hakimel/reveal.js)

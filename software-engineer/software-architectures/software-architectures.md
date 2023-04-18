@@ -165,6 +165,7 @@
 - [Diagrama Dinâmico](https://engsoftmoderna.info/cap4.html)
 - [EDD (Engineering Design Docs)](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 - [Event Catalog](https://www.eventcatalog.dev/)
+- [Experience API Layer](https://medium.com/navalia/customer-experience-apis-the-missing-layer-58ecb93faa4b)
 - [Explanatory Model](https://en.m.wikipedia.org/wiki/Explanatory_model)
 - [FR's](https://en.wikipedia.org/wiki/Functional_requirement)
 - [Framework for Technical Documentation](https://diataxis.fr/)
