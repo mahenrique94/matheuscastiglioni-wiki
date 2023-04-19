@@ -91,6 +91,7 @@
 
 ### Bot
 - [Discord.js](https://discord.js.org/)
+- [Discord.js Bot](https://github.com/saiteja-madha/discord-js-bot)
 
 ### Builders
 - [Builder Pattern](https://www.npmjs.com/package/builder-pattern)

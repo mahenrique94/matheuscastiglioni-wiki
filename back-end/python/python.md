@@ -2,6 +2,9 @@
 
 ## Bibliotecas
 
+### AI
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
 ### App's
 - [Flet](https://flet.dev/)
 

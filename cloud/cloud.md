@@ -36,6 +36,7 @@
 - [Render](https://render.com/)
 - [Supabase](https://github.com/supabase/supabase)
 - [Surge](https://surge.sh/)
+- [Teleport](https://goteleport.com/)
 - [Temporal](https://temporal.io/)
 - [Umbler](https://umbler.com/)
 - [Vercel](https://vercel.com/)
