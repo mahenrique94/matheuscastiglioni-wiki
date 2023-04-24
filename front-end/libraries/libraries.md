@@ -41,6 +41,7 @@
 
 ## Apresentação
 - [Reveal.js](https://github.com/hakimel/reveal.js)
+- [Slidev](https://sli.dev/)
 
 ## Audio
 - [Howler.js](https://github.com/goldfire/howler.js)
@@ -58,6 +59,7 @@
 - [Dexie.js](https://github.com/dfahlander/Dexie.js)
 - [iDB](https://github.com/jakearchibald/idb)
 - [ImmortalDB](https://github.com/gruns/ImmortalDB)
+- [Kv](https://github.com/HeyPuter/kv.js)
 - [LocalForage](https://github.com/localForage/localForage)
 - [LowDB](https://github.com/typicode/lowdb)
 - [PouchDB](https://github.com/pouchdb/pouchdb)
@@ -202,6 +204,7 @@
 ## Criação e Maniputalção de Interface
 - [AgnosticUI](https://www.agnosticui.com/)
 - [Alpine.js](https://github.com/alpinejs/alpine)
+- [Ark](https://github.com/chakra-ui/ark/)
 - [Aurelia](https://aurelia.io/)
 - [CerebralJS](https://cerebraljs.com/)
 - [Choo](https://github.com/choojs/choo)
@@ -395,6 +398,7 @@
 - [TinyBase](https://tinybase.org/)
 - [Valtio](https://github.com/pmndrs/valtio)
 - [XState](https://github.com/davidkpiano/xstate)
+  - [LucyLang](https://lucylang.org/)
 
 ## Gráficos
 - [Apache ECharts](https://echarts.apache.org/en/index.html)

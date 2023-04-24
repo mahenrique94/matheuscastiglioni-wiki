@@ -240,6 +240,9 @@
 - [Undertow](https://undertow.io/)
 - [Wildfly](https://www.wildfly.org/)
 
+## Streaming
+- [Dyte](https://dyte.io/)
+
 ## Workflows
 - [Conductor](https://netflix.github.io/conductor/)
 - [Frinx](https://frinx.io/)

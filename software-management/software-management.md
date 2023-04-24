@@ -2,6 +2,7 @@
 
 - https://toolfinder.xyz/
 - https://zedaio.medium.com/product-management-tools-to-have-in-your-stack-de78aa12377
+- https://huryn.notion.site/8bdbf59604ac4f61a78eb93371e9548e?v=1126addc37c443f9ac31ad6d8d24323d
 
 ## Ferramentas
 - [Aha](https://www.aha.io/)

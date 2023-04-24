@@ -159,6 +159,9 @@
 ### Ecommerce
 - [Hydrogen](https://shopify.dev/custom-storefronts/hydrogen)
 
+### Email
+- [Mjml React](https://github.com/Faire/mjml-react)
+
 ### Error Handling
 - [React Error Boundary](https://github.com/bvaughn/react-error-boundary)
 
@@ -226,6 +229,9 @@
 - [Use Context Selector](https://github.com/dai-shi/use-context-selector)
 - [Use Hooks](https://github.com/uidotdev/usehooks)
 - [Use Hooks TS](https://github.com/juliencrn/usehooks-ts)
+
+### Imagens
+- [Next Cloudinary](https://next-cloudinary.spacejelly.dev/)
 
 ### Mapas
 - [PigeonMaps](https://github.com/mariusandra/pigeon-maps)

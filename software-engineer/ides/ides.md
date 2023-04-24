@@ -43,6 +43,7 @@
 - [VSCode](https://code.visualstudio.com/)
 - [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
 - [XCode](https://apps.apple.com/br/app/xcode/id497799835?mt=12)
+- [Zed](https://zed.dev/)
 
 ## Extensões
 - [Copilot](https://copilot.github.com/)

@@ -30,7 +30,7 @@
 - [Materialize CSS](https://materializecss.com/)
 - [Milligram](https://milligram.io/)
 - [Open Props](https://open-props.style/)
-- [PicoCSS](https://github.com/picocss/pico)
+- [PicoCSS](https://picocss.com/docs/)
 - [Primer](https://primer.style/)
 - [PureCSS](https://purecss.io/)
 - [Semantic UI](https://semantic-ui.com/)

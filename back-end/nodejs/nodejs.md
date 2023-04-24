@@ -191,7 +191,9 @@
 ### Imagens
 - [Jimp](https://www.npmjs.com/package/jimp)
 - [OpenCV](https://docs.opencv.org/)
+- [PixelMatch](https://github.com/mapbox/pixelmatch)
 - [Sharp](https://github.com/lovell/sharp)
+- [SSDiff](https://github.com/BuilderIO/SSDiff)
 - [Tesseract](https://tesseract.projectnaptha.com/)
 
 ### Indexação de Dados
@@ -247,6 +249,7 @@
 ### ORM
 - [Better SQLite3](https://github.com/WiseLibs/better-sqlite3)
 - [BookShelf](https://bookshelfjs.org/)
+- [Drizzle](https://github.com/drizzle-team/drizzle-orm)
 - [Kysely](https://github.com/kysely-org/kysely)
 - [Mongoose](https://github.com/Automattic/mongoose)
   - [Historical](https://github.com/stennettm/historical)
@@ -266,6 +269,7 @@
   - [Anvaka](http://npm.anvaka.com/)
   - [BundleJS](https://bundlejs.com/)
   - [BundlePhobia](https://bundlephobia.com/)
+  - [CalVer](https://calver.org/)
   - [Deps.dev](https://deps.dev/)
   - [Moiva](https://moiva.io/)
   - [NPM SemVer Calculator](https://semver.npmjs.com/)
