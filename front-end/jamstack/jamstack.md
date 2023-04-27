@@ -45,5 +45,6 @@ https://jamstack.org
 - [Scully](https://github.com/scullyio/scully)
 - [Storyblok](https://www.storyblok.com/)
 - [Strapi](https://strapi.io/)
+- [Tina](https://tina.io/)
 - [Umi](https://github.com/umijs/umi)
 - [VitePress](https://vitepress.vuejs.org/)

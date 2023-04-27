@@ -46,6 +46,9 @@
 - [DevLake](https://github.com/merico-dev/lake)
 - [Grid](https://grid.is/)
 
+## Planilhas
+- [Quadratic](https://www.quadratichq.com/)
+
 ## Plataformas
 - [DataBricks](https://databricks.com/)
 - [Firebolt](https://www.firebolt.io/)

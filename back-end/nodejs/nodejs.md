@@ -107,6 +107,7 @@
 ### Command Line
 - [Blessed](https://github.com/chjj/blessed)
 - [Chalk](https://github.com/chalk/chalk)
+  - [Chalk Animation](https://github.com/bokub/chalk-animation)
 - [Colors.js](https://github.com/Marak/colors.js)
 - [Commander.js](https://github.com/tj/commander.js)
 - [GlueGun](https://github.com/infinitered/gluegun)

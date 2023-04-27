@@ -28,7 +28,7 @@
 - [Lottie](https://github.com/airbnb/lottie)
   - [Lottie Web](https://github.com/airbnb/lottie-web)
 - [Mo.js](https://github.com/mojs/mojs)
-- [Motion](https://motion.dev/)
+- [Motion One](https://motion.dev/)
 - [Motion Canvas](https://motioncanvas.io/)
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
@@ -59,6 +59,7 @@
 - [Dexie.js](https://github.com/dfahlander/Dexie.js)
 - [iDB](https://github.com/jakearchibald/idb)
 - [ImmortalDB](https://github.com/gruns/ImmortalDB)
+- [Keyv](https://keyvhq.js.org/)
 - [Kv](https://github.com/HeyPuter/kv.js)
 - [LocalForage](https://github.com/localForage/localForage)
 - [LowDB](https://github.com/typicode/lowdb)
@@ -650,6 +651,7 @@
 
 ## Tradução
 - [I18n Manager](https://github.com/gilmarsquinelato/i18n-manager)
+- [JS Lingui](https://github.com/lingui/js-lingui)
 - [Tolgee](https://tolgee.io/)
 
 ## Utils

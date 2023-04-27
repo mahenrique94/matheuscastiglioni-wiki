@@ -59,6 +59,7 @@
 - [Krake CI](https://kraken.ci/)
 - [Octopus Deploy](https://octopus.com/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker)
+  - [Kayenta](https://github.com/spinnaker/kayenta)
 - [TeamCity](https://www.jetbrains.com/teamcity/)
 - [Tekton](https://tekton.dev/)
 - [Travis CI](https://travis-ci.org/)
@@ -156,6 +157,7 @@
   - [Swagger](https://swagger.io/)
 
 ## Feature Flag
+- [FeatureVisor](https://featurevisor.com/)
 - [LaunchDarkly](https://launchdarkly.com/)
 - [Permit](https://www.permit.io/)
 - [Split](https://www.split.io/)

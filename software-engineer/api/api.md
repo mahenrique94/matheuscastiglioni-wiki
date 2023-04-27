@@ -20,6 +20,7 @@
 
 ## Programas
 - [Hoppscotch](https://hoppscotch.io/)
+- [HTTPie](https://httpie.io/app)
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
 
