@@ -229,6 +229,7 @@
 - [Mint](https://github.com/mint-lang/mint)
 - [Mithril](https://mithril.js.org/)
 - [Mitosis](https://github.com/BuilderIO/mitosis)
+- [Modern.js](https://github.com/web-infra-dev/modern.js)
 - [Moon](https://github.com/kbrsh/moon)
 - [Mosaic](https://github.com/Authman2/Mosaic/)
 - [Neo](https://github.com/neomjs/neo)

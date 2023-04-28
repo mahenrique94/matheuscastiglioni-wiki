@@ -34,7 +34,7 @@
 - Rastreie seu tempo automaticamente ([https://memory.ai/timely](https://memory.ai/timely))
 - Realizar SQLs em arquivos CSV, XLS e JSON ([https://simplql.com/](https://simplql.com/))
 - Remover fundo de videos chamadass ([https://www.chromacam.me/](https://www.chromacam.me/))
-- Remover som de fundo ([https://krisp.ai/](https://krisp.ai/))
+- Remover som de fundo ([https://krisp.ai/](https://krisp.ai/), [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [https://www.utterly.app/](https://www.utterly.app/))
 - SVG
   - Animar SVG's ([https://svgartista.net/](https://svgartista.net/))
   - Colorir SVG's ([https://www.fecolormatrix.com/](https://www.fecolormatrix.com/))
