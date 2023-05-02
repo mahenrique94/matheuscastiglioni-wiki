@@ -320,7 +320,9 @@
 ### Realtime
 - [PusherJS](https://pusher.com/)
 - [Socket.io](https://socket.io/)
+- [Sockette](https://www.npmjs.com/package/sockette)
 - [Soketi](https://soketi.app/)
+- [SturdyWebsocket](https://www.npmjs.com/package/sturdy-websocket)
 - [WS](https://github.com/websockets/ws)
 
 ### Redis

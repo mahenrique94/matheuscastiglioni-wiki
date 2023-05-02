@@ -13,6 +13,7 @@
 - [Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=asc_df_B085PP6Y8P/?tag=googleshopp00-20&linkCode=df0&hvadid=426564911966&hvpos=&hvnetw=g&hvrand=11450558934850062724&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-893564488271&psc=1)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Continuous API Management, 2nd Edition](https://learning.oreilly.com/library/view/continuous-api-management/9781098103514/)
+- [Design It!: From Programmer to Software Architect](https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [Designing Data–Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)

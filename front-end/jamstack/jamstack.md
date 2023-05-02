@@ -4,6 +4,7 @@ https://jamstack.org
 
 ## Geradores de Sites
 - [Aleph.js](https://github.com/alephjs/aleph.js)
+- [Analog.js](https://analogjs.org/)
 - [Apostrophe](https://github.com/apostrophecms/apostrophe)
 - [Astro](https://astro.build/)
 - [Blitz](https://blitzjs.com/)
