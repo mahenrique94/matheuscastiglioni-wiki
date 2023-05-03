@@ -645,6 +645,9 @@
 - [Razzle](https://github.com/jaredpalmer/razzle)
 - [Umi](https://github.com/umijs/umi)
 
+## Suporte
+- [SupportsCSS](https://supportscss.dev/)
+
 ## Task Runner
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
@@ -680,6 +683,9 @@
 - [Plyr](https://github.com/sampotts/plyr)
 - [Video.js](https://github.com/videojs/video.js)
 - [Vime](https://github.com/vime-js/vime)
+
+## Virtual DOM
+- [BlockDOM](https://github.com/ged-odoo/blockdom)
 
 ## WebAssembly
 - [EMScripten](https://github.com/emscripten-core/emscripten)
