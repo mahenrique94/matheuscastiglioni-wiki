@@ -199,6 +199,9 @@
 
 ### Indexação de Dados
 - [ElasticSearch.js](https://github.com/elastic/elasticsearch-js)
+- [FlexSearch](https://github.com/nextapps-de/flexsearch)
+- [Fuse](https://github.com/krisk/Fuse)
+- [Fuzzball.js](https://github.com/nol13/fuzzball.js)
 - [Lyra](https://lyrajs.io/)
 
 ### Injeção de Dependência
