@@ -12,11 +12,14 @@
 - [Leptos](https://docs.rs/leptos/latest/leptos/)
 - [Yew](https://yew.rs/)
 
+### GPU
+- [Ash](https://github.com/MaikKlein/ash)
+
 ### ORM
 - [Diesel](https://diesel.rs/)
 
-### GPU
-- [Ash](https://github.com/MaikKlein/ash)
+### Realtime
+- [FastWebSockets](https://github.com/denoland/fastwebsockets)
 
 ## Frameworks
 

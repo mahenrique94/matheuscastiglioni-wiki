@@ -28,6 +28,7 @@
 - [Leankor](https://www.leankor.com/)
 - [Leapsome](https://www.leapsome.com/)
 - [Linear](https://linear.app/)
+- [Linen](https://www.linen.dev/)
 - [KiteMaker](https://www.kitemaker.co/)
 - [Mattermost](https://mattermost.com/)
 - [Menti](https://www.menti.com/)

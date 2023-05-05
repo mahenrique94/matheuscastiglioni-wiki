@@ -29,6 +29,7 @@
 - [Engenharia de Software](/software-engineer/software-engineer.md)
   - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
   - [Algoritmos](/software-engineer/algorithms/algorithms.md)
+  - [AI (Artifical Intelligence)](/software-engineer/ai/ai.md)
   - [API (Application Programming Interface)](/software-engineer/api/api.md)
   - [Arquiteturas de Software](/software-engineer/software-architectures/software-architectures.md)
   - [Bit/Bytes](/software-engineer/bit-bytes/bit-bytes.md)

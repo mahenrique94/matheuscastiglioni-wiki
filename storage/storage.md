@@ -43,6 +43,7 @@
 - [M3](https://m3db.io/)
 - [MemCached](https://memcached.org/)
   - [Twemproxy](https://github.com/twitter/twemproxy)
+- [MindsDB](https://mindsdb.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
   - [ProxySQL](https://proxysql.com/)

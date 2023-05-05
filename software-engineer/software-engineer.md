@@ -22,6 +22,7 @@
 - [GitStar Ranking](https://gitstar-ranking.com/)
 - [JSON Api](https://jsonapi.org/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [Module Counts](http://www.modulecounts.com/)
 - [NamingCheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [Omatsuri](https://omatsuri.app/)
 - [Principles.dev](https://github.com/PrinciplesDotDev/principles)
@@ -37,6 +38,7 @@
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
 - [Algoritmos](/software-engineer/algorithms/algorithms.md)
+- [AI (Artifical Intelligence)](/software-engineer/ai/ai.md)
 - [API (Application Programming Interface)](/software-engineer/api/api.md)
 - [Arquiteturas de Software](/software-engineer/software-architectures/software-architectures.md)
 - [Bit/Bytes](/software-engineer/bit-bytes/bit-bytes.md)
