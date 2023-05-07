@@ -93,6 +93,7 @@
 - [Urgency vs Importance](https://bootcamp.uxdesign.cc/4-powerful-prioritization-frameworks-for-every-product-manager-558de71a11dc)
 - [Value Stream Mapping](https://www.supero.com.br/blog/value-stream-mapping/)
 - [Value vs Complexity](https://bootcamp.uxdesign.cc/4-powerful-prioritization-frameworks-for-every-product-manager-558de71a11dc)
+- [Value vs Effort](https://levelup.gitconnected.com/how-to-manage-your-technical-backlog-868415f8eea9)
 - [Vision Tree](https://medium.com/swlh/we-don-t-build-feature-here-the-secret-to-empower-and-align-teams-using-the-vision-tree-cc8302684f51)
 - [Wardley Value Chain](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
 
