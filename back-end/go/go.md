@@ -11,6 +11,9 @@
 ### Injeção de Dependência
 - [Dig](https://github.com/uber-go/dig)
 
+### JavaScript
+- [v8Go](https://github.com/rogchap/v8go)
+
 ### ORM
 - [Gorm](https://gorm.io/index.html)
 - [Upper/DB](https://upper.io/v4/)

@@ -36,6 +36,9 @@
 ### Mock
 - [Mockito](https://pub.dev/packages/mockito)
 
+### Reatividade
+- [RxNotifier](https://pub.dev/packages/rx_notifier)
+
 ### Requisição
 - [Dio](https://pub.dev/packages/dio)
 - [HTTP](https://pub.dev/packages/http)

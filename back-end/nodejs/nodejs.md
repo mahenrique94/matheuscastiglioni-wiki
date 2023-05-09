@@ -116,6 +116,9 @@
 - [Oclif](https://github.com/oclif/oclif)
 - [Yargs](https://github.com/yargs/yargs)
 
+### Compatação
+- [Handbrake-js](https://github.com/75lb/handbrake-js)
+
 ### Configuração
 - [Cloc](https://github.com/AlDanial/cloc)
 - [DepCheck](https://github.com/depcheck/depcheck)
@@ -130,6 +133,7 @@
 ### Conversões
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - [Mux.js](https://github.com/videojs/mux.js)
+- [NotionToMD](https://github.com/souvikinator/notion-to-md)
 
 ### Crawler
 - [Crawlee](https://crawlee.dev/)
@@ -203,6 +207,7 @@
 - [Fuse](https://github.com/krisk/Fuse)
 - [Fuzzball.js](https://github.com/nol13/fuzzball.js)
 - [Lyra](https://lyrajs.io/)
+- [Orama](https://github.com/oramasearch/orama)
 
 ### Injeção de Dependência
 - [Awilix](https://github.com/jeffijoe/awilix)

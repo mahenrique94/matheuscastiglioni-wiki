@@ -24,6 +24,9 @@
 ## Inteligência Artificial (AI)
 - [O que é ?](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
+## Linguagens
+- [Mojo](https://www.modular.com/mojo)
+
 ## Machine Learning (ML)
 - [Algoritmos não supervisionados](https://www.alura.com.br/conteudo/machine-learning-algoritmos-nao-supervisionados)
 - [Aprendizado supervisionado](https://isitics.com/2018/08/28/aprendizagem-supervisionada-ou-nao-supervisionada/#:~:text=Imagine%20que%20n%C3%A3o%20se%20tem,estar%C3%A3o%20em%20algum%20grupo%20criado.)

@@ -244,6 +244,7 @@
 - [Solid](https://github.com/solidjs/solid)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 - [Slim.js](https://github.com/slimjs/slim.js)
+- [Split.js](https://split.js.org/#/)
 - [Stimulus](https://github.com/hotwired/stimulus)
 - [SweetAlert2](https://github.com/sweetalert2/sweetalert2)
 - [TextMask](https://github.com/text-mask/text-mask)

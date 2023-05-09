@@ -52,6 +52,7 @@
   - [Two Phase Commit (2PC)](https://en.wikipedia.org/wiki/Two-phase_commit_protocol#:~:text=The%20commit%20phase%2C%20in%20which,result%20to%20all%20the%20participants.)
   - [Event Interception](https://martinfowler.com/articles/patterns-legacy-displacement/event-interception.html)
 - [Externalized Configuration](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+- [FAC (Feature Access Control)](https://www.flagship.io/feature-flag-access-control/)
 - [FDD (Feature Driven Development)](https://www.devmedia.com.br/introducao-ao-fdd-feature-driven-development/27971)
 - [Feature Parity](https://martinfowler.com/articles/patterns-legacy-displacement/feature-parity.html)
 - [Feature Oriented Architecture](https://medium.com/@nate_wang/feature-oriented-architecture-for-web-applications-2b48e358afb0)
