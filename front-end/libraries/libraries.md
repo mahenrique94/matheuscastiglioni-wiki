@@ -555,7 +555,7 @@
 - [DependencyCruiser](https://github.com/sverweij/dependency-cruiser)
 - [Insight](https://github.com/yeoman/insight)
 - [Madge](https://github.com/pahen/madge)
-- [OpenTelemetry](https://github.com/open-telemetry/opentelemetry.io)
+- [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js)
 - [Perfume.js](https://github.com/Zizzamia/perfume.js)
 - [RepoVisualizer](https://github.com/githubocto/repo-visualizer)
 - [SpeedVitals](https://speedvitals.com/)
@@ -654,6 +654,9 @@
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
 - [Lage](https://github.com/microsoft/lage)
+
+## Tracing
+- [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js)
 
 ## Tradução
 - [I18n Manager](https://github.com/gilmarsquinelato/i18n-manager)
