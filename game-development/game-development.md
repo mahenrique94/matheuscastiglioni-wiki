@@ -1,5 +1,12 @@
 # Desenvolvimento de Jogos
 
+## Arquiteturas
+- [Actor model](https://en.wikipedia.org/wiki/Actor_model)
+- [DOTS (Data Oriented Technology Stack)](https://hub.packtpub.com/what-is-unitys-new-data-oriented-technology-stack-dots/)
+- [ECS (Entity Component System)](https://pt.wikipedia.org/wiki/Entity-component-system)
+- [Replay System](https://www.gamedeveloper.com/programming/developing-your-own-replay-system)
+- [Streaming System](https://www.gamedeveloper.com/programming/streaming-for-next-generation-games)
+
 ## Bibliotecas
 - [Assimp](https://github.com/assimp/assimp)
 
@@ -126,3 +133,7 @@
 - [SpeedTree](https://store.speedtree.com/)
 - [Substance 3D](https://www.substance3d.com/)
 - [SynthEtes](https://www.ssontech.com/)
+- [Tiled](https://www.mapeditor.org/)
+
+## Técnicas
+- [Delta Encoding](https://en.wikipedia.org/wiki/Delta_encoding)

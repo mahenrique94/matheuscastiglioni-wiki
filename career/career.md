@@ -19,6 +19,7 @@
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
+- [InterviewPen](https://interviewpen.com/)
 - [Skilled](https://skilled.dev/)
 - [Structy](https://structy.net/)
 - [TreeHouse](https://teamtreehouse.com/)

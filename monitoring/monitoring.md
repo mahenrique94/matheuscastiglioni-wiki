@@ -65,6 +65,7 @@
 - [Posthog](https://posthog.com/)
 - [Prometheus](https://prometheus.io/)
   - [Cortex](https://cortexmetrics.io/)
+  - [Thanos](https://github.com/thanos-io/thanos)
 - [Rollbar](https://rollbar.com/)
 - [Sentry](https://sentry.io/welcome/)
 - [Signoz](https://github.com/SigNoz/signoz)

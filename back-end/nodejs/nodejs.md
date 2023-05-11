@@ -296,6 +296,9 @@
 - [PSD](https://github.com/webtoon/psd)
 - [Recast](https://github.com/benjamn/recast)
 
+### Pattern Matching
+- [TSPattern](https://github.com/gvergnaud/ts-pattern)
+
 ### Process
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
 - [Execa](https://github.com/sindresorhus/execa)

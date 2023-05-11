@@ -34,6 +34,7 @@
 - [SaltStack](https://saltproject.io/)
 - [Terraform](https://www.terraform.io/)
   - [Atlantis](https://github.com/runatlantis/atlantis)
+  - [Sentinel](https://www.hashicorp.com/sentinel)
   - [TFSec](https://github.com/aquasecurity/tfsec)
 - [Vagrant](https://www.vagrantup.com/)
 
@@ -58,6 +59,7 @@
 - [Jenkins](https://www.jenkins.io/)
 - [Krake CI](https://kraken.ci/)
 - [Octopus Deploy](https://octopus.com/)
+- [Spacelift](https://spacelift.io/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker)
   - [Kayenta](https://github.com/spinnaker/kayenta)
 - [TeamCity](https://www.jetbrains.com/teamcity/)
@@ -86,6 +88,7 @@
   - [Playground](https://www.docker.com/play-with-docker)
   - [Podman](https://podman.io/)
   - [Portainer](https://www.portainer.io/)
+  - [Trivy](https://aquasecurity.github.io/trivy)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [DevopsStack](https://devops-stack.io)
@@ -103,6 +106,7 @@
   - [KubeSQL](https://github.com/Dentrax/kubesql)
   - [KubeVela](https://kubevela.io/)
   - [Lens](https://k8slens.dev/)
+  - [Loft](https://loft.sh/)
   - [OpenFAAS](https://www.openfaas.com/)
   - [OpenShift](https://www.openshift.com/)
   - [Operator](https://operatorframework.io/)
@@ -228,6 +232,10 @@
   - [ShellCheck](https://www.shellcheck.net/)
 - [Makefile](https://www.gnu.org/software/make/manual/make.html)
 - [Shell Script](https://pt.wikipedia.org/wiki/Shell_script)
+
+## Segurança
+- [SOPS](https://github.com/mozilla/sops)
+- [Trivy](https://aquasecurity.github.io/trivy)
 
 ## Servidores
 - [Apache](https://www.apache.org/)
