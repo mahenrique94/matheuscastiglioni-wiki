@@ -147,6 +147,9 @@
 - [Rescripts](https://github.com/harrysolovay/rescripts)
 - [Rewire](https://github.com/jhnns/rewire)
 
+### CRUD
+- [Refine](https://refine.dev/)
+
 ### Desenvolvimento
 - [React Cosmos](https://reactcosmos.org/)
 

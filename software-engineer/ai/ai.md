@@ -5,6 +5,7 @@
 
 ## Ferramentas
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [Bard](https://bard.google.com/)
 - [ChatGPT](https://chat.openai.com/)
 - [Codeium](https://codeium.com/)
 - [Copilot](https://github.com/features/copilot)

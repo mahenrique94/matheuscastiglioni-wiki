@@ -76,6 +76,9 @@
 - [Zipkin](https://zipkin.io/)
 - [Woopra](https://www.woopra.com/)
 
+## Indexação
+- [Google Search](https://search.google.com/)
+
 ## Logging
 - [Fluentd](https://www.fluentd.org/)
 - [Logtail](https://betterstack.com/logtail)
