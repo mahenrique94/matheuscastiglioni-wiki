@@ -401,6 +401,7 @@
 - [Zod](https://github.com/colinhacks/zod)
 
 ### Videos
+- [FFMPEG.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 - [YouTube.js](https://github.com/LuanRT/YouTube.js)
 
 ### Webhooks

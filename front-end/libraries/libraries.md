@@ -684,6 +684,7 @@
 - [Yup](https://github.com/jquense/yup)
 
 ## Videos
+- [FFMPEG.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 - [Moovie.js](https://github.com/BMSVieira/moovie.js)
 - [Plyr](https://github.com/sampotts/plyr)
 - [Video.js](https://github.com/videojs/video.js)

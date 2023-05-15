@@ -10,6 +10,7 @@
 - [Conftest](https://github.com/open-policy-agent/conftest)
 - [Cucumber.js](https://github.com/cucumber/cucumber-js)
 - [Detox](https://github.com/wix/Detox)
+- [Ddosify](https://github.com/ddosify/ddosify)
 - [Drill](https://github.com/fcsonline/drill)
 - [Expect.js](https://github.com/Automattic/expect.js)
 - [Fast Check](https://github.com/dubzzz/fast-check)
