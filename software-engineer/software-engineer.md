@@ -12,6 +12,7 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Companies Tools](https://www.companies.tools/)
 - [DevDocs](https://devdocs.io/)
+- [Developer Handbook](https://github.com/apptension/developer-handbook)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Diataxis](https://diataxis.fr/)
 - [Electronic References](https://csgordon.github.io/books.html)

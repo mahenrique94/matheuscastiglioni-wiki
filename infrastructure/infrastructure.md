@@ -76,6 +76,7 @@
   - [Evans](https://github.com/ktr0731/evans)
 
 ## Containers/Virtualização
+- [Cycle](https://cycle.io/)
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
   - [Apache Mesos](http://mesos.apache.org/)
@@ -96,6 +97,7 @@
   - [Helm](https://helm.sh/)
   - [K9s](https://github.com/derailed/k9s)
   - [Karpenter](https://karpenter.sh/)
+  - [Keda](https://keda.sh/)
   - [Keptn](https://keptn.sh/)
   - [Kind](https://kind.sigs.k8s.io/)
   - [Knative](https://knative.dev/)
