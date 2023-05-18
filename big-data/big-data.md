@@ -44,6 +44,7 @@
 ## Dashboard's
 - [Budibase](https://budibase.com/)
 - [DevLake](https://github.com/merico-dev/lake)
+- [Flourish](https://flourish.studio/)
 - [Grid](https://grid.is/)
 
 ## Planilhas

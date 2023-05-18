@@ -159,6 +159,7 @@
 - [Saleor](https://saleor.io/)
 
 ### Email
+- [Emailjs](https://www.emailjs.com/)
 - [Heml](https://github.com/SparkPost/heml)
 - [Mailgun](https://www.mailgun.com/)
 - [Mailjet](https://www.mailjet.com/)
