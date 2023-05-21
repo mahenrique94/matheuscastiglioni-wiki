@@ -36,6 +36,7 @@
 - [Tiny Helpers](https://tiny-helpers.dev/)
 - [Trilha](https://www.trilha.info/)
 - [Use The Keyboard](https://usethekeyboard.com/)
+- [Web Frameworks Benchmark](https://github.com/the-benchmarker/website)
 
 - [Acessibilidade](/software-engineer/acessibility/acessibility.md)
 - [Algoritmos](/software-engineer/algorithms/algorithms.md)

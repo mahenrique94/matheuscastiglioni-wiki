@@ -505,6 +505,7 @@
   - [Dotenv Linter](https://github.com/dotenv-linter/dotenv-linter)
   - [ESLint Config Canonical](https://github.com/gajus/eslint-config-canonical)
   - [ESlint Import Resolver Typescript](https://github.com/import-js/eslint-import-resolver-typescript)
+  - [ESlint Plugin Check File](https://github.com/DukeLuo/eslint-plugin-check-file)
   - [ESLint Plugin Clean Regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex)
   - [ESLint Plugin Import](https://github.com/import-js/eslint-plugin-import)
   - [ESLint Plugin Import Helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
