@@ -257,6 +257,8 @@
 - [https://github.com/keiya01/react-performance-testing](https://github.com/keiya01/react-performance-testing)
 
 ### Requisições
+- [JSON:API React](https://github.com/aribouius/jsonapi-react)
+  - [JSON:API Normalizer](https://github.com/yury-dymov/json-api-normalizer)
 - [React Async](https://github.com/async-library/react-async)
 - [React Query](https://github.com/tannerlinsley/react-query)
 - [RTK Query](https://github.com/rtk-incubator/rtk-query)

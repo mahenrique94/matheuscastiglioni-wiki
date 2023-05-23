@@ -15,6 +15,7 @@
 - [v8Go](https://github.com/rogchap/v8go)
 
 ### ORM
+- [Ent](https://entgo.io/)
 - [Gorm](https://gorm.io/index.html)
 - [Upper/DB](https://upper.io/v4/)
 

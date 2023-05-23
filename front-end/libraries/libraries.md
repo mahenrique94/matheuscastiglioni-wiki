@@ -394,6 +394,7 @@
   - [Redux Logger](https://github.com/LogRocket/redux-logger)
   - [Redux Logic](https://github.com/jeffbski/redux-logic)
   - [Redux Mock Store](https://github.com/reduxjs/redux-mock-store)
+  - [Redux Object](https://github.com/yury-dymov/redux-object)
   - [Redux Observable](https://github.com/redux-observable/redux-observable)
   - [Redux Persist](https://github.com/rt2zz/redux-persist)
   - [Redux PouchDB](https://github.com/vicentedealencar/redux-pouchdb)

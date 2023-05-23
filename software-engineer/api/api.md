@@ -5,6 +5,9 @@
 - [StopLight](https://stoplight.io/)
 - [Swagger](https://swagger.io/)
 
+## Especificações
+- [JSON:API](https://jsonapi.org/)
+
 ## Ferramentas
 - [HTTP Status Dogs](https://httpstatusdogs.com/)
 - [LoremFaces](https://loremfaces.com/)
