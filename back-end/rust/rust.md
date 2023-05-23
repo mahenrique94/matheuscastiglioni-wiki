@@ -15,6 +15,9 @@
 ### GPU
 - [Ash](https://github.com/MaikKlein/ash)
 
+### I/O
+- [Ropey](https://docs.rs/ropey/latest/ropey/)
+
 ### ORM
 - [Diesel](https://diesel.rs/)
 

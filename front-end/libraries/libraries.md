@@ -80,6 +80,7 @@
 - [Broccoli](https://broccoli.build/)
 - [BrowserList](https://github.com/browserslist/browserslist)
 - [Buck](https://buck.build/)
+- [Bun Bundler](https://bun.sh/docs/cli/build)
 - [BundleBuddy](https://bundle-buddy.com/)
 - [BundleSize](https://github.com/siddharthkp/bundlesize)
 - [CSS Modules](https://github.com/css-modules/css-modules)
@@ -173,6 +174,7 @@
 - [Tabulator](https://github.com/olifolkerd/tabulator)
 
 ## Compiladores/Parsers
+- [Meriyah](https://github.com/meriyah/meriyah)
 - [OHM](https://github.com/harc/ohm)
 
 ## Componentes
@@ -587,6 +589,7 @@
 
 ## Parser
 - [Acorn](https://github.com/acornjs/acorn)
+- [Meriyah](https://github.com/meriyah/meriyah)
 - [Micromark](https://github.com/micromark/micromark)
 
 ## PDF
@@ -642,6 +645,10 @@
 - [Pretender](https://github.com/pretenderjs/pretender)
 - [Redaxios](https://github.com/developit/redaxios)
 - [TRPC](https://trpc.io/)
+
+## Sandbox
+- [Nodebox](https://github.com/codesandbox/nodebox-runtime)
+- [Sandpack](https://sandpack.codesandbox.io/)
 
 ## Search
 - [Fuse](https://github.com/krisk/Fuse)
@@ -703,6 +710,7 @@
 ## WebAssembly
 - [EMScripten](https://github.com/emscripten-core/emscripten)
 - [Extism](https://github.com/extism/extism)
+- [Javy](https://github.com/bytecodealliance/javy)
 - [Lucet](https://github.com/bytecodealliance/lucet)
 - [Percy](https://github.com/chinedufn/percy)
 - [YEW](https://github.com/yewstack/yew)
