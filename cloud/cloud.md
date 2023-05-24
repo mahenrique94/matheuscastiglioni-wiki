@@ -28,6 +28,7 @@
 - [Netlify](https://www.netlify.com/)
 - [Nhost](https://nhost.io/)
 - [Northflank](https://northflank.com/)
+- [Platformatic](https://platformatic.cloud/)
 - [Pocketbase](https://pocketbase.io/)
 - [Porter](https://www.getporter.dev/)
 - [PreRender](https://prerender.io/)
