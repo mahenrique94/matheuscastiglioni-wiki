@@ -227,6 +227,7 @@
 - [Mantine Hooks](https://mantine.dev/hooks/)
 - [React Adaptive Hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks)
 - [React Hanger](https://github.com/kitze/react-hanger)
+- [React Hookz Web](https://github.com/react-hookz/web)
 - [React Responsive](https://github.com/contra/react-responsive)
 - [React Use](https://github.com/streamich/react-use)
 - [Rooks](https://github.com/imbhargav5/rooks)

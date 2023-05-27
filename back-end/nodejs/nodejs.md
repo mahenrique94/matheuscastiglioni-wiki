@@ -35,6 +35,7 @@
   - [awesome-nestjs](https://github.com/nestjs/awesome-nestjs)
 - [Node RED](https://nodered.org/)
 - [Polka](https://github.com/lukeed/polka)
+- [Remult](https://remult.dev/)
 - [Restify](http://restify.com/)
   - [Errors](https://github.com/restify/errors)
   - [Restify Swagger JSDoc](https://github.com/RemyJeancolas/restify-swagger-jsdoc)
@@ -116,8 +117,9 @@
 - [Oclif](https://github.com/oclif/oclif)
 - [Yargs](https://github.com/yargs/yargs)
 
-### Compatação
+### Compactação
 - [Handbrake-js](https://github.com/75lb/handbrake-js)
+- [NodeLZ4](https://github.com/pierrec/node-lz4)
 
 ### Configuração
 - [Cloc](https://github.com/AlDanial/cloc)

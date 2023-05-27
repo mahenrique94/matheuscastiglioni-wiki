@@ -2,8 +2,13 @@
 
 ## Bibliotecas
 
+### API
+- [Carter](https://github.com/CarterCommunity/Carter)
+
 ### Banco de Dados
 - [Dapper](https://dapper-tutorial.net/dapper)
+- [Entity Framework](https://learn.microsoft.com/en-us/aspnet/entity-framework)
+- [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries)
 - [MartenDB](https://martendb.io/)
 - [NHibernate](https://nhibernate.info/)
 

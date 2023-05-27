@@ -7,6 +7,7 @@
 ## Ferramentas
 - [Aha](https://www.aha.io/)
 - [Akiflow](https://akiflow.com/)
+- [Amie](https://amie.so/)
 - [Asana](https://asana.com/pt)
 - [Basecamp](https://basecamp.com/)
 - [Breeze](https://www.breeze.pm/)
@@ -43,6 +44,7 @@
 - [Quantify](https://www.quantifyhq.com/)
 - [Quire](https://quire.io/)
 - [Paymo](https://www.paymoapp.com/)
+- [Pomofocus](https://pomofocus.io/)
 - [Reflow](https://www.reflow.com.br/)
 - [Roads](https://roads.run/)
 - [Rock](https://rock.so/)
@@ -80,6 +82,7 @@
 - [BPMN (Business Process Model and Notation)](https://www.lucidchart.com/pages/pt/o-que-e-bpmn)
 - [CSD](https://umbora.com/matriz-csd/)
 - [Influence-importance map](https://medium.com/@nvashanin/stakeholders-in-software-architecture-6d18f36250f9)
+- [Model Exploration Whirlpool](https://baasie.com/2019/02/04/model-exploration-whirlpool-domain-driven-design-the-first-15-years/)
 - [Modern Roadmap](https://medium.com/geekculture/a-modern-roadmap-352ca01964f2)
   - [World of outcomes](https://medium.com/swlh/how-to-navigate-the-abstract-world-of-outcomes-58a81cdbab95)
 - [MOSCOW](https://sitecampus.com.br/tecnica-moscow-na-priorizacao-dos-requisitos/)

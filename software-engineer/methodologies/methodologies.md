@@ -21,6 +21,7 @@
 - [DDD (Domain Driven Design)](https://en.wikipedia.org/wiki/Domain-driven_design)
   - [Assertions](http://ddd.fed.wiki.org/view/welcome-visitors/view/assertions)
   - [Closure of Operations](https://opus.ch/ddd-concepts-and-patterns-supple-design-2/#:~:text=Closure%20of%20Operation,values%20of%20the%20same%20type.)
+  - [DDD Crew](https://github.com/ddd-crew)
   - [Declarative Style Code](https://khalilstemmler.com/articles/typescript-domain-driven-design/ddd-vs-crud-design/)
   - [Intention Revealing Interfaces](https://khalilstemmler.com/articles/typescript-domain-driven-design/intention-revealing-interfaces/)
   - [Side Effect Free Function](https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/ch06lev2sec6.html#:~:text=A%20method%20of%20an%20object,to%20be%20side%2Deffect%20free.)

@@ -173,6 +173,10 @@
 - [SortBy](https://github.com/kvnneff/sort-by)
 - [Tabulator](https://github.com/olifolkerd/tabulator)
 
+## Compactação
+- [JSZip](https://stuk.github.io/jszip/)
+- [Zip.js](https://gildas-lormeau.github.io/zip.js/api/index.html)
+
 ## Compiladores/Parsers
 - [Meriyah](https://github.com/meriyah/meriyah)
 - [OHM](https://github.com/harc/ohm)
