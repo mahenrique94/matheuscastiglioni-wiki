@@ -7,6 +7,10 @@
 ### 3D
 - [Kajiya](https://github.com/EmbarkStudios/kajiya)
 
+### Async
+- [Async](https://docs.rs/async-std/latest/async_std/)
+- [Tokio](https://tokio.rs/)
+
 ### Criação de UI
 - [Dioxus](https://dioxuslabs.com/)
 - [Leptos](https://docs.rs/leptos/latest/leptos/)
