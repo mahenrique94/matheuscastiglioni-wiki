@@ -497,6 +497,7 @@
 - [FormatJS](https://github.com/formatjs/formatjs)
 
 ## IoT
+- [DeviceScript](https://microsoft.github.io/devicescript/intro)
 - [JerryScript](https://github.com/jerryscript-project/jerryscript)
 
 ## Layout
@@ -520,6 +521,7 @@
   - [ESLint Plugin JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
   - [ESLint Plugin Security](https://github.com/nodesecurity/eslint-plugin-security)
   - [ESlint Plugin Testing Library)](https://github.com/testing-library/eslint-plugin-testing-library)
+  - [LS Lint](https://github.com/loeffel-io/ls-lint)
   - [SafeQL](https://safeql.dev/)
 - [ESUtils](https://github.com/estools/esutils)
 - [HTMLHint](https://github.com/htmlhint/HTMLHint)
@@ -586,6 +588,7 @@
 - [Push.js](https://github.com/Nickersoft/push.js)
 
 ## Números
+- [Aimless.js](https://github.com/ChrisCavs/aimless.js)
 - [BrazilianValues](https://github.com/VitorLuizC/brazilian-values)
 - [NumVerify](https://github.com/apilayer/numverify-API)
 

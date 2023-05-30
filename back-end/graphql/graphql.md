@@ -7,6 +7,7 @@ O que é GraphQL? https://graphql.org/
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 - [DacheQL](https://www.dacheql.com/)
 - [Express GraphQL](https://github.com/graphql/express-graphql)
+- [Garph](https://garph.dev/)
 - [GraphQL Yoga](https://the-guild.dev/graphql/yoga-server)
 - [Mercurius](https://github.com/mercurius-js/mercurius)
 - [Nexus](https://nexusjs.org/)

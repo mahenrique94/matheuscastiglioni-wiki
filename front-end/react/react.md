@@ -236,6 +236,7 @@
 - [Use Hooks TS](https://github.com/juliencrn/usehooks-ts)
 
 ### Imagens
+- [Lightbox.js](https://www.getlightboxjs.com/)
 - [Next Cloudinary](https://next-cloudinary.spacejelly.dev/)
 
 ### Mapas
