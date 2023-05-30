@@ -1,5 +1,7 @@
 # AI
 
+- https://theresanaiforthat.com/
+
 ## Bibliotecas
 - [Video2x](https://github.com/k4yt3x/video2x)
 
