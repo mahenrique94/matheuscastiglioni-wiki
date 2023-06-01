@@ -156,6 +156,7 @@
 ### Drivers
 - [Node Mysql2](https://github.com/sidorares/node-mysql2)
 - [Node Postgres](https://github.com/brianc/node-postgres)
+- [Postgres.js](https://github.com/porsager/postgres)
 
 ### E-Commerce
 - [Saleor](https://saleor.io/)
@@ -359,6 +360,9 @@
 ### Script
 - [Wireit](https://github.com/google/wireit)
 - [ZX](https://github.com/google/zx)
+
+### SQL
+- [SQL](https://github.com/nearform/sql)
 
 ### Template Engine
 - [EJS](https://github.com/mde/ejs)

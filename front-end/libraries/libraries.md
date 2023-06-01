@@ -48,6 +48,14 @@
 - [Reveal.js](https://github.com/hakimel/reveal.js)
 - [Slidev](https://sli.dev/)
 
+## AR/VR
+- [EtherealEngine](https://www.etherealengine.org/)
+- [HyperCube](https://github.com/hypercube-lab/hypercube)
+- [JanusVR](https://janusvr.com/)
+- [OMI Group](https://omigroup.org/)
+- [Webaverse](https://webaverse.com/)
+- [WebXR Device API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+
 ## Audio
 - [Howler.js](https://github.com/goldfire/howler.js)
 
@@ -343,6 +351,9 @@
 
 ## Email
 - [EmailJS](https://www.emailjs.com/)
+
+## Emojis
+- [EmojisPlosion](https://github.com/JoshuaKGoldberg/emojisplosion)
 
 ## Engines
 - [Bun](https://bun.sh/)

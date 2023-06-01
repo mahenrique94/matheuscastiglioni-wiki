@@ -95,6 +95,7 @@
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
   - [DevopsStack](https://devops-stack.io)
   - [Garden](https://garden.io/)
+  - [HardenEKS](https://aws.amazon.com/blogs/containers/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically/)
   - [Helm](https://helm.sh/)
   - [K9s](https://github.com/derailed/k9s)
   - [Karpenter](https://karpenter.sh/)

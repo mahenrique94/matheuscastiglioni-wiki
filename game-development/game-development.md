@@ -46,6 +46,7 @@
 - [PyGame](https://www.pygame.org/news)
 - [Pyxel](https://github.com/kitao/pyxel)
 - [Radiant](https://radiant.robotrenegade.com/)
+- [RAGE (Rockstar Advanced Game Engine)](https://en.wikipedia.org/wiki/Rockstar_Advanced_Game_Engine)
 - [Raylib](https://www.raylib.com/)
 - [ReplayJS](https://replay.js.org/)
 - [Rogue Engine](https://rogueengine.io/)

@@ -42,6 +42,7 @@
 - [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
   - [Tailwind Elements](https://tailwind-elements.com/)
 - [Shadcn](https://ui.shadcn.com/)
+- [SupportsCSS](https://supportscss.dev/)
 - [UI5 components](https://sap.github.io/ui5-webcomponents/)
 - [UIKit](https://getuikit.com/)
 - [UnoCSS](https://github.com/unocss/unocss)
