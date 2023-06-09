@@ -20,6 +20,9 @@
 - [SmoothStep](https://smoothstep.io/)
 - [ZDog](https://github.com/metafizzy/zdog)
 
+## AI
+- [ChatbotUI](https://github.com/mckaywrigley/chatbot-ui)
+
 ## Animação
 - [Anime.js](https://github.com/juliangarnier/anime)
 - [AutoAnimate](https://auto-animate.formkit.com/)
@@ -337,6 +340,7 @@
 
 ## Editor
 - [Ace](https://ace.c9.io/)
+- [BlockNote](https://github.com/TypeCellOS/BlockNote)
 - [CKEditor](https://ckeditor.com/)
 - [CodeMirror](https://codemirror.net/)
 - [Editor.js](https://github.com/codex-team/editor.js)

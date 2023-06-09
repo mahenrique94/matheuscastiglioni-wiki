@@ -66,6 +66,7 @@
   - [Citus](https://www.citusdata.com/)
   - [Dalibo Explain](https://explain.dalibo.com/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
+  - [PgBouncer](https://www.pgbouncer.org/)
   - [PgPool](https://www.npmjs.com/package/pg-pool)
   - [Tatiyants](https://tatiyants.com/pev/#/plans)
 - [PouchDB](https://pouchdb.com/)
