@@ -17,4 +17,5 @@
   - [Rest.li](https://linkedin.github.io/rest.li/)
 - [QUIC (Quick UDP Internet Connections)](https://pt.wikipedia.org/wiki/QUIC)
 - [WS (Web Socket)](https://pt.wikipedia.org/wiki/WebSocket)
+  - [Web Transport](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport)
 - [WSS (Web Socket Secure)](https://pt.wikipedia.org/wiki/WebSocket)

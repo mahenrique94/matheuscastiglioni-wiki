@@ -10,7 +10,7 @@
 - Comprar diagramas ([https://text-to-diagram.com/](https://text-to-diagram.com/))
 - Converter unix timestamp para datas ([https://www.epochconverter.com/](https://www.epochconverter.com/))
 - Criar perfil do GitHub ([https://www.profileme.dev/](https://www.profileme.dev/))
-- Criação de apresentações ([https://grid.is/](https://grid.is/), [https://pitch.com/](https://pitch.com/), [https://sli.dev/](https://sli.dev/))
+- Criação de apresentações ([https://grid.is/](https://grid.is/), [https://pitch.com/](https://pitch.com/), [https://sli.dev/](https://sli.dev/), [https://slides.com/](https://slides.com/))
 - Coletar ideias e bugs de aplicações/sites ([https://www.pendo.io/](https://www.pendo.io/), [https://userback.io/](https://userback.io/), [https://userreport.com/](https://userreport.com/))
 - Color picker online ([https://www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/), [https://coolors.co/](https://coolors.co/), [https://colordrop.io/](https://colordrop.io/), [https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel), [https://mycolor.space/](https://mycolor.space/), [https://paletton.com](https://paletton.com), [https://primer.style/prism/](https://primer.style/prism/), [https://www.w3schools.com/colors/colors_picker.asp](https://www.w3schools.com/colors/colors_picker.asp))
 - Comparação de bundles ([https://bundlers.tooling.report/](https://bundlers.tooling.report/))

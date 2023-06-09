@@ -11,6 +11,7 @@
 - [ChatGPT](https://chat.openai.com/)
 - [Codeium](https://codeium.com/)
 - [Copilot](https://github.com/features/copilot)
+- [LangChain](https://docs.langchain.com/docs/)
 - [MidJourney](https://www.midjourney.com/home)
 - [Whisper](https://openai.com/research/whisper)
 

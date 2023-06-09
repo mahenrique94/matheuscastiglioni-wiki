@@ -235,6 +235,10 @@
 - [Bree](https://github.com/breejs/bree)
 - [Croner](https://github.com/hexagon/croner)
 
+### Language
+- [Node Language Detect](https://github.com/FGRibreau/node-language-detect)
+- [SnowballJS](https://github.com/fortnightlabs/snowball-js)
+
 ### Logging
 - [Bunyan](https://github.com/trentm/node-bunyan)
 - [Cabin](https://github.com/cabinjs/cabin)
@@ -340,6 +344,7 @@
 - [Soketi](https://soketi.app/)
 - [SturdyWebsocket](https://www.npmjs.com/package/sturdy-websocket)
 - [WS](https://github.com/websockets/ws)
+- [Web Transport API](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport)
 
 ### Redis
 - [IORedis](https://github.com/luin/ioredis)

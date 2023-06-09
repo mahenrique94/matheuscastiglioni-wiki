@@ -126,6 +126,7 @@
 
 ## Indexação de dados
 - [Algolia](https://www.algolia.com/doc/)
+- [Apache Lucene](https://lucene.apache.org/)
 - [ElasticSearch](https://www.elastic.co/)
 - [MeiliSearch](https://www.meilisearch.com/)
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)

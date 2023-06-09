@@ -167,6 +167,7 @@
 
 ### Email
 - [Mjml React](https://github.com/Faire/mjml-react)
+- [React Email](https://react.email/)
 
 ### Error Handling
 - [React Error Boundary](https://github.com/bvaughn/react-error-boundary)

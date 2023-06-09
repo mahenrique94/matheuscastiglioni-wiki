@@ -99,6 +99,7 @@
   - [Helm](https://helm.sh/)
   - [K9s](https://github.com/derailed/k9s)
   - [Karpenter](https://karpenter.sh/)
+  - [Kasten](https://www.kasten.io/)
   - [Keda](https://keda.sh/)
   - [Keptn](https://keptn.sh/)
   - [Kind](https://kind.sigs.k8s.io/)

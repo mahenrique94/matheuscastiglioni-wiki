@@ -70,6 +70,7 @@
 - [Sketch](https://www.sketch.com/)
 - [Spline](https://spline.design/)
 - [Styletil](http://styletil.es/)
+- [Supernova](https://www.supernova.io/)
 - [Teta](https://teta.so/)
 - [Uizard](https://uizard.io/)
 - [UserTesting](https://www.usertesting.com/)
