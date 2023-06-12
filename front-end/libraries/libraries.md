@@ -377,6 +377,9 @@
 - [Is](https://github.com/enricomarino/is)
 - [Is.js](https://github.com/arasatasaygin/is.js)
 
+## Fontes
+- [FontSource](https://fontsource.org/)
+
 ## Formatação
 - [Cleave.js](https://github.com/nosir/cleave.js)
 - [HighLight](highlight.js)

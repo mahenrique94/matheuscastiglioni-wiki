@@ -121,6 +121,9 @@
 - [Handbrake-js](https://github.com/75lb/handbrake-js)
 - [NodeLZ4](https://github.com/pierrec/node-lz4)
 
+### Compressão
+- [SVGO](https://github.com/svg/svgo)
+
 ### Configuração
 - [Cloc](https://github.com/AlDanial/cloc)
 - [DepCheck](https://github.com/depcheck/depcheck)
@@ -338,6 +341,7 @@
 - [QRCodeJS](https://davidshimjs.github.io/qrcodejs/)
 
 ### Realtime
+- [AutoMerge](https://github.com/automerge/automerge)
 - [PusherJS](https://pusher.com/)
 - [Socket.io](https://socket.io/)
 - [Sockette](https://www.npmjs.com/package/sockette)
