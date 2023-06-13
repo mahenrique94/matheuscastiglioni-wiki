@@ -18,6 +18,7 @@
 - [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit/)
   - [NPM Audit HTML](https://github.com/eventOneHQ/npm-audit-html)
 - [Gitleaks](https://github.com/zricethezav/gitleaks)
+- [Infisical](https://infisical.com/)
 - [Retire.js](https://github.com/RetireJS/retire.js)
 
 ## Ferramentas

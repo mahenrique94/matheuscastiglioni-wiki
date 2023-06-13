@@ -370,6 +370,9 @@
 - [Wireit](https://github.com/google/wireit)
 - [ZX](https://github.com/google/zx)
 
+### Secret Manager
+- [Infisical](https://infisical.com/)
+
 ### SQL
 - [SQL](https://github.com/nearform/sql)
 
