@@ -37,6 +37,7 @@
 - [Sistemas Reativos](https://www.casadocodigo.com.br/products/livro-sistemas-reativos)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894?ref=d6k_applink_bb_dls&dplnkId=20c009ea-6f13-42ef-ab75-64d6d3a95654)
+- [Understanding Distributed Systems](https://understandingdistributed.systems/)
 - [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
 ## Back-End
