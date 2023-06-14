@@ -12,6 +12,7 @@
 ## Bibliotecas
 ### 3D
 - [Drei](https://github.com/pmndrs/drei)
+- [Hiber](https://hiberworld.com/)
 - [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
 
 ### Apresentações

@@ -12,6 +12,9 @@
 ### Arquivos
 - [Path Provider](https://pub.dev/packages/path_provider)
 
+### Datas
+- [NTP](https://pub.dev/packages/ntp)
+
 ### Dispositivos
 - [Device Preview](https://pub.dev/packages/device_preview)
 
@@ -21,6 +24,9 @@
 ### Formulários
 - [Flutter Form Builder](https://pub.dev/packages/flutter_form_builder)
 - [Flutter Hooks](https://pub.dev/packages/flutter_hooks)
+
+### Game Engine
+- [Bonfire](https://pub.dev/packages/bonfire)
 
 ### Gerenciador de estado
 - [Flutter BLoC](https://pub.dev/packages/flutter_bloc)
@@ -33,8 +39,17 @@
 ### Injeção de dependência
 - [GetIt](https://pub.dev/packages/get_it)
 
+### Links
+- [Uni Links](https://pub.dev/packages/uni_links)
+
+### Logs
+- [Logger](https://pub.dev/packages/logger)
+
 ### Mock
 - [Mockito](https://pub.dev/packages/mockito)
+
+### Números
+- [Decimal](https://pub.dev/packages/decimal)
 
 ### Reatividade
 - [RxNotifier](https://pub.dev/packages/rx_notifier)
