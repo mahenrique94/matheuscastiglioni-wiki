@@ -12,6 +12,9 @@
 ### Arquivos
 - [Path Provider](https://pub.dev/packages/path_provider)
 
+### Componentes
+- [Mirai](https://github.com/Securrency-OSS/mirai)
+
 ### Datas
 - [NTP](https://pub.dev/packages/ntp)
 

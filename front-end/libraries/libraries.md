@@ -311,7 +311,7 @@
 - [Tauri](https://github.com/tauri-apps/tauri)
 
 ## Design System
-- [Lona](https://github.com/airbnb/Lona)
+- [Lona](https://github.com/Lona/Lona)
 - [StyleDictionary](https://github.com/amzn/style-dictionary)
 - [StyledSystem](https://github.com/styled-system/styled-system)
 
@@ -699,7 +699,9 @@
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js)
 
 ## Tradução
+- [FormatJS](https://formatjs.io/)
 - [I18n Manager](https://github.com/gilmarsquinelato/i18n-manager)
+- [I18next](https://www.i18next.com/)
 - [JS Lingui](https://github.com/lingui/js-lingui)
 - [Tolgee](https://tolgee.io/)
 

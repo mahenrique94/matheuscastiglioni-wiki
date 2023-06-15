@@ -26,6 +26,7 @@
 - [Flame](https://flame-engine.org/)
 - [FlaxEngine](https://flaxengine.com/)
 - [Frostbite](https://en.wikipedia.org/wiki/Frostbite_(game_engine))
+- [Fyrox](https://fyrox.rs/)
 - [GDevelop](https://gdevelop.io/)
 - [Godot](https://godotengine.org/)
 - [Gute](https://github.com/kevglass/gute/)

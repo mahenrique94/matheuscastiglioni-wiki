@@ -18,6 +18,7 @@
 
 ## Automação
 - [Ansible](https://www.ansible.com/)
+  - [Ansible UI](https://www.ansible-semaphore.com/)
 - [BackStage](https://github.com/backstage/backstage)
 - [Chef](https://www.chef.io/products/chef-infra)
 - [EasyCron](https://www.easycron.com/)

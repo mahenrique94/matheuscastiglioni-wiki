@@ -60,6 +60,7 @@
 - [Leva](https://github.com/pmndrs/leva)
 - [Loadable Components](https://github.com/gregberge/loadable-components)
 - [Mantine](https://mantine.dev/)
+- [Mantine UI](https://ui.mantine.dev/)
 - [Material Kit React](https://github.com/creativetimofficial/material-kit-react)
 - [Material UI](https://material-ui.com/pt/)
 - [MUI](https://mui.com/pt/)
@@ -90,6 +91,7 @@
 - [React DatePicker](https://github.com/Hacker0x01/react-datepicker)
 - [React Dates](https://github.com/airbnb/react-dates)
 - [React DND](https://github.com/react-dnd/react-dnd)
+- [React Dropzone](https://react-dropzone.js.org/)
 - [React Flow](https://github.com/wbkd/react-flow)
 - [React Final Form](https://github.com/final-form/react-final-form)
 - [React Grid Layout](https://github.com/react-grid-layout/react-grid-layout)
@@ -282,6 +284,9 @@
 ### Track
 - [React GA](https://github.com/react-ga/react-ga)
 - [React Tracking](https://github.com/nytimes/react-tracking)
+
+### Tradução
+- [React Intl](https://www.npmjs.com/package/react-intl)
 
 ### Validação
 - [PropTypes](https://github.com/facebook/prop-types)
