@@ -281,6 +281,7 @@
 - [Zag.js](https://zagjs.com/)
 
 ## CSS-in-JS
+- [CVA](https://cva.style/docs)
 - [Emotion](https://github.com/emotion-js/emotion)
 - [Fower](https://fower.vercel.app/)
 - [Goober](https://github.com/cristianbote/goober)
