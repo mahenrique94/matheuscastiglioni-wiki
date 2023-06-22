@@ -189,6 +189,7 @@
 - [Zip.js](https://gildas-lormeau.github.io/zip.js/api/index.html)
 
 ## Compiladores/Parsers
+- [Escodegen](https://github.com/estools/escodegen)
 - [Meriyah](https://github.com/meriyah/meriyah)
 - [OHM](https://github.com/harc/ohm)
 
@@ -286,6 +287,7 @@
 - [Griffel](https://github.com/microsoft/griffel)
 - [JSS](https://github.com/cssinjs/jss)
 - [Linaria](https://github.com/callstack/linaria)
+- [PandaCSS](https://panda-css.com/)
 - [Stitches](https://github.com/modulz/stitches)
 - [Styled JSX](https://github.com/vercel/styled-jsx)
 - [Stylify](https://stylifycss.com/)
@@ -548,6 +550,7 @@
 - [Lint Staged](https://github.com/okonet/lint-staged)
 - [Prettier](https://github.com/prettier/prettier)
   - [PrettyQuick](https://github.com/azz/pretty-quick)
+  - [Prettier Plugin Tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [SemGrep](https://github.com/returntocorp/semgrep)
 - [Stylelint](https://github.com/stylelint/stylelint)
   - [Stylelint Config Recommended](https://github.com/stylelint/stylelint-config-recommended)
@@ -615,6 +618,7 @@
 
 ## Parser
 - [Acorn](https://github.com/acornjs/acorn)
+- [Escodegen](https://github.com/estools/escodegen)
 - [Meriyah](https://github.com/meriyah/meriyah)
 - [Micromark](https://github.com/micromark/micromark)
 
@@ -682,6 +686,7 @@
 
 ## Segurança
 - [DOMPurify](https://github.com/cure53/DOMPurify)
+- [Retire.js](https://github.com/RetireJS/retire.js)
 
 ## SSR
 - [Razzle](https://github.com/jaredpalmer/razzle)

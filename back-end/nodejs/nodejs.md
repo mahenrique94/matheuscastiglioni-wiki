@@ -418,6 +418,7 @@
 - [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)
 - [Typescript JSON Schema](https://www.npmjs.com/package/typescript-json-schema)
 - [Typia](https://github.com/samchon/typia)
+- [Vine](https://github.com/vinejs/vine)
 - [Zod](https://github.com/colinhacks/zod)
 
 ### Videos
