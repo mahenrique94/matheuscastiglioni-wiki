@@ -115,6 +115,7 @@
 - [Peer-to-peer](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Pipe-filter](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [Plugin Architecture](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)
+- [Prescriptive Code Structure](https://www.bdcnetwork.com/blog/prescriptive-vs-performance-building-codes)
 - [Proxy](https://www.citrix.com/pt-br/products/citrix-adc/form/choose-the-right-proxy-architecture/)
   - [Envoy](https://www.envoyproxy.io/)
 - [Reactive Architecture](https://dzone.com/articles/reactive-architecture-benefits-amp-use-cases#:~:text=A%20Reactive%20system%20is%20an,responsiveness%20under%20failure%2C%20and%20more.)

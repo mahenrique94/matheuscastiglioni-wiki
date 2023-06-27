@@ -83,6 +83,7 @@
 - [PhantomCSS](https://github.com/HuddleEng/PhantomCSS)
 - [PhantomJS](https://phantomjs.org/)
 - [PlayWright](https://github.com/microsoft/playwright)
+- [Replay](https://www.replay.io/)
 - [QUnitjs](https://qunitjs.com/)
 - [Sinon](https://sinonjs.org/)
 - [Testing Library](https://testing-library.com/)

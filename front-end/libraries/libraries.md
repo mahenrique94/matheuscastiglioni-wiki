@@ -467,6 +467,7 @@
 ## Icones
 - [AtlasIcons](https://atlasicons.vectopus.com/)
 - [FlagPack](https://flagpack.xyz/)
+- [FlowBite](https://flowbite.com/icons)
 - [FontAwesome](https://fontawesome.com/)
 - [FontEllo](https://fontello.com/)
 - [Glyphs](https://glyphs.fyi/)
