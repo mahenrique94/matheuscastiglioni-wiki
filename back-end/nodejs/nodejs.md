@@ -331,6 +331,7 @@
 
 ### Query Builder
 - [Knex](https://github.com/knex/knex)
+- [Kysely](https://kysely.dev/)
 
 ### Queue
 - [Bull](https://github.com/OptimalBits/bull)
