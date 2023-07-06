@@ -29,6 +29,7 @@
   - [Helm Operator](https://github.com/fluxcd/helm-operator)
   - [TerraGrunt](https://github.com/gruntwork-io/terragrunt)
   - [WKSCTL](https://github.com/weaveworks/wksctl)
+- [Mutagen](https://mutagen.io/)
 - [Puppet](https://puppet.com/)
 - [Pulumi](https://www.pulumi.com/)
 - [Rundeck](https://www.rundeck.com/)
@@ -94,6 +95,7 @@
   - [Trivy](https://aquasecurity.github.io/trivy)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)
+  - [Akuity](https://akuity.io/)
   - [DevopsStack](https://devops-stack.io)
   - [Garden](https://garden.io/)
   - [HardenEKS](https://aws.amazon.com/blogs/containers/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically/)
@@ -233,6 +235,9 @@
 ## Progressive Delivery
 - [Scientist](https://github.com/github/scientist)
 
+## Rede
+- [Solo](https://www.solo.io/)
+
 ## Script
 - [Bash](https://pt.wikipedia.org/wiki/Bash)
   - [ShellCheck](https://www.shellcheck.net/)
@@ -252,12 +257,20 @@
 - [Jetty](https://www.eclipse.org/jetty/)
 - [NGINX](https://www.nginx.com/)
 - [OpenResty](https://openresty.org/en/)
+- [Solo](https://www.solo.io/)
 - [Tomcat](http://tomcat.apache.org/)
 - [Undertow](https://undertow.io/)
 - [Wildfly](https://www.wildfly.org/)
 
 ## Streaming
 - [Dyte](https://dyte.io/)
+
+## Testes de Contrat
+- [Pact](https://pact.io/)
+- [Specmatic](https://specmatic.in/)
+
+## Web Crawler
+- [Oxylabs](https://oxylabs.io/)
 
 ## Workflows
 - [Conductor](https://netflix.github.io/conductor/)

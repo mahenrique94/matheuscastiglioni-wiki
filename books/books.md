@@ -128,5 +128,8 @@
 ## Relatórios
 - [iReport](https://www.casadocodigo.com.br/products/livro-ireport)
 
+## Técnicos
+- [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224)
+
 ## Testes
 - [Protractor](https://www.casadocodigo.com.br/products/livro-protractor)

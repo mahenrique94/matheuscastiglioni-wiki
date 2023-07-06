@@ -319,6 +319,7 @@
 - [Nodemon](https://github.com/remy/nodemon)
 - [NW.js](https://github.com/nwjs/nw.js)
 - [PM2](https://github.com/Unitech/pm2)
+- [PortFinder](https://www.npmjs.com/package/portfinder)
 - [WaitON](https://github.com/jeffbski/wait-on)
 - [WSRun](https://github.com/hfour/wsrun)
 

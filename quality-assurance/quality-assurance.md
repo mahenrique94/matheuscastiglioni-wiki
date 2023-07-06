@@ -87,6 +87,7 @@
 - [Replay](https://www.replay.io/)
 - [QUnitjs](https://qunitjs.com/)
 - [Sinon](https://sinonjs.org/)
+- [Specmatic](https://specmatic.in/)
 - [Testing Library](https://testing-library.com/)
   - [React Testing Library](https://github.com/testing-library/react-testing-library)
   - [React Hooks Testing Library](https://github.com/testing-library/react-hooks-testing-library)
