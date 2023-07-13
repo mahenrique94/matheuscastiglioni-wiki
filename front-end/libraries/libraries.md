@@ -249,6 +249,8 @@
 - [Inferno](https://www.infernojs.org/)
 - [Intro.js](https://github.com/usablica/intro.js)
 - [Lemonadejs](https://github.com/lemonadejs/lemonadejs)
+- [Material Web Components](https://github.com/material-components/material-web)
+- [Meteor](https://www.meteor.com/)
 - [Million](https://github.com/millionjs/million)
 - [Mint](https://github.com/mint-lang/mint)
 - [Mithril](https://mithril.js.org/)
@@ -528,6 +530,9 @@
 - [MiniMasonry.js](https://github.com/Spope/MiniMasonry.js)
 - [Yoga](https://github.com/facebook/yoga)
 
+## Linguagens
+- [Wasp](https://wasp-lang.dev/)
+
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
 - [DangerJS](https://danger.systems/js/)
@@ -625,6 +630,9 @@
 - [Escodegen](https://github.com/estools/escodegen)
 - [Meriyah](https://github.com/meriyah/meriyah)
 - [Micromark](https://github.com/micromark/micromark)
+
+## Passo à Passo
+- [Driver.js](https://driverjs.com/)
 
 ## PDF
 - [HTML2PDF](https://html2pdf.com/)
