@@ -62,6 +62,7 @@
 - [Overflow](https://overflow.io/)
 - [Penpot](https://penpot.app/)
 - [Piskel](https://www.piskelapp.com/)
+- [Plasticity](https://www.plasticity.xyz/)
 - [Proto](https://proto.io/)
 - [ProtoPie](https://www.protopie.io/)
 - [Rebelle](https://www.escapemotions.com/products/rebelle/download.php)

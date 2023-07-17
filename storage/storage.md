@@ -6,6 +6,7 @@
 - [Apache Ignite](https://ignite.apache.org/)
 - [Apache Jena](https://jena.apache.org/tutorials/sparql_pt.html)
 - [Apache Parquet](https://parquet.apache.org/)
+- [Apache Pinot](https://pinot.apache.org/)
 - [AstraDB](https://docs.datastax.com/en/astra/docs/)
 - [Cascalog](https://github.com/nathanmarz/cascalog)
 - [Cassandra](https://cassandra.apache.org/)

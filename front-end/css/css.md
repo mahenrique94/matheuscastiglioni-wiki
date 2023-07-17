@@ -41,6 +41,7 @@
 - [Tachyons](https://github.com/tachyons-css/tachyons/)
 - [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
   - [Tailwind Elements](https://tailwind-elements.com/)
+  - [Tailwind Play](https://play.tailwindcss.com/)
 - [Shadcn](https://ui.shadcn.com/)
 - [SupportsCSS](https://supportscss.dev/)
 - [UI5 components](https://sap.github.io/ui5-webcomponents/)

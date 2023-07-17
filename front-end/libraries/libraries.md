@@ -21,6 +21,7 @@
 - [ZDog](https://github.com/metafizzy/zdog)
 
 ## AI
+- [AI](https://www.npmjs.com/package/ai)
 - [ChatbotUI](https://github.com/mckaywrigley/chatbot-ui)
 
 ## Animação
@@ -242,6 +243,7 @@
 - [ForgoJS](https://forgojs.org/)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
+- [HTMX](https://htmx.org/)
 - [Hybrid.js](https://hybrids.js.org/#/)
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
 - [HyperScript](https://github.com/bigskysoftware/_hyperscript)
@@ -279,6 +281,7 @@
 - [Typed.js](https://github.com/mattboldt/typed.js)
 - [Typeit](https://github.com/alexmacarthur/typeit)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
+- [Umbrella](https://umbrellajs.com/)
 - [Vulcan](https://github.com/VulcanJS/Vulcan)
 - [WinBox](https://github.com/nextapps-de/winbox)
 - [Zag.js](https://zagjs.com/)
@@ -347,16 +350,21 @@
 ## Editor
 - [Ace](https://ace.c9.io/)
 - [BlockNote](https://github.com/TypeCellOS/BlockNote)
+- [BlockSuite](https://block-suite.com/)
 - [CKEditor](https://ckeditor.com/)
 - [CodeMirror](https://codemirror.net/)
-- [Editor.js](https://github.com/codex-team/editor.js)
+- [Draft.js](https://draftjs.org/)
+- [Editor.js](https://editorjs.io/)
 - [Lexical](https://lexical.dev/)
 - [Milkdown](https://github.com/Saul-Mirone/milkdown)
 - [Monaco](https://microsoft.github.io/monaco-editor/)
+- [ProseMirror](https://prosemirror.net/)
 - [Quill](https://quilljs.com/)
 - [SimpleMDE MarkDown Editor](https://github.com/sparksuite/simplemde-markdown-editor)
+- [Slate](https://docs.slatejs.org/)
 - [Stylo.js](https://stylojs.com/)
 - [TinyMCE](https://github.com/tinymce/tinymce)
+- [TipTap](https://tiptap.dev/introduction/)
 - [TUI Editor](https://github.com/nhn/tui.editor)
 
 ## Email
@@ -663,6 +671,7 @@
 - [LiveBlocks](https://liveblocks.io/)
 - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
 - [Socket.io](https://github.com/socketio/socket.io)
+- [Yjs](https://docs.yjs.dev/)
 
 ## Reflexão
 - [ReflectMetadata](https://github.com/rbuckton/reflect-metadata)

@@ -55,3 +55,6 @@
 
 ### Streaming
 - [MediatR](https://github.com/jbogard/MediatR)
+
+### Validação
+- [FluentValidation](https://docs.fluentvalidation.net/en/latest/)
