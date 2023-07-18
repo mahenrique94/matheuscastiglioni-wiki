@@ -336,6 +336,7 @@
 
 ### Queue
 - [Bull](https://github.com/OptimalBits/bull)
+- [BullMQ](https://github.com/taskforcesh/bullmq)
 - [PG Boss](https://github.com/timgit/pg-boss)
 
 ### QRCode

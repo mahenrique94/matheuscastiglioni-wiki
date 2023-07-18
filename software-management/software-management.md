@@ -28,6 +28,7 @@
 - [Jira](https://www.atlassian.com/br/software/jira)
 - [Leankor](https://www.leankor.com/)
 - [Leapsome](https://www.leapsome.com/)
+- [Legend](https://legendapp.com/)
 - [Linear](https://linear.app/)
 - [Linen](https://www.linen.dev/)
 - [KiteMaker](https://www.kitemaker.co/)
