@@ -49,6 +49,7 @@
 - [Radiant](https://radiant.robotrenegade.com/)
 - [RAGE (Rockstar Advanced Game Engine)](https://en.wikipedia.org/wiki/Rockstar_Advanced_Game_Engine)
 - [Raylib](https://www.raylib.com/)
+- [RenderWare](https://en.wikipedia.org/wiki/RenderWare)
 - [ReplayJS](https://replay.js.org/)
 - [Rogue Engine](https://rogueengine.io/)
 - [RPG Bakin](https://rpgbakin.com/en)
