@@ -18,6 +18,7 @@
 - [Gatling](https://gatling.io/)
 - [GHZ](https://ghz.sh/)
 - [Google Sanitizers](https://github.com/google/sanitizers)
+- [HappyDOM](https://github.com/capricorn86/happy-dom)
 - [Helgrind](https://valgrind.org/docs/manual/hg-manual.html)
 - [Hey](https://github.com/rakyll/hey)
 - [Hoverfly](https://hoverfly.io/)

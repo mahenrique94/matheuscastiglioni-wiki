@@ -12,6 +12,7 @@
 - [Lookup Icann](https://lookup.icann.org/)
 - [GoDaddy](https://www.godaddy.com/pt-br)
 - [Namecheap](https://www.namecheap.com/)
+- [Porkbun](https://porkbun.com/)
 - [RegistroBR](https://registro.br/)
 
 ## Tipos de Dominio

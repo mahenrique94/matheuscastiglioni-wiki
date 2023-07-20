@@ -32,6 +32,7 @@
 - [Bonfire](https://pub.dev/packages/bonfire)
 
 ### Gerenciador de estado
+- [Cubit](https://pub.dev/packages/flutter_cubit)
 - [Flutter BLoC](https://pub.dev/packages/flutter_bloc)
 - [Provider](https://pub.dev/packages/provider)
 - [Riverpod](https://pub.dev/packages/riverpod)

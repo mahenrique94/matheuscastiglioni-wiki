@@ -87,6 +87,8 @@
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
 - [Benny](https://github.com/caderek/benny)
 - [Hasty](https://hasty.dev/)
+- [JsPerf](https://jsperf.app/)
+- [Perflink](https://perf.link/)
 - [Tachometer](https://github.com/Polymer/tachometer)
 - [TinyBench](https://github.com/tinylibs/tinybench)
 
@@ -324,6 +326,7 @@
 - [WSRun](https://github.com/hfour/wsrun)
 
 ### Qualidade
+- [HappyDOM](https://github.com/capricorn86/happy-dom)
 - [Japa](https://japa.dev/docs)
 - [JSDOM](https://github.com/jsdom/jsdom)
 - [Node Tap](https://github.com/tapjs/node-tap)

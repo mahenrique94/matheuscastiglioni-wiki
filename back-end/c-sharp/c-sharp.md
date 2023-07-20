@@ -18,6 +18,9 @@
 ### Datas
 - [NodaTime](https://nodatime.org/)
 
+### Desktop
+- [AvaloniaUI](https://avaloniaui.net/)
+
 ### Fixtures
 - [Bogus](https://github.com/bchavez/Bogus)
 

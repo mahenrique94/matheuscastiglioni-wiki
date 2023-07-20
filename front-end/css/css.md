@@ -27,6 +27,7 @@
 - [Foundation](https://get.foundation/)
 - [Halfmoon](https://github.com/halfmoonui/halfmoon)
 - [Helsinki Design System](https://hds.hel.fi/)
+- [KumaUI](https://www.kuma-ui.com/)
 - [Materialize CSS](https://materializecss.com/)
 - [Milligram](https://milligram.io/)
 - [Open Props](https://open-props.style/)
