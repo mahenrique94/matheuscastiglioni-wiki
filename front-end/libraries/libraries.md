@@ -527,6 +527,7 @@
 
 ## Integração
 - [Venom](https://github.com/orkestral/venom)
+- [YouTube.js](https://github.com/LuanRT/YouTube.js)
 
 ## Internacionalização
 - [FormatJS](https://github.com/formatjs/formatjs)
@@ -753,6 +754,7 @@
 - [Yup](https://github.com/jquense/yup)
 
 ## Videos
+- [Dash.js](https://github.com/Dash-Industry-Forum/dash.js)
 - [FFMPEG.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 - [Moovie.js](https://github.com/BMSVieira/moovie.js)
 - [Plyr](https://github.com/sampotts/plyr)

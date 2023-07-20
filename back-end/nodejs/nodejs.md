@@ -296,6 +296,7 @@
   - [Moiva](https://moiva.io/)
   - [NPM SemVer Calculator](https://semver.npmjs.com/)
   - [NPM Trends](https://www.npmtrends.com/)
+  - [Pkg Size](https://pkg-size.dev/)
   - [Socket.dev](https://socket.dev/)
 - [Verdaccio](https://github.com/verdaccio/verdaccio)
 - [Yarn](https://yarnpkg.com/)
