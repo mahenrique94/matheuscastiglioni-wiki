@@ -11,6 +11,9 @@
 - [Async](https://docs.rs/async-std/latest/async_std/)
 - [Tokio](https://tokio.rs/)
 
+### CLI
+- [Clap](https://docs.rs/clap/latest/clap/)
+
 ### Criação de UI
 - [Dioxus](https://dioxuslabs.com/)
 - [Leptos](https://docs.rs/leptos/latest/leptos/)
@@ -28,6 +31,9 @@
 ### Realtime
 - [FastWebSockets](https://github.com/denoland/fastwebsockets)
 
+### Serialization/Deserialization
+- [Serde](https://serde.rs/)
+
 ## Frameworks
 
 ### API
@@ -36,4 +42,5 @@
 - [Salvo](https://salvo.rs/)
 
 ### Web
+- [Leptos](https://leptos.dev/)
 - [Seed](https://seed-rs.org/)

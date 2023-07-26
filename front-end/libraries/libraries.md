@@ -486,6 +486,7 @@
 - [Glyphs](https://glyphs.fyi/)
 - [HealthIcons](https://healthicons.org/)
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
+- [IconBuddy](https://iconbuddy.app/)
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
 - [Iconoir](https://iconoir.com/)

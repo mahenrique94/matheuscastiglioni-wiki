@@ -36,6 +36,7 @@
 - [Aulapp](https://www.aulapp.com.br/)
 - [BlueEdTech](https://blueedtech.com.br/)
 - [BPB](https://bpbonline.com/)
+- [Brilliant](https://brilliant.org/)
 - [Cademi](https://cademi.com.br/)
 - [Cataline](https://www.cataline.io/)
 - [Cod3r](https://www.cod3r.com.br/)

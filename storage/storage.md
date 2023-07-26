@@ -122,6 +122,7 @@
 - [Maxwells](https://maxwells-daemon.io/)
 
 ## Ferramentas
+- [DBngin](https://dbngin.com/)
 - [Directus](https://directus.io/)
 - [EverSQL](https://www.eversql.com/)
 - [RepliByte](https://www.replibyte.com/docs/introduction)

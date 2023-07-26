@@ -24,6 +24,7 @@
 
 ### Formulários
 - [Felte](https://felte.dev/)
+- [SuperForms](https://superforms.rocks/)
 
 ### Gráficos
 - [Pancake](https://github.com/Rich-Harris/pancake)

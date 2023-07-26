@@ -5,6 +5,9 @@
 ### AI
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
+### Animações
+- [Manim](https://www.manim.community/)
+
 ### App's
 - [Flet](https://flet.dev/)
 
