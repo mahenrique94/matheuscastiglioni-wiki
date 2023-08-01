@@ -26,6 +26,7 @@
 
 ## Animação
 - [Anime.js](https://github.com/juliangarnier/anime)
+- [Animotion](https://github.com/animotionjs/animotion)
 - [AutoAnimate](https://auto-animate.formkit.com/)
 - [Barba](https://github.com/barbajs/barba)
 - [Bounce.js](https://github.com/tictail/bounce.js)

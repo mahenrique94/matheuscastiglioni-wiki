@@ -65,6 +65,7 @@
 - [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
 - [CryptoHash](https://github.com/sindresorhus/crypto-hash)
 - [CryptoJS](https://github.com/brix/crypto-js)
+- [Lucia](https://lucia-auth.com/)
 - [Magic](https://magic.link/)
 - [Ory](https://github.com/ory/keto)
 - [OTPGenerator](https://github.com/Maheshkumar-Kakade/otp-generator)
@@ -176,6 +177,7 @@
 - [MJML](https://mjml.io/)
 - [NodeMailer](https://github.com/nodemailer/nodemailer)
 - [PostmarkApp](https://postmarkapp.com/)
+- [Resend](https://resend.com/)
 - [SendGrid](https://sendgrid.com/)
 - [Sparkpost](https://www.sparkpost.com/)
 
@@ -425,6 +427,7 @@
 - [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)
 - [Typescript JSON Schema](https://www.npmjs.com/package/typescript-json-schema)
 - [Typia](https://github.com/samchon/typia)
+- [Valibot](https://valibot.dev/)
 - [Vine](https://github.com/vinejs/vine)
 - [Zod](https://github.com/colinhacks/zod)
 

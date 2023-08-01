@@ -13,9 +13,10 @@
 - [Kali Linux](https://www.kali.org/)
 
 ### Ferramentas
- - [BIND](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-pt)
- - [TMUX](https://github.com/tmux/tmux)
- - [zsh](https://ohmyz.sh/)
+- [Amethyst](https://ianyh.com/amethyst/)
+- [BIND](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04-pt)
+- [TMUX](https://github.com/tmux/tmux)
+- [zsh](https://ohmyz.sh/)
   - [Fig](https://github.com/withfig/autocomplete)
   - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
   - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting)

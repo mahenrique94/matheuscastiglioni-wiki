@@ -12,6 +12,7 @@
 - [Codeium](https://codeium.com/)
 - [Copilot](https://github.com/features/copilot)
 - [LangChain](https://docs.langchain.com/docs/)
+- [Leonardo](https://leonardo.ai/)
 - [Llama](https://ai.meta.com/llama)
 - [MidJourney](https://www.midjourney.com/home)
 - [Whisper](https://openai.com/research/whisper)
