@@ -5,6 +5,7 @@
 - [Competing Consumer](https://docs.microsoft.com/pt-br/azure/architecture/patterns/competing-consumers)
 - [Delegated Setup](http://xunitpatterns.com/Delegated%20Setup.html)
 - [Dependency Injection](https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671)
+- [Expand and Contract](https://www.prisma.io/dataguide/types/relational/expand-and-contract-pattern)
 - [Front Controller](https://en.wikipedia.org/wiki/Front_controller)
 - [Problem Details](https://codeopinion.com/problem-details-for-better-rest-http-api-errors/)
 - [Rules](https://www.michael-whelan.net/rules-design-pattern/)
