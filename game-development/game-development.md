@@ -139,6 +139,7 @@
 - [Substance 3D](https://www.substance3d.com/)
 - [SynthEtes](https://www.ssontech.com/)
 - [Tiled](https://www.mapeditor.org/)
+- [Wwise](https://www.audiokinetic.com/en/products/wwise/)
 
 ## Técnicas
 - [Delta Encoding](https://en.wikipedia.org/wiki/Delta_encoding)
