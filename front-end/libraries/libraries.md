@@ -491,6 +491,7 @@
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
 - [Iconoir](https://iconoir.com/)
+- [IconScout](https://iconscout.com/)
 - [Lucide](https://lucide.dev/)
 - [MingCute](https://www.mingcute.com/)
 - [PhosphorIcons](https://phosphoricons.com/)

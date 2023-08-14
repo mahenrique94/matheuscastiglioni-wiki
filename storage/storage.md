@@ -90,6 +90,7 @@
 - [SingleStore](https://www.singlestore.com/)
 - [Snowflake](https://www.snowflake.com/en/)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+- [SpacetimeDB](https://spacetimedb.com/)
 - [Spanner](https://cloud.google.com/spanner)
 - [SurrealDB](https://surrealdb.com/)
 - [TiDB](https://pingcap.com/)
