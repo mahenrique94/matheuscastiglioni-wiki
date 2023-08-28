@@ -64,6 +64,7 @@
 - [OrbitDB](https://orbitdb.org/)
 - [OrientDB](https://orientdb.org/)
 - [OrioleDB](https://github.com/orioledb/orioledb/)
+- [Pinecone](https://www.pinecone.io/)
 - [PlanetScale](https://planetscale.com/)
 - [PostgresQL](https://www.postgresql.org/)
   - [Citus](https://www.citusdata.com/)

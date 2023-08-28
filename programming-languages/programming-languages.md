@@ -22,6 +22,7 @@
 - [Rust](https://www.rust-lang.org/pt-BR)
 - [Swift](https://developer.apple.com/swift/)
 - [TypeScript](https://www.typescriptlang.org/)
+  - [TypeScript Bases](https://github.com/tsconfig/bases)
   - [TypeScript Book](https://github.com/basarat/typescript-book)
 
 ## Links

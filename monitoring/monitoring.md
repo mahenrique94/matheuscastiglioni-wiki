@@ -44,6 +44,7 @@
 - [FluentBit](https://fluentbit.io/)
 - [Google Analytics](https://analytics.google.com/)
 - [Grafana](https://grafana.com/)
+- [Helios](https://gethelios.dev/)
 - [Highlight](https://www.highlight.io/)
 - [HoneyComb](https://www.honeycomb.io/)
 - [Humio](https://www.humio.com/)

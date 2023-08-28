@@ -65,6 +65,7 @@
 - [Unreal](https://www.unrealengine.com/en-US/)
 - [Ursina](https://www.ursinaengine.org/)
 - [Ux3D](https://ux3d.io/)
+- [Wicked Engine](https://wickedengine.net/)
 
 ## Links
 - [Armor Games](https://armorgames.com/)
@@ -116,6 +117,7 @@
 - [JustSketchMe](https://justsketch.me/)
 - [Light Tracer Render](https://lighttracer.org/)
 - [Live Link Face](https://apps.apple.com/us/app/live-link-face/id1495370836)
+- [MagicaVoxel](https://ephtracy.github.io/)
 - [Mari](https://www.foundry.com/products/mari)
 - [Marvelous Designer](https://www.marvelousdesigner.com/)
 - [Maya](https://www.autodesk.com.br/products/maya/overview?plc=MAYA&term=1-YEAR&support=ADVANCED&quantity=1)

@@ -59,6 +59,7 @@
 - [Codecept](https://codecept.io/)
 - [Cypress](https://www.cypress.io/)
 - [LocalStack](https://localstack.cloud/)
+- [Maestro](https://maestro.mobile.dev/)
 - [NightWatchjs](https://nightwatchjs.org/)
 - [Protactor](https://www.protractortest.org/#/)
 - [Selenium](https://www.selenium.dev/)

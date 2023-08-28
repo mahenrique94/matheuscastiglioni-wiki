@@ -22,6 +22,7 @@
 - [Grind](https://grind.rocks/)
 - [Hapi](https://hapi.dev/)
 - [Herb.js](https://herbsjs.org/)
+- [Hono](https://hono.dev/)
 - [HyperStackjs](https://hyperstackjs.io/)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Koa](https://koajs.com/)

@@ -12,6 +12,7 @@
 - [ChatGPT](https://chat.openai.com/)
 - [Codeium](https://codeium.com/)
 - [Copilot](https://github.com/features/copilot)
+- [EbSynth](https://ebsynth.com/)
 - [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/)
 - [LangChain](https://docs.langchain.com/docs/)
 - [Leonardo](https://leonardo.ai/)

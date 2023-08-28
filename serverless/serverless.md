@@ -5,6 +5,7 @@
 ## Ferramentas
 - [Apache OpenWhisk](https://openwhisk.apache.org/)
 - [Kubeless](https://kubeless.io/)
+- [Momento](https://www.gomomento.com/)
 - [Open FAAS](https://www.openfaas.com/)
 - [Seed](https://seed.run/)
 

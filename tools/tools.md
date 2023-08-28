@@ -18,7 +18,7 @@
 - Criar músicas através do código ([https://sonic-pi.net/](https://sonic-pi.net/))
 - Cria anotações online ([https://evernote.com/intl/pt-br](https://evernote.com/intl/pt-br))
 - Criação de aplicações no-code ([https://retool.com/](https://retool.com/))
-- Crie documentos colaborativos ([https://www.craft.do/](https://www.craft.do/), [AppFlowy](https://www.appflowy.io/), [https://coda.io/](https://coda.io/), [https://get.mem.ai/](https://get.mem.ai/), [https://www.notion.so/](https://www.notion.so/), [https://scribehow.com/](https://scribehow.com/), [https://www.thunknotes.com/](https://www.thunknotes.com/), [https://hackmd.io/](https://hackmd.io/))
+- Crie documentos colaborativos ([https://www.craft.do/](https://www.craft.do/), [AppFlowy](https://www.appflowy.io/), [https://coda.io/](https://coda.io/), [https://get.mem.ai/](https://get.mem.ai/), [https://www.notion.so/](https://www.notion.so/), [https://scribehow.com/](https://scribehow.com/), [https://www.thunknotes.com/](https://www.thunknotes.com/), [https://hackmd.io/](https://hackmd.io/), [https://reflect.app/](https://reflect.app/))
 - Crie diagramas à partir de textos ([https://kroki.io/](https://kroki.io/))
 - Crie tema para o VSCode([https://themes.vscode.one](https://themes.vscode.one))
 - Crie uma rede de conhecimento ([https://obsidian.md/](https://obsidian.md/))
@@ -36,6 +36,7 @@
 - Realizar SQLs em arquivos CSV, XLS e JSON ([https://simplql.com/](https://simplql.com/))
 - Remover fundo de videos chamadass ([https://www.chromacam.me/](https://www.chromacam.me/))
 - Remover som de fundo ([https://krisp.ai/](https://krisp.ai/), [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [https://www.utterly.app/](https://www.utterly.app/))
+- Reuniões ([https://www.butter.us/](https://www.butter.us/), [https://meet.google.com/](https://meet.google.com/), [https://zoom.us/](https://zoom.us/))
 - SVG
   - Animar SVG's ([https://svgartista.net/](https://svgartista.net/))
   - Colorir SVG's ([https://www.fecolormatrix.com/](https://www.fecolormatrix.com/))

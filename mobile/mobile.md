@@ -32,4 +32,5 @@
 
 ## Testes
 - [Google Play Store Beta](https://support.google.com/googleplay/answer/7003180?hl=pt-BR)
+- [Maestro](https://maestro.mobile.dev/)
 - [Test Flight](https://apps.apple.com/br/app/testflight/id899247664)
