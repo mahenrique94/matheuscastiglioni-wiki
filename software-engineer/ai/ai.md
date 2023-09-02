@@ -19,6 +19,7 @@
 - [Llama](https://ai.meta.com/llama)
 - [MidJourney](https://www.midjourney.com/home)
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
+- [Rix](https://hashnode.com/rix)
 - [Whisper](https://openai.com/research/whisper)
 
 ## Linguagens
