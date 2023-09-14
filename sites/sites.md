@@ -1,12 +1,14 @@
 # Sites
 
 - Acompanhar proposals do JavaScript ([https://www.proposals.es/](https://www.proposals.es/))
+- Baixar fontes ([https://www.dafont.com/pt/](https://www.dafont.com/pt/), [https://fonts.google.com/](https://fonts.google.com/))
 - Baixar músicas com free royalty ([https://www.bensound.com/](https://www.bensound.com/))
 - Banco de dados de timezones ([https://www.iana.org/time-zones](https://www.iana.org/time-zones))
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
 - Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
 - Calcular dias úteis ([https://www.dias-uteis.com/](https://www.dias-uteis.com/))
+- Compartilhar segredos ([https://onetimesecret.com/](https://onetimesecret.com/))
 - Comprar diagramas ([https://text-to-diagram.com/](https://text-to-diagram.com/))
 - Converter unix timestamp para datas ([https://www.epochconverter.com/](https://www.epochconverter.com/))
 - Criar lista de links ([https://link.space/](https://link.space/), [https://linktr.ee/](https://linktr.ee/))

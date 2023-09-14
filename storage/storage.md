@@ -15,6 +15,7 @@
 - [CockroachDB](https://www.cockroachlabs.com/)
 - [CouchBase](https://www.couchbase.com/)
 - [CouchDB](https://couchdb.apache.org/)
+- [Datastax](https://www.datastax.com/)
 - [Datastore](https://cloud.google.com/datastore)
 - [Datomic](https://www.datomic.com/)
 - [DolphinDB](https://www.dolphindb.com/)
@@ -125,6 +126,7 @@
 
 ## Ferramentas
 - [DBngin](https://dbngin.com/)
+- [DBVis](https://www.dbvis.com/)
 - [Directus](https://directus.io/)
 - [EverSQL](https://www.eversql.com/)
 - [RepliByte](https://www.replibyte.com/docs/introduction)

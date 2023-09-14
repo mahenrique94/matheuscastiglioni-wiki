@@ -68,6 +68,9 @@
 ### Web
 - [WebView Flutter](https://pub.dev/packages/webview_flutter)
 
+### Storage
+- [Hive](https://pub.dev/packages/hive)
+
 ## Framework
 
 ### Interface

@@ -371,6 +371,7 @@
 
 ## Email
 - [EmailJS](https://www.emailjs.com/)
+- [MJML](https://mjml.io/)
 
 ## Emojis
 - [EmojisPlosion](https://github.com/JoshuaKGoldberg/emojisplosion)
@@ -714,6 +715,7 @@
 ## Segurança
 - [DOMPurify](https://github.com/cure53/DOMPurify)
 - [Retire.js](https://github.com/RetireJS/retire.js)
+- [sanitize-html](https://www.npmjs.com/package/sanitize-html)
 
 ## SSR
 - [Razzle](https://github.com/jaredpalmer/razzle)

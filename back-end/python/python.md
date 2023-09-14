@@ -5,6 +5,12 @@
 ### AI
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
+### API
+- [Django](https://www.djangoproject.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+- [Starlette](https://www.starlette.io/)
+
 ### Animações
 - [Manim](https://www.manim.community/)
 

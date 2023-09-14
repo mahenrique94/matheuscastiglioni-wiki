@@ -163,6 +163,7 @@
 ### Drivers
 - [Node Mysql2](https://github.com/sidorares/node-mysql2)
 - [Node Postgres](https://github.com/brianc/node-postgres)
+  - [pg-connection-string](https://www.npmjs.com/package/pg-connection-string)
 - [Postgres.js](https://github.com/porsager/postgres)
 
 ### E-Commerce
