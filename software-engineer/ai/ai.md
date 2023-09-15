@@ -21,6 +21,7 @@
 - [MidJourney](https://www.midjourney.com/home)
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 - [Rix](https://hashnode.com/rix)
+- [v0](https://v0.dev/)
 - [Whisper](https://openai.com/research/whisper)
 
 ## Linguagens
