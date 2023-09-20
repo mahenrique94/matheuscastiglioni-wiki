@@ -404,6 +404,7 @@
 - [Refractor](https://github.com/wooorm/refractor)
 - [Shiki](https://github.com/shikijs/shiki)
 - [SQLFormatter](https://github.com/sql-formatter-org/sql-formatter)
+- [Sugar High](https://sugar-high.vercel.app/)
 - [Syntax](https://syntax.page/)
 
 ## Formulário

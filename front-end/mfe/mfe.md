@@ -2,6 +2,7 @@
 
 ## Bibliotecas
 - [Ara](https://ara-framework.github.io/website/)
+- [Bit](https://bit.dev/)
 - [Garfish](https://github.com/web-infra-dev/garfish)
 - [Luigi](https://luigi-project.io/)
 - [OpenComponents](https://opencomponents.github.io/)
