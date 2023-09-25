@@ -9,6 +9,8 @@
 
 ## Bibliotecas
 - [Assimp](https://github.com/assimp/assimp)
+- [Bullet Physics](https://github.com/bulletphysics)
+- [Euphoria Ragdoll](https://www.gta5-mods.com/misc/euphoria-ragdoll-overhaul-ero)
 
 ## Engines
 - [AbyssEngine](https://www.abyssengine.com/)
@@ -42,6 +44,7 @@
 - [Hazel](https://hazelengine.com/)
 - [Heaps](https://heaps.io/)
 - [HeroEngine](https://pt.wikipedia.org/wiki/HeroEngine)
+- [Insomniac Engine](https://www.pcgamingwiki.com/wiki/Engine:Insomniac_Engine)
 - [KaboomJS](https://kaboomjs.com)
 - [libGDX](https://libgdx.com/)
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS)
@@ -168,3 +171,6 @@
 
 ## Técnicas
 - [Delta Encoding](https://en.wikipedia.org/wiki/Delta_encoding)
+- [Displacement Mapping](https://en.wikipedia.org/wiki/Displacement_mapping)
+- [Parallax Mapping/Rendering](https://en.wikipedia.org/wiki/Parallax_mapping)
+- [Root Motion](https://docs.unity3d.com/Manual/RootMotion.html)
