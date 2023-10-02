@@ -60,6 +60,9 @@
 - [AsyncAPI](https://www.asyncapi.com/)
   - [AsyncAPI Cupid](https://github.com/asyncapi/cupid)
 
+### Audio
+- [OpenAL](https://www.openal.org/)
+
 ### Authentication
 - [AccessControl](https://github.com/onury/accesscontrol)
 - [Argon2](https://www.npmjs.com/package/argon2)

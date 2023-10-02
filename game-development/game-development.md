@@ -53,6 +53,7 @@
 - [Marmalade](https://en.wikipedia.org/wiki/Marmalade_(software))
 - [MelonJS](https://melonjs.org/)
 - [MonoGame](https://www.monogame.net/)
+- [MT Framework](https://en.wikipedia.org/wiki/MT_Framework)
 - [NAP](https://www.napframework.com/)
 - [O3DE](https://www.o3de.org/)
 - [OpenFL](https://www.openfl.org/)
@@ -170,7 +171,9 @@
 - [Wwise](https://www.audiokinetic.com/en/products/wwise/)
 
 ## Técnicas
+- [Clipping](https://en.m.wikipedia.org/wiki/Clipping_(computer_graphics))
 - [Delta Encoding](https://en.wikipedia.org/wiki/Delta_encoding)
 - [Displacement Mapping](https://en.wikipedia.org/wiki/Displacement_mapping)
 - [Parallax Mapping/Rendering](https://en.wikipedia.org/wiki/Parallax_mapping)
 - [Root Motion](https://docs.unity3d.com/Manual/RootMotion.html)
+- [Swizzling](https://en.m.wikipedia.org/wiki/Swizzling_(computer_graphics))

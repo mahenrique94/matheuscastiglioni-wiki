@@ -110,6 +110,7 @@
 
 ## Bibiliotecas
 - [Continuent](https://www.continuent.com/)
+- [electricSQL](https://electric-sql.com/)
 - [FlyWayDB](https://flywaydb.org/)
 - [Innobackupex](https://www.percona.com/doc/percona-xtrabackup/2.1/innobackupex/innobackupex_script.html)
 - [Liquibase](https://www.liquibase.org/)
