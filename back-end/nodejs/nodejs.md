@@ -2,6 +2,9 @@
 
 ## Bibliotecas
 
+### AI
+- [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
+
 ### APIs
 - [ActionHero](https://github.com/actionhero/actionhero)
 - [AdonisJS](https://adonisjs.com/)
@@ -373,6 +376,9 @@
 - [GOT](https://github.com/sindresorhus/got)
 - [TRPC](https://trpc.io/)
 
+### Rotas
+- [Ziggy](https://github.com/tighten/ziggy)
+
 ### Rotinas
 - [Agenda](https://github.com/agenda/agenda)
 - [NodeSchedule](https://github.com/node-schedule/node-schedule)
@@ -391,6 +397,9 @@
 
 ### SQL
 - [SQL](https://github.com/nearform/sql)
+
+### String
+- [string-ts](https://github.com/gustavoguichard/string-ts)
 
 ### Template Engine
 - [EJS](https://github.com/mde/ejs)

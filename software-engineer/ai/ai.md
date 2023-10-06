@@ -10,6 +10,7 @@
 - [AudioGen](https://felixkreuk.github.io/audiogen/)
 - [Bard](https://bard.google.com/)
 - [ChatGPT](https://chat.openai.com/)
+  - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
 - [Codeium](https://codeium.com/)
 - [Copilot](https://github.com/features/copilot)
 - [G-prompter](https://www.g-prompter.com/en)

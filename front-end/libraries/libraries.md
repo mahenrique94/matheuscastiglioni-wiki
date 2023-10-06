@@ -466,6 +466,7 @@
 - [GraphVIZ](http://www.graphviz.org/)
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [JSXGraph](https://jsxgraph.org/wp/index.html)
+- [Lightweight Charts](https://www.tradingview.com/lightweight-charts/)
 - [Observable Plot](https://observablehq.com/plot/)
 - [Perspective](https://github.com/finos/perspective/)
 - [Plotly.js](https://github.com/plotly/plotly.js)
