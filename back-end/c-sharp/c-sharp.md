@@ -21,6 +21,9 @@
 ### Desktop
 - [AvaloniaUI](https://avaloniaui.net/)
 
+### Fake
+- [Bogus](https://github.com/bchavez/Bogus)
+
 ### Fixtures
 - [Bogus](https://github.com/bchavez/Bogus)
 

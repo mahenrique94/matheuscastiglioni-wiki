@@ -74,6 +74,7 @@
 - [Release Please](https://github.com/googleapis/release-please)
 
 ## Comunicação entre serviços
+- [Axon](https://developer.axoniq.io/axon-framework/overview)
 - [DAPR](https://dapr.io/)
 - [gRPC](https://grpc.io/)
   - [Evans](https://github.com/ktr0731/evans)
@@ -153,6 +154,7 @@
   - [GitHub1s](https://github.com/conwnet/github1s)
   - [GitIgnore](https://github.com/github/gitignore)
   - [GitLab](https://gitlab.com/)
+  - [GitNess](https://gitness.com/)
   - [GitPod](https://gitpod.io/)
   - [GitSense](https://gitsense.com/)
   - [VSFForGit](https://github.com/microsoft/VFSForGit)

@@ -422,6 +422,10 @@
 - [TRPC](https://trpc.io/)
 - [Typebox](https://github.com/sinclairzx81/typebox)
 
+### TypeScript
+- [ts-node](https://github.com/TypeStrong/ts-node)
+- [tsx](https://github.com/esbuild-kit/tsx)
+
 ### Utils
 - [Fast Memoize](https://github.com/caiogondim/fast-memoize.js)
 - [Mem](https://github.com/sindresorhus/mem)
