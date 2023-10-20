@@ -1,5 +1,6 @@
 # AI
 
+- https://www.kaggle.com/
 - https://theresanaiforthat.com/
 
 ## Bibliotecas

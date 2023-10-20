@@ -23,6 +23,7 @@
 
 ### Componentes
 - [FlashList](https://github.com/shopify/flash-list)
+- [Gluestack](https://gluestack.io/ui/docs/overview/introduction)
 - [Native base](https://github.com/GeekyAnts/NativeBase)
 - [NativeWind](https://www.nativewind.dev/)
 - [Notifee](https://notifee.app/)

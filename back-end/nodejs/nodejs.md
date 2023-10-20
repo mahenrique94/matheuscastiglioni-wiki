@@ -443,6 +443,7 @@
 - [AJV]([AJV](https://github.com/ajv-validator/ajv))
 - [ArkType](https://github.com/arktypeio/arktype)
 - [class-validator](https://github.com/typestack/class-validator)
+- [EffectTS](https://github.com/Effect-TS/schema)
 - [Fastest Validator](https://github.com/icebob/fastest-validator)
 - [Fluent JSON Schema](https://github.com/fastify/fluent-json-schema)
 - [Typescript JSON Schema](https://www.npmjs.com/package/typescript-json-schema)
@@ -452,6 +453,7 @@
 - [Zod](https://github.com/colinhacks/zod)
 
 ### Videos
+- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - [FFMPEG.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 - [YouTube.js](https://github.com/LuanRT/YouTube.js)
 

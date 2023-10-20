@@ -380,6 +380,7 @@
 
 ## Engines
 - [Bun](https://bun.sh/)
+  - [Elysia](https://elysiajs.com/)
 - [ChakraCore](https://github.com/chakra-core/ChakraCore)
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
@@ -456,6 +457,7 @@
 
 ## Gráficos
 - [Apache ECharts](https://echarts.apache.org/en/index.html)
+- [Apexcharts](https://github.com/apexcharts/apexcharts.js)
 - [Billboard.js](https://github.com/naver/billboard.js)
 - [Chart.css](https://chartscss.org/)
 - [Chart.js](https://github.com/chartjs/Chart.js)
@@ -547,6 +549,9 @@
 ## Layout
 - [MiniMasonry.js](https://github.com/Spope/MiniMasonry.js)
 - [Yoga](https://github.com/facebook/yoga)
+
+## Limpeza
+- [Knip](https://github.com/webpro/knip)
 
 ## Linguagens
 - [Wasp](https://wasp-lang.dev/)
