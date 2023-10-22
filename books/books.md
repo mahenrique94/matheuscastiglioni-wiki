@@ -76,6 +76,7 @@
 - [Desconstruindo a Web](https://www.casadocodigo.com.br/products/livro-desconstruindo-web)
 - [Dominando JavaScript com jQuery](https://www.casadocodigo.com.br/products/livro-javascript-jquery)
 - [ECMAScript 6](https://www.casadocodigo.com.br/products/livro-ecmascript6)
+- [Eloquent JavaScript: A Modern Introduction to Programming - Third Edition](https://eloquentjavascript.net/)
 - [Front-end com Vue.js](https://www.casadocodigo.com.br/products/livro-frontend-vue)
 - [Guia Front-End](https://www.casadocodigo.com.br/products/livro-guia-frontend)
 - [HTML5](https://livrosdomaujor.com.br/html5/2ed/index.php)
