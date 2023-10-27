@@ -318,6 +318,7 @@
 - [ANTLR4](https://github.com/antlr/antlr4)
 - [Espree](https://github.com/eslint/espree)
 - [Meriyah](https://github.com/meriyah/meriyah)
+- [msgpackr](https://github.com/kriszyp/msgpackr)
 - [Node CSV](https://github.com/adaltas/node-csv)
 - [Parse Domain](https://github.com/peerigon/parse-domain)
 - [PSD](https://github.com/webtoon/psd)

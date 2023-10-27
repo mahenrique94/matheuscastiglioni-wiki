@@ -49,6 +49,7 @@
 - [Wallabyjs](https://wallabyjs.com/)
 - [WireMock](http://wiremock.org/)
 - [Wrk](https://github.com/wg/wrk)
+  - [Wrk2](https://github.com/giltene/wrk2)
 
 ## Documentações
 - [13 principais tipos de testes de software](https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/)
