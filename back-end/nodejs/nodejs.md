@@ -111,6 +111,9 @@
 ### Circuit Braker
 - [Opossum](https://github.com/nodeshift/opossum)
 
+### Coleções
+- [uint8array-extras](https://github.com/sindresorhus/uint8array-extras)
+
 ### Comentários
 - [Disqus](https://disqus.com/)
 - [Giscus](https://giscus.app/)
@@ -213,8 +216,9 @@
 - [Undici](https://github.com/nodejs/undici)
 
 ### Imagens
-- [Jimp](https://www.npmjs.com/package/jimp)
+- [Jimp](https://github.com/jimp-dev/jimp)
 - [OpenCV](https://docs.opencv.org/)
+  - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)
 - [PixelMatch](https://github.com/mapbox/pixelmatch)
 - [Sharp](https://github.com/lovell/sharp)
 - [SSDiff](https://github.com/BuilderIO/SSDiff)
@@ -260,6 +264,9 @@
 - [Morgan](https://github.com/expressjs/morgan)
 - [Pino](https://github.com/pinojs/pino)
 - [Winston](https://github.com/winstonjs/winston)
+
+### Machine Learning
+- [transformers.js](https://github.com/xenova/transformers.js/)
 
 ### Mock
 - [Mocky](https://github.com/julien-lafont/Mocky)
@@ -404,7 +411,7 @@
 
 ### Template Engine
 - [EJS](https://github.com/mde/ejs)
-- [Eta](https://eta.js.org/)
+- [ETA](https://eta.js.org/)
 - [HandleBars](https://github.com/handlebars-lang/handlebars.js)
 - [Marko](https://github.com/marko-js/marko)
 - [Pug](https://github.com/pugjs/pug)
@@ -456,7 +463,9 @@
 ### Videos
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - [FFMPEG.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+- [mp4box.js](https://gpac.github.io/mp4box.js)
 - [YouTube.js](https://github.com/LuanRT/YouTube.js)
+- [webm-writer-js](https://github.com/thenickdude/webm-writer-js)
 
 ### Webhooks
 - [Diahook](https://www.diahook.com)

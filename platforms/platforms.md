@@ -65,7 +65,7 @@
 - Realizar estimativa ágil usando Poker ([https://firepoker.io/](https://firepoker.io/))
 - Realizar pesquisa ([https://www.typeform.com/](https://www.typeform.com/))
 - Realizar retros online ([https://funretro.io/](https://funretro.io/))
-- Receber dinheiro do exterior ([https://www.deel.com/](https://www.deel.com/), [https://www.husky.io/](https://www.husky.io/))
+- Receber dinheiro do exterior ([https://www.deel.com/](https://www.deel.com/), [https://www.husky.io/](https://www.husky.io/), [https://higlobe.com/](https://higlobe.com/))
 - Reuniões online ([https://meet.jit.si/](https://meet.jit.si/))
 - Rodar aplicações à partir de repositórios públicos do Github ([https://runme.io](https://runme.io/))
 - Salas simultaneas para bate papo ([https://www.kumospace.com/](https://www.kumospace.com/) [https://gather.town/](https://gather.town/) [https://spatial.chat/](https://spatial.chat/))

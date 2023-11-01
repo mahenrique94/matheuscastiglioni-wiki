@@ -131,6 +131,7 @@
 ## Técnicos
 - [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
 - [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224)
+- [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7)
 - [Practical Programming](https://pragprog.com/titles/gwpy3/practical-programming-third-edition/)
 
 ## Testes

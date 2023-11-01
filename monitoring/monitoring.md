@@ -71,6 +71,7 @@
   - [Thanos](https://github.com/thanos-io/thanos)
 - [Rollbar](https://rollbar.com/)
 - [Sentry](https://sentry.io/welcome/)
+- [Seq](https://datalust.co/)
 - [Signoz](https://github.com/SigNoz/signoz)
 - [Splunk](https://www.splunk.com/)
 - [Spot](https://spot.io/)

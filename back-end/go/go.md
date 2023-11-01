@@ -8,6 +8,9 @@
 
 ## Bibliotecas
 
+### Concorrência
+- [Conc](https://github.com/sourcegraph/conc)
+
 ### Injeção de Dependência
 - [Dig](https://github.com/uber-go/dig)
 
