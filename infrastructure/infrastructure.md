@@ -84,6 +84,8 @@
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
   - [Apache Mesos](http://mesos.apache.org/)
+  - [Buildkit](https://docs.docker.com/build/buildkit/)
+  - [Buildx](https://docs.docker.com/engine/reference/commandline/buildx/)
   - [Colima](https://github.com/abiosoft/colima)
   - [Cycle](https://cycle.io/)
   - [Dive](https://github.com/wagoodman/dive)

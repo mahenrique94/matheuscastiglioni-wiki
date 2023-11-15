@@ -42,6 +42,7 @@ https://jamstack.org
 - [Qwik](https://qwik.builder.io/)
 - [RedWood](https://github.com/redwoodjs/redwood)
 - [Remix](https://remix.run/)
+- [Rspress](https://github.com/web-infra-dev/rspress)
 - [Sanity](https://www.sanity.io/)
 - [Scully](https://github.com/scullyio/scully)
 - [Storyblok](https://www.storyblok.com/)

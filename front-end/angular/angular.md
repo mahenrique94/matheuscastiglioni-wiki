@@ -24,5 +24,8 @@
 ### Gráficos
 - [Angular2 Chartjs](https://github.com/emn178/angular2-chartjs)
 
+### Utils
+- [NgxExtension](https://ngxtension.netlify.app/)
+
 ## Guias
 - https://update.angular.io/

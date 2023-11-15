@@ -136,6 +136,7 @@
 
 ### Compressão
 - [SVGO](https://github.com/svg/svgo)
+- [zlib](https://www.npmjs.com/package/zlib)
 
 ### Configuração
 - [Cloc](https://github.com/AlDanial/cloc)
@@ -212,6 +213,7 @@
 ### HTTP
 - [Boom](https://github.com/hapijs/boom)
 - [HTTP Status Code](https://www.npmjs.com/package/http-status-codes)
+- [Milo](https://milojs.github.io/milo/)
 - [Node Fetch](https://github.com/node-fetch/node-fetch)
 - [Undici](https://github.com/nodejs/undici)
 
@@ -317,6 +319,8 @@
   - [NPMS](https://npms.io/)
   - [Pkg Size](https://pkg-size.dev/)
   - [Socket.dev](https://socket.dev/)
+- [CNPM](https://github.com/cnpm/cnpm)
+- [PNPM](https://pnpm.io/)
 - [Verdaccio](https://github.com/verdaccio/verdaccio)
 - [Yarn](https://yarnpkg.com/)
   - [Improved Yarn Audit](https://github.com/djfdyuruiry/improved-yarn-audit)
@@ -429,6 +433,8 @@
 - [ts-belt](https://github.com/mobily/ts-belt)
 - [TRPC](https://trpc.io/)
 - [Typebox](https://github.com/sinclairzx81/typebox)
+- [type-fest](https://github.com/sindresorhus/type-fest)
+- [type-reset](https://github.com/total-typescript/ts-reset)
 
 ### TypeScript
 - [ts-node](https://github.com/TypeStrong/ts-node)
