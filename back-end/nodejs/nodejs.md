@@ -88,6 +88,9 @@
 - [Magicast](https://github.com/unjs/magicast)
 - [RobotJS](https://github.com/octalmage/robotjs)
 
+### AWS
+- [AWS Lite](https://aws-lite.org/)
+
 ### Banco de Dados
 - [Node Postgres](https://github.com/brianc/node-postgres)
 
@@ -399,6 +402,9 @@
 
 ### Sandbox
 - [WebContainers](https://webcontainers.io/)
+
+### Scraping
+- [Cheerio](https://cheerio.js.org/)
 
 ### Script
 - [Wireit](https://github.com/google/wireit)

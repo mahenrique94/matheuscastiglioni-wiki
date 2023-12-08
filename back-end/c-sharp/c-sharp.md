@@ -20,6 +20,7 @@
 
 ### Desktop
 - [AvaloniaUI](https://avaloniaui.net/)
+- [Platform Uno](https://platform.uno/)
 
 ### Fake
 - [Bogus](https://github.com/bchavez/Bogus)
@@ -44,6 +45,9 @@
 ### Mapping
 - [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
+### Mobile
+- [MAUI](https://dotnet.microsoft.com/en-us/apps/maui)
+
 ### Mocking
 - [Moq](https://github.com/moq/moq)
 
@@ -61,6 +65,10 @@
 
 ### Streaming
 - [MediatR](https://github.com/jbogard/MediatR)
+- [Wolverine](https://wolverine.netlify.app/)
+
+### UI
+- [AvaloniaUI](https://www.avaloniaui.net/)
 
 ### Validação
 - [FluentValidation](https://docs.fluentvalidation.net/en/latest/)

@@ -42,5 +42,6 @@
 - [Salvo](https://salvo.rs/)
 
 ### Web
+- [Actix](https://actix.rs/)
 - [Leptos](https://leptos.dev/)
 - [Seed](https://seed-rs.org/)
