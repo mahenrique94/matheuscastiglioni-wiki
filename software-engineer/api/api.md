@@ -11,7 +11,8 @@
 - [JSON:API](https://jsonapi.org/)
 
 ## Ferramentas
-- [HTTP Status Dogs](https://httpstatusdogs.com/)
+- [HTTP Status Dogs](https://http.dog/)
+- [HTTP Status Goats](https://httpgoats.com/)
 - [LoremFaces](https://loremfaces.com/)
 
 ## Guia
@@ -30,6 +31,7 @@
 - [HTTPie](https://httpie.io/app)
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
+- [http.app](https://http.app/)
 
 ## Videos
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)
