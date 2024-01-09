@@ -16,7 +16,7 @@
 
 ### Criação de UI
 - [Dioxus](https://dioxuslabs.com/)
-- [Leptos](https://docs.rs/leptos/latest/leptos/)
+- [Leptos](https://www.leptos.dev/)
 - [Yew](https://yew.rs/)
 
 ### GPU

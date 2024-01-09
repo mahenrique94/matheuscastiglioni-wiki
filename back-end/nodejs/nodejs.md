@@ -15,6 +15,7 @@
 - [Egg](https://github.com/eggjs/egg)
 - [Express](https://expressjs.com/pt-br/)
   - [Consign](https://github.com/jarradseers/consign)
+  - [Create Express API](https://github.com/w3cj/create-express-api)
   - [PreRender](https://github.com/prerender/prerender-node)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Fastify](https://www.fastify.io/)
@@ -415,6 +416,7 @@
 
 ### SQL
 - [SQL](https://github.com/nearform/sql)
+- [SafeSQL](https://safeql.dev/)
 
 ### String
 - [string-ts](https://github.com/gustavoguichard/string-ts)

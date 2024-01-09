@@ -507,6 +507,7 @@
 - [MingCute](https://www.mingcute.com/)
 - [PhosphorIcons](https://phosphoricons.com/)
 - [RemixIcon](https://remixicon.com/)
+- [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders)
 - [SVG Repo](https://www.svgrepo.com/)
 - [Tabler](https://tabler-icons.io/)
 - [UnicornIcons](https://unicornicons.com/)

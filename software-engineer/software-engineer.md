@@ -46,6 +46,7 @@
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Tiny Helpers](https://tiny-helpers.dev/)
 - [Trilha](https://www.trilha.info/)
+- [TSDocs](https://tsdocs.dev/)
 - [Use The Keyboard](https://usethekeyboard.com/)
 - [Web Frameworks Benchmark](https://github.com/the-benchmarker/website)
 

@@ -34,6 +34,7 @@
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
 - [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)
 - [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Deploy-Production-Ready-Software/dp/0978739213)
+- [RESTful Web API Patterns and Practices Cookbook](https://www.oreilly.com/library/view/restful-web-api/9781098106737/)
 - [Sistemas Reativos](https://www.casadocodigo.com.br/products/livro-sistemas-reativos)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894?ref=d6k_applink_bb_dls&dplnkId=20c009ea-6f13-42ef-ab75-64d6d3a95654)
@@ -130,6 +131,7 @@
 
 ## Técnicos
 - [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
+- [A Common-Sense Guide to Data Structures and Algorithms](https://www.oreilly.com/library/view/a-common-sense-guide/9781680508048/)
 - [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224)
 - [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7)
 - [Practical Programming](https://pragprog.com/titles/gwpy3/practical-programming-third-edition/)

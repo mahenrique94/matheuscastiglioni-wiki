@@ -43,6 +43,7 @@
 - [Susy](https://www.oddbird.net/susy/)
 - [Tachyons](https://github.com/tachyons-css/tachyons/)
 - [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
+  - [Catalyst](https://tailwindui.com/templates/catalyst)
   - [Tailwind Elements](https://tailwind-elements.com/)
   - [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
   - [Tailwind Play](https://play.tailwindcss.com/)

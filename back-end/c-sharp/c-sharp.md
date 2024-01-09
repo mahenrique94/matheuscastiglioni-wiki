@@ -45,6 +45,9 @@
 ### Mapping
 - [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
+### Microsserviços
+- [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
+
 ### Mobile
 - [MAUI](https://dotnet.microsoft.com/en-us/apps/maui)
 
