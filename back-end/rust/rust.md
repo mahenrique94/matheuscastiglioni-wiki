@@ -17,6 +17,7 @@
 ### Criação de UI
 - [Dioxus](https://dioxuslabs.com/)
 - [Leptos](https://www.leptos.dev/)
+- [Taffy](https://github.com/DioxusLabs/taffy)
 - [Yew](https://yew.rs/)
 
 ### GPU

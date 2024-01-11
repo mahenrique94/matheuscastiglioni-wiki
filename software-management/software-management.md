@@ -67,6 +67,7 @@
 - [Workzone](https://www.workzone.com/)
 - [Wrike](https://www.wrike.com/vh/)
 - [Zepel](https://zepel.io/)
+- [Zulip](https://zulip.com/)
 
 ## Frameworks
 - [GSM (Goals Signals Metrics)](https://medium.com/swlh/the-5-essential-product-frameworks-40156f3ffc5e)
