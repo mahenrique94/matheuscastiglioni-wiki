@@ -174,6 +174,7 @@
   - [Swagger](https://swagger.io/)
 
 ## Feature Flag
+- [A/B Tasty](https://www.abtasty.com/)
 - [FeatureVisor](https://featurevisor.com/)
 - [LaunchDarkly](https://launchdarkly.com/)
 - [Permit](https://www.permit.io/)
