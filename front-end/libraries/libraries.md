@@ -126,6 +126,7 @@
   - [Rome Formatter](https://docs.rome.tools/formatter/)
   - [Rome Linter](https://docs.rome.tools/linter/)
 - [RsPack](https://www.rspack.dev/)
+  - [RsDoctor](https://rsdoctor.dev/)
 - [Skypack](https://www.skypack.dev/)
 - [Snowpack](https://github.com/snowpackjs/snowpack)
 - [Sucrase](https://github.com/alangpierce/sucrase)
@@ -287,6 +288,7 @@
 - [Typeit](https://github.com/alexmacarthur/typeit)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
 - [Umbrella](https://umbrellajs.com/)
+- [ViperHTML](https://viperhtml.js.org/)
 - [Vulcan](https://github.com/VulcanJS/Vulcan)
 - [WinBox](https://github.com/nextapps-de/winbox)
 - [Zag.js](https://zagjs.com/)
@@ -539,6 +541,11 @@
 - [UpScalerJS](https://github.com/thekevinscott/UpscalerJS)
 - [Uppy](https://github.com/transloadit/uppy)
 - [Viewer.js](https://github.com/fengyuanchen/viewerjs)
+
+## Imutabilidade
+- [ImmutableJS](https://immutable-js.com/)
+- [Mutative](https://github.com/unadlib/mutative)
+- []()
 
 ## Integração
 - [Venom](https://github.com/orkestral/venom)

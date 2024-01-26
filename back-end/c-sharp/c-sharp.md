@@ -60,6 +60,9 @@
 ### Profiler
 - [MiniProfiler](https://miniprofiler.com/)
 
+### Proxy Reverso
+- [Yarp](https://microsoft.github.io/reverse-proxy/)
+
 ### Qualidade
 - [NetArchTest](https://github.com/BenMorris/NetArchTest)
 

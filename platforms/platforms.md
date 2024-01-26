@@ -60,7 +60,7 @@
 - Manipular textos com JavaScript ([https://txtfiddle.com/](https://txtfiddle.com/))
 - Monitorar status de aplicações ([https://hyperping.io/](https://hyperping.io/))
 - Otimizador de imagens ([https://kraken.io/web-interface](https://kraken.io/web-interface), [https://squoosh.app/](https://squoosh.app/), [https://upscayl.github.io/](https://upscayl.github.io/))
-- Pagamentos online ([https://stripe.com/br](https://stripe.com/br), [https://pagar.me/](https://pagar.me/), [https://paystack.com/](https://paystack.com/), [https://www.lemonsqueezy.com/](https://www.lemonsqueezy.com/))
+- Pagamentos online ([https://sejaefi.com.br/](https://sejaefi.com.br/), [https://stripe.com/br](https://stripe.com/br), [https://pagar.me/](https://pagar.me/), [https://paystack.com/](https://paystack.com/), [https://www.lemonsqueezy.com/](https://www.lemonsqueezy.com/))
 - Pair programming ou meets ([https://www.loom.com/](https://www.loom.com/), [https://pop.com/home](https://pop.com/home))
 - Publica e construir servicos IoT ([https://www.balena.io/](https://www.balena.io/))
 - Realizar envio de email ([https://sendgrid.com/](https://sendgrid.com/))

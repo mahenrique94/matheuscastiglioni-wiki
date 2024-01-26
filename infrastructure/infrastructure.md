@@ -96,6 +96,7 @@
   - [Playground](https://www.docker.com/play-with-docker)
   - [Podman](https://podman.io/)
   - [Portainer](https://www.portainer.io/)
+  - [OrbStack](https://orbstack.dev/)
   - [Trivy](https://aquasecurity.github.io/trivy)
 - [Earthly](https://github.com/earthly/earthly)
 - [Kubernetes (k8s)](https://kubernetes.io/pt/)

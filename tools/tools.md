@@ -12,6 +12,7 @@
 - Coletar informações de site ([https://www.woopra.com/](https://www.woopra.com/))
 - Comunicação de equipe ([https://www.microsoft.com/pt-br/microsoft-teams/free](https://www.microsoft.com/pt-br/microsoft-teams/free) [https://slack.com/intl/pt-br/](https://slack.com/intl/pt-br/), [https://twist.com/pt-BR](https://twist.com/pt-BR))
 - Controle o quanto você fala em reuniões ([https://unblah.me/](https://unblah.me/)))
+- Conversor de vídeos ([https://www.hitpaw.com/](https://www.hitpaw.com/))
 - Criar eventos online ([https://hopin.com/](https://hopin.com/))
 - Criar fluxogramas ([https://flowchart.fun/](https://flowchart.fun/))
 - Criar temas ([https://themer.dev/](https://themer.dev/))

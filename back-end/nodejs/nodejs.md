@@ -118,6 +118,9 @@
 ### Coleções
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras)
 
+### Color
+- [Culori](https://github.com/Evercoder/culori)
+
 ### Comentários
 - [Disqus](https://disqus.com/)
 - [Giscus](https://giscus.app/)
@@ -173,6 +176,7 @@
 ### Documentação
 - [Compodoc](https://compodoc.app/guides/getting-started.html)
 - [Swagger JSDoc](https://github.com/Surnet/swagger-jsdoc)
+- [TypeSpec](https://typespec.io/)
 
 ### Drivers
 - [Node Mysql2](https://github.com/sidorares/node-mysql2)
@@ -181,6 +185,7 @@
 - [Postgres.js](https://github.com/porsager/postgres)
 
 ### E-Commerce
+- [EverShop](https://evershop.io/)
 - [Saleor](https://saleor.io/)
 
 ### Email

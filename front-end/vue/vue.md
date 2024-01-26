@@ -18,6 +18,9 @@
 ### Dashboard
 - [Vue Element Admin](https://panjiachen.github.io/vue-element-admin/#/dashboard)
 
+### Embedded Language
+- [VolarJS](https://volarjs.dev/)
+
 ### Estilização
 - [StyledVue](https://github.com/egoist/styled-vue)
 
@@ -32,3 +35,9 @@
 - [Harlemjs](https://harlemjs.com/)
 - [Pinia](https://github.com/vuejs/pinia)
 - [Vuex](https://github.com/vuejs/vuex)
+
+### Type Checking
+- [vue-tsc](https://github.com/vuejs/language-tools)
+
+### Utilitários
+- [Vue Macros](https://vue-macros.dev/)

@@ -36,6 +36,7 @@ https://jamstack.org
   - [Plasmic](https://www.plasmic.app/)
 - [Nextra](https://nextra.site/)
 - [Nuxt](https://nuxtjs.org/)
+  - [Nuxt UI](https://ui.nuxt.com/)
 - [Obelisk](https://github.com/BennyHallett/obelisk)
 - [Payload](https://payloadcms.com/)
 - [Prismic](https://prismic.io/)
@@ -50,3 +51,4 @@ https://jamstack.org
 - [Tina](https://tina.io/)
 - [Umi](https://github.com/umijs/umi)
 - [VitePress](https://vitepress.vuejs.org/)
+- [Vocs](https://vocs.dev/)
