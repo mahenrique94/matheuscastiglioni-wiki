@@ -39,5 +39,8 @@
 ## Jobs
 - [Swoole](https://openswoole.com/)
 
+## Refatoração
+- [Rector](https://getrector.com/)
+
 ## UI
 - [LiveWire](https://laravel-livewire.com/)

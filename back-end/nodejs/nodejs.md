@@ -289,6 +289,9 @@
 ### Migrations
 - [PostgratorCLI](https://github.com/MattiLehtinen/postgrator-cli)
 
+### Node_modules
+- [Npkill](https://npkill.js.org/)
+
 ### Notificação
 - [Node Notifier](https://github.com/mikaelbr/node-notifier)
 - [Novu](https://novu.co/)
@@ -450,6 +453,7 @@
 - [type-reset](https://github.com/total-typescript/ts-reset)
 
 ### TypeScript
+- [JSON to TypeScript](https://transform.tools/json-to-typescript)
 - [ts-node](https://github.com/TypeStrong/ts-node)
 - [tsx](https://github.com/esbuild-kit/tsx)
 
@@ -486,10 +490,16 @@
 - [YouTube.js](https://github.com/LuanRT/YouTube.js)
 - [webm-writer-js](https://github.com/thenickdude/webm-writer-js)
 
+### Watch files
+- [Chokidar](https://github.com/paulmillr/chokidar)
+
 ### Webhooks
 - [Diahook](https://www.diahook.com)
 - [Hook Relay](https://www.hookrelay.dev/)
 - [WebHookThing](https://webhookthing.com/)
+
+### Whatsapp
+- [WWebjs](https://wwebjs.dev/)
 
 ## Links
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs)

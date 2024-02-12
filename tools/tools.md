@@ -1,6 +1,7 @@
 # Ferramentas
 
 - Adicione pesquisa de satisfação em seus sites ([https://delighted.com/](https://delighted.com/))
+- Acesso Remoto ([https://www.avica.link/](https://www.avica.link/))
 - Apresentações em MarkDown ([https://marp.app/](https://marp.app/), [https://play.presenta.cc/](https://play.presenta.cc/))
 - Automações para Mac ([https://bunchapp.co/](https://bunchapp.co/), [https://www.hammerspoon.org/](https://www.hammerspoon.org/))
 - Biblioteca para criar contrastes de cores ([https://leonardocolor.io/](https://leonardocolor.io/))

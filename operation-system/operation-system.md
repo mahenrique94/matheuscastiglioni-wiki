@@ -30,8 +30,9 @@
 - [High Sierra](https://support.apple.com/kb/DL1966?viewlocale=pt_BR&locale=pt_BR)
 - [Mojave](https://support.apple.com/kb/DL2011?viewlocale=pt_BR&locale=pt_BR)
 
-### Ferramentas
+### Shell
 - [iTerm2](https://iterm2.com/)
+- [FishShell](https://fishshell.com/)
 
 ### Temas
 - [palenight-iterm2](https://github.com/JonathanSpeek/palenight-iterm2)

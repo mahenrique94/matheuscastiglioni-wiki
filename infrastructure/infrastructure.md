@@ -37,11 +37,13 @@
 - [Terraform](https://www.terraform.io/)
   - [Atlantis](https://github.com/runatlantis/atlantis)
   - [Sentinel](https://www.hashicorp.com/sentinel)
+  - [Terramate](https://terramate.io/)
   - [TFSec](https://github.com/aquasecurity/tfsec)
 - [Vagrant](https://www.vagrantup.com/)
 
 ## CDN
 - [Akamai](https://www.akamai.com/pt)
+- [Bunny](https://bunny.net/)
 - [CloudFlare](https://www.cloudflare.com/pt-br/learning/cdn/what-is-a-cdn/)
 - [CloudFront](https://aws.amazon.com/pt/cloudfront/)
 

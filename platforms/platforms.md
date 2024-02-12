@@ -73,7 +73,7 @@
 - Reuniões online ([https://meet.jit.si/](https://meet.jit.si/))
 - Rodar aplicações à partir de repositórios públicos do Github ([https://runme.io](https://runme.io/))
 - Salas simultaneas para bate papo ([https://www.kumospace.com/](https://www.kumospace.com/) [https://gather.town/](https://gather.town/) [https://spatial.chat/](https://spatial.chat/))
-- Simular chamadas para WebHooks ([https://requestbin.com/](https://requestbin.com/))
+- Simular chamadas para WebHooks ([https://requestbin.com/](https://requestbin.com/), [https://webhook.cool/](https://webhook.cool/))
 - Streaming de videos como lives ([https://www.agora.io/en/](https://www.agora.io/en/))
 - Timer colaborativo ([https://cuckoo.team/](https://cuckoo.team/))
 - Testar envio de emails ([https://usehelo.com/](https://usehelo.com/))

@@ -50,6 +50,7 @@
 - [Domestika](https://www.domestika.org/pt)
 - [EBAC Online](https://ebaconline.com.br/)
 - [Educative](https://www.educative.io/)
+- [Exercism](https://exercism.org/)
 - [FreeCodecamp](https://www.freecodecamp.org/)
 - [FrontendMentor](https://www.frontendmentor.io/)
 - [FullStackAcademy](https://www.fullstackacademy.com/)

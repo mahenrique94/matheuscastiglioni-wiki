@@ -22,6 +22,9 @@
 - [Gorm](https://gorm.io/index.html)
 - [Upper/DB](https://upper.io/v4/)
 
+### Qualidade
+- [Ginkgo](https://onsi.github.io/ginkgo/)
+
 ### Validação
 - [Validator](https://github.com/go-playground/validator)
 

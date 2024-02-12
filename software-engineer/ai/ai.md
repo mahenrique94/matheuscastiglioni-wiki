@@ -6,6 +6,9 @@
 ## Bibliotecas
 - [Video2x](https://github.com/k4yt3x/video2x)
 
+## Cloud
+- [Replicate](https://replicate.com/)
+
 ## Ferramentas
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [AudioGen](https://felixkreuk.github.io/audiogen/)

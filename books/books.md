@@ -21,6 +21,7 @@
 - [Domain-Driven Design: Atacando as complexidades no coração do software](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651)
 - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com.br/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451/ref=asc_df_1492043451/?tag=googleshopp00-20&linkCode=df0&hvadid=379795170134&hvpos=&hvnetw=g&hvrand=246121054958374246&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001751&hvtargid=pla-751683725274&psc=1)
+- [Head First Software Architecture](https://learning.oreilly.com/library/view/head-first-software/9781098134341/)
 - [Implementing Domain-Driven Design](https://www.amazon.com.br/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - [Learning Domain-Driven Design](https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY)
 - [Learning JavaScript Data Structures and Algorithms](https://www.packtpub.com/product/learning-javascript-data-structures-and-algorithms-third-edition/9781788623872)
@@ -38,6 +39,7 @@
 - [Sistemas Reativos](https://www.casadocodigo.com.br/products/livro-sistemas-reativos)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894?ref=d6k_applink_bb_dls&dplnkId=20c009ea-6f13-42ef-ab75-64d6d3a95654)
+- [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240)
 - [Understanding Distributed Systems](https://understandingdistributed.systems/)
 - [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 

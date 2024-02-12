@@ -53,6 +53,7 @@
 - [Kibana](https://www.elastic.co/pt/kibana)
 - [Komiser](https://www.komiser.io/)
 - [LightStep](https://lightstep.com/)
+- [Lightrun](https://lightrun.com/)
 - [LogRocket](https://logrocket.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)
   - [Filebeat](https://www.elastic.co/pt/beats/filebeat)
@@ -77,6 +78,7 @@
 - [Spot](https://spot.io/)
 - [Stackify](https://stackify.com/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
+- [Zephyr Cloud](https://zephyr-cloud.io/)
 - [Zipkin](https://zipkin.io/)
 - [Woopra](https://www.woopra.com/)
 

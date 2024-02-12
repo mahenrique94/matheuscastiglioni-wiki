@@ -50,6 +50,7 @@
 - [wow.js](https://wowjs.uk/)
 
 ## Apresentação
+- [Animate Code](https://www.animate-code.com/)
 - [Reveal.js](https://github.com/hakimel/reveal.js)
 - [Slidev](https://sli.dev/)
 
@@ -335,6 +336,7 @@
 ## Diff
 - [Delta](https://github.com/dandavison/delta)
 - [Diff2HTML](https://github.com/rtfpessoa/diff2html)
+- [DiffMatchPatch](https://github.com/google/diff-match-patch)
 - [GraphTage](https://github.com/trailofbits/graphtage)
 - [JSDiff](https://github.com/kpdecker/jsdiff)
 - [MicroDiff](https://github.com/AsyncBanana/microdiff)
@@ -415,6 +417,13 @@
 - [SQLFormatter](https://github.com/sql-formatter-org/sql-formatter)
 - [Sugar High](https://sugar-high.vercel.app/)
 - [Syntax](https://syntax.page/)
+
+## Formatos de Arquivos
+- [Markdown](https://www.markdownguide.org/)
+- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [PKL](https://pkl-lang.org/)
+- [YAML](https://en.wikipedia.org/wiki/YAML)
+- [XML](https://en.wikipedia.org/wiki/XML)
 
 ## Formulário
 - [Choices](https://github.com/Choices-js/Choices)
