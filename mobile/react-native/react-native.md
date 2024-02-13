@@ -41,6 +41,7 @@
 ### Estilização
 - [React Native Extended Stylesheet](https://github.com/vitalets/react-native-extended-stylesheet)
 - [React Native Linear Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
+- [Restyle](https://shopify.github.io/restyle/)
 
 ### Formulário
 - [React Native Formik](https://github.com/bamlab/react-native-formik)

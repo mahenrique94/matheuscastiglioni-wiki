@@ -221,6 +221,7 @@
 
 ### HTTP
 - [Boom](https://github.com/hapijs/boom)
+- [Cross Fetch](https://github.com/lquixada/cross-fetch)
 - [HTTP Status Code](https://www.npmjs.com/package/http-status-codes)
 - [Milo](https://milojs.github.io/milo/)
 - [Node Fetch](https://github.com/node-fetch/node-fetch)

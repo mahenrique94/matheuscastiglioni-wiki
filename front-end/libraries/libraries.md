@@ -728,6 +728,7 @@
   - [Axios Offline](https://github.com/jonkofee/axios-offline)
   - [Moxios](https://github.com/axios/moxios)
 - [Bent](https://github.com/mikeal/bent)
+- [Cross Fetch](https://github.com/lquixada/cross-fetch)
 - [HyperFetch](https://hyperfetch.bettertyped.com/)
 - [Ky](https://github.com/sindresorhus/ky)
 - [Mirage.js](https://github.com/miragejs/miragejs)
