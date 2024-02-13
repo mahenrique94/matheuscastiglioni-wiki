@@ -241,6 +241,7 @@
 - [Fuse](https://github.com/krisk/Fuse)
 - [Fuzzball.js](https://github.com/nol13/fuzzball.js)
 - [Lyra](https://lyrajs.io/)
+- [Lunr](https://lunrjs.com/)
 - [Orama](https://github.com/oramasearch/orama)
 
 ### Injeção de Dependência

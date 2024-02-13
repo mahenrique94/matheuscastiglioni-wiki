@@ -207,6 +207,7 @@
 - [Mantine Form](https://mantine.dev/form/use-form/)
 - [React Final Form](https://final-form.org/react)
 - [React Hook Form](https://react-hook-form.com/)
+- [React JSONSchema Form](https://github.com/rjsf-team/react-jsonschema-form)
 - [React TS Form](https://github.com/iway1/react-ts-form)
 
 ### Gerenciador de Estado
