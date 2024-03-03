@@ -38,6 +38,7 @@
 - [Pretender](https://github.com/pretenderjs/pretender)
 - [REST Assured](https://rest-assured.io/)
 - [RRWeb](https://github.com/rrweb-io/rrweb)
+- [Safetest](https://github.com/kolodny/safetest)
 - [ScanAPI](https://github.com/scanapi/scanapi)
 - [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
 - [Stryker Mutator](https://stryker-mutator.io/)

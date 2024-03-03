@@ -68,6 +68,9 @@
 ### Web
 - [WebView Flutter](https://pub.dev/packages/webview_flutter)
 
+### WebSocket
+- [Polo Client](https://pub.dev/documentation/polo_client/latest/)
+
 ### Storage
 - [Hive](https://pub.dev/packages/hive)
 

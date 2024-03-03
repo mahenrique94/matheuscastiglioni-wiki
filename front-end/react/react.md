@@ -107,6 +107,7 @@
 - [React I18n](https://github.com/i18next/react-i18next)
 - [React If](https://github.com/romac/react-if)
 - [React Input Mask](https://github.com/sanniassin/react-input-mask)
+- [React Intersection Observer](https://www.npmjs.com/package/react-intersection-observer)
 - [React Joyride](https://github.com/gilbarbara/react-joyride)
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
 - [React Loadable](https://github.com/jamiebuilds/react-loadable)

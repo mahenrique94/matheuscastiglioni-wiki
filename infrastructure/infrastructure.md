@@ -30,6 +30,8 @@
   - [TerraGrunt](https://github.com/gruntwork-io/terragrunt)
   - [WKSCTL](https://github.com/weaveworks/wksctl)
 - [Mutagen](https://mutagen.io/)
+- [OpenTofu](https://opentofu.org/)
+- [Packer](https://www.packer.io/)
 - [Puppet](https://puppet.com/)
 - [Pulumi](https://www.pulumi.com/)
 - [Rundeck](https://www.rundeck.com/)
@@ -53,6 +55,7 @@
 - [BitRise](https://www.bitrise.io/)
 - [BuildKite](https://buildkite.com/)
 - [Circle CI](https://circleci.com/)
+- [Concourse](https://concourse-ci.org/)
 - [CruiseControl](http://cruisecontrol.sourceforge.net/)
 - [DPL](https://github.com/travis-ci/dpl)
 - [Foresight](https://www.runforesight.com/)
@@ -82,6 +85,7 @@
   - [Evans](https://github.com/ktr0731/evans)
 
 ## Containers/Virtualização
+- [Buildah](https://buildah.io/)
 - [Cycle](https://cycle.io/)
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
@@ -125,6 +129,7 @@
   - [OpenFAAS](https://www.openfaas.com/)
   - [OpenShift](https://www.openshift.com/)
   - [Operator](https://operatorframework.io/)
+  - [Popeye](https://popeyecli.io/)
   - [Rancher](https://rancher.com/)
     - [K3D](https://k3d.io/)
     - [k3S](https://k3s.io/)
@@ -180,6 +185,7 @@
 - [A/B Tasty](https://www.abtasty.com/)
 - [FeatureVisor](https://featurevisor.com/)
 - [LaunchDarkly](https://launchdarkly.com/)
+- [Optimizely](https://www.optimizely.com/)
 - [Permit](https://www.permit.io/)
 - [Split](https://www.split.io/)
 - [Unleash](https://www.getunleash.io/)
@@ -205,6 +211,9 @@
   - [Kuma](https://kuma.io/)
   - [Linkerd](https://linkerd.io/)
   - [Traefik Mesh](https://traefik.io/traefik-mesh/)
+
+## Gerenciador de Painel
+- [Easypanel](https://easypanel.io/)
 
 ## Jobs
 - [Bistro](https://facebook.github.io/bistro/)

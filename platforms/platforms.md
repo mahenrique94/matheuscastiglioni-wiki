@@ -82,4 +82,5 @@
 - Transferências e cotações monetárias ([https://www.remessaonline.com.br/](https://www.remessaonline.com.br/))
 - Transferir arquivos ([https://wetransfer.com/](https://wetransfer.com/))
 - Transformando banco de dados em planilhas inteligentes ([https://www.airtable.com/](https://www.airtable.com/), [https://github.com/nocodb/nocodb](https://github.com/nocodb/nocodb))
+- Transformar planilhas em aplicações ([https://dynaboard.com/](https://dynaboard.com/))
 - Whiteboard para dinâmicas ([https://www.figma.com/figjam/](https://www.figma.com/figjam/), [https://miro.com/](https://miro.com/), [https://www.mural.co/](https://www.mural.co/))

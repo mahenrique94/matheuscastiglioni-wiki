@@ -12,6 +12,7 @@
 - Comprar diagramas ([https://text-to-diagram.com/](https://text-to-diagram.com/))
 - Comprar e vender startups ([https://acquire.com/](https://acquire.com/))
 - Converter unix timestamp para datas ([https://www.epochconverter.com/](https://www.epochconverter.com/))
+- Cupons de desconto ([https://benchpromos.com.br/](https://benchpromos.com.br/))
 - Criar lista de links ([https://link.space/](https://link.space/), [https://linktr.ee/](https://linktr.ee/))
 - Criar perfil do GitHub ([https://www.profileme.dev/](https://www.profileme.dev/))
 - Criação de apresentações ([https://grid.is/](https://grid.is/), [https://pitch.com/](https://pitch.com/), [https://sli.dev/](https://sli.dev/), [https://slides.com/](https://slides.com/))

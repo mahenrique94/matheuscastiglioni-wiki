@@ -7,6 +7,7 @@
 - [C++](/back-end/cpp/cpp.md)
 - [Carbon](/back-end/carbon/carbon.md)
 - [Cue](/back-end/cue/cue.md)
+- [Dart](/back-end/dart/dart.md)
 - [Deno](/back-end/deno/deno.md)
 - [Elixir](/back-end/elixir/elixir.md)
 - [Go](/back-end/go/go.md)

@@ -109,6 +109,7 @@
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [NCC](https://github.com/vercel/ncc)
 - [NFT](https://github.com/vercel/nft)
+- [NixPacks](https://nixpacks.com/docs/getting-started)
 - [OXC](https://github.com/oxc-project/oxc)
 - [Package Check](https://github.com/skypackjs/package-check)
 - [Parcel](https://github.com/parcel-bundler/parcel)
@@ -234,6 +235,7 @@
 - [PlayWRight](https://github.com/microsoft/playwright)
 
 ## Criação e Maniputalção de Interface
+- [Aceternity](https://ui.aceternity.com/)
 - [AgnosticUI](https://www.agnosticui.com/)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Ark](https://ark-ui.com/)
@@ -319,6 +321,7 @@
 - [MS](https://github.com/vercel/ms)
 - [PikaDay](https://github.com/Pikaday/Pikaday)
 - [SpaceTime](https://github.com/spencermountain/spacetime)
+- [Tempo](https://tempo.formkit.com/)
 
 ## Debug
 - [LogT](https://github.com/sidhantpanda/logt)
@@ -454,6 +457,7 @@
   - [Redux Mock Store](https://github.com/reduxjs/redux-mock-store)
   - [Redux Object](https://github.com/yury-dymov/redux-object)
   - [Redux Observable](https://github.com/redux-observable/redux-observable)
+  - [Redux Offline](https://github.com/redux-offline/redux-offline)
   - [Redux Persist](https://github.com/rt2zz/redux-persist)
   - [Redux PouchDB](https://github.com/vicentedealencar/redux-pouchdb)
   - [Redux Saga](https://github.com/redux-saga/redux-saga)

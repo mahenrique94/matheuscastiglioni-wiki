@@ -32,6 +32,7 @@
 - [Vim](https://www.vim.org/)
   - [LunarVim](https://github.com/LunarVim/LunarVim)
   - [NeoVim](https://neovim.io/)
+    - [Vimr](https://github.com/qvacua/vimr)
   - [SpaceVim](https://spacevim.org/)
   - [VimAwesome](https://vimawesome.com/)
   - [VimBootstrap](https://vim-bootstrap.com/)

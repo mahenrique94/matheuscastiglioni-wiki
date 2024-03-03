@@ -334,6 +334,7 @@
   - [Pkg Size](https://pkg-size.dev/)
   - [Socket.dev](https://socket.dev/)
 - [CNPM](https://github.com/cnpm/cnpm)
+- [JSR](https://jsr.io/)
 - [PNPM](https://pnpm.io/)
 - [Verdaccio](https://github.com/verdaccio/verdaccio)
 - [Yarn](https://yarnpkg.com/)
@@ -416,8 +417,10 @@
 
 ### Scraping
 - [Cheerio](https://cheerio.js.org/)
+- [Readability](https://github.com/mozilla/readability)
 
 ### Script
+- [Dax](https://github.com/dsherret/dax)
 - [Wireit](https://github.com/google/wireit)
 - [ZX](https://github.com/google/zx)
 

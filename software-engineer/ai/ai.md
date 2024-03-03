@@ -21,6 +21,8 @@
 - [G-prompter](https://www.g-prompter.com/en)
 - [EbSynth](https://ebsynth.com/)
 - [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/)
+- [Gemini](https://gemini.google.com/app)
+- [Gemma](https://ai.google.dev/gemma)
 - [LangChain](https://docs.langchain.com/docs/)
 - [Leonardo](https://leonardo.ai/)
 - [Llama](https://ai.meta.com/llama)

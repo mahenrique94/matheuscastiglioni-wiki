@@ -7,6 +7,9 @@
 ### 3D
 - [Kajiya](https://github.com/EmbarkStudios/kajiya)
 
+### API
+- [Loco](https://loco.rs/)
+
 ### Async
 - [Async](https://docs.rs/async-std/latest/async_std/)
 - [Tokio](https://tokio.rs/)

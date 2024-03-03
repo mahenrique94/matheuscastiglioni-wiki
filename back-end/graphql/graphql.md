@@ -6,6 +6,7 @@ O que é GraphQL? https://graphql.org/
 ### Bibliotecas
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
 - [DacheQL](https://www.dacheql.com/)
+- [DashQL](https://github.com/oslabs-beta/dashQL)
 - [Express GraphQL](https://github.com/graphql/express-graphql)
 - [Garph](https://garph.dev/)
 - [GraphQL Yoga](https://the-guild.dev/graphql/yoga-server)

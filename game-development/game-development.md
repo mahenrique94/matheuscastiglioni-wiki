@@ -168,6 +168,7 @@
 - [Mocha Pro](https://borisfx.com/products/mocha-pro/?collection=mocha-pro&product=mocha-pro)
 - [Moho](https://moho.lostmarble.com/)
 - [MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview?plc=MOBPRO&term=1-YEAR&support=ADVANCED&quantity=1)
+- [Move One](https://www.move.ai/single-camera)
 - [Mudbox](https://www.autodesk.com.br/products/mudbox/overview)
 - [Nuke](https://www.foundry.com/products/nuke)
 - [PF Track](https://www.thepixelfarm.co.uk/pftrack/)
