@@ -180,6 +180,7 @@
   - [Quixel Mixer](https://quixel.com/mixer)
 - [Ragdoll Dynamics](https://store.steampowered.com/app/1467930/Ragdoll_Dynamics/)
 - [Rebelle](https://www.escapemotions.com/products/rebelle/download.php)
+- [Rizom](https://www.rizom-lab.com/)
 - [SideFX](https://www.sidefx.com/)
 - [Silhouette](https://borisfx.com/products/silhouette/?collection=silhouette&product=silhouette)
 - [Simplygon](https://www.simplygon.com/)
