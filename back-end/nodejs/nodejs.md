@@ -302,6 +302,7 @@
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path)
 
 ### ORM
+- [At Databases](https://www.atdatabases.org/)
 - [Better SQLite3](https://github.com/WiseLibs/better-sqlite3)
 - [BookShelf](https://bookshelfjs.org/)
 - [Drizzle](https://github.com/drizzle-team/drizzle-orm)
@@ -352,6 +353,9 @@
 
 ### Pattern Matching
 - [TSPattern](https://github.com/gvergnaud/ts-pattern)
+
+### Permissionamento
+- [Casl](https://casl.js.org/v6/en/)
 
 ### Process
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently)
@@ -439,6 +443,7 @@
 - [ETA](https://eta.js.org/)
 - [HandleBars](https://github.com/handlebars-lang/handlebars.js)
 - [Marko](https://github.com/marko-js/marko)
+- [Nunjucks](https://github.com/mozilla/nunjucks)
 - [Pug](https://github.com/pugjs/pug)
   - [Pug Lint](https://github.com/pugjs/pug-lint)
 

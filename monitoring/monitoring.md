@@ -50,6 +50,7 @@
 - [Humio](https://www.humio.com/)
 - [Hypertrace](https://www.hypertrace.org/)
 - [Jaeger](https://www.jaegertracing.io/)
+  - [Jaeger UI](https://github.com/jaegertracing/jaeger-ui)
 - [Kibana](https://www.elastic.co/pt/kibana)
 - [Komiser](https://www.komiser.io/)
 - [LightStep](https://lightstep.com/)

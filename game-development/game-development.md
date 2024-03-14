@@ -127,6 +127,7 @@
 - [accuRIG](https://www.reallusion.com/auto-rig/accurig/)
 - [Adobe Animate](https://www.adobe.com/br/products/animate.html)
 - [AmbientCG](https://ambientcg.com/)
+- [ArmorPaint](https://armorpaint.org/)
 - [Asset Forge](https://kenney.nl/tools/asset-forge)
 - [Atavism Online](https://atavismonline.com/)
 - [Black Magic](https://www.blackmagicdesign.com/br/products/fusion/)
@@ -183,11 +184,14 @@
 - [Silhouette](https://borisfx.com/products/silhouette/?collection=silhouette&product=silhouette)
 - [Simplygon](https://www.simplygon.com/)
 - [SpeedTree](https://store.speedtree.com/)
+- [Spine 2D](https://esotericsoftware.com/)
 - [Sprite Fusion](https://www.spritefusion.com/)
+- [Stable Projectorz](https://stableprojectorz.com/)
 - [Substance 3D](https://www.substance3d.com/)
 - [Substance Painter](https://www.adobe.com/products/substance3d-painter.html)
 - [SynthEtes](https://www.ssontech.com/)
 - [Tiled](https://www.mapeditor.org/)
+- [Topogun](https://topogun.com/)
 - [Wwise](https://www.audiokinetic.com/en/products/wwise/)
 
 ## Técnicas

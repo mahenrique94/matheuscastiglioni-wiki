@@ -10,6 +10,7 @@
   - [Dart](/back-end/dart/dart.md)
   - [Deno](/back-end/deno/deno.md)
   - [Elixir](/back-end/elixir/elixir.md)
+  - [Gleam](/back-end/gleam/gleam.md)
   - [Go](/back-end/go/go.md)
   - [GraphQL](/back-end/graphql/graphql.md)
   - [Halide](/back-end/halide/halide.md)

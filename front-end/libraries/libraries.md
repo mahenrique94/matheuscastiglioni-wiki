@@ -82,6 +82,7 @@
 - [Kv](https://github.com/HeyPuter/kv.js)
 - [LocalForage](https://github.com/localForage/localForage)
 - [LowDB](https://github.com/typicode/lowdb)
+- [PGLite](https://github.com/electric-sql/pglite)
 - [PouchDB](https://github.com/pouchdb/pouchdb)
 - [RXDB](https://github.com/pubkey/rxdb)
 - [SQL.js](https://github.com/sql-js/sql.js)
@@ -120,6 +121,7 @@
 - [Prepack](https://prepack.io/)
 - [PurgeCSS](https://github.com/FullHuman/purgecss)
 - [RePack](https://github.com/callstack/repack)
+- [RollDown](https://rolldown.rs/)
 - [RollUp](https://github.com/rollup/rollup)
   - [Rollup Plugin Analyzer](https://github.com/doesdev/rollup-plugin-analyzer)
   - [Rollup Plugin Visualizer](https://github.com/btd/rollup-plugin-visualizer)
@@ -305,12 +307,14 @@
 - [JSS](https://github.com/cssinjs/jss)
 - [Linaria](https://github.com/callstack/linaria)
 - [PandaCSS](https://panda-css.com/)
+- [PigmentCSS](https://github.com/mui/material-ui/blob/master/packages/pigment-react/README.md)
 - [Stitches](https://github.com/modulz/stitches)
 - [Styled JSX](https://github.com/vercel/styled-jsx)
 - [StyleX](https://stylex-docusaurus.vercel.app/)
 - [Stylify](https://stylifycss.com/)
 - [Twin](https://github.com/ben-rogerson/twin.macro)
 - [Vanilla Extract](https://github.com/vanilla-extract-css/vanilla-extract)
+- [WyW-in-JS](https://wyw-in-js.dev/)
 
 ## Datas
 - [Date FNS](https://github.com/date-fns/date-fns)
@@ -655,6 +659,7 @@
 - [Perfume.js](https://github.com/Zizzamia/perfume.js)
 - [RepoVisualizer](https://github.com/githubocto/repo-visualizer)
 - [SpeedVitals](https://speedvitals.com/)
+- [Speedometer](https://browserbench.org/Speedometer3.0/)
 - [StackTrace.js](https://github.com/stacktracejs/stacktrace.js)
 - [WebVitals](https://github.com/GoogleChrome/web-vitals)
 
