@@ -356,6 +356,7 @@
 - [Docusaurus](https://github.com/facebook/docusaurus)
 - [DocZ](https://github.com/doczjs/docz)
 - [DocX](https://github.com/dolanmiu/docx)
+- [Histoire](https://histoire.dev/)
 - [JSDoc](https://github.com/jsdoc/jsdoc)
 - [Ladle](https://ladle.dev/)
 - [MkDocs](https://www.mkdocs.org/)
@@ -397,11 +398,13 @@
 - [Bun](https://bun.sh/)
   - [Elysia](https://elysiajs.com/)
 - [ChakraCore](https://github.com/chakra-core/ChakraCore)
+- [Deno](https://deno.com/)
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
 - [JSVU](https://github.com/GoogleChromeLabs/jsvu)
 - [QuickJS](https://bellard.org/quickjs/)
 - [v8](https://github.com/v8/v8)
+- [WinterJS](https://github.com/wasmerio/winterjs)
 
 ## Estilização
 - [CLSX](https://github.com/lukeed/clsx)
@@ -510,6 +513,7 @@
 
 ## Icones
 - [AtlasIcons](https://atlasicons.vectopus.com/)
+- [Boxicons](https://boxicons.com/)
 - [FlagPack](https://flagpack.xyz/)
 - [FlowBite](https://flowbite.com/icons)
 - [FontAwesome](https://fontawesome.com/)
@@ -522,6 +526,7 @@
 - [Iconic](https://iconic.app/)
 - [Iconoir](https://iconoir.com/)
 - [IconScout](https://iconscout.com/)
+- [Ionicons](https://ionic.io/ionicons)
 - [Lucide](https://lucide.dev/)
 - [MingCute](https://www.mingcute.com/)
 - [PhosphorIcons](https://phosphoricons.com/)
@@ -613,6 +618,7 @@
   - [PrettyQuick](https://github.com/azz/pretty-quick)
   - [Prettier Plugin Tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [SemGrep](https://github.com/returntocorp/semgrep)
+- [SonarLint](https://www.sonarsource.com/products/sonarlint/)
 - [Stylelint](https://github.com/stylelint/stylelint)
   - [Stylelint Config Recommended](https://github.com/stylelint/stylelint-config-recommended)
   - [Stylelint Config Standard](https://github.com/stylelint/stylelint-config-standard)
@@ -744,8 +750,14 @@
 - [MSW](https://github.com/mswjs/msw)
 - [Nock](https://github.com/nock/nock)
 - [UnJS](https://unjs.io/)
+  - [Changelogen](https://unjs.io/packages/changelogen)
+  - [Citty](https://unjs.io/packages/citty)
+  - [Consola](https://unjs.io/packages/consola)
+  - [Defu](https://unjs.io/packages/defu)
+  - [Destr](https://unjs.io/packages/destr)
   - [Nitro](https://nitro.unjs.io/)
   - [oFetch](https://github.com/unjs/ofetch)
+  - [Unbuild](https://unjs.io/packages/unbuild)
 - [Pretender](https://github.com/pretenderjs/pretender)
 - [Redaxios](https://github.com/developit/redaxios)
 - [TRPC](https://trpc.io/)
@@ -766,6 +778,9 @@
 ## SSR
 - [Razzle](https://github.com/jaredpalmer/razzle)
 - [Umi](https://github.com/umijs/umi)
+
+## Stream
+- [Stream](https://getstream.io/)
 
 ## Suporte
 - [SupportsCSS](https://supportscss.dev/)

@@ -42,6 +42,7 @@
 - [Cataline](https://www.cataline.io/)
 - [Cod3r](https://www.cod3r.com.br/)
 - [Codecademy](https://www.codecademy.com/)
+- [CodeCrafters](https://codecrafters.io/)
 - [Codeworks](https://codeworks.me/)
 - [Coursera](https://pt.coursera.org/)
 - [Cubos Academy](https://cubos.academy/)

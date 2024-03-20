@@ -254,6 +254,18 @@
 - [VerneMQ](https://vernemq.com/)
 - [ZeroMQ](https://zeromq.org/)
 
+## Permissão
+- [Aserto](https://www.aserto.com/)
+- [AuthZed](https://authzed.com/)
+- [OpenFGA](https://openfga.dev/)
+- [Oso](https://www.osohq.com/)
+- [Permify](https://permify.co/)
+- [Permit](https://www.permit.io/)
+- [Warrant](https://warrant.dev/)
+- []()
+- []()
+- []()
+
 ## Progressive Delivery
 - [Scientist](https://github.com/github/scientist)
 

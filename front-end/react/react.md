@@ -175,6 +175,9 @@
 - [React Flow](https://reactflow.dev/)
 - [Reaflow](https://github.com/reaviz/reaflow)
 
+### Documentação
+- [React Cosmos](https://reactcosmos.org/)
+
 ### Ecommerce
 - [Hydrogen](https://shopify.dev/custom-storefronts/hydrogen)
 
@@ -268,6 +271,7 @@
 ### Performance
 - [FusionJS](https://github.com/fusionjs/fusionjs)
 - [Reactotron](https://github.com/infinitered/reactotron)
+- [React Geiger](https://github.com/kristiandupont/react-geiger)
 - [React Lazyload](https://github.com/twobin/react-lazyload)
 - [Use Hooks](https://github.com/uidotdev/usehooks)
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)

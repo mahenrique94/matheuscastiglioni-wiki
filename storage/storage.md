@@ -43,6 +43,7 @@
   - [KDB+](https://kx.com/)
 - [KsqlDB](https://ksqldb.io/)
 - [LevelDB](https://github.com/google/leveldb)
+- [libSQL](https://github.com/tursodatabase/libsql)
 - [LiteStream](https://litestream.io/)
 - [MangoDB](https://www.mangodb.io/)
 - [M3](https://m3db.io/)

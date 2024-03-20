@@ -27,5 +27,8 @@
 ### Utils
 - [NgxExtension](https://ngxtension.netlify.app/)
 
+## Frameworks
+- [Analog.js](https://analogjs.org/)
+
 ## Guias
 - https://update.angular.io/

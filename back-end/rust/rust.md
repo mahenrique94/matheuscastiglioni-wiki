@@ -17,11 +17,17 @@
 ### CLI
 - [Clap](https://docs.rs/clap/latest/clap/)
 
+### Compressão
+- [Flate2](https://docs.rs/flate2/latest/flate2/)
+
 ### Criação de UI
 - [Dioxus](https://dioxuslabs.com/)
 - [Leptos](https://www.leptos.dev/)
 - [Taffy](https://github.com/DioxusLabs/taffy)
 - [Yew](https://yew.rs/)
+
+### Error Handling
+- [Anyhow](https://docs.rs/anyhow/latest/anyhow/)
 
 ### GPU
 - [Ash](https://github.com/MaikKlein/ash)

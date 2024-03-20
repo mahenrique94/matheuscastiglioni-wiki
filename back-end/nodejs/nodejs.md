@@ -144,12 +144,14 @@
 ### Compressão
 - [SVGO](https://github.com/svg/svgo)
 - [zlib](https://www.npmjs.com/package/zlib)
+  - [zlib](https://github.com/madler/zlib)
 
 ### Configuração
 - [Cloc](https://github.com/AlDanial/cloc)
 - [DepCheck](https://github.com/depcheck/depcheck)
 - [DotEnv](https://github.com/motdotla/dotenv)
 - [EnvSchema](https://github.com/fastify/env-schema)
+- [Knip](https://knip.dev/)
 - [Loc](https://github.com/cgag/loc)
 - [MRM](https://github.com/sapegin/mrm)
 - [Node Convict](https://github.com/mozilla/node-convict)
@@ -290,6 +292,11 @@
 
 ### Migrations
 - [PostgratorCLI](https://github.com/MattiLehtinen/postgrator-cli)
+
+### Nativo
+- [Bindings](https://github.com/TooTallNate/node-bindings)
+- [Napi](https://napi.rs/)
+- [node-addon-api](https://github.com/nodejs/node-addon-api)
 
 ### Node_modules
 - [Npkill](https://npkill.js.org/)
@@ -454,6 +461,7 @@
 - [ReadingTime](https://github.com/ngryman/reading-time)
 
 ### Tipagem
+- [Ezno](https://github.com/kaleidawave/ezno)
 - [fp-ts](https://github.com/gcanti/fp-ts)
 - [io-ts](https://gcanti.github.io/io-ts/)
 - [ts-belt](https://github.com/mobily/ts-belt)
