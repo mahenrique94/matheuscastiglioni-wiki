@@ -64,6 +64,7 @@
 - [Yarp](https://microsoft.github.io/reverse-proxy/)
 
 ### Qualidade
+- [ArchUnit](https://www.archunit.org/)
 - [NetArchTest](https://github.com/BenMorris/NetArchTest)
 
 ### Realtime

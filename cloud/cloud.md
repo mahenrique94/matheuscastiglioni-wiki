@@ -9,7 +9,7 @@
 - [Azure](https://azure.microsoft.com/)
 - [ChiselStrike](https://chiselstrike.com/)
 - [Coder](https://coder.com/)
-- [Coolify](https://coollabs.io/coolify)
+- [Coolify](https://coolify.io/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Fly.io](https://fly.io/)
 - [Firebase](https://firebase.google.com/)

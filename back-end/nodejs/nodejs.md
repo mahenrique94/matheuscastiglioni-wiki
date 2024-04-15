@@ -282,6 +282,7 @@
 
 ### Machine Learning
 - [transformers.js](https://github.com/xenova/transformers.js/)
+- [js-pytorch](https://github.com/eduardoleao052/js-pytorch)
 
 ### Mock
 - [Mocky](https://github.com/julien-lafont/Mocky)

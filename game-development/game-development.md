@@ -11,6 +11,7 @@
 - [Assimp](https://github.com/assimp/assimp)
 - [Bullet Physics](https://github.com/bulletphysics)
 - [Euphoria Ragdoll](https://www.gta5-mods.com/misc/euphoria-ragdoll-overhaul-ero)
+- [Kha](https://kha.tech/)
 
 ## Engines
 - [AbyssEngine](https://www.abyssengine.com/)
@@ -18,6 +19,7 @@
 - [Allegro](https://liballeg.org/git.html)
 - [Amazon Lumberyard](https://en.m.wikipedia.org/wiki/Amazon_Lumberyard)
 - [AppGameKit](https://www.appgamekit.com/studio)
+- [Armory3D](https://armory3d.org/)****
 - [Bevy](https://github.com/bevyengine/bevy)
 - [Buildbox](https://signup.buildbox.com/)
 - [CaveEngine](https://unidaystudio.github.io/CaveEngine-Docs/)
@@ -120,6 +122,9 @@
 ## Plataformas
 - [AppLovin](https://www.applovin.com/)
 - [IronSource](https://www.is.com/)
+- [SteamBase](https://steambase.io/)
+- [SteamCharts](https://steamcharts.com/)
+- [SteamRevenueCalculator](https://steam-revenue-calculator.com/)
 
 ## Processos
 - [GDD (Game Design Document)](https://www.alura.com.br/conteudo/game-design)
@@ -133,6 +138,7 @@
 - [ArmorPaint](https://armorpaint.org/)
 - [Asset Forge](https://kenney.nl/tools/asset-forge)
 - [Atavism Online](https://atavismonline.com/)
+- [Audiotool](https://www.audiotool.com/)
 - [Black Magic](https://www.blackmagicdesign.com/br/products/fusion/)
 - [Blender](https://www.blender.org/)
 - [Capturing Reality](https://www.capturingreality.com/)
@@ -141,8 +147,10 @@
 - [Character Animator](https://www.adobe.com/br/products/character-animator.html)
 - [Character Creator](https://www.reallusion.com/character-creator/)
 - [Clip Studio](https://www.clipstudio.net/en/)
+- [CoherentLabs](https://coherent-labs.com/)
 - [CSM](https://www.csm.ai/)
 - [DeepMotion](https://www.deepmotion.com/)
+- [Effekseer](https://effekseer.github.io/)
 - [Embergen](https://jangafx.com/software/embergen/)
 - [Face FX](https://facefx.com/)
 - [FaceGen](https://facegen.com/)
@@ -152,6 +160,7 @@
 - [fSpy](https://fspy.io/)
 - [GraphN](https://www.polygonflow.io/)
 - [Havok](https://www.havok.com/)
+- [HEAT](https://heat.tech/)
 - [Houdini](https://www.sidefx.com/products/houdini/)
 - [iClone](https://www.reallusion.com/iclone/)
 - [Instalod](https://instalod.com/)
@@ -179,12 +188,14 @@
 - [Mocha Pro](https://borisfx.com/products/mocha-pro/?collection=mocha-pro&product=mocha-pro)
 - [Moho](https://moho.lostmarble.com/)
 - [MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview?plc=MOBPRO&term=1-YEAR&support=ADVANCED&quantity=1)
+- [Motorica](https://www.motorica.ai/)
 - [Move One](https://www.move.ai/single-camera)
 - [Mudbox](https://www.autodesk.com.br/products/mudbox/overview)
 - [Nuke](https://www.foundry.com/products/nuke)
 - [PF Track](https://www.thepixelfarm.co.uk/pftrack/)
 - [PixoLogic](https://pixologic.com/)
 - [Plask](https://plask.ai/)
+- [Protosprite](https://protosprite.com/)
 - [PureRef](https://www.pureref.com/)
 - [Quixel](https://quixel.com)
   - [Quixel MegaScans](https://quixel.com/megascans/)
@@ -195,6 +206,7 @@
 - [SideFX](https://www.sidefx.com/)
 - [Silhouette](https://borisfx.com/products/silhouette/?collection=silhouette&product=silhouette)
 - [Simplygon](https://www.simplygon.com/)
+- [SoundForge](https://www.magix.com/us/music-editing/sound-forge/)
 - [SpeedTree](https://store.speedtree.com/)
 - [Spine 2D](https://esotericsoftware.com/)
 - [Sprite Fusion](https://www.spritefusion.com/)
@@ -205,6 +217,7 @@
 - [Tiled](https://www.mapeditor.org/)
 - [Topogun](https://topogun.com/)
 - [TreeIt](https://www.evolved-software.com/treeit/treeit)
+- [Valence3D](https://valence3d.app/)
 - [Wwise](https://www.audiokinetic.com/en/products/wwise/)
 - [xNormal](https://xnormal.net/)
 

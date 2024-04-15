@@ -31,6 +31,7 @@
 
 ### GPU
 - [Ash](https://github.com/MaikKlein/ash)
+- [Vulkano](https://vulkano.rs/about.html)
 
 ### I/O
 - [Ropey](https://docs.rs/ropey/latest/ropey/)
@@ -53,6 +54,9 @@
 - [Axum](https://docs.rs/axum/latest/axum/)
 - [Rocket](https://rocket.rs/)
 - [Salvo](https://salvo.rs/)
+
+### Application
+- [Crux](https://redbadger.github.io/crux/)
 
 ### Web
 - [Actix](https://actix.rs/)

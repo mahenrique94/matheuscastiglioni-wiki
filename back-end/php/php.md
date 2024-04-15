@@ -15,6 +15,7 @@
 - [Code Igniter](https://codeigniter.com/)
 - [Laravel](https://laravel.com/)
   - [Lumen](https://lumen.laravel.com/)
+  - [Volt](https://livewire.laravel.com/docs/volt)
 - [Slim](https://www.slimframework.com/)
 - [Symfony](https://symfony.com/)
 - [Zend](https://framework.zend.com/)

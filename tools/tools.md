@@ -27,6 +27,7 @@
 - Desenhar e simular circuitos lógicos ([https://github.com/logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution))
 - Diversos emulaadores para diferentes video games ([https://www.retroarch.com/](https://www.retroarch.com/))
 - Edição e manipulação de audio ([https://www.reaper.fm/](https://www.reaper.fm/))
+- Editar códigos Hexadimal ([https://mh-nexus.de/en/hxd/](https://mh-nexus.de/en/hxd/))
 - Emuladores de PS1 ([https://www.duckstation.org/index.html](https://www.duckstation.org/index.html), [http://emurayden.net/](http://emurayden.net/), [https://www.epsxe.com/](https://www.epsxe.com/))
 - Emuladores para Nintendo Switch ([https://yuzu-emu.org/](https://yuzu-emu.org/))
 - Gerar transcrições para videos ([https://descript.com/](https://descript.com/))

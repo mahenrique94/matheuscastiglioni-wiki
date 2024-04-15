@@ -43,12 +43,21 @@
 - [PodCastle](https://podcastle.ai/)
 - [Rix](https://hashnode.com/rix)
 - [Simplified](https://simplified.com/)
+- [SonAuto](https://sonauto.ai/Home)
 - [Speechify](https://speechify.com/)
 - [Synthesia](https://www.synthesia.io/)
 - [v0](https://v0.dev/)
 - [Veed](https://www.veed.io/)
 - [Vidyo](https://vidyo.ai/)
+- [UdioAI](https://udioai.ai/)
 - [Whisper](https://openai.com/research/whisper)
 
 ## Linguagens
 - [Mojo](https://www.modular.com/mojo)
+
+## Plataformas
+- [LangoTalk](https://www.langotalk.org/)
+- [Praktika](https://praktika.ai/)
+- [Proseable](https://www.proseable.com/)
+- [SpeakAndImprove](https://speakandimprove.com/)
+- [Talkpal](https://talkpal.ai/)

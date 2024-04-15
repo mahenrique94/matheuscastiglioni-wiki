@@ -5,6 +5,7 @@
 - [BEM](http://getbem.com/introduction/)
 - [BEMIT](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - [CUBE CSS](https://desenvolvimentoparaweb.com/css/cube-css/)
+- [NUECSS](https://nuejs.org/blog/introducing-nue-css/)
 - [OOCSS](http://oocss.org/)
 - [IT CSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
 - [RSCSS](https://rscss.io/)

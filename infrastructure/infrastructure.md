@@ -29,6 +29,7 @@
   - [Helm Operator](https://github.com/fluxcd/helm-operator)
   - [TerraGrunt](https://github.com/gruntwork-io/terragrunt)
   - [WKSCTL](https://github.com/weaveworks/wksctl)
+- [Kestra](https://kestra.io/)
 - [Mutagen](https://mutagen.io/)
 - [OpenTofu](https://opentofu.org/)
 - [Packer](https://www.packer.io/)
@@ -206,6 +207,7 @@
 - Service Mesh
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
   - [Consul](https://www.consul.io/)
+  - [Envoy](https://www.envoyproxy.io/)
   - [Gloo](https://www.solo.io/products/gloo-mesh/)
   - [Istio](https://github.com/istio/istio)
     - [Kiali](https://kiali.io/)
@@ -213,6 +215,7 @@
     - [Konga](https://pantsel.github.io/konga/)
   - [Kuma](https://kuma.io/)
   - [Linkerd](https://linkerd.io/)
+  - [Tetrate](https://tetrate.io/)
   - [Traefik Mesh](https://traefik.io/traefik-mesh/)
 
 ## Gerenciador de Painel
@@ -262,9 +265,6 @@
 - [Permify](https://permify.co/)
 - [Permit](https://www.permit.io/)
 - [Warrant](https://warrant.dev/)
-- []()
-- []()
-- []()
 
 ## Progressive Delivery
 - [Scientist](https://github.com/github/scientist)
@@ -301,6 +301,9 @@
 
 ## Streaming
 - [Dyte](https://dyte.io/)
+
+## Tasks
+- [Celery](https://docs.celeryq.dev/en/stable/)
 
 ## Testes de Contrat
 - [Pact](https://pact.io/)

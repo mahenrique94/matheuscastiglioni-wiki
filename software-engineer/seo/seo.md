@@ -3,6 +3,7 @@
 ## Ferramentas
 - [Core Web Vitals Checker](https://calibreapp.com/tools/core-web-vitals-checker/)
 - [Estimator](https://estimator.dev/)
+- [Foo](https://www.foo.software/)
 - [GTMetrix](https://gtmetrix.com)
 - [LightHouse](https://developers.google.com/web/tools/lighthouse?hl=pt_br)
 - [ScreamingFrog](https://www.screamingfrog.co.uk/)

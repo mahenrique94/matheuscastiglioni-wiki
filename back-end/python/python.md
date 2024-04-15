@@ -24,7 +24,10 @@
 - [Fabric](https://github.com/fabric/fabric)
 
 ### Compiladores
+- [cPython](https://github.com/python/cpython)
+- [Numba](https://numba.pydata.org/)
 - [Pyjion](https://www.trypyjion.com/)
+- [RustPython](https://rustpython.github.io/)
 
 ### Dados
 - [Mito](https://trymito.io/)
