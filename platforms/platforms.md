@@ -79,7 +79,7 @@
 - Simular chamadas para WebHooks ([https://requestbin.com/](https://requestbin.com/), [https://webhook.cool/](https://webhook.cool/))
 - Streaming de videos como lives ([https://www.agora.io/en/](https://www.agora.io/en/))
 - Timer colaborativo ([https://cuckoo.team/](https://cuckoo.team/))
-- Testar envio de emails ([https://usehelo.com/](https://usehelo.com/))https://wiki.matheuscastiglioni.com.br/platforms
+- Testar envio de emails ([https://usehelo.com/](https://usehelo.com/))
 - Testar expressão regular ([https://regex101.com/](https://regex101.com/), [https://ihateregex.io/](https://ihateregex.io/), [https://pythonium.net/regex](https://pythonium.net/regex))
 - Testes A/B ([https://github.com/growthbook/growthbook](https://github.com/growthbook/growthbook))
 - Transferências e cotações monetárias ([https://www.remessaonline.com.br/](https://www.remessaonline.com.br/))
