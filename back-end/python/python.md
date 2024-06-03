@@ -33,12 +33,11 @@
 - [Mito](https://trymito.io/)
 
 ### Data Science
+- [Jax](https://jax.readthedocs.io/)
 - [Keras](https://github.com/keras-team/keras)
 - [NumPy](https://github.com/numpy/numpy)
 - [Pandas](https://github.com/pandas-dev/pandas)
 - [SciPy](https://github.com/scipy/scipy)
-- []()
-- []()
 
 ### Gráficos
 - [Matplotlib](https://github.com/matplotlib/matplotlib)

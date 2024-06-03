@@ -10,6 +10,9 @@
 - [React Native Skia](https://github.com/react-native-skia/react-native-skia)
 - [React Navigation Transitions](https://www.npmjs.com/package/react-navigation-transitions)
 
+### Authentication
+- [React Native Auth0](https://github.com/auth0/react-native-auth0)
+
 ### Build
 - [Metro](https://facebook.github.io/metro/)
 

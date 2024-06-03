@@ -36,6 +36,7 @@
 - [Module Counts](http://www.modulecounts.com/)
 - [NamingCheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 - [Omatsuri](https://omatsuri.app/)
+- [Open Source Software Gallery](https://oss.gallery/)
 - [Principles.dev](https://github.com/PrinciplesDotDev/principles)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Public API's](https://github.com/public-apis/public-apis)

@@ -69,6 +69,9 @@
 ## Dados
 - [Elasticsearch](https://www.casadocodigo.com.br/products/livro-elasticsearch)
 
+## Desenvolvimento de Jogos
+- [Game Engine Architecture](https://www.gameenginebook.com/)
+
 ## Front-End
 - [Acessibilidade na Web](https://www.casadocodigo.com.br/products/livro-acessibilidade?_pos=1&_sid=0e0d1eb70&_ss=r)
 - [Building Micro-Frontends](https://learning.oreilly.com/library/view/building-micro-frontends/9781492082989/)
@@ -99,6 +102,7 @@
 - [Agile](https://www.casadocodigo.com.br/products/livro-agile)
 - [Do jeito certo](https://www.casadocodigo.com.br/products/livro-do-jeito-certo)
 - [Scrum](https://www.casadocodigo.com.br/products/livro-scrum)
+- [The Game Production Handbook](https://www.oreilly.com/library/view/the-game-production/9781449688097/)
 
 ## Hardware
 - [Crafting Interpreters](https://craftinginterpreters.com/)

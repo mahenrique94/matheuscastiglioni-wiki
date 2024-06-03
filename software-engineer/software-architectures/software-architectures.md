@@ -152,6 +152,7 @@
 - [Subscription Based Architecture](https://www.researchgate.net/figure/Overview-of-subscription-based-architecture_fig4_220367928)
 - [Vertical Slice Architecture](https://garywoodfine.com/implementing-vertical-slice-architecture/)
 - [VIPER](https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac)
+- [Web Queue Worker](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/web-queue-worker)
 
 ## Documentação
 - [4+1](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)

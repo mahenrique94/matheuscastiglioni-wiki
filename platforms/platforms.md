@@ -42,7 +42,7 @@
 - Gamifique sua vida ([https://habitica.com/static/home](https://habitica.com/static/home))
 - Gerar API's com dados aleatórios ([https://randomapi.com/](https://randomapi.com/), [https://randomuser.me/api](https://randomuser.me/api))
 - Gerar breakpoints e srcset de imagens ([https://responsivebreakpoints.com/](https://responsivebreakpoints.com/))
-- Gerenciador de tempo em tarefas ([https://clockify.me/](https://clockify.me/), [https://www.getharvest.com/](https://www.getharvest.com/), [https://hubstaff.com/](https://hubstaff.com/),  [https://toggl.com/](https://toggl.com/))
+- Gerenciador de tempo em tarefas ([https://clockify.me/](https://clockify.me/), [https://www.getharvest.com/](https://www.getharvest.com/), [https://hubstaff.com/](https://hubstaff.com/),  [https://toggl.com/](https://toggl.com/), [https://www.solidtime.io/](https://www.solidtime.io/))
 - Gerenciar WebHooks ([https://hookdeck.com/](https://hookdeck.com/))
 - Gerenciar investimentos ([https://carta.com/](https://carta.com/))
 - Gestão de agendas ([https://www.getclockwise.com/](https://www.getclockwise.com/), [https://reclaim.ai/](https://reclaim.ai/))

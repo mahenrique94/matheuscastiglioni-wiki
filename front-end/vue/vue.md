@@ -4,6 +4,9 @@
 - https://dev.to/haycuoilennao19/34-ui-libraries-for-react-vue-and-angular-525l
 
 ## Bibliotecas
+### 3D
+- [TresJS](https://tresjs.org/)
+
 ### CLI
 - [Vue CLI](https://github.com/vuejs/vue-cli)
 

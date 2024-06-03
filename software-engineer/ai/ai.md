@@ -7,6 +7,7 @@
 - [Video2x](https://github.com/k4yt3x/video2x)
 
 ## Cloud
+- [PartyKit](https://www.partykit.io/)
 - [Replicate](https://replicate.com/)
 
 ## Ferramentas
@@ -39,17 +40,20 @@
 - [Meshy](https://www.meshy.ai/)
 - [MidJourney](https://www.midjourney.com/home)
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
+- [OpenUI](https://github.com/wandb/openui)
 - [OpusPro](https://www.opus.pro/)
 - [PodCastle](https://podcastle.ai/)
 - [Rix](https://hashnode.com/rix)
 - [Simplified](https://simplified.com/)
 - [SonAuto](https://sonauto.ai/Home)
 - [Speechify](https://speechify.com/)
+- [Supermaven](https://supermaven.com/)
 - [Synthesia](https://www.synthesia.io/)
 - [v0](https://v0.dev/)
 - [Veed](https://www.veed.io/)
 - [Vidyo](https://vidyo.ai/)
 - [UdioAI](https://udioai.ai/)
+- [UpScayl](https://www.upscayl.org/)
 - [Whisper](https://openai.com/research/whisper)
 
 ## Linguagens

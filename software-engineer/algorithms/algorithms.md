@@ -145,6 +145,9 @@
 - [Teste de Primalidade](src/algorithms/math/primality-test)
 - [Triângulo de Pascal](src/algorithms/math/pascal-triangle)
 
+## Pathfinding
+- [Polyana](https://github.com/vleue/polyanya)
+
 ## Sem categoria
 - [Flood Fill](https://learnersbucket.com/examples/algorithms/flood-fill-algorithm-in-javascript/#:~:text=Flood%20fill%20also%20called%20as,the%20pixels%20with%20same%20color.)
 - [Forward Decay](https://en.wikipedia.org/wiki/Forward_algorithm)

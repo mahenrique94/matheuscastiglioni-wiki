@@ -11,6 +11,7 @@
 - [SkTime](https://www.sktime.org/en/stable/)
 - [Tabula](https://pypi.org/project/tabula-py/)
 - [Tidyverse](https://www.tidyverse.org/)
+- [Yolo](https://docs.ultralytics.com/)
 
 ## Ferramentas
 - [Doccano](https://github.com/doccano/doccano)

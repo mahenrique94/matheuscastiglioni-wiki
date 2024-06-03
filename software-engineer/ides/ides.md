@@ -1,6 +1,7 @@
 # IDEs
 
 ## Banco de Dados
+- [BoltSQL](https://boltsql.com/)
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
 - [DBeaver](https://dbeaver.io/)
 - [Beekeeper](https://www.beekeeperstudio.io/)
@@ -15,11 +16,13 @@
 - [Brackets](http://brackets.io/)
 - [Codux](https://www.codux.com/)
 - [Emacs](https://www.gnu.org/software/emacs/)
+- [Helix](https://helix-editor.com/)
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
 - [Lapce](https://lapce.dev/)
 - [Micro](https://micro-editor.github.io/)
 - [Nova](https://nova.app/)
 - [Nuclide](https://nuclide.io/)
+- [Phoenix](https://phcode.dev/)
 - [PHPStorm](https://www.jetbrains.com/pt-br/phpstorm/)
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [Reactide](https://reactide.io/)
@@ -48,4 +51,5 @@
 
 ## Extensões
 - [Copilot](https://copilot.github.com/)
+- [React Native IDE](https://ide.swmansion.com/)
 - [TabNine](https://www.tabnine.com/)

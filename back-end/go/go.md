@@ -8,6 +8,9 @@
 
 ## Bibliotecas
 
+### Compilador
+- [Borgo](https://github.com/borgo-lang/borgo)
+
 ### Concorrência
 - [Conc](https://github.com/sourcegraph/conc)
 
@@ -24,6 +27,10 @@
 
 ### Qualidade
 - [Ginkgo](https://onsi.github.io/ginkgo/)
+- [GoCoverTreemap](https://github.com/nikolaydubina/go-cover-treemap)
+
+### Schedule
+- [GoQuartz](https://github.com/reugn/go-quartz)
 
 ### Validação
 - [Validator](https://github.com/go-playground/validator)

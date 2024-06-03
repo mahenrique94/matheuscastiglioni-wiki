@@ -44,6 +44,7 @@
 - [Blumira](https://www.blumira.com/)
 - [BridgeCrew](https://bridgecrew.io/)
 - [Doppler](https://www.doppler.com/)
+- [Otto](https://www.otto-js.com/)
 - [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud)
 - [Snyk](https://snyk.io/)
 - [SonarQube](https://www.sonarqube.org/)

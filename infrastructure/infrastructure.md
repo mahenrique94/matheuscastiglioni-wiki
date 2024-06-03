@@ -128,6 +128,8 @@
   - [KubeVela](https://kubevela.io/)
   - [Lens](https://k8slens.dev/)
   - [Loft](https://loft.sh/)
+  - [MicroK8S](https://microk8s.io/)
+  - [Minikube](https://minikube.sigs.k8s.io/docs/)
   - [Octant](https://octant.dev/)
   - [OpenFAAS](https://www.openfaas.com/)
   - [OpenShift](https://www.openshift.com/)
@@ -181,6 +183,7 @@
 
 ## Documentação
 - Self Documenting
+  - [API Dog](https://apidog.com/)
   - [Contexture](https://github.com/Softwarepark/Contexture)
   - [Structurizr](https://structurizr.com/)
   - [Swagger](https://swagger.io/)
@@ -215,6 +218,7 @@
     - [Konga](https://pantsel.github.io/konga/)
   - [Kuma](https://kuma.io/)
   - [Linkerd](https://linkerd.io/)
+  - [Open Service Mesh](https://openservicemesh.io/)
   - [Tetrate](https://tetrate.io/)
   - [Traefik Mesh](https://traefik.io/traefik-mesh/)
 

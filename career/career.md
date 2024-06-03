@@ -80,6 +80,7 @@
 - [SkillSoft](https://www.skillsoft.com/)
 - [Skore](https://www.skore.io/)
 - [Staart](https://staart.com/)
+- [TechSchool](https://techschool.dev/en)
 - [TipsCode](https://tipscode.com.br/)
 - [TreinaWeb](https://www.treinaweb.com.br/)
 - [UIStart](https://uistart.com.br/)

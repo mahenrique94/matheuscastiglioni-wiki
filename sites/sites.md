@@ -37,6 +37,7 @@
 - Gerador de curriculos ([https://resumake.io/](https://resumake.io/))
 - Gerador de favicons ([https://www.favicon.software/](https://www.favicon.software/))
 - Gerador de imagens para sites ([https://picsum.photos/](https://picsum.photos/), [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/))
+- Gerador de imagens para PWA ([https://www.pwabuilder.com/imagegenerator](https://www.pwabuilder.com/imagegenerator))
 - Gestão de horas e timezones ([https://time.is/](https://time.is/))
 - Habilidades de desenvolvedores web de maneira visual ([https://andreasbm.github.io/web-skills/](https://andreasbm.github.io/web-skills/))
 - Imagens SVG's gratuitas ([https://undraw.co/illustrations](https://undraw.co/illustrations))

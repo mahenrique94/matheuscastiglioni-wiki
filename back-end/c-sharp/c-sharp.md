@@ -76,6 +76,7 @@
 
 ### UI
 - [AvaloniaUI](https://www.avaloniaui.net/)
+- [MudBlazor](https://www.mudblazor.com/)
 
 ### Validação
 - [FluentValidation](https://docs.fluentvalidation.net/en/latest/)

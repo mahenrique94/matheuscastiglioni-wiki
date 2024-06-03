@@ -24,6 +24,7 @@
 - [Big Data](/big-data/big-data.md)
 - [Carreira](/career/career.md)
 - [Cloud](/cloud/cloud.md)
+- [Cloud](/computer-graphics/computer-graphics.md)
 - [Comunidade](/community/community.md)
 - [Data Science](/data-science/data-science.md)
 - [Desenvolvimento de Jogos](/game-development/game-development.md)
