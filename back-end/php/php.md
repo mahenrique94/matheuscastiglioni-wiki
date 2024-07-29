@@ -5,6 +5,8 @@
 ### Banco de dados
 - [Doctrine](https://www.doctrine-project.org/)
 - [PDO](https://www.php.net/manual/pt_BR/book.pdo.php)
+- [Eloquent](https://laravel.com/docs/11.x/eloquent)
+  - [Sushi](https://usesushi.dev/)
 
 ## Code Runner
 - [TinkerWell](https://tinkerwell.app/)
@@ -14,7 +16,13 @@
 - [CakePHP](https://cakephp.org/)
 - [Code Igniter](https://codeigniter.com/)
 - [Laravel](https://laravel.com/)
+  - [Actions](https://www.laravelactions.com/)
+  - [Breeze](https://github.com/laravel/breeze)
+  - [Filament](https://filamentphp.com/)
+  - [Laragon](https://laragon.org/)
   - [Lumen](https://lumen.laravel.com/)
+  - [Spark](https://spark.laravel.com/)
+  - [Vapor](https://vapor.laravel.com/)
   - [Volt](https://livewire.laravel.com/docs/volt)
 - [Slim](https://www.slimframework.com/)
 - [Symfony](https://symfony.com/)
@@ -26,6 +34,9 @@
 
 ## Installer
 - [Laravel Herd](https://herd.laravel.com/)
+  
+## Integração
+- [Saloon](https://docs.saloon.dev/)
 
 ## Nativo
 - [NativePHP](https://nativephp.com/)

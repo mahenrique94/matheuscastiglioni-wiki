@@ -31,6 +31,7 @@
 
 ### Dados
 - [Mito](https://trymito.io/)
+- [Taipy](https://taipy.io/)
 
 ### Data Science
 - [Jax](https://jax.readthedocs.io/)

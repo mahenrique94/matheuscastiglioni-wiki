@@ -3,6 +3,9 @@
 - https://www.kaggle.com/
 - https://theresanaiforthat.com/
 
+## Banco de dados
+- [Min](https://min.io/)
+
 ## Bibliotecas
 - [Video2x](https://github.com/k4yt3x/video2x)
 
@@ -42,8 +45,10 @@
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 - [OpenUI](https://github.com/wandb/openui)
 - [OpusPro](https://www.opus.pro/)
+- [Plask](https://plask.ai/)
 - [PodCastle](https://podcastle.ai/)
 - [Rix](https://hashnode.com/rix)
+- [Rodin 3D](https://hyperhuman.deemos.com/rodin)
 - [Simplified](https://simplified.com/)
 - [SonAuto](https://sonauto.ai/Home)
 - [Speechify](https://speechify.com/)
@@ -61,6 +66,7 @@
 
 ## Plataformas
 - [LangoTalk](https://www.langotalk.org/)
+- [MuleSoft](https://www.mulesoft.com/)
 - [Praktika](https://praktika.ai/)
 - [Proseable](https://www.proseable.com/)
 - [SpeakAndImprove](https://speakandimprove.com/)

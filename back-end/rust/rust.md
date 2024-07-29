@@ -32,6 +32,7 @@
 ### GPU
 - [Ash](https://github.com/MaikKlein/ash)
 - [Vulkano](https://vulkano.rs/about.html)
+- [wgpu](https://wgpu.rs/)
 
 ### I/O
 - [Ropey](https://docs.rs/ropey/latest/ropey/)

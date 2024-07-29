@@ -63,6 +63,7 @@
 - [Overflow](https://overflow.io/)
 - [Penpot](https://penpot.app/)
 - [Piskel](https://www.piskelapp.com/)
+- [Pixelmator](https://www.pixelmator.com/pro/)
 - [Plasticity](https://www.plasticity.xyz/)
 - [Procreate](https://procreate.com/)
 - [Proto](https://proto.io/)

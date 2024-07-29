@@ -102,6 +102,7 @@
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
 - [Benny](https://github.com/caderek/benny)
+- [Bombardier](https://github.com/codesenberg/bombardier)
 - [Hasty](https://hasty.dev/)
 - [JsPerf](https://jsperf.app/)
 - [Perflink](https://perf.link/)
@@ -458,6 +459,7 @@
 - [Nunjucks](https://github.com/mozilla/nunjucks)
 - [Pug](https://github.com/pugjs/pug)
   - [Pug Lint](https://github.com/pugjs/pug-lint)
+- [Squirrelly](https://squirrelly.js.org/)
 
 ### Threads
 - [Piscina](https://github.com/piscinajs/piscina)

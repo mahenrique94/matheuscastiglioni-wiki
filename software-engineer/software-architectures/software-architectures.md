@@ -68,6 +68,7 @@
   - [Front Controller](https://en.wikipedia.org/wiki/Front_controller)
 - [Macroservice](https://dzone.com/articles/micro-service-mini-service-and-macro-service)
 - [Master-slave](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
 - [MEAN](https://www.mongodb.com/mean-stack)
 - [MERN](https://www.mongodb.com/mern-stack)
 - [Microapps Architecture](https://increment.com/mobile/microapps-architecture/)

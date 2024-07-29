@@ -31,6 +31,7 @@
   - [WKSCTL](https://github.com/weaveworks/wksctl)
 - [Kestra](https://kestra.io/)
 - [Mutagen](https://mutagen.io/)
+- [n8n](https://n8n.io/)
 - [OpenTofu](https://opentofu.org/)
 - [Packer](https://www.packer.io/)
 - [Puppet](https://puppet.com/)
@@ -43,6 +44,9 @@
   - [Terramate](https://terramate.io/)
   - [TFSec](https://github.com/aquasecurity/tfsec)
 - [Vagrant](https://www.vagrantup.com/)
+
+## Autorização
+- [Permit](https://www.permit.io/)
 
 ## CDN
 - [Akamai](https://www.akamai.com/pt)
@@ -161,6 +165,8 @@
     - [Codecov](https://github.com/marketplace/codecov)
     - [DangerJS](https://danger.systems/js/)
     - [Dependabot](https://github.com/marketplace/dependabot-preview)
+    - [GH Archive](https://www.gharchive.org/)
+    - [GitGuardian](https://www.gitguardian.com/)
     - [Project planning for developers](https://github.com/features/issues)
     - [SonarCloud](https://sonarcloud.io/)
     - [Stale](https://github.com/marketplace/stale)
@@ -210,6 +216,7 @@
 - Service Mesh
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
   - [Consul](https://www.consul.io/)
+    - [Hashcorp Consul](https://www.hashicorp.com/products/consul)
   - [Envoy](https://www.envoyproxy.io/)
   - [Gloo](https://www.solo.io/products/gloo-mesh/)
   - [Istio](https://github.com/istio/istio)
@@ -257,6 +264,7 @@
   - [jBPM](https://www.jbpm.org/)
   - [Mule ESB](https://www.mulesoft.com/platform/soa/mule-esb-open-source-esb)
   - [Oracle BPEL Process Manager](https://www.oracle.com/middleware/technologies/bpel-process-manager.html)
+- [SmoothMQ](https://github.com/poundifdef/SmoothMQ)
 - [Solace](https://solace.com/)
 - [VerneMQ](https://vernemq.com/)
 - [ZeroMQ](https://zeromq.org/)
@@ -284,6 +292,9 @@
   - [ShellCheck](https://www.shellcheck.net/)
 - [Makefile](https://www.gnu.org/software/make/manual/make.html)
 - [Shell Script](https://pt.wikipedia.org/wiki/Shell_script)
+
+## Segredos
+- [Infisical](https://infisical.com/)
 
 ## Segurança
 - [SOPS](https://github.com/mozilla/sops)
@@ -317,6 +328,8 @@
 - [Oxylabs](https://oxylabs.io/)
 
 ## Workflows
+- [Camunda](https://camunda.com/)
 - [Conductor](https://netflix.github.io/conductor/)
 - [Frinx](https://frinx.io/)
 - [Orkes](https://orkes.io/)
+- [Restate](https://restate.dev/)

@@ -25,7 +25,7 @@
 - Crie diagramas à partir de textos ([https://kroki.io/](https://kroki.io/))
 - Crie tema para o VSCode([https://themes.vscode.one](https://themes.vscode.one))
 - Crie uma rede de conhecimento ([https://obsidian.md/](https://obsidian.md/))
-- Desenhar e simular circuitos lógicos ([https://github.com/logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution))
+- Desenhar e simular circuitos lógicos ([https://github.com/logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution), [https://sourceforge.net/projects/circuit/](https://sourceforge.net/projects/circuit/))
 - Diversos emulaadores para diferentes video games ([https://www.retroarch.com/](https://www.retroarch.com/))
 - Edição e manipulação de audio ([https://www.reaper.fm/](https://www.reaper.fm/))
 - Editar códigos Hexadimal ([https://mh-nexus.de/en/hxd/](https://mh-nexus.de/en/hxd/))

@@ -20,6 +20,9 @@
 ### JavaScript
 - [v8Go](https://github.com/rogchap/v8go)
 
+### Jobs
+- [River](https://riverqueue.com/)
+
 ### ORM
 - [Ent](https://entgo.io/)
 - [Gorm](https://gorm.io/index.html)

@@ -47,6 +47,7 @@
 
 ### Microsserviços
 - [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
+- [Steeltoe](https://steeltoe.io/)
 
 ### Mobile
 - [MAUI](https://dotnet.microsoft.com/en-us/apps/maui)

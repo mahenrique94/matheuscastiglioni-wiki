@@ -1,5 +1,8 @@
 # Bibliotecas
 
+## 2D
+- [Skia](https://skia.org/)
+
 ## 3D
 - [Aframe](https://aframe.io/)
 - [Aladino](https://github.com/luruke/aladino)
@@ -105,10 +108,12 @@
   - [es-module-shims](https://github.com/guybedford/es-module-shims)
   - [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 - [EStrella](https://github.com/rsms/estrella)
+- [FarmFE](https://www.farmfe.org/)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
 - [Kuto](https://github.com/samthor/kuto)
 - [LightningCSS](https://lightningcss.dev/)
 - [Lando](https://lando.dev/)
+- [Mako](https://makojs.dev/)
 - [NCC](https://github.com/vercel/ncc)
 - [NFT](https://github.com/vercel/nft)
 - [NixPacks](https://nixpacks.com/docs/getting-started)
@@ -210,6 +215,7 @@
 - [Flicking](https://github.com/naver/egjs-flicking)
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui)
 - [Keen Slider](https://keen-slider.io/)
+- [Maska](https://beholdr.github.io/maska/v3/#/)
 - [Papani.js](https://papanasi.js.org/)
 - [Swiper.js](https://swiperjs.com/)
 - [Tagify](https://github.com/yairEO/tagify)
@@ -249,6 +255,7 @@
 - [DnDKit](https://dndkit.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
+- [Flitter](https://flitter.pages.dev/)
 - [FloatUI](https://floatui.com/)
 - [FloatingUI](https://github.com/atomiks/floating-ui)
 - [FlowBite](https://flowbite.com/)
@@ -265,6 +272,7 @@
 - [Intercooler.js](https://intercoolerjs.org/)
 - [Intro.js](https://github.com/usablica/intro.js)
 - [Lemonadejs](https://github.com/lemonadejs/lemonadejs)
+- [Lustre](https://github.com/lustre-labs/lustre)
 - [Material Web Components](https://github.com/material-components/material-web)
 - [Meteor](https://www.meteor.com/)
 - [Million](https://github.com/millionjs/million)
@@ -284,6 +292,7 @@
 - [Riot](https://riot.js.org/)
 - [Qwik](https://qwik.builder.io/)
 - [Solid](https://github.com/solidjs/solid)
+  - [SolidStart](https://start.solidjs.com/)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 - [Slim.js](https://github.com/slimjs/slim.js)
 - [Split.js](https://split.js.org/#/)
@@ -298,9 +307,11 @@
 - [Umbrella](https://umbrellajs.com/)
 - [UILabs](https://www.uilabs.dev/)
 - [Ulkit](https://getuikit.com/)
+- [Vinxi](https://vinxi.vercel.app/)
 - [ViperHTML](https://viperhtml.js.org/)
 - [Vulcan](https://github.com/VulcanJS/Vulcan)
 - [WinBox](https://github.com/nextapps-de/winbox)
+- [WireUI](https://wireui.dev/)
 - [Zag.js](https://zagjs.com/)
 
 ## CSS-in-JS
@@ -383,6 +394,7 @@
 - [Lexical](https://lexical.dev/)
 - [Milkdown](https://github.com/Saul-Mirone/milkdown)
 - [Monaco](https://microsoft.github.io/monaco-editor/)
+- [Novel](https://novel.sh/)
 - [ProseMirror](https://prosemirror.net/)
 - [Quill](https://quilljs.com/)
 - [SimpleMDE MarkDown Editor](https://github.com/sparksuite/simplemde-markdown-editor)
@@ -507,6 +519,7 @@
 - [Plotly.js](https://github.com/plotly/plotly.js)
 - [Plottable](https://github.com/palantir/plottable)
 - [Sigma](https://github.com/jacomyal/sigma.js)
+- [Tremor](https://raw.tremor.so/docs/visualizations/area-chart)
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib)
 
 ## GraphQL
@@ -807,6 +820,7 @@
 
 ## Utils
 - [DetectBrowser](https://github.com/DamonOehlman/detect-browser)
+- [ES Toolkit](https://es-toolkit.slash.page/)
 - [Lodash](https://github.com/lodash/lodash)
 - [MobileDetect](https://github.com/hgoebl/mobile-detect.js)
 - [QueryString](https://github.com/sindresorhus/query-string)
@@ -845,7 +859,6 @@
 - [YEW](https://github.com/yewstack/yew)
 - [Stork](https://stork-search.net/)
 - [Sycamore](https://github.com/sycamore-rs/sycamore)
-
 
 ## WebComponents
 - [Bayjs](https://bayjs.org/)
