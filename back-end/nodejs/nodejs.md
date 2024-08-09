@@ -302,6 +302,7 @@
 ### Nativo
 - [Bindings](https://github.com/TooTallNate/node-bindings)
 - [Napi](https://napi.rs/)
+- [Neon](https://github.com/neon-bindings/neon)
 - [node-addon-api](https://github.com/nodejs/node-addon-api)
 
 ### Node_modules
