@@ -27,6 +27,7 @@
 ## Ferramentas
 - [Airbrake](https://www.airbrake.io/)
 - [AppDynamics](https://www.appdynamics.com/)
+- [Aptabase](https://aptabase.com/)
 - [Asayer](https://asayer.io/)
 - [Atera](https://www.atera.com/)
 - [AWS RUM](https://aws.amazon.com/pt/blogs/aws/cloudwatch-rum/)
@@ -63,6 +64,7 @@
 - [Komiser](https://www.komiser.io/)
 - [LightStep](https://lightstep.com/)
 - [Lightrun](https://lightrun.com/)
+- [Litlyx](https://litlyx.com/)
 - [LogRocket](https://logrocket.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)
   - [Filebeat](https://www.elastic.co/pt/beats/filebeat)

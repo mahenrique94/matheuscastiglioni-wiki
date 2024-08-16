@@ -3,6 +3,9 @@
 - https://oam.dev/
 - https://medium.com/@rphilogene/17-best-devops-tools-to-use-in-2022-for-infrastructure-automation-and-monitoring-b3470cf9e00f
 
+## AIM
+- [Logto](https://logto.io/home)
+
 ## API Gateway
 - [Kong](https://konghq.com/)
 - [Krakend](https://www.krakend.io/)
@@ -212,6 +215,7 @@
   - [Crossbar](https://crossbar.io/)
   - [DAPR](https://dapr.io/)
   - [gRPC](https://grpc.io/)
+  - [Temporal](https://temporal.io/)
   - [Tilt](https://tilt.dev/)
 - Service Mesh
   - [Ambassador](https://www.getambassador.io/learn/service-mesh/)
@@ -245,6 +249,7 @@
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [Apache Samza](http://samza.apache.org/)
 - [Apache Storm](https://storm.apache.org/)
+- [AutoMQ](https://www.automq.com/)
 - [AWS SQS](https://aws.amazon.com/sqs/)
 - [AWS SNS](https://aws.amazon.com/sns/)
 - [Celery](https://docs.celeryproject.org/en/latest/index.html)

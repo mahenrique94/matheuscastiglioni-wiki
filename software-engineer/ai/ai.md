@@ -23,6 +23,7 @@
 - [ChatGPT](https://chat.openai.com/)
   - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
   - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
+- [Claude](https://claude.ai)
 - [Codeium](https://codeium.com/)
 - [Copilot](https://github.com/features/copilot)
 - [CSM](https://www.csm.ai/)

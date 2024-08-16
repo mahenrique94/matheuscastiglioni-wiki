@@ -183,6 +183,7 @@
 ## Changelogs
 - [Changesets](https://github.com/changesets/changesets)
 - [Release Please](https://github.com/googleapis/release-please)
+- [Semver](https://github.com/jscutlery/semver)
 
 ## Cloud
 - [AWS SDK](https://github.com/aws/aws-sdk-js)
@@ -370,6 +371,7 @@
 - [Dinero.js](https://github.com/dinerojs/dinero.js)
 
 ## Documentação
+- [Dendron](https://wiki.dendron.so/)
 - [Docusaurus](https://github.com/facebook/docusaurus)
 - [DocZ](https://github.com/doczjs/docz)
 - [DocX](https://github.com/dolanmiu/docx)
@@ -420,6 +422,7 @@
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
 - [JSVU](https://github.com/GoogleChromeLabs/jsvu)
+- [Porffor](https://porffor.dev/)
 - [QuickJS](https://bellard.org/quickjs/)
 - [v8](https://github.com/v8/v8)
 - [WinterJS](https://github.com/wasmerio/winterjs)
@@ -648,6 +651,7 @@
 - [Guess.js](https://guess-js.github.io/docs)
 - [KerasJS](https://transcranial.github.io/keras-js/#/)
 - [JS-Pytorch](https://github.com/eduardoleao052/js-pytorch)
+- [Ml5js](https://ml5js.org/)
 - [NSFW](https://github.com/infinitered/nsfwjs)
 - [TensorFire](https://tenso.rs/)
 - [TensorFlow](https://github.com/tensorflow/tensorflow)
