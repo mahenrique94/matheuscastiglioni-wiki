@@ -28,6 +28,7 @@
 - [Flowbite](https://flowbite.com/)
 - [Foundation](https://get.foundation/)
 - [Halfmoon](https://github.com/halfmoonui/halfmoon)
+- [Helios Design System](https://helios.hashicorp.design/)
 - [Helsinki Design System](https://hds.hel.fi/)
 - [KumaUI](https://www.kuma-ui.com/)
 - [Matcha](https://matcha.mizu.sh/)

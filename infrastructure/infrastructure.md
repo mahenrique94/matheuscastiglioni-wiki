@@ -182,6 +182,7 @@
   - [GitNess](https://gitness.com/)
   - [GitPod](https://gitpod.io/)
   - [GitSense](https://gitsense.com/)
+  - [pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new)
   - [VSFForGit](https://github.com/microsoft/VFSForGit)
 - [Sapling](https://sapling-scm.com/)
 
@@ -238,6 +239,7 @@
 
 ## Jobs
 - [Bistro](https://facebook.github.io/bistro/)
+- [Trigger](https://trigger.dev/)
 
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)

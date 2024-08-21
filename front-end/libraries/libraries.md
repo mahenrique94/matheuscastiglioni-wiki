@@ -352,6 +352,7 @@
 - [NeutralinoJS](https://neutralino.js.org/#one)
 - [NodeGUI](https://github.com/nodegui/nodegui)
 - [Tauri](https://github.com/tauri-apps/tauri)
+- [ToDesktop](https://www.todesktop.com/)
 
 ## Design System
 - [Lona](https://github.com/Lona/Lona)
@@ -417,6 +418,7 @@
 ## Engines
 - [Bun](https://bun.sh/)
   - [Elysia](https://elysiajs.com/)
+    - [Eden](https://elysiajs.com/eden/overview)
 - [ChakraCore](https://github.com/chakra-core/ChakraCore)
 - [Deno](https://deno.com/)
 - [Elk](https://github.com/cesanta/elk)

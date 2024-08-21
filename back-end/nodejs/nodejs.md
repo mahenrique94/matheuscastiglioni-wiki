@@ -41,6 +41,7 @@
 - [NestJS](https://nestjs.com/)
   - [awesome-nestjs](https://github.com/nestjs/awesome-nestjs)
 - [Node RED](https://nodered.org/)
+- [Orval](https://orval.dev/)
 - [Polka](https://github.com/lukeed/polka)
 - [Remult](https://remult.dev/)
 - [Restify](http://restify.com/)

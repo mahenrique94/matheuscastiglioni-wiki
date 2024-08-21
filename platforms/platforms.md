@@ -80,6 +80,7 @@
 - Salas simultaneas para bate papo ([https://www.kumospace.com/](https://www.kumospace.com/) [https://gather.town/](https://gather.town/) [https://spatial.chat/](https://spatial.chat/))
 - Simular chamadas para WebHooks ([https://requestbin.com/](https://requestbin.com/), [https://webhook.cool/](https://webhook.cool/))
 - Streaming de videos como lives ([https://www.agora.io/en/](https://www.agora.io/en/))
+- Suporte ao clientes ([https://www.plain.com/](https://www.plain.com/))
 - Timer colaborativo ([https://cuckoo.team/](https://cuckoo.team/))
 - Testar envio de emails ([https://usehelo.com/](https://usehelo.com/))
 - Testar expressão regular ([https://regex101.com/](https://regex101.com/), [https://ihateregex.io/](https://ihateregex.io/))
