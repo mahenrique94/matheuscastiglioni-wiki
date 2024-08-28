@@ -78,6 +78,7 @@
   - [PgPool](https://www.npmjs.com/package/pg-pool)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
   - [Postico](https://eggerapps.at/postico/v1.php)
+  - [Stackgres](https://stackgres.io/)
   - [Tatiyants](https://tatiyants.com/pev/#/plans)
 - [PouchDB](https://pouchdb.com/)
 - [Presto](https://prestodb.io/)

@@ -216,6 +216,7 @@
   - [Crossbar](https://crossbar.io/)
   - [DAPR](https://dapr.io/)
   - [gRPC](https://grpc.io/)
+  - [Hystrix](https://github.com/Netflix/Hystrix)
   - [Temporal](https://temporal.io/)
   - [Tilt](https://tilt.dev/)
 - Service Mesh

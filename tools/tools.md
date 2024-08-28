@@ -40,11 +40,12 @@
 - Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser), [https://polypane.app/](https://polypane.app/), [https://responsively.app/](https://responsively.app/), [https://www.webmobilefirst.com/en/](https://www.webmobilefirst.com/en/))
 - Otimizar imagens em tempo real ([https://imagekit.io/](https://imagekit.io/))
 - Otimizar vídeos ([https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake))
+- Pesquisar redes sociais por usuário ([https://sherlockproject.xyz/](https://sherlockproject.xyz/))
 - Rastreie seu tempo automaticamente ([https://memory.ai/timely](https://memory.ai/timely))
 - Realizar SQLs em arquivos CSV, XLS e JSON ([https://simplql.com/](https://simplql.com/))
 - Remover fundo de videos chamadass ([https://www.chromacam.me/](https://www.chromacam.me/))
 - Remover som de fundo ([https://krisp.ai/](https://krisp.ai/), [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [https://www.utterly.app/](https://www.utterly.app/))
-- Reuniões ([https://www.butter.us/](https://www.butter.us/), [https://meet.google.com/](https://meet.google.com/), [https://zoom.us/](https://zoom.us/))
+- Reuniões ([https://www.butter.us/](https://www.butter.us/), [https://meet.google.com/](https://meet.google.com/), [https://zoom.us/](https://zoom.us/), [https://meet.jit.si/](https://meet.jit.si/))
 - SVG
   - Animar SVG's ([https://svgartista.net/](https://svgartista.net/))
   - Colorir SVG's ([https://www.fecolormatrix.com/](https://www.fecolormatrix.com/))
