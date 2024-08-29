@@ -14,6 +14,9 @@
 ### Concorrência
 - [Conc](https://github.com/sourcegraph/conc)
 
+### GitHub
+- [go-github](https://github.com/google/go-github)
+
 ### Injeção de Dependência
 - [Dig](https://github.com/uber-go/dig)
 

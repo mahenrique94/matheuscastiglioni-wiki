@@ -100,6 +100,8 @@
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [SpacetimeDB](https://spacetimedb.com/)
 - [Spanner](https://cloud.google.com/spanner)
+- [SQLite](https://www.sqlite.org/index.html)
+  - [sqlite-vec](https://github.com/asg017/sqlite-vec)
 - [SurrealDB](https://surrealdb.com/)
 - [TiDB](https://pingcap.com/)
 - [TigerGraph](https://www.tigergraph.com/)
