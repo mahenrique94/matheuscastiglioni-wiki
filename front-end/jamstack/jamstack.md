@@ -31,6 +31,7 @@ https://jamstack.org
 - [Modern.js](https://modernjs.dev/en)
 - [Next.js](https://github.com/vercel/next.js)
   - [Clerk](https://clerk.dev/)
+  - [Glass.js](https://useglass.ai/)
   - [NextAuth](https://next-auth.js.org/)
   - [Next Safe Action](https://next-safe-action.dev/)
   - [Nookies](https://github.com/maticzav/nookies)
