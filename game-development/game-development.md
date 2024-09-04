@@ -8,6 +8,7 @@
 - [Streaming System](https://www.gamedeveloper.com/programming/streaming-for-next-generation-games)
 
 ## Bibliotecas
+- [Box2D](https://box2d.org/)
 - [Assimp](https://github.com/assimp/assimp)
 - [Bullet Physics](https://github.com/bulletphysics)
 - [Euphoria Ragdoll](https://www.gta5-mods.com/misc/euphoria-ragdoll-overhaul-ero)
