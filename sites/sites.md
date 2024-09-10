@@ -3,6 +3,7 @@
 - Acompanhar proposals do JavaScript ([https://www.proposals.es/](https://www.proposals.es/))
 - Baixar fontes ([https://www.dafont.com/pt/](https://www.dafont.com/pt/), [https://fonts.google.com/](https://fonts.google.com/))
 - Baixar músicas com free royalty ([https://www.bensound.com/](https://www.bensound.com/), [https://sonniss.com/](https://sonniss.com/))
+- Banco de dados de imagens ([https://depositphotos.com/br/](https://depositphotos.com/br/), [https://www.freepik.com/](https://www.freepik.com/), [https://www.shutterstock.com/](https://www.shutterstock.com/), [https://pixabay.com/pt/](https://pixabay.com/pt/), [https://unsplash.com/pt-br/](https://unsplash.com/pt-br/), [https://www.pexels.com/pt-br/](https://www.pexels.com/pt-br/))
 - Banco de dados de timezones ([https://www.iana.org/time-zones](https://www.iana.org/time-zones))
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
 - Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))

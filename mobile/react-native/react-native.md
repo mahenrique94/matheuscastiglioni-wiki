@@ -71,6 +71,7 @@
 - [React Native Firebase](https://github.com/invertase/react-native-firebase)
 
 ### Qualidade
+- [Maestro](https://maestro.mobile.dev/)
 - [React Native Owl](https://github.com/FormidableLabs/react-native-owl)
 
 ### Responsividade

@@ -172,6 +172,7 @@
 - [Mathicall.js](https://github.com/PatGleeson101/mathicall.js)
 
 ## Canvas
+- [DGM.js](https://dgmjs.dev/)
 - [Fabric.js](https://github.com/fabricjs/fabric.js)
 - [HTML2Canvas](https://github.com/niklasvh/html2canvas)
 - [Konva](https://github.com/konvajs/konva)
