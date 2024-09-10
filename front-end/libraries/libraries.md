@@ -399,6 +399,7 @@
 - [Milkdown](https://github.com/Saul-Mirone/milkdown)
 - [Monaco](https://microsoft.github.io/monaco-editor/)
 - [Novel](https://novel.sh/)
+- [Portabletext](https://github.com/portabletext/portabletext)
 - [ProseMirror](https://prosemirror.net/)
 - [Quill](https://quilljs.com/)
 - [SimpleMDE MarkDown Editor](https://github.com/sparksuite/simplemde-markdown-editor)

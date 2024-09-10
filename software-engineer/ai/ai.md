@@ -47,6 +47,7 @@
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
 - [OpenUI](https://github.com/wandb/openui)
 - [OpusPro](https://www.opus.pro/)
+- [Pieces](https://pieces.app/)
 - [Plask](https://plask.ai/)
 - [PodCastle](https://podcastle.ai/)
 - [Rix](https://hashnode.com/rix)

@@ -26,6 +26,7 @@
 
 ## Ferramentas
 - [Airbrake](https://www.airbrake.io/)
+- [Amplitude](https://amplitude.com/docs)
 - [AppDynamics](https://www.appdynamics.com/)
 - [Aptabase](https://aptabase.com/)
 - [Asayer](https://asayer.io/)

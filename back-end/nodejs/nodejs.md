@@ -195,6 +195,7 @@
 ### E-Commerce
 - [EverShop](https://evershop.io/)
 - [Saleor](https://saleor.io/)
+- [Swell](https://www.swell.is/)
 
 ### Email
 - [Emailjs](https://www.emailjs.com/)
@@ -438,6 +439,9 @@
 ### Scraping
 - [Cheerio](https://cheerio.js.org/)
 - [Readability](https://github.com/mozilla/readability)
+
+### Serialização
+- [superjson](https://github.com/flightcontrolhq/superjson)
 
 ### Script
 - [Dax](https://github.com/dsherret/dax)
