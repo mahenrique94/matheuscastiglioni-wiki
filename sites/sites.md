@@ -54,7 +54,7 @@
 - Navegar na AST do JavaScript ([https://astexplorer.net/](https://astexplorer.net/))
 - Quadro branco online ([https://jamboard.google.com/](https://jamboard.google.com/))
 - Quantidade de demissões das empresas ([https://layoffs.fyi/](https://layoffs.fyi/))
-- Paleta de cores ([https://coolors.co/](https://coolors.co/), [https://color.adobe.com/](https://color.adobe.com/), [https://colors.muz.li/](https://colors.muz.li/), [https://mycolor.space/](https://mycolor.space/), [https://colorhunt.co/](https://colorhunt.co/))
+- Paleta de cores ([https://coolors.co/](https://coolors.co/), [https://color.adobe.com/](https://color.adobe.com/), [https://colors.muz.li/](https://colors.muz.li/), [https://mycolor.space/](https://mycolor.space/), [https://colorhunt.co/](https://colorhunt.co/), [https://smart-swatch.netlify.app/#0099ff](https://smart-swatch.netlify.app/#0099ff))
 - Perguntas em reuniões, talks e palestras ([https://dory.app/](https://dory.app/), [https://www.sli.do/](https://www.sli.do/))
 - Perguntas aleatórias sobre entrevistas técnicas ([https://30secondsofinterviews.org/](https://30secondsofinterviews.org/))
 - Pesquisa e estado do Ágil ([https://stateofagile.com/](https://stateofagile.com/))

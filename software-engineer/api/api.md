@@ -30,6 +30,7 @@
 - [HTTPie](https://httpie.io/app)
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
+- [Requestly](https://github.com/requestly/requestly)
 
 ## Videos
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)

@@ -220,6 +220,7 @@
 - [Keen Slider](https://keen-slider.io/)
 - [Maska](https://beholdr.github.io/maska/v3/#/)
 - [Papani.js](https://papanasi.js.org/)
+- [Swapy](https://swapy.tahazsh.com/)
 - [Swiper.js](https://swiperjs.com/)
 - [Tagify](https://github.com/yairEO/tagify)
 

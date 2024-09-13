@@ -222,6 +222,7 @@
 
 ### Fixtures
 - [ChanceJS](https://github.com/chancejs/chancejs)
+- [Copycat](https://github.com/supabase-community/copycat)
 - [Faker.js](https://github.com/faker-js/faker)
 - [Falso](https://github.com/ngneat/falso)
 
@@ -440,6 +441,9 @@
 - [Cheerio](https://cheerio.js.org/)
 - [Readability](https://github.com/mozilla/readability)
 
+### Seed
+- [Seed](https://github.com/supabase-community/seed)
+
 ### Serialização
 - [superjson](https://github.com/flightcontrolhq/superjson)
 
@@ -486,6 +490,7 @@
 
 ### TypeScript
 - [JSON to TypeScript](https://transform.tools/json-to-typescript)
+- [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)
 - [ts-node](https://github.com/TypeStrong/ts-node)
 - [tsx](https://github.com/esbuild-kit/tsx)
 
