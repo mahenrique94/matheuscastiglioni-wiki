@@ -260,6 +260,7 @@
 - [DAPR](https://dapr.io/)
 - [ElasticMQ](https://github.com/softwaremill/elasticmq)
 - [HornetQ](https://hornetq.jboss.org/)
+- [Inngest](https://www.inngest.com/)
 - [KubeMQ](https://kubemq.io/)
 - [Lenses](https://lenses.io/)
 - [Memphis](https://memphis.dev/)
