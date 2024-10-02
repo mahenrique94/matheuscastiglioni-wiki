@@ -15,6 +15,7 @@
 - [Canny](https://canny.io/)
 - [ClickUP](https://clickup.com/)
 - [ClubHouse](https://clubhouse.io/)
+- [Coda](https://coda.io/)
 - [Columns](https://columns.app/)
 - [Condution](https://www.condution.com/)
 - [Confluence](https://www.atlassian.com/br/software/confluence)

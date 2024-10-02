@@ -1,6 +1,6 @@
 # Plataformas
 
-- Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/) [https://cal.com/](https://cal.com/))
+- Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/) [https://cal.com/](https://cal.com/), [https://www.nylas.com/](https://www.nylas.com/))
 - Agendar execução de códigos ([https://mergent.co/](https://mergent.co/))
 - Aplicar efeito blur em imagens ([https://blurha.sh/](https://blurha.sh/))
 - Armazenar arquivos online ([https://drive.google.com/](https://drive.google.com/), [https://www.dropbox.com/](https://www.dropbox.com/))
@@ -35,7 +35,7 @@
 - Criar votação ([https://doodle.com/pt_BR/](https://doodle.com/pt_BR/))
 - Design de caixas/pacotes ([https://www.pacdora.com/](https://www.pacdora.com/))
 - Desminificar JS, CSS e HTML ([https://unminify.com/](https://unminify.com/))
-- Doações e apoios da comunidade ([https://apoia.se/](https://apoia.se/), [https://www.patreon.com/pt-BR](https://www.patreon.com/pt-BR))
+- Doações e apoios da comunidade ([https://apoia.se/](https://apoia.se/), [https://www.patreon.com/pt-BR](https://www.patreon.com/pt-BR), [https://ko-fi.com/](https://ko-fi.com/))
 - Editor de texto colaborativo online ([https://etherpad.org/](https://etherpad.org/))
 - Email marketing ([https://mailchimp.com/](https://mailchimp.com/), [https://moosend.com/](https://moosend.com/), [https://substack.com/](https://substack.com/), [https://bentonow.com/](https://bentonow.com/), [https://postmarkapp.com/](https://postmarkapp.com/), [https://useplunk.com](https://useplunk.com), [https://www.mautic.org/](https://www.mautic.org/), [https://www.braze.com/](https://www.braze.com/), [https://www.beehiiv.com/](https://www.beehiiv.com/))
 - Escrever códigos JavaScript de forma interativa ([https://natto.dev/](https://natto.dev/))

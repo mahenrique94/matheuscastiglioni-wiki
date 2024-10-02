@@ -14,6 +14,7 @@
 - [Branch by Abstraction](https://martinfowler.com/bliki/BranchByAbstraction.html)
 - [Broker](http://www.dossier-andreas.net/software_architecture/broker.html)
 - [Bulkhead](https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead)
+- [Cell-Based Architectures](https://www.infoq.com/minibooks/cell-based-architecture-2024/)
 - [Cellular Architecture](https://en.wikipedia.org/wiki/Cellular_architecture)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)

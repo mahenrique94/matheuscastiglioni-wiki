@@ -1,6 +1,9 @@
 # React Native
 
 ## Bibliotecas
+### Acessibilidade
+- [react-native-ama](https://github.com/FormidableLabs/react-native-ama)
+
 ### Animações
 - [Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)
 - [Moti](https://github.com/nandorojo/moti)

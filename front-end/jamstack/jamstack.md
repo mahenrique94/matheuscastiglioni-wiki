@@ -42,6 +42,7 @@ https://jamstack.org
 - [Nuxt](https://nuxtjs.org/)
   - [Nuxt UI](https://ui.nuxt.com/)
 - [Obelisk](https://github.com/BennyHallett/obelisk)
+- [OneEntry](https://oneentry.cloud/)
 - [Payload](https://payloadcms.com/)
 - [Prismic](https://prismic.io/)
 - [Qwik](https://qwik.builder.io/)

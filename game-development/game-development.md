@@ -117,6 +117,7 @@
 - [Games Stats](https://games-stats.com/)
 - [Humble Bundle](https://www.humblebundle.com/)
 - [Itch](https://itch.io/)
+- [Kickstarter](https://www.kickstarter.com)
 - [LeArtes](https://leartesstudios.com)
   - [Cosmos](https://leartesstudios.com/cosmos)
 - [Mixamo](https://www.mixamo.com/)

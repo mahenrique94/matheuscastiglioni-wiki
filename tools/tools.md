@@ -54,7 +54,7 @@
   - Cortar e ajustar tamanho de SVG's ([https://msurguy.github.io/svg-cropper-tool/](https://msurguy.github.io/svg-cropper-tool/))
   - Manipular SVG's ([https://pavellaptev.github.io/warp-svg/](https://pavellaptev.github.io/warp-svg/))
 - Testar globs ([https://globster.xyz/](https://globster.xyz/))
-- Tirar print screens ([https://flameshot.org/](https://flameshot.org/))
+- Tirar print screens ([https://flameshot.org/](https://flameshot.org/), [https://www.screenpresso.com/](https://www.screenpresso.com/))
 - Tradução de textos para LIBRAS ([https://www.handtalk.me/br](https://www.handtalk.me/br))
 - Transcrição de audio para texto em tempo real ([https://webcaptioner.com/](https://webcaptioner.com/))
 - Visualizar chamadas de funções ([https://codemap.app/](https://codemap.app/), [https://www.codesee.io/](https://www.codesee.io/))
