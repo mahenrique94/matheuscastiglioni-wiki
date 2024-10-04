@@ -37,7 +37,7 @@
 - Escaner bibliotecas em uso nos sites ([https://bundlescanner.com/](https://bundlescanner.com/))
 - Ferramentas para pensar melhor em colaboração ([https://untools.co/](https://untools.co/))
 - Free for Dev ([https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev))
-- Freelances ([https://www.workana.com/en](https://www.workana.com/en))
+- Freelances ([https://www.workana.com/en](https://www.workana.com/en), [https://www.fiverr.com/](https://www.fiverr.com/), [https://www.upwork.com/](https://www.upwork.com/))
 - Gerador de curriculos ([https://resumake.io/](https://resumake.io/))
 - Gerador de favicons ([https://www.favicon.software/](https://www.favicon.software/))
 - Gerador de imagens para sites ([https://picsum.photos/](https://picsum.photos/), [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/))

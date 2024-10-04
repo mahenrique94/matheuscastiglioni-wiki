@@ -323,6 +323,9 @@
 - [Undertow](https://undertow.io/)
 - [Wildfly](https://www.wildfly.org/)
 
+## Storage
+- [BackBlaze](https://www.backblaze.com/)
+
 ## Streaming
 - [Dyte](https://dyte.io/)
 
@@ -332,6 +335,10 @@
 ## Testes de Contrat
 - [Pact](https://pact.io/)
 - [Specmatic](https://specmatic.in/)
+
+## VM
+- [Virter](https://github.com/LINBIT/virter)
+- [VirtualBox](https://www.virtualbox.org/)
 
 ## Web Crawler
 - [Oxylabs](https://oxylabs.io/)
