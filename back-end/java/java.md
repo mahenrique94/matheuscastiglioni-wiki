@@ -1,6 +1,7 @@
 # Java
 
 - [Java LibHunt](https://java.libhunt.com/)
+- [JBang](https://www.jbang.dev/)
 
 ## ORM
 - [Hibernate](https://hibernate.org/)

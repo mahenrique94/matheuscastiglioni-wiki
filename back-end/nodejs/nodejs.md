@@ -457,6 +457,7 @@
 
 ### SQL
 - [SQL](https://github.com/nearform/sql)
+- [SQLc](https://sqlc.dev/)
 - [SafeSQL](https://safeql.dev/)
 
 ### String

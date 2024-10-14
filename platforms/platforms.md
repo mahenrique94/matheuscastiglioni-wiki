@@ -3,6 +3,7 @@
 - Agendar eventos online ([https://calendly.com/pt](https://calendly.com/pt) [https://calendso.com/](https://calendso.com/) [https://cal.com/](https://cal.com/), [https://www.nylas.com/](https://www.nylas.com/))
 - Agendar execução de códigos ([https://mergent.co/](https://mergent.co/))
 - Aplicar efeito blur em imagens ([https://blurha.sh/](https://blurha.sh/))
+- Aprender outros idiomas ([https://www.gofluent.com/us-en/](https://www.gofluent.com/us-en/))
 - Armazenar arquivos online ([https://drive.google.com/](https://drive.google.com/), [https://www.dropbox.com/](https://www.dropbox.com/))
 - Armazenar backups online ([https://www.backblaze.com/cloud-backup/personal](https://www.backblaze.com/cloud-backup/personal))
 - Assinatura de documentos online ([https://www.clicksign.com/](https://www.clicksign.com/), [https://d4sign.com.br/](https://d4sign.com.br/), [https://www.docusign.com/](https://www.docusign.com/), [https://www.docuseal.co/](https://www.docuseal.co/))

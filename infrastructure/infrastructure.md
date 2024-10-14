@@ -35,6 +35,7 @@
 - [Kestra](https://kestra.io/)
 - [Mutagen](https://mutagen.io/)
 - [n8n](https://n8n.io/)
+- [Nix](https://nixos.org/)
 - [OpenTofu](https://opentofu.org/)
 - [Packer](https://www.packer.io/)
 - [Puppet](https://puppet.com/)

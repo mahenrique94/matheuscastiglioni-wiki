@@ -3,6 +3,9 @@
 ## Bibliotecas
 - [Scientist](https://github.com/github/scientist)
 
+## Feature Flags
+- [Flipper](https://github.com/flippercloud/flipper)
+
 ## Frameworks
 - [Rails](https://rubyonrails.org/)
 - [Sinatra](http://sinatrarb.com/)

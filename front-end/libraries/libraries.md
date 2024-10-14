@@ -375,6 +375,7 @@
 
 ## Documentação
 - [Dendron](https://wiki.dendron.so/)
+- [Docsify](https://docsify.js.org/#/)
 - [Docusaurus](https://github.com/facebook/docusaurus)
 - [DocZ](https://github.com/doczjs/docz)
 - [DocX](https://github.com/dolanmiu/docx)
@@ -540,7 +541,9 @@
 
 ## Icones
 - [AtlasIcons](https://atlasicons.vectopus.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Boxicons](https://boxicons.com/)
+- [Feather Icons](https://feathericons.com/)
 - [FlagPack](https://flagpack.xyz/)
 - [FlowBite](https://flowbite.com/icons)
 - [FontAwesome](https://fontawesome.com/)
@@ -551,16 +554,25 @@
 - [IconBuddy](https://iconbuddy.app/)
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
+- [Iconify](https://iconify.design/)
+- [IconMonstr](https://iconmonstr.com/)
 - [Iconoir](https://iconoir.com/)
+- [Iconsax](https://iconsax.io/)
 - [IconScout](https://iconscout.com/)
 - [Ionicons](https://ionic.io/ionicons)
+- [LineIcons](https://lineicons.com/)
 - [Lucide](https://lucide.dev/)
+- [MaterialUI Icons](https://mui.com/material-ui/material-icons/)
 - [MingCute](https://www.mingcute.com/)
+- [Nucleo](https://nucleoapp.com/)
+- [Orion Icons](https://www.orioniconlibrary.com/)
 - [PhosphorIcons](https://phosphoricons.com/)
 - [RemixIcon](https://remixicon.com/)
+- [Streamline Icons](https://www.streamlinehq.com/)
 - [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders)
 - [SVG Repo](https://www.svgrepo.com/)
 - [Tabler](https://tabler-icons.io/)
+- [UI Icons](https://www.uicons.com/)
 - [UnicornIcons](https://unicornicons.com/)
 
 ## Identificação
