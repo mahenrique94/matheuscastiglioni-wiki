@@ -117,6 +117,7 @@
 - [NCC](https://github.com/vercel/ncc)
 - [NFT](https://github.com/vercel/nft)
 - [NixPacks](https://nixpacks.com/docs/getting-started)
+- [One](https://onestack.dev/)
 - [OXC](https://github.com/oxc-project/oxc)
 - [Package Check](https://github.com/skypackjs/package-check)
 - [Parcel](https://github.com/parcel-bundler/parcel)

@@ -30,6 +30,7 @@ https://jamstack.org
 - [Meli](https://docs.meli.sh/)
 - [Modern.js](https://modernjs.dev/en)
 - [Next.js](https://github.com/vercel/next.js)
+  - [Better Auth](https://www.better-auth.com/)
   - [Clerk](https://clerk.dev/)
   - [Glass.js](https://useglass.ai/)
   - [NextAuth](https://next-auth.js.org/)
