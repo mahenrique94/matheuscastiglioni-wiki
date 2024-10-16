@@ -48,6 +48,7 @@
 - [Tachyons](https://github.com/tachyons-css/tachyons/)
 - [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
   - [Catalyst](https://tailwindui.com/templates/catalyst)
+  - [TailwindCSS Animated](https://www.tailwindcss-animated.com/)
   - [Tailwind Elements](https://tailwind-elements.com/)
   - [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
   - [Tailwind Play](https://play.tailwindcss.com/)
