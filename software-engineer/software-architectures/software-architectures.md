@@ -121,6 +121,7 @@
 - [Peer-to-peer](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Pipe-filter](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 - [Plugin Architecture](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)
+- [Polyliths Architecture](https://viteconf-2024-polyliths.slides.igor.dev/1)
 - [Prescriptive Code Structure](https://www.bdcnetwork.com/blog/prescriptive-vs-performance-building-codes)
 - [Proxy](https://www.citrix.com/pt-br/products/citrix-adc/form/choose-the-right-proxy-architecture/)
   - [Envoy](https://www.envoyproxy.io/)

@@ -26,11 +26,13 @@
   - [Restfull](https://www.hostgator.com.br/blog/api-restful/)
 
 ## Programas
+- [Bruno](https://www.usebruno.com/)
 - [Hoppscotch](https://hoppscotch.io/)
 - [HTTPie](https://httpie.io/app)
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
 - [Requestly](https://github.com/requestly/requestly)
+- [Scalar](https://scalar.com/)
 
 ## Videos
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)

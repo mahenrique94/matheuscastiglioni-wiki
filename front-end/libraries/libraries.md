@@ -352,6 +352,7 @@
 - [LogT](https://github.com/sidhantpanda/logt)
 
 ## Desktop
+- [GTK](https://www.gtk.org/)
 - [NeutralinoJS](https://neutralino.js.org/#one)
 - [NodeGUI](https://github.com/nodegui/nodegui)
 - [Tauri](https://github.com/tauri-apps/tauri)

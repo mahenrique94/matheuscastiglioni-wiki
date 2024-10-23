@@ -32,6 +32,7 @@
 - [EbSynth](https://ebsynth.com/)
 - [ElevenLabs](https://elevenlabs.io/)
 - [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/)
+- [F5-TTS](https://swivid.github.io/F5-TTS/)
 - [FireCut](https://firecut.ai/)
 - [G-prompter](https://www.g-prompter.com/en)
 - [Gemini](https://gemini.google.com/app)

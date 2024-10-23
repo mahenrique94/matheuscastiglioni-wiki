@@ -77,6 +77,7 @@
 - [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
 - [Better Auth](https://www.better-auth.com/)
 - [Clerk](https://clerk.dev/)
+- [Credo](https://credo.js.org/)
 - [CryptoHash](https://github.com/sindresorhus/crypto-hash)
 - [CryptoJS](https://github.com/brix/crypto-js)
 - [Kinde](https://kinde.com/)

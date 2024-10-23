@@ -42,6 +42,9 @@
 - [NLog](https://nlog-project.org/)
 - [Serilog](https://serilog.net/)
 
+### Machine Learning
+- [ML .NET](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet)
+
 ### Mapping
 - [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 

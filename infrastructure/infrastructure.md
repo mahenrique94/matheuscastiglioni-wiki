@@ -243,6 +243,17 @@
 - [Bistro](https://facebook.github.io/bistro/)
 - [Trigger](https://trigger.dev/)
 
+## Logs
+- [Apache Flume](https://flume.apache.org/)
+- [Datadog](https://docs.datadoghq.com/logs/)
+- [Elastic Search](https://www.elastic.co/guide/en/elasticsearch/reference/current/logging.html)
+- [Fluentd](https://www.fluentd.org/)
+- [Grafana Loki](https://grafana.com/docs/loki/latest/)
+- [Graylog](https://graylog.org/)
+- [Logstash](https://www.elastic.co/logstash)
+- [Logtail](https://betterstack.com/logs)
+- [Logz](https://logz.io/)
+
 ## Mensageria
 - [ActiveMQ](https://activemq.apache.org/)
 - [Apache Beam](https://beam.apache.org/)
