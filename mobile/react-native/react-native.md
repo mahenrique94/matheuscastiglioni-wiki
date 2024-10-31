@@ -18,6 +18,7 @@
 
 ### Build
 - [Metro](https://facebook.github.io/metro/)
+  - [Terser](https://github.com/terser/terser)
 
 ### Banco de Dados
 - [RealmDB](https://github.com/realm/realm-js)
@@ -27,6 +28,9 @@
 - [Expo](https://expo.io/)
 - [Ignite](https://github.com/infinitered/ignite)
 - [Rise Tools](https://rise.tools/)
+
+### Code Push
+- [Shorebird](https://shorebird.io)
 
 ### Componentes
 - [FlashList](https://github.com/shopify/flash-list)
@@ -44,6 +48,7 @@
 
 ### Engines
 - [Hermes](https://github.com/facebook/hermes)
+  - [Hermes Dec](https://github.com/P1sec/hermes-dec)
 
 ### Estilização
 - [React Native Extended Stylesheet](https://github.com/vitalets/react-native-extended-stylesheet)

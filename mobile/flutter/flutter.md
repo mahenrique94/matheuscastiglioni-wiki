@@ -12,6 +12,9 @@
 ### Arquivos
 - [Path Provider](https://pub.dev/packages/path_provider)
 
+### Code Push
+- [Shorebird](https://shorebird.io)
+
 ### Componentes
 - [Mirai](https://github.com/Securrency-OSS/mirai)
 

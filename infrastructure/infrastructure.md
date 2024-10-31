@@ -276,6 +276,7 @@
 - [KubeMQ](https://kubemq.io/)
 - [Lenses](https://lenses.io/)
 - [Memphis](https://memphis.dev/)
+- [Mosquitto](https://mosquitto.org/)
 - [NATS](https://nats.io/)
 - [PulseGuardian](https://pulseguardian.mozilla.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)

@@ -110,6 +110,7 @@
 - [EStrella](https://github.com/rsms/estrella)
 - [FarmFE](https://www.farmfe.org/)
 - [HTML Minifier](https://github.com/kangax/html-minifier)
+- [Javascript Obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 - [Kuto](https://github.com/samthor/kuto)
 - [LightningCSS](https://lightningcss.dev/)
 - [Lando](https://lando.dev/)
@@ -147,6 +148,7 @@
 - [Size Limit](https://github.com/ai/size-limit)
 - [SWC](https://github.com/swc-project/swc)
 - [TSup](https://github.com/egoist/tsup)
+- [TSC-Alias](https://github.com/justkey007/tsc-alias)
 - [TSX](https://github.com/esbuild-kit/tsx)
 - [Turbo](https://github.com/hotwired/turbo)
 - [Turbopack](https://turbo.build/pack)
@@ -835,6 +837,7 @@
 
 ## Tracing
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js)
+- [OpenTracing](https://opentracing.io/)
 
 ## Tradução
 - [FormatJS](https://formatjs.io/)
