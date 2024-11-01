@@ -222,6 +222,7 @@
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui)
 - [Keen Slider](https://keen-slider.io/)
 - [Maska](https://beholdr.github.io/maska/v3/#/)
+- [Nuka](https://github.com/FormidableLabs/nuka-carousel)
 - [Papani.js](https://papanasi.js.org/)
 - [Swapy](https://swapy.tahazsh.com/)
 - [Swiper.js](https://swiperjs.com/)
@@ -608,9 +609,9 @@
 - [Viewer.js](https://github.com/fengyuanchen/viewerjs)
 
 ## Imutabilidade
+- [Immer](https://github.com/immerjs/immer)
 - [ImmutableJS](https://immutable-js.com/)
 - [Mutative](https://github.com/unadlib/mutative)
-- []()
 
 ## Integração
 - [Venom](https://github.com/orkestral/venom)
