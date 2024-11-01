@@ -117,6 +117,7 @@
 - [React Markdown Preview](https://github.com/uiwjs/react-markdown-preview)
 - [React Md Editor](https://github.com/uiwjs/react-md-editor)
 - [React Menu](https://github.com/szhsin/react-menu)
+- [React Moveable](https://github.com/daybrush/moveable)
 - [React Notifications](https://github.com/minhtranite/react-notifications)
 - [React Notification System](https://github.com/igorprado/react-notification-system)
 - [React Notification System Redux](https://github.com/gor181/react-notification-system-redux)
