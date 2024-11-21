@@ -274,6 +274,7 @@
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [React Geiger](https://github.com/kristiandupont/react-geiger)
 - [React Lazyload](https://github.com/twobin/react-lazyload)
+- [React Scan](https://react-scan.million.dev/)
 - [Use Hooks](https://github.com/uidotdev/usehooks)
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
 

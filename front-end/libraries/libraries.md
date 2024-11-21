@@ -433,6 +433,7 @@
 - [Elk](https://github.com/cesanta/elk)
 - [Hermes](https://github.com/facebook/hermes)
 - [JSVU](https://github.com/GoogleChromeLabs/jsvu)
+- [Nova](https://trynova.dev/)
 - [Porffor](https://porffor.dev/)
 - [QuickJS](https://bellard.org/quickjs/)
 - [v8](https://github.com/v8/v8)

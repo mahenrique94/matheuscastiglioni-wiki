@@ -350,6 +350,7 @@
   - [Deps.dev](https://deps.dev/)
   - [Moiva](https://moiva.io/)
   - [NPM Graph](https://npmgraph.js.org/)
+  - [NPM Package Info](https://npmpackage.info/)
   - [NPM SemVer Calculator](https://semver.npmjs.com/)
   - [NPM Trends](https://www.npmtrends.com/)
   - [NPMS](https://npms.io/)

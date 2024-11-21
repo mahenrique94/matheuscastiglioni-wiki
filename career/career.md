@@ -85,6 +85,7 @@
 - [TreinaWeb](https://www.treinaweb.com.br/)
 - [UIStart](https://uistart.com.br/)
 - [Udemy](https://www.udemy.com/pt/)
+- [VSquad School](https://vsquad.school/)
 
 ## Plataformas para mentoria
 - [CodeMentor](https://www.codementor.io/)
