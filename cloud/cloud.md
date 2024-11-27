@@ -47,6 +47,7 @@
 - [Render](https://render.com/)
 - [Roboflow](https://roboflow.com/)
 - [Scaleway](https://www.scaleway.com/)
+- [Sliplane](https://sliplane.io/)
 - [SST](https://sst.dev/)
 - [Supabase](https://github.com/supabase/supabase)
 - [Surge](https://surge.sh/)

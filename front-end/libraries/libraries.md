@@ -162,6 +162,7 @@
   - [Source Map Explorer](https://github.com/danvk/source-map-explorer)
   - [Webpack Analyse](https://github.com/webpack/analyse)
   - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+    - [HawkeyeApp](https://www.hawkeyeapp.dev/)
   - [Webpack Merge](https://github.com/survivejs/webpack-merge)
   - [Webpack Visualizer](https://github.com/chrisbateman/webpack-visualizer)
 - [WMR](https://github.com/preactjs/wmr)
@@ -892,6 +893,7 @@
 
 ## WebComponents
 - [Bayjs](https://bayjs.org/)
+- [Enhance](https://enhance.dev/)
 - [Lit](https://github.com/lit/lit)
   - [Lit Element](https://github.com/Polymer/lit-element)
   - [Lit HTML](https://github.com/Polymer/lit-html)

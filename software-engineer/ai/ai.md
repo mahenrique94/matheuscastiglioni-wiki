@@ -57,6 +57,7 @@
 - [Plask](https://plask.ai/)
 - [PlayHT](https://play.ht/use-cases/character-voice-generator/)
 - [PodCastle](https://podcastle.ai/)
+- [Readme AI](https://eli64s.github.io/readme-ai/)
 - [Rix](https://hashnode.com/rix)
 - [Rodin 3D](https://hyperhuman.deemos.com/rodin)
 - [Simplified](https://simplified.com/)
@@ -73,6 +74,7 @@
 - [Voice.ai](https://voice.ai/hub/app/free-voice-changer-for-audacity/)
 - [UdioAI](https://udioai.ai/)
 - [UpScayl](https://www.upscayl.org/)
+- [UpScale Image](https://www.iloveimg.com/upscale-image)
 - [Whisper](https://openai.com/research/whisper)
 
 ## Linguagens

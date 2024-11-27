@@ -31,6 +31,7 @@
 - [Microservices – Up and Running: A Step-By-Step Guide to Building a Microservices Architecture](https://www.amazon.com.br/Microservices-Step-Step-Microservice-Architecture/dp/1492075450)
 - [Migrating to Microservice Databases](https://learning.oreilly.com/library/view/migrating-to-microservice/9781492048824/)
 - [Patterns Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+- [Patterns of Distributed Systems](https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature/dp/0138221987)
 - [Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization](https://www.amazon.com.br/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
 - [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)

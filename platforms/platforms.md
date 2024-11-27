@@ -8,6 +8,7 @@
 - Armazenar backups online ([https://www.backblaze.com/cloud-backup/personal](https://www.backblaze.com/cloud-backup/personal))
 - Assinatura de documentos online ([https://www.clicksign.com/](https://www.clicksign.com/), [https://d4sign.com.br/](https://d4sign.com.br/), [https://www.docusign.com/](https://www.docusign.com/), [https://www.docuseal.co/](https://www.docuseal.co/))
 - Automatizar respostas para clientes ([https://rasa.com/](https://rasa.com/))
+- Call for paper ([https://sessionize.com/](https://sessionize.com/))
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/), [https://www.skypack.dev/](https://www.skypack.dev/))
 - Chamadas remotas ([https://usetalk.io/](https://usetalk.io/))
 - Chat para sites ([https://www.intercom.com/](https://www.intercom.com/))
