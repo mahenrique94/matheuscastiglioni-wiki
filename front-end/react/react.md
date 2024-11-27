@@ -220,6 +220,7 @@
 - [HookState](https://hookstate.js.org/)
 - [Jotai](https://github.com/pmndrs/jotai)
 - [Little State Machine](https://github.com/bluebill1049/little-state-machine)
+- [Nuqs](https://nuqs.47ng.com/)
 - [Recoil](https://recoiljs.org/)
 - [React Sweet State](https://github.com/atlassian/react-sweet-state)
 - [React Tracked](https://github.com/dai-shi/react-tracked)

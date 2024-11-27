@@ -199,6 +199,7 @@
 - [FL Studio](https://www.image-line.com/fl-studio/)
 - [fSpy](https://fspy.io/)
 - [GraphN](https://www.polygonflow.io/)
+- [Harmony Toon Boom](https://www.toonboom.com/products/harmony)
 - [Havok](https://www.havok.com/)
 - [HEAT](https://heat.tech/)
 - [Houdini](https://www.sidefx.com/products/houdini/)

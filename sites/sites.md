@@ -29,6 +29,7 @@
 - Criar Diagramas e Fluxos ([https://github.com/mermaid-js/mermaid](https://github.com/mermaid-js/mermaid))
 - Criar tierlists ([https://tiermaker.com/](https://tiermaker.com/))
 - Dados sobre canais no Youtube ([https://www.viewstats.com/](https://www.viewstats.com/))
+- Dados sobre repositórios no GitHub ([https://www.gharchive.org/](https://www.gharchive.org/))
 - Denunciar fotos intimadas vazadas publicamente na internet ([https://stopncii.org/](https://stopncii.org/), [https://takeitdown.ncmec.org/](https://takeitdown.ncmec.org/))
 - Descobrir IP público ([https://www.whatismyip.com/](https://www.whatismyip.com/) [https://whatismyipaddress.com/](https://whatismyipaddress.com/))
 - Dicas úteis sobre bibliotecas e ferramentas para dev's ([https://devhints.io/](https://devhints.io/))

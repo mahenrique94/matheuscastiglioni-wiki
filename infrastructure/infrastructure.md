@@ -338,6 +338,7 @@
 
 ## Storage
 - [BackBlaze](https://www.backblaze.com/)
+- [Ceph](https://www.redhat.com/en/technologies/storage/ceph)
 
 ## Streaming
 - [Dyte](https://dyte.io/)

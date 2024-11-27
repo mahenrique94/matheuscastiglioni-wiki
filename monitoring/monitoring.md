@@ -69,6 +69,7 @@
 - [LogRocket](https://logrocket.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)
   - [Filebeat](https://www.elastic.co/pt/beats/filebeat)
+- [Longhorn](https://longhorn.io/)
 - [Matomo](https://matomo.org/)
 - [Nagios](https://www.nagios.org/)
 - [NewRelic](https://newrelic.com/)
