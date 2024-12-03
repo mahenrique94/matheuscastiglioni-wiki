@@ -54,6 +54,7 @@
 - [Catalyst](https://tailwindui.com/templates/catalyst)
 - [ChakraUI](https://github.com/chakra-ui/chakra-ui)
 - [Cloudscape](https://cloudscape.design/)
+- [Cmdk](https://github.com/pacocoursey/cmdk)
 - [Connected React Router](https://github.com/supasate/connected-react-router)
 - [DND Kit](https://github.com/clauderic/dnd-kit)
 - [DownShift](https://www.downshift-js.com/)

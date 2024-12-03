@@ -87,7 +87,7 @@
 - Verificar pronuncia de palavras ([https://forvo.com/](https://forvo.com/), [https://accenthero.com/](https://accenthero.com/))
 - Verificar suporte dos navegadores sobre acessibilidade ([https://www.html5accessibility.com/](https://www.html5accessibility.com/))
 - Visualizando repositórios Git ([https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/))
-- Visualizar JSON como grafos ([https://jsoncrack.com/](https://jsoncrack.com/), [https://jsonhero.io/](https://jsonhero.io/))
+- Visualizar JSON como grafos ([https://jsoncrack.com/](https://jsoncrack.com/), [https://jsonhero.io/](https://jsonhero.io/), [https://jsontr.ee](https://jsontr.ee))
 - Visualizar sites antigos ([https://web.archive.org/](https://web.archive.org/))
 
 ## Temas e inspirações

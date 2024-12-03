@@ -123,6 +123,10 @@
 - [Package Check](https://github.com/skypackjs/package-check)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Parsel](https://github.com/LeaVerou/parsel)
+- [Rehype](https://github.com/rehypejs/rehype)
+  - [rehype-prism-plus](https://github.com/timlrx/rehype-prism-plus)
+- [Remarkjs](https://github.com/remarkjs/remark)
+  - [Remarkjs GFM](https://github.com/remarkjs/remark-gfm)
 - [Rolldown](https://github.com/rolldown/rolldown)
 - [PostCSS](https://github.com/postcss/postcss)
 - [PostHTML](https://github.com/posthtml/posthtml)
@@ -166,6 +170,7 @@
   - [Webpack Merge](https://github.com/survivejs/webpack-merge)
   - [Webpack Visualizer](https://github.com/chrisbateman/webpack-visualizer)
 - [WMR](https://github.com/preactjs/wmr)
+- [XDM](https://github.com/wooorm/xdm)
 
 ## Cálculos
 - [Big.js](https://github.com/MikeMcl/big.js)
@@ -188,6 +193,7 @@
 ## Changelogs
 - [Changesets](https://github.com/changesets/changesets)
 - [Release Please](https://github.com/googleapis/release-please)
+- [semantic-release](https://github.com/semantic-release/semantic-release)
 - [Semver](https://github.com/jscutlery/semver)
 
 ## Cloud
@@ -204,6 +210,7 @@
 - [Grid.js](https://github.com/grid-js/gridjs)
 - [HandsonTable](https://github.com/handsontable/handsontable)
 - [List.js](https://github.com/javve/list.js)
+- [match-sorter](https://github.com/kentcdodds/match-sorter)
 - [Sortable](https://github.com/SortableJS/Sortable)
 - [SortBy](https://github.com/kvnneff/sort-by)
 - [Tabulator](https://github.com/olifolkerd/tabulator)
@@ -214,6 +221,7 @@
 
 ## Compiladores/Parsers
 - [Escodegen](https://github.com/estools/escodegen)
+- [gray-matter](https://github.com/jonschlinkert/gray-matter)
 - [Meriyah](https://github.com/meriyah/meriyah)
 - [OHM](https://github.com/harc/ohm)
 
@@ -595,10 +603,11 @@
 - [CompressorJS](https://github.com/fengyuanchen/compressorjs)
 - [Cropper.js](https://github.com/fengyuanchen/cropperjs)
 - [Drift](https://github.com/imgix/drift)
-- [HandsFree](https://github.com/midiblocks/handsfree)
-- [HandTrack](https://github.com/victordibia/handtrack.js)
 - [FaceAPI](https://github.com/justadudewhohacks/face-api.js)
 - [FreezeFrame.js](https://github.com/ctrl-freaks/freezeframe.js)
+- [HandsFree](https://github.com/midiblocks/handsfree)
+- [HandTrack](https://github.com/victordibia/handtrack.js)
+- [image-size](https://github.com/image-size/image-size)
 - [LazySizes](https://github.com/aFarkas/lazysizes)
 - [Light Gallery](https://github.com/sachinchoolur/lightGallery)
 - [Pica](https://github.com/nodeca/pica)
@@ -662,6 +671,7 @@
 - [Lint Staged](https://github.com/okonet/lint-staged)
 - [Prettier](https://github.com/prettier/prettier)
   - [PrettyQuick](https://github.com/azz/pretty-quick)
+  - [prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports)
   - [Prettier Plugin Tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [SemGrep](https://github.com/returntocorp/semgrep)
 - [SonarLint](https://www.sonarsource.com/products/sonarlint/)

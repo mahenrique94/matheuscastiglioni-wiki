@@ -144,6 +144,8 @@
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [Meow](https://github.com/sindresorhus/meow)
 - [Oclif](https://github.com/oclif/oclif)
+- [Shelljs](https://github.com/shelljs/shelljs)
+  - [SHX](https://github.com/shelljs/shx)
 - [Yargs](https://github.com/yargs/yargs)
 
 ### Compactação
@@ -241,6 +243,7 @@
 - [Undici](https://github.com/nodejs/undici)
 
 ### Imagens
+- [image-size](https://github.com/image-size/image-size)
 - [Jimp](https://github.com/jimp-dev/jimp)
 - [OpenCV](https://docs.opencv.org/)
   - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)
