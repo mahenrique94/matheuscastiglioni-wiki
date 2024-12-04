@@ -231,6 +231,9 @@
 - [Faker.js](https://github.com/faker-js/faker)
 - [Falso](https://github.com/ngneat/falso)
 
+### GPU
+- [Skia Canvas](https://skia-canvas.org/)
+
 ### Headless BrowserStack
 - [Puppeteer](https://github.com/puppeteer/puppeteer)
 
