@@ -434,6 +434,7 @@
 ### Requisição
 - [GOT](https://github.com/sindresorhus/got)
 - [TRPC](https://trpc.io/)
+  - [trpc-panel](https://www.npmjs.com/package/trpc-panel)
 
 ### Rotas
 - [Ziggy](https://github.com/tighten/ziggy)
@@ -495,6 +496,7 @@
 - [io-ts](https://gcanti.github.io/io-ts/)
 - [ts-belt](https://github.com/mobily/ts-belt)
 - [TRPC](https://trpc.io/)
+  - [trpc-panel](https://www.npmjs.com/package/trpc-panel)
 - [Typebox](https://github.com/sinclairzx81/typebox)
 - [type-fest](https://github.com/sindresorhus/type-fest)
 - [type-reset](https://github.com/total-typescript/ts-reset)

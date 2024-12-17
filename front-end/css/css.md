@@ -57,6 +57,7 @@
 - [SupportsCSS](https://supportscss.dev/)
 - [UI5 components](https://sap.github.io/ui5-webcomponents/)
 - [UIKit](https://getuikit.com/)
+- [UIVerse](https://uiverse.io/)
 - [UnoCSS](https://github.com/unocss/unocss)
 - [WindiCSS](https://windicss.org/)
 - [Winduum](https://winduum.dev/)
@@ -71,6 +72,7 @@
 - https://cssstats.com/
 - https://defensivecss.dev/
 - https://smolcss.dev/
+- https://uiverse.io/
 
 ## Pré Processadores
 - [LESS](http://lesscss.org/)

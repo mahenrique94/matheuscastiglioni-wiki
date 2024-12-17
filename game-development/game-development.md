@@ -105,6 +105,7 @@
 - [3D Textures ME](https://3dtextures.me/)
 - [Animpic](https://www.animpic.studio/)
 - [Armor Games](https://armorgames.com/)
+- [Amir Satvat](https://amirsatvat.com/)
 - [AudioKinetic](https://www.audiokinetic.com/en/wwise/overview/)
 - [Blender Kit](https://www.blenderkit.com/)
 - [Bluezone](https://www.bluezone-corporation.com/)

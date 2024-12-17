@@ -159,6 +159,7 @@
 ## Controle de Versão
 - [Git](https://git-scm.com/)
   - [BitBucket](https://bitbucket.org/)
+  - [Delta CLI](https://github.com/dandavison/delta)
   - [GitDash](https://gitdash.dev/)
   - [GitGist](https://gist.github.com/)
   - [GitHub](https://github.com/)
@@ -260,6 +261,7 @@
 - [Apache Camel](https://camel.apache.org/)
 - [Apache Heron](https://incubator.apache.org/clutch/heron.html)
 - [Apache Kafka](https://kafka.apache.org/)
+  - [Redpanda](https://www.redpanda.com/)
 - [Apache ODE](https://ode.apache.org/)
 - [Apache Pulsar](https://pulsar.apache.org/)
 - [Apache Samza](http://samza.apache.org/)
@@ -339,6 +341,7 @@
 ## Storage
 - [BackBlaze](https://www.backblaze.com/)
 - [Ceph](https://www.redhat.com/en/technologies/storage/ceph)
+- [pCloud](https://www.pcloud.com/)
 
 ## Streaming
 - [Dyte](https://dyte.io/)

@@ -6,6 +6,9 @@
 
 ## Bibliotecas
 
+### API
+- [Bandit](https://github.com/mtrudel/bandit)
+
 ### Autenticação
 - [Guardian](https://github.com/ueberauth/guardian)
 

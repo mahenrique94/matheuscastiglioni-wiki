@@ -14,7 +14,10 @@
 - [Replicate](https://replicate.com/)
 
 ## Ferramentas
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [AgentQL](https://www.agentql.com/)
+- [AI TDK](https://aitdk.com)
+  - [AI TDK SEO Extension](https://aitdk.com/extension)
+- [Amazon Q](https://aws.amazon.com/q/)
 - [AudioGen](https://felixkreuk.github.io/audiogen/)
 - [ArtFlow](https://app.artflow.ai/)
 - [Bard](https://bard.google.com/)
@@ -37,6 +40,7 @@
 - [G-prompter](https://www.g-prompter.com/en)
 - [Gemini](https://gemini.google.com/app)
 - [Gemma](https://ai.google.dev/gemma)
+- [Graphite](https://graphite.dev/)
 - [HeyGen](https://www.heygen.com/)
 - [IconGeneratorAI](https://icongeneratorai.com/)
 - [KREA](https://www.krea.ai/home)

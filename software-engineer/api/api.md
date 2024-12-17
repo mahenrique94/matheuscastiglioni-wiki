@@ -3,6 +3,7 @@
 - https://scryfall.com/
 
 ## Documentação
+- [Apidog](https://apidog.com)
 - [ReadME](https://readme.com/)
 - [Redocly](https://redocly.com/)
 - [StopLight](https://stoplight.io/)

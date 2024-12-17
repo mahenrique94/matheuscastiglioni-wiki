@@ -123,6 +123,7 @@
 - [Package Check](https://github.com/skypackjs/package-check)
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Parsel](https://github.com/LeaVerou/parsel)
+- [PkgRoll](https://github.com/privatenumber/pkgroll)
 - [Rehype](https://github.com/rehypejs/rehype)
   - [rehype-prism-plus](https://github.com/timlrx/rehype-prism-plus)
 - [Remarkjs](https://github.com/remarkjs/remark)
@@ -271,6 +272,7 @@
 - [CSSDoodle](https://css-doodle.com/)
 - [DnDKit](https://dndkit.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
+- [Driver.js](https://driverjs.com/)
 - [FastDOM](https://github.com/wilsonpage/fastdom)
 - [Flitter](https://flitter.pages.dev/)
 - [FloatUI](https://floatui.com/)
@@ -290,6 +292,7 @@
 - [Intro.js](https://github.com/usablica/intro.js)
 - [Lemonadejs](https://github.com/lemonadejs/lemonadejs)
 - [Lustre](https://github.com/lustre-labs/lustre)
+- [Magic UI](https://magicui.design/)
 - [Material Web Components](https://github.com/material-components/material-web)
 - [Meteor](https://www.meteor.com/)
 - [Million](https://github.com/millionjs/million)
@@ -819,6 +822,7 @@
 - [Pretender](https://github.com/pretenderjs/pretender)
 - [Redaxios](https://github.com/developit/redaxios)
 - [TRPC](https://trpc.io/)
+  - [trpc-panel](https://www.npmjs.com/package/trpc-panel)
 
 ## Sandbox
 - [Nodebox](https://github.com/codesandbox/nodebox-runtime)
