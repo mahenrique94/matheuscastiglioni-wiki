@@ -368,6 +368,7 @@
 - [Verdaccio](https://github.com/verdaccio/verdaccio)
 - [Yarn](https://yarnpkg.com/)
   - [Improved Yarn Audit](https://github.com/djfdyuruiry/improved-yarn-audit)
+  - [Yalc](https://github.com/wclr/yalc)
 
 ### Parser
 - [ANTLR4](https://github.com/antlr/antlr4)
@@ -398,11 +399,14 @@
 - [WSRun](https://github.com/hfour/wsrun)
 
 ### Qualidade
+- [AVA](https://github.com/avajs/ava)
 - [HappyDOM](https://github.com/capricorn86/happy-dom)
 - [Japa](https://japa.dev/docs)
 - [JSDOM](https://github.com/jsdom/jsdom)
 - [Node Tap](https://github.com/tapjs/node-tap)
+- [QUnit](https://qunitjs.com/)
 - [Supertest](https://github.com/visionmedia/supertest)
+- [UVU](https://github.com/lukeed/uvu)
 - [Wallabyjs](https://wallabyjs.com/)
 
 ### Query Builder
@@ -504,6 +508,7 @@
 ### TypeScript
 - [JSON to TypeScript](https://transform.tools/json-to-typescript)
 - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)
+- [Remeda](https://remedajs.com/)
 - [ts-node](https://github.com/TypeStrong/ts-node)
 - [tsx](https://github.com/esbuild-kit/tsx)
 

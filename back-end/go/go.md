@@ -41,6 +41,9 @@
 ### Validação
 - [Validator](https://github.com/go-playground/validator)
 
+### Web
+- [Wails](https://wails.io/)
+
 ## Frameworks
 
 ### API

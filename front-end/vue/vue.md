@@ -44,3 +44,4 @@
 
 ### Utilitários
 - [Vue Macros](https://vue-macros.dev/)
+- [VueUse](https://vueuse.org/)

@@ -68,6 +68,7 @@
 - [TestCafe](https://testcafe.io/)
 
 ## Ferramentas
+- [AVA](https://github.com/avajs/ava)
 - [CasperJS](https://www.casperjs.org/)
 - [Chai](https://www.chaijs.com/)
 - [DeepSource](https://deepsource.io/)
@@ -90,7 +91,7 @@
 - [PlayWright](https://github.com/microsoft/playwright)
 - [Poku](https://poku.io/)
 - [Replay](https://www.replay.io/)
-- [QUnitjs](https://qunitjs.com/)
+- [QUnit](https://qunitjs.com/)
 - [Sinon](https://sinonjs.org/)
 - [Specmatic](https://specmatic.in/)
 - [Testing Library](https://testing-library.com/)
@@ -101,6 +102,7 @@
 - [SonarQube](https://www.sonarqube.org/)
   - [Sonar Qube SAST](https://www.sonarqube.org/features/security/sast/)
 - [Spearmint](https://github.com/open-source-labs/spearmint)
+- [UVU](https://github.com/lukeed/uvu)
 - [Vitest](https://github.com/vitest-dev/vitest)
 
 ## Serviços
