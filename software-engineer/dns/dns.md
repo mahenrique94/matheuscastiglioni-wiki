@@ -3,6 +3,7 @@
 ## Ferramentas
 - [Dig](https://www.hostinger.com.br/tutoriais/como-usar-comando-dig-no-linux/)
 - [Host](https://www.linuxforce.com.br/comandos-linux/comandos-linux-comando-host/)
+- [Iwantmyname](https://iwantmyname.com/)
 - [MxToolBox](https://mxtoolbox.com/)
 - [NSLookup](https://www.linuxforce.com.br/comandos-linux/comandos-linux-comando-nslookup/)
 - [Traceroute](https://e-tinet.com/linux/traceroute/)

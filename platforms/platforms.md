@@ -51,6 +51,7 @@
 - Gerenciar investimentos ([https://carta.com/](https://carta.com/))
 - Gestão de agendas ([https://www.getclockwise.com/](https://www.getclockwise.com/), [https://reclaim.ai/](https://reclaim.ai/))
 - Gestão de comunicação ([https://www.vonage.com.br/](https://www.vonage.com.br/))
+- Gestão de equipamentos ([https://www.firstbase.com/](https://www.firstbase.com/))
 - Gestão de tickets ([https://www.happyfox.com/](https://www.happyfox.com/))
 - Gestão de times em engenharia ([https://www.botany.io/](https://www.botany.io/))
 - Hospedar imagens ([https://cloudinary.com/](https://cloudinary.com/))

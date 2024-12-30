@@ -19,6 +19,7 @@
   - [AI TDK SEO Extension](https://aitdk.com/extension)
 - [Amazon Q](https://aws.amazon.com/q/)
 - [AudioGen](https://felixkreuk.github.io/audiogen/)
+- [Arize](https://arize.com/)
 - [ArtFlow](https://app.artflow.ai/)
 - [Bard](https://bard.google.com/)
 - [CapCut](https://www.capcut.com/)
@@ -54,13 +55,16 @@
 - [Mureka AI](https://www.mureka.ai/create)
 - [Murf AI](https://murf.ai/)
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
+- [Notebook LM AI](https://easywithai.com/ai-research-tools/notebooklm/)
 - [OpenUI](https://github.com/wandb/openui)
 - [OpusPro](https://www.opus.pro/)
 - [PearAI](https://trypear.ai/)
+- [Perplexity](https://www.perplexity.ai/)
 - [Pieces](https://pieces.app/)
 - [Plask](https://plask.ai/)
 - [PlayHT](https://play.ht/use-cases/character-voice-generator/)
 - [PodCastle](https://podcastle.ai/)
+- [Radiant Security AI](https://radiantsecurity.ai/)
 - [Readme AI](https://eli64s.github.io/readme-ai/)
 - [Rix](https://hashnode.com/rix)
 - [Rodin 3D](https://hyperhuman.deemos.com/rodin)
@@ -80,11 +84,13 @@
 - [UpScayl](https://www.upscayl.org/)
 - [UpScale Image](https://www.iloveimg.com/upscale-image)
 - [Whisper](https://openai.com/research/whisper)
+- [Windsurf](https://codeium.com/)
 
 ## Linguagens
 - [Mojo](https://www.modular.com/mojo)
 
 ## Plataformas
+- [Langfuse](https://langfuse.com/)
 - [LangoTalk](https://www.langotalk.org/)
 - [MuleSoft](https://www.mulesoft.com/)
 - [Praktika](https://praktika.ai/)

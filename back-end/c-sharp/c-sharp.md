@@ -15,6 +15,9 @@
 ### Benchmark
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
+### Cache
+- [HybridCache](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/hybrid?view=aspnetcore-9.0)
+
 ### Datas
 - [NodaTime](https://nodatime.org/)
 

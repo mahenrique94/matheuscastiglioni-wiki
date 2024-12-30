@@ -14,6 +14,7 @@ https://jamstack.org
 - [Directus](https://directus.io/)
 - [ElderJS](https://github.com/Elderjs/elderjs)
 - [Eleventy](https://www.11ty.dev/)
+- [Encore](https://encore.dev/)
 - [Factorjs](https://www.factorjs.org/)
 - [FlameLink](https://flamelink.io/)
 - [Gatsby](https://github.com/gatsbyjs/gatsby)

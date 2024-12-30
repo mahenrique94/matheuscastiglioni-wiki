@@ -102,6 +102,7 @@
 - Magic UI ([https://magicui.design/](https://magicui.design/))
 - OneLovePage ([https://onepagelove.com/](https://onepagelove.com/))
 - Refero ([https://refero.design/](https://refero.design/))
+- StackSorted ([https://stacksorted.com/buttons](https://stacksorted.com/buttons)
 - ThemeForest ([https://themeforest.net/](https://themeforest.net/))
 - UI Design Daily ([https://www.uidesigndaily.com/](https://www.uidesigndaily.com/))
 - Uplabs ([https://www.uplabs.com/](https://www.uplabs.com/))

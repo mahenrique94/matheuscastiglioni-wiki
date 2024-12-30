@@ -342,6 +342,7 @@
 - [BackBlaze](https://www.backblaze.com/)
 - [Ceph](https://www.redhat.com/en/technologies/storage/ceph)
 - [pCloud](https://www.pcloud.com/)
+- [Upload Thing](https://uploadthing.com/)
 
 ## Streaming
 - [Dyte](https://dyte.io/)

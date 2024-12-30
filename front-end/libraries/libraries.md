@@ -267,6 +267,7 @@
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Ark](https://ark-ui.com/)
 - [Aurelia](https://aurelia.io/)
+- [Base UI](https://base-ui.com)
 - [CerebralJS](https://cerebraljs.com/)
 - [Choo](https://github.com/choojs/choo)
 - [CSSDoodle](https://css-doodle.com/)
@@ -785,6 +786,7 @@
 - [Promise Pool](https://github.com/supercharge/promise-pool)
 - [PubSubJS](https://github.com/mroderick/PubSubJS)
 - [PusherJS](https://github.com/pusher/pusher-js)
+- [Reactively](https://github.com/milomg/reactively)
 - [RxJS](https://github.com/ReactiveX/rxjs)
 
 ## Realtime
@@ -915,6 +917,7 @@
 - [Lit](https://github.com/lit/lit)
   - [Lit Element](https://github.com/Polymer/lit-element)
   - [Lit HTML](https://github.com/Polymer/lit-html)
+- [WebC](https://www.11ty.dev/docs/languages/webc/)
 
 ## Workers
 - [Comlink](https://github.com/GoogleChromeLabs/comlink)

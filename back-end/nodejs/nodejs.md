@@ -186,6 +186,9 @@
 ### Debug
 - [NDB](https://github.com/GoogleChromeLabs/ndb)
 
+### Dependência
+- [NPM Check Updates](https://github.com/raineorshine/npm-check-updates)
+
 ### Documentação
 - [Compodoc](https://compodoc.app/guides/getting-started.html)
 - [Swagger JSDoc](https://github.com/Surnet/swagger-jsdoc)
@@ -506,7 +509,9 @@
 - [type-reset](https://github.com/total-typescript/ts-reset)
 
 ### TypeScript
+- [Hey API](https://heyapi.dev/)
 - [JSON to TypeScript](https://transform.tools/json-to-typescript)
+- [OpenAPI TypeScript](https://openapi-ts.dev/)
 - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)
 - [Remeda](https://remedajs.com/)
 - [ts-node](https://github.com/TypeStrong/ts-node)

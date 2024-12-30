@@ -1,5 +1,8 @@
 # Armazenamento
 
+- [Local-first Software](https://localfirstweb.dev/)
+- [Architectural Options](https://tinybase.org/guides/the-basics/architectural-options/)
+
 ## Banco de dados
 - [AeroSpike](https://aerospike.com/)
 - [AlloyDB](https://cloud.google.com/alloydb)
@@ -45,6 +48,7 @@
 - [KsqlDB](https://ksqldb.io/)
 - [LevelDB](https://github.com/google/leveldb)
 - [libSQL](https://github.com/tursodatabase/libsql)
+- [Limbo](https://github.com/tursodatabase/limbo)
 - [LiteStream](https://litestream.io/)
 - [MangoDB](https://www.mangodb.io/)
 - [M3](https://m3db.io/)

@@ -34,7 +34,7 @@
 
 ## Installer
 - [Laravel Herd](https://herd.laravel.com/)
-  
+
 ## Integração
 - [Saloon](https://docs.saloon.dev/)
 
@@ -43,9 +43,11 @@
 
 ## Package Manager
 - [Composer](https://getcomposer.org/)
+- [Packagist](https://packagist.org/)
 
 ## Qualidade
 - [Grumphp](https://github.com/phpro/grumphp)
+- [Peck](https://github.com/peckphp/peck)
 - [PestPHP](https://pestphp.com/)
 
 ## Jobs
@@ -53,6 +55,9 @@
 
 ## Refatoração
 - [Rector](https://getrector.com/)
+
+## Terminal
+- [Termwind](https://github.com/nunomaduro/termwind)
 
 ## UI
 - [LiveWire](https://laravel-livewire.com/)

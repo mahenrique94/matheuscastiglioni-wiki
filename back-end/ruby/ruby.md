@@ -13,5 +13,8 @@
 ## Job
 - [SideKiq](https://github.com/sidekiq/sidekiq)
 
+## Language Server
+- [Solargraph](https://solargraph.org/)
+
 ## Qualidade
 - [HTTPParty](https://github.com/jnunemaker/httparty)

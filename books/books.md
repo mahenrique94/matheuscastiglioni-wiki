@@ -37,7 +37,8 @@
 - [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)
 - [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com.br/Release-Design-Deploy-Production-Ready-Software/dp/0978739213)
 - [RESTful Web API Patterns and Practices Cookbook](https://www.oreilly.com/library/view/restful-web-api/9781098106737/)
-- [Sistemas Reativos](https://www.casadocodigo.com.br/products/livro-sistemas-reativos)
+- [Sistemas vi
+vos](https://www.casadocodigo.com.br/products/livro-sistemas-reativos)
 - [Software Architecture Patterns](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894?ref=d6k_applink_bb_dls&dplnkId=20c009ea-6f13-42ef-ab75-64d6d3a95654)
 - [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240)
