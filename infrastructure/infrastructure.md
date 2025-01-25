@@ -58,6 +58,10 @@
 - [CloudFlare](https://www.cloudflare.com/pt-br/learning/cdn/what-is-a-cdn/)
 - [CloudFront](https://aws.amazon.com/pt/cloudfront/)
 
+## Changelogs
+- [Changesets](https://github.com/changesets/changesets)
+- [Release Please](https://github.com/googleapis/release-please)
+
 ## CI/CD
 - [Argo CD](https://argoproj.github.io/argo-cd/)
 - [Bamboo](https://www.atlassian.com/br/software/bamboo)
@@ -83,9 +87,8 @@
 - [Tekton](https://tekton.dev/)
 - [Travis CI](https://travis-ci.org/)
 
-## Changelogs
-- [Changesets](https://github.com/changesets/changesets)
-- [Release Please](https://github.com/googleapis/release-please)
+## CLI
+- [Granted](https://www.granted.dev/)
 
 ## Comunicação entre serviços
 - [Axon](https://developer.axoniq.io/axon-framework/overview)
@@ -202,6 +205,7 @@
 
 ## Feature Flag
 - [A/B Tasty](https://www.abtasty.com/)
+- [Amplitude](https://amplitude.com/)
 - [FeatureVisor](https://featurevisor.com/)
 - [LaunchDarkly](https://launchdarkly.com/)
 - [Optimizely](https://www.optimizely.com/)

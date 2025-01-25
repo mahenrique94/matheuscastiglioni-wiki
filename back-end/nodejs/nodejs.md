@@ -108,6 +108,7 @@
 - [Benny](https://github.com/caderek/benny)
 - [Bombardier](https://github.com/codesenberg/bombardier)
 - [Hasty](https://hasty.dev/)
+- [JsBenchmark](https://jsbenchmark.com)
 - [JsPerf](https://jsperf.app/)
 - [Perflink](https://perf.link/)
 - [Tachometer](https://github.com/Polymer/tachometer)
@@ -140,6 +141,7 @@
   - [Chalk Animation](https://github.com/bokub/chalk-animation)
 - [Colors.js](https://github.com/Marak/colors.js)
 - [Commander.js](https://github.com/tj/commander.js)
+- [Exa](https://github.com/ogham/exa)
 - [GlueGun](https://github.com/infinitered/gluegun)
 - [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [Meow](https://github.com/sindresorhus/meow)
@@ -234,6 +236,9 @@
 - [Faker.js](https://github.com/faker-js/faker)
 - [Falso](https://github.com/ngneat/falso)
 
+### Games
+- [Boardgame](https://boardgame.io)
+
 ### GPU
 - [Skia Canvas](https://skia-canvas.org/)
 
@@ -310,6 +315,7 @@
 - [Nock](https://github.com/nock/nock)
 - [PollyJS](https://github.com/Netflix/pollyjs)
 - [Retool](https://retool.com/api-generator)
+- [Zimic](https://github.com/zimicjs/zimic)
 
 ### Migrations
 - [DBMate](https://github.com/amacneil/dbmate)
@@ -418,7 +424,7 @@
 
 ### Queue
 - [Bull](https://github.com/OptimalBits/bull)
-- [BullMQ](https://github.com/taskforcesh/bullmq)
+- [BullMQ](https://docs.bullmq.io/)
 - [PG Boss](https://github.com/timgit/pg-boss)
 
 ### QRCode
@@ -500,7 +506,11 @@
 ### Tipagem
 - [Ezno](https://github.com/kaleidawave/ezno)
 - [fp-ts](https://github.com/gcanti/fp-ts)
+- [Hey API](https://heyapi.dev/)
 - [io-ts](https://gcanti.github.io/io-ts/)
+- [Kubb](https://www.kubb.dev/)
+- [OpenAPI TypeScript](https://openapi-ts.dev/)
+- [Orval](https://orval.dev/)
 - [ts-belt](https://github.com/mobily/ts-belt)
 - [TRPC](https://trpc.io/)
   - [trpc-panel](https://www.npmjs.com/package/trpc-panel)
@@ -509,9 +519,7 @@
 - [type-reset](https://github.com/total-typescript/ts-reset)
 
 ### TypeScript
-- [Hey API](https://heyapi.dev/)
 - [JSON to TypeScript](https://transform.tools/json-to-typescript)
-- [OpenAPI TypeScript](https://openapi-ts.dev/)
 - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)
 - [Remeda](https://remedajs.com/)
 - [ts-node](https://github.com/TypeStrong/ts-node)

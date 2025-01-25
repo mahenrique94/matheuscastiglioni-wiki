@@ -87,6 +87,7 @@
   - [Thanos](https://github.com/thanos-io/thanos)
 - [Pullpo](https://pullpo.io/)
 - [Ray](https://myray.app/)
+- [RR Web](https://www.rrweb.io/)
 - [Rollbar](https://rollbar.com/)
 - [Sentry](https://sentry.io/welcome/)
 - [Seq](https://datalust.co/)

@@ -89,6 +89,7 @@
 - [PouchDB](https://github.com/pouchdb/pouchdb)
 - [RXDB](https://github.com/pubkey/rxdb)
 - [SQL.js](https://github.com/sql-js/sql.js)
+- [Yjs](https://github.com/yjs/yjs)
 
 ## Build
 - [AutoPrefixer](https://github.com/postcss/autoprefixer)
@@ -283,6 +284,7 @@
 - [FrankenUI](https://www.franken-ui.dev/)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
+- [HeroUI](https://www.heroui.com/)
 - [HTMX](https://htmx.org/)
 - [Hybrid.js](https://hybrids.js.org/#/)
 - [HyperApp](https://github.com/jorgebucaran/hyperapp)
@@ -310,6 +312,7 @@
 - [PopperCore](https://github.com/popperjs/popper-core)
 - [Preact](https://github.com/preactjs/preact)
 - [Preline](https://preline.co/)
+- [Reablocks](https://reablocks.dev/)
 - [Riot](https://riot.js.org/)
 - [Qwik](https://qwik.builder.io/)
 - [Solid](https://github.com/solidjs/solid)
@@ -486,6 +489,7 @@
 - [Choices](https://github.com/Choices-js/Choices)
 - [Final Form](https://github.com/final-form/final-form)
 - [Form Serialize](https://github.com/defunctzombie/form-serialize)
+- [Formity](https://www.formity.app/)
 
 ## Framework Web
 - [QWIK](https://github.com/builderio/qwik)
@@ -500,7 +504,7 @@
 - [Effector](https://github.com/effector/effector)
 - [Elf](https://github.com/ngneat/elf)
 - [Immer](https://github.com/immerjs/immer)
-- [Legend State](https://github.com/LegendApp/legend-state)
+- [Legend State](https://legendapp.com/open-source/state/v3/)
 - [MobX](https://github.com/mobxjs/mobx)
 - [NanoStores](https://github.com/nanostores/nanostores)
 - [Redux](https://github.com/reduxjs/redux)
@@ -802,6 +806,9 @@
 ## Regex
 - [Super Expressive](https://github.com/francisrstokes/super-expressive)
 
+## Release
+- [Release It](https://github.com/release-it/release-it)
+
 ## Requisição
 - [Alova.JS](https://alova.js.org/)
 - [Apollo](https://github.com/apollographql/apollo)
@@ -910,6 +917,7 @@
 - [YEW](https://github.com/yewstack/yew)
 - [Stork](https://stork-search.net/)
 - [Sycamore](https://github.com/sycamore-rs/sycamore)
+- [Wasp](https://wasp-lang.dev/)
 
 ## WebComponents
 - [Bayjs](https://bayjs.org/)

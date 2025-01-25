@@ -168,6 +168,7 @@
 - [Refine](https://refine.dev/)
 
 ### Desenvolvimento
+- [Bippy](https://github.com/aidenybai/bippy)
 - [React Cosmos](https://reactcosmos.org/)
 
 ### Design

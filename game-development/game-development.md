@@ -1,5 +1,8 @@
 # Desenvolvimento de Jogos
 
+## AI
+- [QuickMagic AI](https://www.quickmagic.ai/userCenter)
+
 ## Arquiteturas
 - [Actor model](https://en.wikipedia.org/wiki/Actor_model)
 - [DOTS (Data Oriented Technology Stack)](https://hub.packtpub.com/what-is-unitys-new-data-oriented-technology-stack-dots/)
@@ -13,6 +16,7 @@
 - [Bullet Physics](https://github.com/bulletphysics)
 - [Euphoria Ragdoll](https://www.gta5-mods.com/misc/euphoria-ragdoll-overhaul-ero)
 - [Kha](https://kha.tech/)
+- [Boardgame](https://boardgame.io)
 
 ## Engines
 - [AbyssEngine](https://www.abyssengine.com/)
