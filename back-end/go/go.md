@@ -38,6 +38,9 @@
 ### Schedule
 - [GoQuartz](https://github.com/reugn/go-quartz)
 
+### Segurança
+- [Garble](https://github.com/burrowers/garble)
+
 ### Validação
 - [Validator](https://github.com/go-playground/validator)
 

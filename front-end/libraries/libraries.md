@@ -161,6 +161,7 @@
 - [Turborepo](https://turbo.build/)
 - [Vite](https://github.com/vitejs/vite)
   - [Vitest](https://vitest.dev/)
+  - [vite-bundle-visualizer](https://github.com/KusStar/vite-bundle-visualizer)
 - [Webpack](https://webpack.js.org/)
   - [Grade.js](https://gradejs.com/)
   - [Module Federation](https://webpack.js.org/concepts/module-federation/)

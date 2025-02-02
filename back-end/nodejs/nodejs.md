@@ -137,6 +137,7 @@
 
 ### Command Line
 - [Blessed](https://github.com/chjj/blessed)
+- [Cac](https://github.com/cacjs/cac)
 - [Chalk](https://github.com/chalk/chalk)
   - [Chalk Animation](https://github.com/bokub/chalk-animation)
 - [Colors.js](https://github.com/Marak/colors.js)

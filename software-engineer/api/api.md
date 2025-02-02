@@ -29,12 +29,15 @@
 
 ## Programas
 - [Bruno](https://www.usebruno.com/)
+- [EchoAPI](https://www.echoapi.com/)
 - [Hoppscotch](https://hoppscotch.io/)
 - [HTTPie](https://httpie.io/app)
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
+- [Posting](https://posting.sh/)
 - [Requestly](https://github.com/requestly/requestly)
 - [Scalar](https://scalar.com/)
+- [Xh](https://github.com/ducaale/xh)
 
 ## Videos
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)
