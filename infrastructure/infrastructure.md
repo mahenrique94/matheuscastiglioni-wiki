@@ -180,6 +180,7 @@
     - [Stale](https://github.com/marketplace/stale)
     - [Semaphore](https://github.com/marketplace/semaphore)
     - [Snyk](https://github.com/marketplace/snyk)
+    - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
     - [Source Karma](https://sourcekarma.vercel.app/)
   - [GitHub1s](https://github.com/conwnet/github1s)
   - [GitIgnore](https://github.com/github/gitignore)

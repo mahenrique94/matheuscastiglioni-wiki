@@ -491,6 +491,7 @@
 - [Final Form](https://github.com/final-form/final-form)
 - [Form Serialize](https://github.com/defunctzombie/form-serialize)
 - [Formity](https://www.formity.app/)
+- [Vestjs](https://vestjs.dev/)
 
 ## Framework Web
 - [QWIK](https://github.com/builderio/qwik)

@@ -55,6 +55,7 @@
 - [Darktable](https://www.darktable.org/)
 - [Draftbit](https://draftbit.com/)
 - [Figma](https://www.figma.com/)
+- [Filestage](https://filestage.io/)
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview)
 - [Inkscape](https://inkscape.org/)
 - [InVision](https://www.invisionapp.com/home)
@@ -92,3 +93,4 @@
 - [Wireframe.cc](https://wireframe.cc/)
 - [Zeplin](https://zeplin.io/)
 - [ZeroHeight](https://zeroheight.com/)
+- [Ziflow](https://www.ziflow.com/)
