@@ -16,6 +16,7 @@
 - [Shorebird](https://shorebird.io)
 
 ### Componentes
+- [MajesticUI](https://www.majesticui.com/)
 - [Mirai](https://github.com/Securrency-OSS/mirai)
 
 ### Datas

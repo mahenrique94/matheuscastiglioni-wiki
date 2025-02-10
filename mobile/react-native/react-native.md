@@ -39,6 +39,7 @@
 ### Coleções
 - [FlashList](https://shopify.github.io/flash-list/)
 - [LegendList](https://github.com/LegendApp/legend-list)
+- [React Native Sortable](https://react-native-sortables-docs.vercel.app)
 
 ### Componentes
 - [FlashList](https://github.com/shopify/flash-list)

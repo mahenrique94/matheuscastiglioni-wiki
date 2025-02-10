@@ -55,6 +55,10 @@
 ### ORM
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 
+### Package Manager
+- [Pip](https://pypi.org/project/pip/)
+- [Poetry](https://python-poetry.org/)
+
 ### Processamento de linguagem natural
 - [NLTK](https://github.com/nltk/nltk)
 - [SpaCy](https://github.com/explosion/spaCy)
@@ -71,11 +75,20 @@
 ### SDK's
 - [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 
+### String
+- [python-slugify](https://github.com/un33k/python-slugify)
+
 ### Validação
 - [Pydantic](https://github.com/pydantic/pydantic)
 
 ### UI
 - [PyScript](https://pyscript.net/)
+
+### Videos
+- [Moviepy](https://github.com/Zulko/moviepy)
+- [pytube](https://github.com/pytube/pytube)
+  - [pytubefix](https://github.com/juanbindez/pytubefix)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ### Webapp
 - [Reflex](https://reflex.dev/)
