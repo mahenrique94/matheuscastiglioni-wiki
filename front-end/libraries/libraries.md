@@ -462,6 +462,7 @@
 - [CLSX](https://github.com/lukeed/clsx)
 - [Chroma.js](https://github.com/gka/chroma.js)
 - [Normalize.css](https://github.com/necolas/normalize.css)
+- [Style Observe](https://observe.style/)
 
 ## Fluxo
 - [Is](https://github.com/enricomarino/is)
