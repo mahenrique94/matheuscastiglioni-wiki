@@ -19,6 +19,7 @@
   - [Actions](https://www.laravelactions.com/)
   - [Breeze](https://github.com/laravel/breeze)
   - [Filament](https://filamentphp.com/)
+  - [Herd](https://herd.laravel.com/)
   - [Laragon](https://laragon.org/)
   - [Lumen](https://lumen.laravel.com/)
   - [Spark](https://spark.laravel.com/)

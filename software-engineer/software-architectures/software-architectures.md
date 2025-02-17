@@ -40,6 +40,7 @@
   - [Work Queue Systems](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/ch10.html)
 - [DOTS (Data Oriented Technology Stack)](https://hub.packtpub.com/what-is-unitys-new-data-oriented-technology-stack-dots/)
 - [ECS (Entity Component System)](https://pt.wikipedia.org/wiki/Entity-component-system)
+- [Erasure Coding](https://www.geeksforgeeks.org/erasure-coding-in-system-design/)
 - [Event-bus](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Event Driven Architecture](https://microservices.io/patterns/data/event-driven-architecture.html)
   - [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)

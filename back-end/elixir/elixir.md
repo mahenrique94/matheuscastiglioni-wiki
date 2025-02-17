@@ -12,6 +12,9 @@
 ### Autenticação
 - [Guardian](https://github.com/ueberauth/guardian)
 
+### Benchmark
+- [benchee](https://github.com/bencheeorg/benchee)
+
 ### Build
 - [Mix](https://hexdocs.pm/mix/1.13/Mix.html)
 

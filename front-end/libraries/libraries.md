@@ -234,6 +234,7 @@
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui)
 - [Keen Slider](https://keen-slider.io/)
 - [Maska](https://beholdr.github.io/maska/v3/#/)
+- [Notyf](https://github.com/caroso1222/notyf)
 - [Nuka](https://github.com/FormidableLabs/nuka-carousel)
 - [Papani.js](https://papanasi.js.org/)
 - [Swapy](https://swapy.tahazsh.com/)

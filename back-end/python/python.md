@@ -52,6 +52,9 @@
 ### Machine Learning
 - [Scikit Learn](https://github.com/scikit-learn/scikit-learn)
 
+### Nativo
+- [briefcase](https://github.com/beeware/briefcase)
+
 ### ORM
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 

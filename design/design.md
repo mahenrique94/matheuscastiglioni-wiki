@@ -65,6 +65,7 @@
 - [Lunacy](https://lunacyapp.com/lunacy)
 - [MarvelApp](https://marvelapp.com/)
 - [Maze](https://maze.design/)
+- [Milanote](https://milanote.com/download-desktop-app)
 - [NinjaMock](https://ninjamock.com/)
 - [Overflow](https://overflow.io/)
 - [Penpot](https://penpot.app/)

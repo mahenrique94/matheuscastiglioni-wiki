@@ -11,6 +11,7 @@
 - [Krakend](https://www.krakend.io/)
   - [Lura](https://github.com/luraproject/lura)
 - [NGINX](https://www.nginx.com/)
+  - [NGINX Unit](https://unit.nginx.org/)
 - [Traefik](https://traefik.io/)
 
 ## Autenticação
@@ -18,6 +19,8 @@
 - [Okta](https://www.okta.com/)
 - [PingID](https://apidocs.pingidentity.com/pingid-api/guide/pingid-api/pid_c_PingIDapiAuthentication/)
 - [SuperTokens](https://supertokens.com/)
+- [SSOready](https://github.com/ssoready/ssoready)
+- [Zitadel](https://github.com/zitadel/zitadel)
 
 ## Automação
 - [Ansible](https://www.ansible.com/)
@@ -33,6 +36,7 @@
   - [TerraGrunt](https://github.com/gruntwork-io/terragrunt)
   - [WKSCTL](https://github.com/weaveworks/wksctl)
 - [Kestra](https://kestra.io/)
+- [Make](https://www.make.com/en)
 - [Mutagen](https://mutagen.io/)
 - [n8n](https://n8n.io/)
 - [Nix](https://nixos.org/)
@@ -80,6 +84,7 @@
 - [Jenkins](https://www.jenkins.io/)
 - [Krake CI](https://kraken.ci/)
 - [Octopus Deploy](https://octopus.com/)
+- [Piku](https://github.com/piku/piku)
 - [Spacelift](https://spacelift.io/)
 - [Spinnaker](https://github.com/spinnaker/spinnaker)
   - [Kayenta](https://github.com/spinnaker/kayenta)
@@ -243,6 +248,7 @@
   - [Traefik Mesh](https://traefik.io/traefik-mesh/)
 
 ## Gerenciador de Painel
+- [Crossplane](https://github.com/crossplane/crossplane)
 - [Easypanel](https://easypanel.io/)
 
 ## Jobs

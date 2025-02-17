@@ -257,6 +257,7 @@
 - [Meshcapade](https://meshcapade.com/)
 - [Meshroom](https://github.com/alicevision/Meshroom)
 - [MetaHuman Creator](https://www.unrealengine.com/en-US/digital-humans)
+- [Milanote](https://milanote.com/download-desktop-app)
 - [Modo 3D](https://www.foundry.com/products/modo)
 - [Mocha Pro](https://borisfx.com/products/mocha-pro/?collection=mocha-pro&product=mocha-pro)
 - [Moho](https://moho.lostmarble.com/)
