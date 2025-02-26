@@ -1,7 +1,7 @@
 # Sites
 
 - Acompanhar proposals do JavaScript ([https://www.proposals.es/](https://www.proposals.es/))
-- Baixar fontes ([https://www.dafont.com/pt/](https://www.dafont.com/pt/), [https://fonts.google.com/](https://fonts.google.com/))
+- Baixar fontes ([https://www.dafont.com/pt/](https://www.dafont.com/pt/), [https://fonts.google.com/](https://fonts.google.com/). [https://fontshare.com/](https://fontshare.com/))
 - Baixar músicas com free royalty ([https://www.bensound.com/](https://www.bensound.com/), [https://sonniss.com/](https://sonniss.com/))
 - Banco de dados de imagens ([https://depositphotos.com/br/](https://depositphotos.com/br/), [https://www.freepik.com/](https://www.freepik.com/), [https://www.shutterstock.com/](https://www.shutterstock.com/), [https://pixabay.com/pt/](https://pixabay.com/pt/), [https://unsplash.com/pt-br/](https://unsplash.com/pt-br/), [https://www.pexels.com/pt-br/](https://www.pexels.com/pt-br/))
 - Banco de dados de timezones ([https://www.iana.org/time-zones](https://www.iana.org/time-zones))
@@ -15,7 +15,7 @@
 - Converter unix timestamp para datas ([https://www.epochconverter.com/](https://www.epochconverter.com/))
 - Copiar e colar dados ([https://colar.app/](https://colar.app/))
 - Cupons de desconto ([https://benchpromos.com.br/](https://benchpromos.com.br/), [https://www.cuponomia.com.br/](https://www.cuponomia.com.br/), [https://www.pelando.com.br/](https://www.pelando.com.br/))
-- Criar lista de links ([https://link.space/](https://link.space/), [https://linktr.ee/](https://linktr.ee/))
+- Criar lista de links ([https://link.space/](https://link.space/), [https://linktr.ee/](https://linktr.ee/), [https://bento.me/en/home](https://bento.me/en/home))
 - Criar perfil do GitHub ([https://www.profileme.dev/](https://www.profileme.dev/))
 - Criação de apresentações ([https://grid.is/](https://grid.is/), [https://pitch.com/](https://pitch.com/), [https://sli.dev/](https://sli.dev/), [https://slides.com/](https://slides.com/))
 - Coletar ideias e bugs de aplicações/sites ([https://www.pendo.io/](https://www.pendo.io/), [https://userback.io/](https://userback.io/), [https://userreport.com/](https://userreport.com/))
@@ -56,7 +56,7 @@
 - Lista com serviços free e open source ([https://free-for.dev/#/](https://free-for.dev/#/))
 - Lorem ipsum para imagens ([https://doodleipsum.com/](https://doodleipsum.com/), [https://api.lorem.space/image?w=400&h=400](https://api.lorem.space/image?w=400&h=400))
 - Medir a performance de bibliotecas e frameworks client side ([https://perf-track.web.app/](https://perf-track.web.app/), [https://speedvitals.com/](https://speedvitals.com/))
-- Musicas sem copyright ([Artlist](https://artlist.io/), [AudioHero](https://www.audiohero.com/), [Envato](https://www.envato.com/), [FreeSound](https://freesound.org/), [OvaniSound](https://ovanisound.com/), [https://uppbeat.io/](https://uppbeat.io/), [https://www.zapsplat.com/](https://www.zapsplat.com/))
+- Musicas sem copyright ([Artlist](https://artlist.io/), [AudioHero](https://www.audiohero.com/), [Envato](https://www.envato.com/), [FreeSound](https://freesound.org/), [OvaniSound](https://ovanisound.com/), [https://uppbeat.io/](https://uppbeat.io/), [https://www.zapsplat.com/](https://www.zapsplat.com/), [https://www.epidemicsound.com/](https://www.epidemicsound.com/))
 - Navegar na AST do JavaScript ([https://astexplorer.net/](https://astexplorer.net/))
 - Quadro branco online ([https://jamboard.google.com/](https://jamboard.google.com/))
 - Quantidade de demissões das empresas ([https://layoffs.fyi/](https://layoffs.fyi/))

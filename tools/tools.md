@@ -5,6 +5,7 @@
 - Apresentações em MarkDown ([https://marp.app/](https://marp.app/), [https://play.presenta.cc/](https://play.presenta.cc/))
 - Automações para Mac ([https://bunchapp.co/](https://bunchapp.co/), [https://www.hammerspoon.org/](https://www.hammerspoon.org/))
 - Biblioteca para criar contrastes de cores ([https://leonardocolor.io/](https://leonardocolor.io/))
+- Bloquear websites para manter o focu ([https://freedom.to/](https://freedom.to/))
 - Buscar trechos de códigos em repositórios ([https://about.sourcegraph.com/](https://about.sourcegraph.com/))
 - Capturar ações nas telas ([https://www.tango.us/](https://www.tango.us/))
 - Colaboração de código ponta à ponta ([https://radicle.xyz/](https://radicle.xyz/), [https://www.codestream.com/](https://www.codestream.com/))
@@ -47,7 +48,7 @@
 - Realizar SQLs em arquivos CSV, XLS e JSON ([https://simplql.com/](https://simplql.com/))
 - Remover fundo de videos chamadass ([https://www.chromacam.me/](https://www.chromacam.me/))
 - Remover som de fundo ([https://krisp.ai/](https://krisp.ai/), [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [https://www.utterly.app/](https://www.utterly.app/))
-- Reuniões ([https://www.butter.us/](https://www.butter.us/), [https://meet.google.com/](https://meet.google.com/), [https://zoom.us/](https://zoom.us/), [https://meet.jit.si/](https://meet.jit.si/))
+- Reuniões ([https://www.butter.us/](https://www.butter.us/), [https://meet.google.com/](https://meet.google.com/), [https://zoom.us/](https://zoom.us/), [https://meet.jit.si/](https://meet.jit.si/), [https://flown.com](https://flown.com))
 - SVG
   - Animar SVG's ([https://svgartista.net/](https://svgartista.net/))
   - Colorir SVG's ([https://www.fecolormatrix.com/](https://www.fecolormatrix.com/))

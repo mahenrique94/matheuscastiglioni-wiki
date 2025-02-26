@@ -58,6 +58,9 @@
 - [Tamagui](https://tamagui.dev/)
 - [Zeego](https://zeego.dev/)
 
+### Debug
+- [react-native-debugger](https://github.com/jhen0409/react-native-debugger)
+
 ### Engines
 - [Hermes](https://github.com/facebook/hermes)
   - [Hermes Dec](https://github.com/P1sec/hermes-dec)

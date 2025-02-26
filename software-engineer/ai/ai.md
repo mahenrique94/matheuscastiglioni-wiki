@@ -7,6 +7,7 @@
 - [Min](https://min.io/)
 
 ## Bibliotecas
+- [Mastra](https://mastra.ai)
 - [Video2x](https://github.com/k4yt3x/video2x)
 
 ## Cloud
@@ -52,8 +53,10 @@
 - [G-prompter](https://www.g-prompter.com/en)
 - [Gemini](https://gemini.google.com/app)
 - [Gemma](https://ai.google.dev/gemma)
+- [Granola](https://www.granola.ai/)
 - [Graphite](https://graphite.dev/)
 - [HeyGen](https://www.heygen.com/)
+- [Huemint](https://huemint.com/)
 - [Hunyuan3D 2](https://github.com/Tencent/Hunyuan3D-2)
   - [Tecent](https://3d-models.hunyuan.tencent.com/)
 - [IconGeneratorAI](https://icongeneratorai.com/)
@@ -89,7 +92,9 @@
 - [QuickMagic AI](https://www.quickmagic.ai/userCenter)
 - [Radiant Security AI](https://radiantsecurity.ai/)
 - [Readme AI](https://eli64s.github.io/readme-ai/)
+- [Reclaim AI](https://reclaim.ai/)
 - [Rix](https://hashnode.com/rix)
+- [Rize](https://rize.io/)
 - [Rodin 3D](https://hyperhuman.deemos.com/rodin)
 - [Runway](https://runwayml.com/)
 - [Simplified](https://simplified.com/)
@@ -120,5 +125,6 @@
 - [MuleSoft](https://www.mulesoft.com/)
 - [Praktika](https://praktika.ai/)
 - [Proseable](https://www.proseable.com/)
+- [RelayApp](https://www.relay.app/)
 - [SpeakAndImprove](https://speakandimprove.com/)
 - [Talkpal](https://talkpal.ai/)

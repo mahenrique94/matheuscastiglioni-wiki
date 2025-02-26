@@ -8,6 +8,9 @@
 - [Fast Lane](https://fastlane.tools/)
 - [Test Fairy](https://www.testfairy.com/)
 
+## CLI
+- [idb](https://github.com/facebook/idb)
+
 ## Console
 - [Eruda](https://github.com/liriliri/eruda)
 

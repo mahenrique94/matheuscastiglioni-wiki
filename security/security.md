@@ -22,9 +22,12 @@
 - [Retire.js](https://github.com/RetireJS/retire.js)
 
 ## Ferramentas
+- [Burp Suite](https://portswigger.net/burp)
+- [CSRL Tester](https://www.toolwar.com/2013/12/csrftester-csrf-vulnerability-tester.html)
 - [HCaptcha](https://www.hcaptcha.com/)
 - [Nikto2](https://cirt.net/Nikto2)
 - [Observatory Mozilla](https://observatory.mozilla.org/)
+- [OWASP Zap](https://www.zaproxy.org/)
 - [Security Headers](https://securityheaders.com/)
 - [SSL Trust](https://www.ssltrust.com.au/ssl-tools/website-security-check)
 - [TypingDNA](https://www.typingdna.com/)
@@ -34,6 +37,7 @@
 - [Firefox Monitor](https://monitor.firefox.com/)
 - [Haveibeenpwned](https://haveibeenpwned.com/)
 - [OWASP](https://owasp.org/)
+  - [OWASP Zap](https://www.zaproxy.org/)
 
 ## Pessoas
 - [Crackers](https://pt.wikipedia.org/wiki/Cracker)

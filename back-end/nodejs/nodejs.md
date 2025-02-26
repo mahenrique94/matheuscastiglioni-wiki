@@ -4,6 +4,7 @@
 
 ### AI
 - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
+- [Mastra](https://mastra.ai)
 
 ### APIs
 - [ActionHero](https://github.com/actionhero/actionhero)
