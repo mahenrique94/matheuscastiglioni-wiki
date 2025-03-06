@@ -33,6 +33,9 @@
 - [Houdini](https://www.houdinigraphql.com/)
 - [URQL](https://formidable.com/open-source/urql/)
 
+### Nodes
+- [Svelvet](https://svelvet.mintlify.app/introduction)
+
 ## Frameworks
 
 ### Mobile

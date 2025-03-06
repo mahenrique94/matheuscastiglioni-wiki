@@ -61,7 +61,7 @@
 - Gestão de tickets ([https://www.happyfox.com/](https://www.happyfox.com/))
 - Gestão de times em engenharia ([https://www.botany.io/](https://www.botany.io/))
 - Hospedar imagens ([https://cloudinary.com/](https://cloudinary.com/))
-- Hospedar videos ([https://muse.ai/](https://muse.ai/), [https://mux.com/](https://mux.com/), [https://vimeo.com/](https://vimeo.com/))
+- Hospedar videos ([https://muse.ai/](https://muse.ai/), [https://mux.com/](https://mux.com/), [https://vimeo.com/](https://vimeo.com/), [https://www.pandavideo.com/](https://www.pandavideo.com/))
 - Ícones free ([https://www.flaticon.com/](https://www.flaticon.com/), [https://iconstore.co/](https://iconstore.co/))
 - IDEs Online ([https://jsitor.com](https://jsitor.com)], [https://codepen.io/](https://codepen.io/), [https://codesphere.com/](https://codesphere.com/), [https://jsfiddle.net/](https://jsfiddle.net/), [https://repl.it/](https://repl.it/), [https://codesandbox.io/](https://codesandbox.io/), [https://jsbin.com/?html,output](https://jsbin.com/?html,output), [https://ideone.com/](https://ideone.com/), [https://stackblitz.com/](https://stackblitz.com/), [https://www.fronteditor.dev/](https://www.fronteditor.dev/), [https://scrimba.com/](https://scrimba.com/), [https://playcode.io/](https://playcode.io/), [https://runkit.com/home](https://runkit.com/home))
 - Importação/Exportação de arquivos ([https://flatfile.com/](https://flatfile.com/))

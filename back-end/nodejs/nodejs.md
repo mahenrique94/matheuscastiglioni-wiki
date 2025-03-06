@@ -126,6 +126,9 @@
 ### Circuit Braker
 - [Opossum](https://github.com/nodeshift/opossum)
 
+### Clientes REST
+- [Jira.js](https://github.com/MrRefactoring/jira.js)
+
 ### Coleções
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras)
 
@@ -418,6 +421,7 @@
 - [QUnit](https://qunitjs.com/)
 - [Supertest](https://github.com/visionmedia/supertest)
 - [UVU](https://github.com/lukeed/uvu)
+- [Wacat](https://github.com/mikesmallhelp/wacat)
 - [Wallabyjs](https://wallabyjs.com/)
 
 ### Query Builder
@@ -480,6 +484,10 @@
 
 ### Secret Manager
 - [Infisical](https://infisical.com/)
+
+### Segurança
+- [csurf](https://github.com/expressjs/csurf)
+- [Malibu](https://github.com/tinyhttp/malibu)
 
 ### SQL
 - [SQL](https://github.com/nearform/sql)

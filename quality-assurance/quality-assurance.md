@@ -47,6 +47,7 @@
 - [ToxiProxy](https://github.com/Shopify/toxiproxy)
 - [Valgrind](https://valgrind.org/)
 - [Vegeta](https://github.com/tsenart/vegeta)
+- [Wacat](https://github.com/mikesmallhelp/wacat)
 - [Wallabyjs](https://wallabyjs.com/)
 - [WireMock](http://wiremock.org/)
 - [Wrk](https://github.com/wg/wrk)

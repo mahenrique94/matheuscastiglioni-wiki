@@ -22,6 +22,7 @@
 - [Framework7](https://framework7.io/)
 - [Ionic](https://ionicframework.com/)
 - [Kotlin Native](https://kotlinlang.org/docs/reference/native-overview.html)
+- [Lynx](https://lynxjs.org/)
 - [MAUI](https://dotnet.microsoft.com/en-us/apps/maui)
 - [Native Script](https://nativescript.org/)
 - [Quasar](https://quasar.dev/)

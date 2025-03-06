@@ -8,6 +8,7 @@
 - https://vasanthk.gitbooks.io/react-bits/content/
 - https://www.javascriptstuff.com/react-starter-projects/
 - https://usehooks.com/
+- https://react-explorer.com
 
 ## Bibliotecas
 ### 3D
@@ -151,8 +152,15 @@
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
 - [Tamagui](https://tamagui.dev/)
-- [TanStack Router](https://tanstack.com/router/v1)
-- [TanStack Table](https://tanstack.com/table/v8)
+- [TanStack](https://tanstack.com)
+  - [TanStack Config](https://tanstack.com/config/latest)
+  - [TanStack Form](https://tanstack.com/form/latest)
+  - [TanStack Query](https://tanstack.com/query/latest)
+  - [TanStack Ranger](https://tanstack.com/ranger/latest)
+  - [TanStack Router](https://tanstack.com/router/v1)
+  - [TanStack Store](https://tanstack.com/store/latest)
+  - [TanStack Table](https://tanstack.com/table/v8)
+  - [TanStack Virtual](https://tanstack.com/virtual/latest)
 - [Tremor](https://www.tremor.so/)
 - [Vaul](https://vaul.emilkowal.ski/)
 - [Webrix](https://github.com/open-amdocs/webrix/)

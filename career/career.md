@@ -90,3 +90,4 @@
 
 ## Plataformas para mentoria
 - [CodeMentor](https://www.codementor.io/)
+- [Mentors](https://dailymentor.co/mentors)
