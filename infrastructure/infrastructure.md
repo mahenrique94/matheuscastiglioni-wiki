@@ -250,6 +250,7 @@
 ## Gerenciador de Painel
 - [Crossplane](https://github.com/crossplane/crossplane)
 - [Easypanel](https://easypanel.io/)
+- [Termix](https://github.com/LukeGus/Termix)
 
 ## Jobs
 - [Bistro](https://facebook.github.io/bistro/)

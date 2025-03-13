@@ -19,6 +19,7 @@
 - [Great Front-End](https://www.greatfrontend.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
+- [Hatchways](https://www.hatchways.io/)
 - [InterviewPen](https://interviewpen.com/)
 - [LeetCode](https://leetcode.com/)
 - [Skilled](https://skilled.dev/)

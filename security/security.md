@@ -29,9 +29,11 @@
 - [Observatory Mozilla](https://observatory.mozilla.org/)
 - [OWASP Zap](https://www.zaproxy.org/)
 - [Security Headers](https://securityheaders.com/)
+- [social-engineer-toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
 - [SSL Trust](https://www.ssltrust.com.au/ssl-tools/website-security-check)
 - [TypingDNA](https://www.typingdna.com/)
 - [Virus Total](https://www.virustotal.com)
+- [zphisher](https://github.com/htr-tech/zphisher)
 
 ## Links
 - [Firefox Monitor](https://monitor.firefox.com/)

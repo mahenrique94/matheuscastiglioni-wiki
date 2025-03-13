@@ -73,6 +73,7 @@
 - [Clerk](https://clerk.dev/)
 - [FingerPrintJS](https://github.com/fingerprintjs/fingerprintjs)
 - [Lucia](https://lucia-auth.com/)
+- [OpenAuth](https://openauth.js.org/)
 - [UserFront](https://userfront.com/)
 - [ZXCVBN](https://github.com/dropbox/zxcvbn)
 

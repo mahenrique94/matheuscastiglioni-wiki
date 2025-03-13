@@ -6,11 +6,13 @@
 ## Linux
 - [Arch Linux](https://www.archlinux.org/)
 - [Elementary OS](https://elementary.io/pt_BR/)
+- [Endeavour OS](https://endeavouros.com/)
 - [Mint](https://linuxmint.com/)
 - [Ubuntu](https://ubuntu.com/)
 - [Kubuntu](https://kubuntu.org/)
 - [FreeBSD](https://www.freebsd.org/)
 - [Kali Linux](https://www.kali.org/)
+- [Whonix](https://www.whonix.org/)
 
 ### Ferramentas
 - [Amethyst](https://ianyh.com/amethyst/)
@@ -23,7 +25,10 @@
   - [zInit](https://github.com/zdharma/zinit)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
-## Mac
+### Gateway
+- [Whonix Gateway](https://www.whonix.org/wiki/Whonix-Gateway)
+
+### Mac
 - [Big Sur](https://www.apple.com/br/macos/big-sur/)
 - [Catalina](https://support.apple.com/kb/DL2052?viewlocale=pt_BR&locale=pt_BR)
 - [El Capitan](https://support.apple.com/kb/DL1859?viewlocale=pt_BR&locale=pt_BR)
@@ -33,6 +38,10 @@
 ### Shell
 - [iTerm2](https://iterm2.com/)
 - [FishShell](https://fishshell.com/)
+- [Ghostty](https://ghostty.org/)
+- [Hyper](https://hyper.is/)
+- [NuShell](https://www.nushell.sh/)
+- [Warp](https://warp.dev/)
 
 ### Temas
 - [palenight-iterm2](https://github.com/JonathanSpeek/palenight-iterm2)

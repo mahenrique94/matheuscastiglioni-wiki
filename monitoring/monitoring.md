@@ -69,6 +69,7 @@
 - [Komiser](https://www.komiser.io/)
 - [LightStep](https://lightstep.com/)
 - [Lightrun](https://lightrun.com/)
+- [LinkDrip](https://www.linkdrip.com/)
 - [Litlyx](https://litlyx.com/)
 - [LogRocket](https://logrocket.com/)
 - [LogStash](https://www.elastic.co/pt/logstash)
