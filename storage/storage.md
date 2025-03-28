@@ -80,6 +80,7 @@
   - [Dalibo Explain](https://explain.dalibo.com/)
   - [PgBouncer](https://www.pgbouncer.org/)
   - [PgPool](https://www.npmjs.com/package/pg-pool)
+  - [Postgres App](https://postgresapp.com/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)
   - [Postico](https://eggerapps.at/postico/v1.php)
   - [Stackgres](https://stackgres.io/)
@@ -156,6 +157,7 @@
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [Solr](https://lucene.apache.org/solr/)
 - [Sonic](https://crates.io/crates/sonic-server)
+- [Typesense](https://typesense.org/)
 
 ## Integração
 - [MarkLogic](https://www.marklogic.com/)

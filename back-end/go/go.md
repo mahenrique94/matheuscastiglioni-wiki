@@ -10,9 +10,13 @@
 
 ### Compilador
 - [Borgo](https://github.com/borgo-lang/borgo)
+- [TinyGo](https://tinygo.org/)
 
 ### Concorrência
 - [Conc](https://github.com/sourcegraph/conc)
+
+### Fisica
+- [Physix-go](https://github.com/rudransh61/Physix-go)
 
 ### GitHub
 - [go-github](https://github.com/google/go-github)
@@ -41,6 +45,9 @@
 ### Segurança
 - [Garble](https://github.com/burrowers/garble)
 
+### Snippets de Códigos
+- [freeze](https://github.com/charmbracelet/freeze)
+
 ### Validação
 - [Validator](https://github.com/go-playground/validator)
 
@@ -53,6 +60,8 @@
 - [Echo](https://echo.labstack.com/)
 - [Fiber](https://gofiber.io/)
 - [Gin](https://gin-gonic.com/)
+- [Huma](https://huma.rocks/)
+- [Zen](https://github.com/unkeyed/unkey/tree/main/go/pkg/zen)
 
 ### Application
 - [Pushup](https://pushup.adhoc.dev/)

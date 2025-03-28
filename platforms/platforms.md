@@ -76,7 +76,7 @@
 - Monitorar status de aplicações ([https://hyperping.io/](https://hyperping.io/))
 - Mostrar seu negócio ([https://indiepa.ge/](https://indiepa.ge/))
 - Otimizador de imagens ([https://kraken.io/web-interface](https://kraken.io/web-interface), [https://squoosh.app/](https://squoosh.app/), [https://upscayl.github.io/](https://upscayl.github.io/))
-- Pagamentos online ([https://sejaefi.com.br/](https://sejaefi.com.br/), [https://stripe.com/br](https://stripe.com/br), [https://pagar.me/](https://pagar.me/), [https://paystack.com/](https://paystack.com/), [https://www.lemonsqueezy.com/](https://www.lemonsqueezy.com/), [https://hyperswitch.io/](https://hyperswitch.io/), [https://github.com/polarsource/polar](https://github.com/polarsource/polar), [https://www.spreedly.com/](https://www.spreedly.com/))
+- Pagamentos online ([https://sejaefi.com.br/](https://sejaefi.com.br/), [https://stripe.com/br](https://stripe.com/br), [https://pagar.me/](https://pagar.me/), [https://paystack.com/](https://paystack.com/), [https://www.lemonsqueezy.com/](https://www.lemonsqueezy.com/), [https://hyperswitch.io/](https://hyperswitch.io/), [https://github.com/polarsource/polar](https://github.com/polarsource/polar), [https://www.spreedly.com/](https://www.spreedly.com/), [https://monetizze.com.br/](https://monetizze.com.br/), [https://link.com/en-br](https://link.com/en-br))
 - Pair programming ou meets ([https://www.loom.com/](https://www.loom.com/), [https://pop.com/home](https://pop.com/home))
 - Publica e construir servicos IoT ([https://www.balena.io/](https://www.balena.io/))
 - Realizar envio de email ([https://sendgrid.com/](https://sendgrid.com/), [https://github.com/technomancy-dev/00](https://github.com/technomancy-dev/00))

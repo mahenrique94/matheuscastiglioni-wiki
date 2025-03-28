@@ -11,6 +11,7 @@
 - [AWS](https://aws.amazon.com/)
   - [Vantage](https://www.vantage.sh/)
 - [Azure](https://azure.microsoft.com/)
+- [Bknd](https://bknd.io/)
 - [Caprover](https://caprover.com/)
 - [ChiselStrike](https://chiselstrike.com/)
 - [Coder](https://coder.com/)
@@ -57,8 +58,10 @@
 - [Taipy](https://taipy.io/)
 - [Teleport](https://goteleport.com/)
 - [Temporal](https://temporal.io/)
+- [Trigger](https://trigger.dev/)
 - [Uffizzi](https://www.uffizzi.com/)
 - [Umbler](https://umbler.com/)
+- [Unkey](https://www.unkey.com/)
 - [Vercel](https://vercel.com/)
 - [Vultr](https://www.vultr.com/)
 

@@ -67,6 +67,7 @@
 - [MarvelApp](https://marvelapp.com/)
 - [Maze](https://maze.design/)
 - [Milanote](https://milanote.com/download-desktop-app)
+- [Movavi](https://www.movavi.com/mac.html)
 - [NinjaMock](https://ninjamock.com/)
 - [Overflow](https://overflow.io/)
 - [Penpot](https://penpot.app/)

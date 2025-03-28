@@ -4,6 +4,7 @@
 
 ### AI
 - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
+- [js-genai](https://googleapis.github.io/js-genai/)
 - [Mastra](https://mastra.ai)
 
 ### APIs
@@ -169,6 +170,7 @@
 - [Cloc](https://github.com/AlDanial/cloc)
 - [DepCheck](https://github.com/depcheck/depcheck)
 - [DotEnv](https://github.com/motdotla/dotenv)
+  - [DotEnvX](https://dotenvx.com/)
 - [EnvSchema](https://github.com/fastify/env-schema)
 - [Knip](https://knip.dev/)
 - [Loc](https://github.com/cgag/loc)
@@ -307,6 +309,7 @@
 ### Logging
 - [Bunyan](https://github.com/trentm/node-bunyan)
 - [Cabin](https://github.com/cabinjs/cabin)
+- [Errsole.js](https://github.com/errsole/errsole.js)
 - [Morgan](https://github.com/expressjs/morgan)
 - [Pino](https://github.com/pinojs/pino)
 - [Winston](https://github.com/winstonjs/winston)
@@ -392,6 +395,7 @@
 - [Meriyah](https://github.com/meriyah/meriyah)
 - [msgpackr](https://github.com/kriszyp/msgpackr)
 - [Node CSV](https://github.com/adaltas/node-csv)
+- [papaparse](https://www.npmjs.com/package/papaparse)
 - [Parse Domain](https://github.com/peerigon/parse-domain)
 - [PSD](https://github.com/webtoon/psd)
 - [Recast](https://github.com/benjamn/recast)

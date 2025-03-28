@@ -16,5 +16,9 @@
 ## Language Server
 - [Solargraph](https://solargraph.org/)
 
+## Package Manager
+- [rbenv](https://github.com/rbenv/rbenv)
+- [rvm](https://github.com/rvm/rvm)
+
 ## Qualidade
 - [HTTPParty](https://github.com/jnunemaker/httparty)

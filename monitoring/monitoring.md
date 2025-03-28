@@ -47,6 +47,7 @@
 - [ElvenWorks](https://elven.works/pt/)
 - [eBPF](https://ebpf.io/)
   - [Cilium](https://cilium.io/)
+- [Errsole.js](https://github.com/errsole/errsole.js)
 - [FluentBit](https://fluentbit.io/)
 - [Google Analytics](https://analytics.google.com/)
 - [Grafana](https://grafana.com/)

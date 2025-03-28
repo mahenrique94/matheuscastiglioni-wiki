@@ -763,6 +763,10 @@
 ## Onboarding
 - [UserGuiding](https://userguiding.com/)
 
+## Package Manager
+- [mise](https://mise.jdx.dev/)
+- [asdf](https://asdf-vm.com/)
+
 ## Parser
 - [Acorn](https://github.com/acornjs/acorn)
 - [Escodegen](https://github.com/estools/escodegen)
