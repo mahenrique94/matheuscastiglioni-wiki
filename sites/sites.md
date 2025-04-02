@@ -42,6 +42,7 @@
 - Ferramentas para pensar melhor em colaboração ([https://untools.co/](https://untools.co/))
 - Free for Dev ([https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev))
 - Free Text to Speech ([https://ttsmaker.com/](https://ttsmaker.com/))
+- Free Text to Speech ([https://ai-speaker.net/](https://ai-speaker.net))
 - Freelances ([https://www.workana.com/en](https://www.workana.com/en), [https://www.fiverr.com/](https://www.fiverr.com/), [https://www.upwork.com/](https://www.upwork.com/))
 - Gerador de curriculos ([https://resumake.io/](https://resumake.io/))
 - Gerador de favicons ([https://www.favicon.software/](https://www.favicon.software/))
