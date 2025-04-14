@@ -66,6 +66,11 @@
 - [Changesets](https://github.com/changesets/changesets)
 - [Release Please](https://github.com/googleapis/release-please)
 
+## Chaos Engineering
+- [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
+- [Gremlin](https://www.gremlin.com/)
+- [Litmuschaos](https://litmuschaos.io/)
+
 ## CI/CD
 - [Argo CD](https://argoproj.github.io/argo-cd/)
 - [Bamboo](https://www.atlassian.com/br/software/bamboo)
@@ -345,6 +350,7 @@
 - [Jetty](https://www.eclipse.org/jetty/)
 - [NGINX](https://www.nginx.com/)
 - [OpenResty](https://openresty.org/en/)
+- [SmartProxy](https://smartproxy.com/)
 - [Solo](https://www.solo.io/)
 - [Tomcat](http://tomcat.apache.org/)
 - [Undertow](https://undertow.io/)

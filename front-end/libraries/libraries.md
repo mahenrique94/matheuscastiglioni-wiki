@@ -317,8 +317,10 @@
 - [Preact](https://github.com/preactjs/preact)
 - [Preline](https://preline.co/)
 - [Reablocks](https://reablocks.dev/)
+- [RetroUI](https://retroui.dev/)
 - [Riot](https://riot.js.org/)
 - [Qwik](https://qwik.builder.io/)
+- [Saas UI](https://saas-ui.dev/)
 - [Solid](https://github.com/solidjs/solid)
   - [SolidStart](https://start.solidjs.com/)
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
@@ -446,6 +448,7 @@
 - [EmojisPlosion](https://github.com/JoshuaKGoldberg/emojisplosion)
 
 ## Engines
+- [Bare](https://bare.pears.com/)
 - [Bun](https://bun.sh/)
   - [Elysia](https://elysiajs.com/)
     - [Eden](https://elysiajs.com/eden/overview)
@@ -564,6 +567,7 @@
 - [Vizzu](https://github.com/vizzuhq/vizzu-lib)
 
 ## GraphQL
+- [genQL](https://genql.dev/)
 - [Houdini](https://www.houdinigraphql.com/)
 - [URQL](https://formidable.com/open-source/urql/)
 
@@ -582,6 +586,7 @@
 - [Glyphs](https://glyphs.fyi/)
 - [HealthIcons](https://healthicons.org/)
 - [HeroIcons](https://github.com/tailwindlabs/heroicons)
+- [HugeIcons](https://hugeicons.com/)
 - [IconBuddy](https://iconbuddy.app/)
 - [IconDuck](https://iconduck.com/)
 - [Iconic](https://iconic.app/)
@@ -602,7 +607,7 @@
 - [Streamline Icons](https://www.streamlinehq.com/)
 - [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders)
 - [SVG Repo](https://www.svgrepo.com/)
-- [Tabler](https://tabler-icons.io/)
+- [Tabler](https://tabler.io/icons)
 - [UI Icons](https://www.uicons.com/)
 - [UnicornIcons](https://unicornicons.com/)
 
@@ -684,6 +689,7 @@
 - [HTMLHint](https://github.com/htmlhint/HTMLHint)
 - [HTMLLint](https://github.com/htmllint/htmllint)
 - [Husky](https://github.com/typicode/husky)
+- [LeftHook](https://github.com/evilmartians/lefthook)
 - [Lint Staged](https://github.com/okonet/lint-staged)
 - [Prettier](https://github.com/prettier/prettier)
   - [PrettyQuick](https://github.com/azz/pretty-quick)

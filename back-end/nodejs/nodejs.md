@@ -534,6 +534,10 @@
 - [type-fest](https://github.com/sindresorhus/type-fest)
 - [type-reset](https://github.com/total-typescript/ts-reset)
 
+### Token
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [jose](https://github.com/panva/jose)
+
 ### TypeScript
 - [JSON to TypeScript](https://transform.tools/json-to-typescript)
 - [pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)
