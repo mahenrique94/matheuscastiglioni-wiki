@@ -18,6 +18,7 @@
 - [Apache Atlas](https://atlas.apache.org/#/)
 - [Apache Drill](https://drill.apache.org/)
 - [Apache Druid](https://druid.apache.org/)
+- [Apache Heron](https://incubator.apache.org/projects/heron.html)
 - [Apache Hive](https://hive.apache.org/)
 - [Apache Hudi](https://hudi.apache.org/)
 - [Apache Iceberg](https://iceberg.apache.org/)
@@ -55,3 +56,4 @@
 - [Firebolt](https://www.firebolt.io/)
 - [Looker](https://looker.com/)
 - [Meltano](https://meltano.com/)
+- [Plaid](https://plaid.com/)

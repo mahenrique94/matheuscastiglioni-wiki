@@ -22,6 +22,7 @@
 
 ### Animações
 - [Motion](https://github.com/framer/motion)
+- [React Bits](https://www.reactbits.dev/)
 - [React Loading Skeleton](https://github.com/dvtng/react-loading-skeleton)
 - [React Spring](https://github.com/pmndrs/react-spring)
 - [React Transition Group](https://github.com/reactjs/react-transition-group)

@@ -7,6 +7,7 @@
 - [Beekeeper](https://www.beekeeperstudio.io/)
 - [HeidiSQL](https://www.heidisql.com/)
 - [RazorSQL](https://razorsql.com/)
+- [Sequel ACE](https://sequel-ace.com/)
 - [SquirrelSQL](http://squirrel-sql.sourceforge.net/)
 - [TablePlus](https://tableplus.com/)
 - [Valentina](https://www.valentina-db.com/en/valentina-studio-overview)

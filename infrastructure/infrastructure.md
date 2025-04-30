@@ -198,6 +198,7 @@
   - [GitNess](https://gitness.com/)
   - [GitPod](https://gitpod.io/)
   - [GitSense](https://gitsense.com/)
+  - [Lazygit](https://github.com/jesseduffield/lazygit)
   - [pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new)
   - [VSFForGit](https://github.com/microsoft/VFSForGit)
 - [Sapling](https://sapling-scm.com/)

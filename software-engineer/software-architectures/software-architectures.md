@@ -193,6 +193,7 @@
 - [Fragments Architecture](https://blog.cloudflare.com/better-micro-frontends/)
 - [Framework for Technical Documentation](https://diataxis.fr/)
 - [GQM (Goal, Question, Metric)](https://en.wikipedia.org/wiki/GQM)
+- [Graphviz](https://graphviz.org/)
 - [ICD (Initial Capabilities Document)](https://acqnotes.com/acqnote/tasks/initial-capabilities-documentrequirements)
 - [Inception Deck](https://en.abi-agile.com/inception-deck/)
 - [JAD (Joint Application Design)](https://en.wikipedia.org/wiki/Joint_application_design#:~:text=Joint%20application%20design%20(JAD)%20is,information%20systems%20for%20a%20company.)

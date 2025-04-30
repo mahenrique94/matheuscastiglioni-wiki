@@ -22,6 +22,7 @@
 - [Hatchways](https://www.hatchways.io/)
 - [InterviewPen](https://interviewpen.com/)
 - [LeetCode](https://leetcode.com/)
+- [Programiz](https://www.programiz.com/)
 - [Skilled](https://skilled.dev/)
 - [Structy](https://structy.net/)
 - [TreeHouse](https://teamtreehouse.com/)

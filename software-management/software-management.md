@@ -24,6 +24,7 @@
 - [FocalBoard](https://www.focalboard.com/)
 - [GitScrum](https://site.gitscrum.com/)
 - [Hive](https://hive.com/)
+- [Huly](https://huly.io/)
 - [HyperContext](https://hypercontext.com/)
 - [Infinity](https://startinfinity.com/)
 - [Jestor](https://jestor.com/)

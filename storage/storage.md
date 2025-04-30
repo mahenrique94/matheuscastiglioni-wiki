@@ -194,3 +194,6 @@
 - [DistSQL](https://opensource.com/article/21/9/distsql)
 - [ShardingSphere](https://shardingsphere.apache.org)
 - [Vitess](https://vitess.io/)
+
+## Sincronização
+- [PowerSync](https://www.powersync.com/)

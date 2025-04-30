@@ -4,6 +4,7 @@
 
 ### AI
 - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
+- [Dia](https://github.com/nari-labs/dia)
 - [js-genai](https://googleapis.github.io/js-genai/)
 - [Mastra](https://mastra.ai)
 

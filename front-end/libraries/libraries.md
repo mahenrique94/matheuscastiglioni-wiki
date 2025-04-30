@@ -28,6 +28,7 @@
 - [ChatbotUI](https://github.com/mckaywrigley/chatbot-ui)
 
 ## Animação
+- [Aceternity UI](https://ui.aceternity.com/)
 - [Anime.js](https://github.com/juliangarnier/anime)
 - [Animotion](https://github.com/animotionjs/animotion)
 - [AutoAnimate](https://auto-animate.formkit.com/)
@@ -39,6 +40,7 @@
 - [Mo.js](https://github.com/mojs/mojs)
 - [Motion One](https://motion.dev/)
 - [Motion Canvas](https://motioncanvas.io/)
+- [Motion Primitives](https://motion-primitives.com/)
 - [P5.js](https://github.com/processing/p5.js)
 - [PartyJS](https://github.com/yiliansource/party-js)
 - [PopMotion](https://github.com/Popmotion/popmotion)
@@ -96,6 +98,7 @@
 - [AutoPrefixer](https://github.com/postcss/autoprefixer)
 - [Babel](https://babeljs.io/)
 - [Bazel](https://bazel.build/)
+  - [Skyscope](https://github.com/tweag/skyscope)
 - [BiomeJS](https://biomejs.dev/)
 - [Boa](https://github.com/boa-dev/boa)
 - [Broccoli](https://broccoli.build/)
@@ -607,6 +610,7 @@
 - [Streamline Icons](https://www.streamlinehq.com/)
 - [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders)
 - [SVG Repo](https://www.svgrepo.com/)
+- [SVGL](https://svgl.app/)
 - [Tabler](https://tabler.io/icons)
 - [UI Icons](https://www.uicons.com/)
 - [UnicornIcons](https://unicornicons.com/)
@@ -721,6 +725,7 @@
 - [Felt](https://felt.com/)
 - [Google Maps](https://www.google.com/maps)
 - [MapBox](https://www.mapbox.com/)
+- [MapLibre](https://maplibre.org/)
 - [Radar](https://radar.io/)
 - [Turf](https://turfjs.org/)
 

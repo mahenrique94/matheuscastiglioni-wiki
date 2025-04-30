@@ -37,6 +37,7 @@
 - [Koyeb](https://www.koyeb.com/)
 - [Locaweb](https://www.locaweb.com.br/)
 - [Mandic](https://www.mandic.com.br/)
+- [Mergent](https://mergent.co/)
 - [Momento](https://www.gomomento.com/)
 - [Netlify](https://www.netlify.com/)
 - [Nhost](https://nhost.io/)

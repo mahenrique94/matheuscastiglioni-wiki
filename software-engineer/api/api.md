@@ -39,6 +39,7 @@
 - [Scalar](https://scalar.com/)
 - [TinyWeb](https://tinyweb.so/)
 - [Xh](https://github.com/ducaale/xh)
+- [Yaak](https://yaak.app/)
 
 ## Videos
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)
