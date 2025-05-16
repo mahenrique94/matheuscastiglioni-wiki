@@ -28,14 +28,19 @@
 ### Gateway
 - [Whonix Gateway](https://www.whonix.org/wiki/Whonix-Gateway)
 
-### Mac
+### Gerenciador de janelas
+- [i3](https://i3wm.org/)
+- [dwm](https://dwm.suckless.org/)
+- [sxwm](https://github.com/jasonmxyz/sxwm)
+
+## Mac
 - [Big Sur](https://www.apple.com/br/macos/big-sur/)
 - [Catalina](https://support.apple.com/kb/DL2052?viewlocale=pt_BR&locale=pt_BR)
 - [El Capitan](https://support.apple.com/kb/DL1859?viewlocale=pt_BR&locale=pt_BR)
 - [High Sierra](https://support.apple.com/kb/DL1966?viewlocale=pt_BR&locale=pt_BR)
 - [Mojave](https://support.apple.com/kb/DL2011?viewlocale=pt_BR&locale=pt_BR)
 
-### Shell
+## Shell
 - [iTerm2](https://iterm2.com/)
 - [FishShell](https://fishshell.com/)
 - [Ghostty](https://ghostty.org/)
@@ -43,7 +48,7 @@
 - [NuShell](https://www.nushell.sh/)
 - [Warp](https://warp.dev/)
 
-### Temas
+## Temas
 - [palenight-iterm2](https://github.com/JonathanSpeek/palenight-iterm2)
 
 ## Windows

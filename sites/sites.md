@@ -3,7 +3,7 @@
 - Acompanhar proposals do JavaScript ([https://www.proposals.es/](https://www.proposals.es/))
 - Baixar fontes ([https://www.dafont.com/pt/](https://www.dafont.com/pt/), [https://fonts.google.com/](https://fonts.google.com/). [https://fontshare.com/](https://fontshare.com/))
 - Baixar músicas com free royalty ([https://www.bensound.com/](https://www.bensound.com/), [https://sonniss.com/](https://sonniss.com/))
-- Banco de dados de imagens ([https://depositphotos.com/br/](https://depositphotos.com/br/), [https://www.freepik.com/](https://www.freepik.com/), [https://www.shutterstock.com/](https://www.shutterstock.com/), [https://pixabay.com/pt/](https://pixabay.com/pt/), [https://unsplash.com/pt-br/](https://unsplash.com/pt-br/), [https://www.pexels.com/pt-br/](https://www.pexels.com/pt-br/))
+- Banco de dados de imagens ([https://depositphotos.com/br/](https://depositphotos.com/br/), [https://www.freepik.com/](https://www.freepik.com/), [https://www.shutterstock.com/](https://www.shutterstock.com/), [https://pixabay.com/pt/](https://pixabay.com/pt/), [https://unsplash.com/pt-br/](https://unsplash.com/pt-br/), [https://www.pexels.com/pt-br/](https://www.pexels.com/pt-br/), [https://www.shopify.com/stock-photos](https://www.shopify.com/stock-photos))
 - Banco de dados de timezones ([https://www.iana.org/time-zones](https://www.iana.org/time-zones))
 - Bloco de notas real time online ([http://dontpad.com/](http://dontpad.com/))
 - Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))
@@ -29,7 +29,7 @@
 - Converter moedas ([https://currency.world/convert](https://currency.world/convert), [https://dolarhoje.com/](https://dolarhoje.com/))
 - Criar arquivos gitignore automaticamente ([http://gitignore.io/](http://gitignore.io/))
 - Criar avatars ([http://avatars.adorable.io/](http://avatars.adorable.io/))
-- Criar Diagramas e Fluxos ([https://github.com/mermaid-js/mermaid](https://github.com/mermaid-js/mermaid))
+- Criar Diagramas e Fluxos ([https://github.com/mermaid-js/mermaid](https://github.com/mermaid-js/mermaid), [https://mermaid.live](https://mermaid.live))
 - Criar tierlists ([https://tiermaker.com/](https://tiermaker.com/))
 - Criptografar SQLs ([https://www.zetetic.net/sqlcipher/](https://www.zetetic.net/sqlcipher/))
 - Dados sobre canais no Youtube ([https://www.viewstats.com/](https://www.viewstats.com/))
@@ -98,6 +98,7 @@
 - Visualizar sites antigos ([https://web.archive.org/](https://web.archive.org/))
 
 ## Temas e inspirações
+- 21st ([https://21st.dev](https://21st.dev))
 - Aceternity ([https://ui.aceternity.com/](https://ui.aceternity.com/))
 - Assetpro ([https://assetpro.design/](https://assetpro.design/))
 - Awwwards ([https://www.awwwards.com/](https://www.awwwards.com/))

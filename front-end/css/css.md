@@ -53,6 +53,7 @@
   - [TailwindCSS Animated](https://www.tailwindcss-animated.com/)
   - [Tailwind Elements](https://tailwind-elements.com/)
   - [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
+  - [Tailwind Motion](https://github.com/romboHQ/tailwindcss-motion)
   - [Tailwind Play](https://play.tailwindcss.com/)
   - [Tailwind Variants](https://www.tailwind-variants.org/)
 - [Shadcn](https://ui.shadcn.com/)

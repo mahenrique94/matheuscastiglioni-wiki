@@ -1,6 +1,8 @@
 # AI
 
+- https://aiagentsdirectory.com/landscape
 - https://www.kaggle.com/
+- https://modelcontextprotocol.io/introduction
 - https://theresanaiforthat.com/
 
 ## Banco de dados
@@ -37,6 +39,7 @@
 - [AWS Rekognition](https://aws.amazon.com/rekognition/)
 - [AudioGen](https://felixkreuk.github.io/audiogen/)
 - [Bard](https://bard.google.com/)
+- [Bezi](https://www.bezi.com/)
 - [Bolt](https://bolt.new/)
 - [Browserbase](https://www.browserbase.com/)
 - [CapCut](https://www.capcut.com/)
@@ -66,6 +69,7 @@
 - [G-prompter](https://www.g-prompter.com/en)
 - [Gemini](https://gemini.google.com/app)
 - [Gemma](https://ai.google.dev/gemma)
+- [GenKit](https://firebase.google.com/docs/genkit)
 - [Glean](https://www.glean.com/)
 - [Google Vids](https://workspace.google.com/products/vids/)
 - [Granola](https://www.granola.ai/)
@@ -77,10 +81,12 @@
 - [IconGeneratorAI](https://icongeneratorai.com/)
 - [Interviewcoder](https://www.interviewcoder.co/)
 - [Jina AI](https://jina.ai/)
+- [Junie](https://www.jetbrains.com/junie/)
 - [Kortex](https://www.kortex.co/)
 - [KREA](https://www.krea.ai/home)
 - [LangChain](https://docs.langchain.com/docs/)
 - [LangFlow](https://www.langflow.org/)
+- [LangGraph](https://www.langchain.com/langgraph)
 - [Leonardo](https://leonardo.ai/)
 - [Lex](https://lex.page/)
 - [LiveKit](https://livekit.io/)
@@ -121,6 +127,7 @@
 - [Rize](https://rize.io/)
 - [Rodin](https://hyper3d.ai/)
 - [Rodin 3D](https://hyperhuman.deemos.com/rodin)
+- [RPGGO AI](https://www.rpggo.ai/)
 - [Runway](https://runwayml.com/)
 - [Serif](https://www.serif.ai/)
 - [Simplified](https://simplified.com/)
@@ -128,6 +135,7 @@
 - [SonAuto](https://sonauto.ai/Home)
 - [SounDraw](https://soundraw.io/)
 - [Speechify](https://speechify.com/)
+- [Spellar AI](https://spellar.ai/)
 - [Spotter](https://join.spotter.la/)
 - [Suno](https://suno.com/)
 - [Supermaven](https://supermaven.com/)
@@ -138,6 +146,7 @@
 - [Videohunt AI](https://videohunt.ai/)
 - [Vidyo](https://vidyo.ai/)
 - [Voice.ai](https://voice.ai/hub/app/free-voice-changer-for-audacity/)
+- [Void](https://voideditor.com/)
 - [Uni3C](https://github.com/ewrfcas/Uni3C)
 - [UdioAI](https://udioai.ai/)
 - [UpScayl](https://www.upscayl.org/)

@@ -5,6 +5,7 @@
 ### AI
 - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
 - [Dia](https://github.com/nari-labs/dia)
+- [GenKit](https://firebase.google.com/docs/genkit)
 - [js-genai](https://googleapis.github.io/js-genai/)
 - [Mastra](https://mastra.ai)
 
@@ -459,6 +460,7 @@
 
 ### Requisição
 - [GOT](https://github.com/sindresorhus/got)
+- [ORPC](https://orpc.unnoq.com/)
 - [TRPC](https://trpc.io/)
   - [trpc-panel](https://www.npmjs.com/package/trpc-panel)
 

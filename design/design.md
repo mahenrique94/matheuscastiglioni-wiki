@@ -53,6 +53,7 @@
 - [Capture One](https://www.captureone.com/en)
 - [Canva](canva.com)
 - [Clipchamp](https://clipchamp.com/en/windows-video-editor/)
+- [Clo3D](https://www.clo3d.com/en/)
 - [Corona](https://corona-renderer.com/download)
 - [Darktable](https://www.darktable.org/)
 - [Draftbit](https://draftbit.com/)
