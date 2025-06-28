@@ -79,6 +79,7 @@
 - Testar diferentes combinações de fontes ([https://fontflipper.com/](https://fontflipper.com/))
 - Testar padrões de cron ([https://crontab.cronhub.io/](https://crontab.cronhub.io/))
 - Testar paleta de cores ([https://realtimecolors.com/](https://realtimecolors.com/))
+- Testar periféricos ([https://hardwaretester.com/](https://hardwaretester.com/))
 - Teste de conhecimento, entenda seu perfil em como gosta de aprender ([http://www.cchla.ufpb.br/ccmd/aprendizagem/](http://www.cchla.ufpb.br/ccmd/aprendizagem/))
 - Teste de digitação ([https://monkeytype.com/](https://monkeytype.com/))
 - Teste de personalidade ([https://www.16personalities.com/](https://www.16personalities.com/))

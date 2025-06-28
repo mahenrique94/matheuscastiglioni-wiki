@@ -2,6 +2,9 @@
 
 ## Bibliotecas
 
+### 3D
+- [Threlte](https://threlte.xyz/)
+
 ### Animaçõess
 - [Svelte Motion](https://github.com/micha-lmxt/svelte-motion)
 

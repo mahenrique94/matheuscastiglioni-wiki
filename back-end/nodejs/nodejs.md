@@ -78,6 +78,7 @@
 ### Authentication
 - [AccessControl](https://github.com/onury/accesscontrol)
 - [Argon2](https://www.npmjs.com/package/argon2)
+- [Arcticjs](https://arcticjs.dev/)
 - [BCryptJS](https://github.com/kelektiv/node.bcrypt.js)
 - [Better Auth](https://www.better-auth.com/)
 - [Clerk](https://clerk.dev/)
@@ -90,6 +91,7 @@
 - [OpenAuth](https://openauth.js.org/)
 - [Ory](https://github.com/ory/keto)
 - [OTPGenerator](https://github.com/Maheshkumar-Kakade/otp-generator)
+- [OsloJS](https://oslojs.dev/)
 - [Passport](https://github.com/jaredhanson/passport)
 - [SCrypt](https://www.npmjs.com/package/scrypt)
 - [Stytch](https://stytch.com/)
@@ -98,6 +100,7 @@
 
 ### Automação
 - [Comby](https://github.com/comby-tools/comby)
+- [Gritql](https://github.com/honeycombio/gritql)
 - [JSCodeShift](https://github.com/facebook/jscodeshift)
 - [Magicast](https://github.com/unjs/magicast)
 - [RobotJS](https://github.com/octalmage/robotjs)
@@ -133,6 +136,9 @@
 ### Clientes REST
 - [Jira.js](https://github.com/MrRefactoring/jira.js)
 
+### Código de Barras
+- [JsBarcode](https://github.com/lindell/JsBarcode)
+
 ### Coleções
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras)
 
@@ -162,6 +168,7 @@
 ### Compactação
 - [Handbrake-js](https://github.com/75lb/handbrake-js)
 - [NodeLZ4](https://github.com/pierrec/node-lz4)
+- [zip-stream](https://www.npmjs.com/package/zip-stream)
 
 ### Compressão
 - [SVGO](https://github.com/svg/svgo)
@@ -340,6 +347,7 @@
 
 ### Node_modules
 - [Npkill](https://npkill.js.org/)
+- [QNM](https://github.com/ranyitz/qnm)
 
 ### Notificação
 - [Node Notifier](https://github.com/mikaelbr/node-notifier)
@@ -461,6 +469,7 @@
 ### Requisição
 - [GOT](https://github.com/sindresorhus/got)
 - [ORPC](https://orpc.unnoq.com/)
+- [Telefunc](https://telefunc.com/)
 - [TRPC](https://trpc.io/)
   - [trpc-panel](https://www.npmjs.com/package/trpc-panel)
 
@@ -484,6 +493,7 @@
 - [Seed](https://github.com/supabase-community/seed)
 
 ### Serialização
+- [seroval](https://github.com/lxsmnsyc/seroval)
 - [superjson](https://github.com/flightcontrolhq/superjson)
 
 ### Script

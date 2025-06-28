@@ -30,6 +30,7 @@
 - [Halfmoon](https://github.com/halfmoonui/halfmoon)
 - [Helios Design System](https://helios.hashicorp.design/)
 - [Helsinki Design System](https://hds.hel.fi/)
+- [KiboUI](https://www.kibo-ui.com/)
 - [KumaUI](https://www.kuma-ui.com/)
 - [Matcha](https://matcha.mizu.sh/)
 - [Materialize CSS](https://materializecss.com/)

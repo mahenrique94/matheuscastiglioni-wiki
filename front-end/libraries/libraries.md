@@ -183,6 +183,7 @@
 ## Cálculos
 - [Big.js](https://github.com/MikeMcl/big.js)
 - [BigNumber.js](https://github.com/MikeMcl/bignumber.js)
+- [Currency.js](https://github.com/scurker/currency.js)
 - [Decimal.js](https://github.com/MikeMcl/decimal.js)
 - [JSBigDecimal](https://github.com/royNiladri/js-big-decimal)
 - [Math.js](https://github.com/josdejong/mathjs)
@@ -492,6 +493,7 @@
 - [SQLFormatter](https://github.com/sql-formatter-org/sql-formatter)
 - [Sugar High](https://sugar-high.vercel.app/)
 - [Syntax](https://syntax.page/)
+- [Syntax Highlight Element](https://github.com/andreruffert/syntax-highlight-element)
 
 ## Formatos de Arquivos
 - [Markdown](https://www.markdownguide.org/)
@@ -675,6 +677,8 @@
 
 ## Lint
 - [CommitLint](https://github.com/conventional-changelog/commitlint)
+  - [conventionalcomments](https://conventionalcomments.org/)
+  - [conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [DangerJS](https://danger.systems/js/)
 - [DeepSource](https://deepsource.io/)
 - [EditorConfig](https://github.com/editorconfig/editorconfig)

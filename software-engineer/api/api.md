@@ -32,6 +32,7 @@
 - [EchoAPI](https://www.echoapi.com/)
 - [Hoppscotch](https://hoppscotch.io/)
 - [HTTPie](https://httpie.io/app)
+- [HURL](https://github.com/Orange-OpenSource/hurl)
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
 - [Posting](https://posting.sh/)
