@@ -36,7 +36,7 @@
 - Emuladores para Nintendo Switch ([https://yuzu-emu.org/](https://yuzu-emu.org/))
 - Fazer download de videos ([https://clipgrab.org/](https://clipgrab.org/))
 - Gerar transcrições para videos ([https://descript.com/](https://descript.com/))
-- Gerenciar calendários ([https://cron.com/](https://cron.com/), [https://www.usemotion.com/](https://www.usemotion.com/))
+- Gerenciar calendários ([https://cron.com/](https://cron.com/), [https://www.usemotion.com/](https://www.usemotion.com/), [https://akiflow.com](https://akiflow.com))
 - Gestão de Janelas ([https://github.com/koekeishiya/yabai](https://github.com/koekeishiya/yabai), [https://nikitabobko.github.io/AeroSpace/guide](https://nikitabobko.github.io/AeroSpace/guide))
 - Gestão de senhas ([https://bitwarden.com/](https://bitwarden.com/), [https://www.lastpass.com](https://www.lastpass.com), [https://1password.com/](https://1password.com/), [https://www.passbolt.com/](https://www.passbolt.com/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))

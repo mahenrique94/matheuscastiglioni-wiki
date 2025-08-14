@@ -103,6 +103,7 @@
 - [Splunk](https://www.splunk.com/)
 - [Spot](https://spot.io/)
 - [Stackify](https://stackify.com/)
+- [Statsig](https://statsig.com/)
 - [Statuspal](https://www.statuspal.io/)
 - [Telegraf](https://docs.influxdata.com/telegraf/v1.16/)
 - [Uptime Kuma](https://uptime.kuma.pet/)

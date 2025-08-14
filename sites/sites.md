@@ -9,6 +9,7 @@
 - Calculadora baseado em notas ([https://numbr.dev/](https://numbr.dev/))
 - Calculando especificidade CSS ([https://polypane.app/css-specificity-calculator/](https://polypane.app/css-specificity-calculator/))
 - Calcular dias úteis ([https://www.dias-uteis.com/](https://www.dias-uteis.com/))
+- Capturar e compartilhar screenshot ([https://prnt.sc/](https://prnt.sc/))
 - Compartilhar segredos ([https://onetimesecret.com/](https://onetimesecret.com/))
 - Compilador online ([https://godbolt.org/](https://godbolt.org/))
 - Comprar diagramas ([https://text-to-diagram.com/](https://text-to-diagram.com/))

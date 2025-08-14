@@ -63,6 +63,7 @@
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview)
 - [Inkscape](https://inkscape.org/)
 - [InVision](https://www.invisionapp.com/home)
+- [Jitter](https://jitter.video/)
 - [JustSketchMe](https://justsketch.me/)
 - [Krita](https://krita.org/en/)
 - [LookBack](https://lookback.io/)

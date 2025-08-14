@@ -72,7 +72,7 @@
 - [Webex](https://www.webex.com/pt/index.html)
 - [Wimi](https://www.wimi-teamwork.com/)
 - [Workzone](https://www.workzone.com/)
-- [Wrike](https://www.wrike.com/vh/)
+- [Wrike](https://www.wrike.com/)
 - [Zepel](https://zepel.io/)
 - [Zulip](https://zulip.com/)
 

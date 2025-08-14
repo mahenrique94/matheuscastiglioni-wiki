@@ -171,6 +171,7 @@
 ## Plataformas
 - [3DViewer](https://3dviewer.net/)
 - [AppLovin](https://www.applovin.com/)
+- [GameCI](https://game.ci/)
 - [IronSource](https://www.is.com/)
 - [OvaniSound](https://ovanisound.com/)
 - [Poki](https://developers.poki.com/)
@@ -249,6 +250,7 @@
   - [EmberGen](https://jangafx.com/software/embergen/)
   - [GeoGen](https://jangafx.com/software/geogen/)
   - [GTV](https://jangafx.com/software/gametextureviewer/)
+  - [Illugen](https://jangafx.com/software/illugen)
   - [LiquiGen]()
 - [Jawset Postshot](https://www.jawset.com/)
 - [Jinny](https://connect.clo-set.com/jinny)

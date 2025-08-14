@@ -731,6 +731,7 @@
 - [Cesium](https://cesium.com/)
 - [Felt](https://felt.com/)
 - [Google Maps](https://www.google.com/maps)
+- [Leaflet](https://leafletjs.com/)
 - [MapBox](https://www.mapbox.com/)
 - [MapLibre](https://maplibre.org/)
 - [Radar](https://radar.io/)
@@ -881,7 +882,11 @@
 
 ## Sincronização de dados (Sync Engine)
 - [ElectricSQL](https://electric-sql.com/)
+- [InstantDB](https://www.instantdb.com/)
+- [LiveStore](https://livestore.dev/)
 - [localfirstweb](https://localfirstweb.dev/)
+- [PartyKit](https://www.partykit.io/)
+- [PowerSync](https://www.powersync.com/)
 - [TanStack DB](https://github.com/TanStack/db)
 - [Zero](https://zero.rocicorp.dev/)
 

@@ -50,7 +50,7 @@
 ### Componentes
 - [Ant Design](https://github.com/ant-design/ant-design/)
 - [Ark](https://github.com/chakra-ui/ark/)
-- [AriaKit](https://github.com/ariakit/ariakit)
+- [AriaKit](https://ariakit.org/)
 - [Atomize](https://atomizecode.com/)
 - [BluePrintJS](https://blueprintjs.com/)
 - [Catalyst](https://tailwindui.com/templates/catalyst)
