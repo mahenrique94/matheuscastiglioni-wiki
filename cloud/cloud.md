@@ -39,6 +39,7 @@
 - [Mandic](https://www.mandic.com.br/)
 - [Mergent](https://mergent.co/)
 - [Momento](https://www.gomomento.com/)
+- [Motia](https://www.motia.dev/)
 - [Netlify](https://www.netlify.com/)
 - [Nhost](https://nhost.io/)
 - [Northflank](https://northflank.com/)

@@ -20,6 +20,7 @@
 - [PingID](https://apidocs.pingidentity.com/pingid-api/guide/pingid-api/pid_c_PingIDapiAuthentication/)
 - [SuperTokens](https://supertokens.com/)
 - [SSOready](https://github.com/ssoready/ssoready)
+- [WorkOS](https://workos.com/)
 - [Zitadel](https://github.com/zitadel/zitadel)
 
 ## Automação
@@ -27,6 +28,7 @@
   - [Ansible UI](https://www.ansible-semaphore.com/)
 - [BackStage](https://github.com/backstage/backstage)
 - [Chef](https://www.chef.io/products/chef-infra)
+- [Cloudfy](https://www.cloudfy.host/)
 - [EasyCron](https://www.easycron.com/)
 - [GitOps](https://www.gitops.tech/)
   - [ArgoCD](https://argoproj.github.io/argo-cd/)
@@ -35,6 +37,7 @@
   - [Helm Operator](https://github.com/fluxcd/helm-operator)
   - [TerraGrunt](https://github.com/gruntwork-io/terragrunt)
   - [WKSCTL](https://github.com/weaveworks/wksctl)
+- [Inngest](https://www.inngest.com/)
 - [Kestra](https://kestra.io/)
 - [Make](https://www.make.com/en)
 - [Mutagen](https://mutagen.io/)
@@ -182,11 +185,13 @@
     - [Code Factor](https://github.com/marketplace/codefactor)
     - [Code Scene](https://github.com/marketplace/codescene)
     - [Codecov](https://github.com/marketplace/codecov)
+    - [CodeQL](https://codeql.github.com/)
     - [DangerJS](https://danger.systems/js/)
     - [Dependabot](https://github.com/marketplace/dependabot-preview)
     - [GH Archive](https://www.gharchive.org/)
     - [GitGuardian](https://www.gitguardian.com/)
     - [Project planning for developers](https://github.com/features/issues)
+    - [Pullnotifier](https://pullnotifier.com/)
     - [SonarCloud](https://sonarcloud.io/)
     - [Stale](https://github.com/marketplace/stale)
     - [Semaphore](https://github.com/marketplace/semaphore)
@@ -359,8 +364,11 @@
 - [Wildfly](https://www.wildfly.org/)
 
 ## Storage
+- [AWS S3](https://aws.amazon.com/s3/)
 - [BackBlaze](https://www.backblaze.com/)
 - [Ceph](https://www.redhat.com/en/technologies/storage/ceph)
+- [Flexify](https://flexify.io/)
+- [Min](https://www.min.io/)
 - [pCloud](https://www.pcloud.com/)
 - [Upload Thing](https://uploadthing.com/)
 

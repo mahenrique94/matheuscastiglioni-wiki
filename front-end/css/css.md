@@ -58,6 +58,8 @@
   - [Tailwind Play](https://play.tailwindcss.com/)
   - [Tailwind Variants](https://www.tailwind-variants.org/)
 - [Shadcn](https://ui.shadcn.com/)
+  - [Admin Kit](https://marmelab.com/shadcn-admin-kit)
+  - [Tailark](https://tailark.com/mist)
 - [SupportsCSS](https://supportscss.dev/)
 - [UI5 components](https://sap.github.io/ui5-webcomponents/)
 - [UIKit](https://getuikit.com/)

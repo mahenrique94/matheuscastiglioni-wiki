@@ -42,5 +42,8 @@
 - [Xh](https://github.com/ducaale/xh)
 - [Yaak](https://yaak.app/)
 
+## Plataformas
+- [Evolution API](https://doc.evolution-api.com/v1/pt/get-started/introduction)
+
 ## Videos
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)

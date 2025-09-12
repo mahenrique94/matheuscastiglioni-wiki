@@ -42,6 +42,7 @@
 - [Dapper](https://lightstep.com/dapper/)
 - [Dash0](https://www.dash0.com/)
 - [DataDog](https://www.datadoghq.com/)
+- [DataFast](https://datafa.st/)
 - [DeepSource](https://deepsource.io/)
 - [DynaTrace](https://www.dynatrace.com/)
 - [ElvenWorks](https://elven.works/pt/)

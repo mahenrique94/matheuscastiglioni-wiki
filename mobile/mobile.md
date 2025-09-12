@@ -14,6 +14,9 @@
 ## Console
 - [Eruda](https://github.com/liriliri/eruda)
 
+## Emuladores
+- [Appetize](https://appetize.io/)
+
 ## Hibrido (Multi Plataforma)
 - [Capacitor](https://github.com/ionic-team/capacitor)
 - [Cordova/Phonegap](https://cordova.apache.org/)
@@ -35,6 +38,9 @@
 ## Nativo
 - [Android](https://developer.android.com/)
 - [iOS](https://developer.apple.com/)
+
+## Programas
+- [Icon Composer](https://developer.apple.com/icon-composer/)
 
 ## Segurança
 - [Frida](https://frida.re/)

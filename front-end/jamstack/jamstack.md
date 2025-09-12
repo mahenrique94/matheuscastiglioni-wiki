@@ -39,6 +39,7 @@ https://jamstack.org
   - [Glass.js](https://useglass.ai/)
   - [NextAuth](https://next-auth.js.org/)
   - [Next Safe Action](https://next-safe-action.dev/)
+  - [Next Video](https://github.com/muxinc/next-video)
   - [Nookies](https://github.com/maticzav/nookies)
   - [Nuqs](https://nuqs.47ng.com/)
   - [Plasmic](https://www.plasmic.app/)

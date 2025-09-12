@@ -3,6 +3,7 @@
 - [APP Ideas](https://github.com/florinpop17/app-ideas)
 - [Checklist Front-End](https://github.com/thedaviddias/Front-End-Checklist)
 - [Component Party](https://component-party.dev/)
+- [Components Work](https://components.work/)
 - [FiraCode](https://github.com/tonsky/FiraCode)
 - [How Web Works](https://github.com/vasanthk/how-web-works)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)

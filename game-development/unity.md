@@ -9,5 +9,9 @@
 - [LeanTween](https://github.com/dentedpixel/LeanTween)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween)
 
+### Injeção de Dependência
+- [VContainer](https://github.com/hadashiA/VContainer)
+- [Zenject](https://github.com/modesttree/Zenject)
+
 ### UI
 - [PanGUI](https://pangui.io/)

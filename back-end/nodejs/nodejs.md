@@ -272,6 +272,7 @@
 
 ### Imagens
 - [image-size](https://github.com/image-size/image-size)
+- [Image.js](https://github.com/image-js/image-js)
 - [Jimp](https://github.com/jimp-dev/jimp)
 - [OpenCV](https://docs.opencv.org/)
   - [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)
@@ -335,6 +336,9 @@
 - [Retool](https://retool.com/api-generator)
 - [Zimic](https://github.com/zimicjs/zimic)
 
+### MFA
+- [OTPLib](https://github.com/yeojz/otplib)
+
 ### Migrations
 - [DBMate](https://github.com/amacneil/dbmate)
 - [PostgratorCLI](https://github.com/MattiLehtinen/postgrator-cli)
@@ -361,6 +365,7 @@
 - [Better SQLite3](https://github.com/WiseLibs/better-sqlite3)
 - [BookShelf](https://bookshelfjs.org/)
 - [Drizzle](https://github.com/drizzle-team/drizzle-orm)
+  - [drizzle-zod](https://www.npmjs.com/package/drizzle-zod)
 - [Kysely](https://github.com/kysely-org/kysely)
 - [Mongoose](https://github.com/Automattic/mongoose)
   - [Historical](https://github.com/stennettm/historical)
@@ -435,6 +440,7 @@
 - [JSDOM](https://github.com/jsdom/jsdom)
 - [Node Tap](https://github.com/tapjs/node-tap)
 - [QUnit](https://qunitjs.com/)
+- [Suites](https://suites.dev/)
 - [Supertest](https://github.com/visionmedia/supertest)
 - [UVU](https://github.com/lukeed/uvu)
 - [Wacat](https://github.com/mikesmallhelp/wacat)
@@ -448,6 +454,7 @@
 - [Bull](https://github.com/OptimalBits/bull)
 - [BullMQ](https://docs.bullmq.io/)
 - [PG Boss](https://github.com/timgit/pg-boss)
+- [Sidequest.js](https://sidequestjs.com)
 
 ### QRCode
 - [Node QRCode](https://github.com/soldair/node-qrcode)
