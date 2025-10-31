@@ -458,6 +458,7 @@
 - [EmojisPlosion](https://github.com/JoshuaKGoldberg/emojisplosion)
 
 ## Engines
+- [Andromeda](https://tryandromeda.dev)
 - [Bare](https://bare.pears.com/)
 - [Bun](https://bun.sh/)
   - [Elysia](https://elysiajs.com/)
@@ -492,6 +493,7 @@
 - [HighLight](highlight.js)
 - [Prism](https://prismjs.com/)
 - [Refractor](https://github.com/wooorm/refractor)
+- [Rehype Pretty](https://rehype-pretty.pages.dev/)
 - [Shiki](https://github.com/shikijs/shiki)
 - [SQLFormatter](https://github.com/sql-formatter-org/sql-formatter)
 - [Sugar High](https://sugar-high.vercel.app/)
@@ -579,6 +581,7 @@
 
 ## GraphQL
 - [genQL](https://genql.dev/)
+- [Graffle](https://graffle.js.org/)
 - [Houdini](https://www.houdinigraphql.com/)
 - [URQL](https://formidable.com/open-source/urql/)
 
@@ -800,6 +803,7 @@
 
 ## PDF
 - [HTML2PDF](https://html2pdf.com/)
+- [PDF.js](https://mozilla.github.io/pdf.js/)
 - [PDFKit](https://github.com/foliojs/pdfkit)
 - [PDFMake](https://github.com/bpampuch/pdfmake)
 - [Print.js](https://github.com/crabbly/Print.js)

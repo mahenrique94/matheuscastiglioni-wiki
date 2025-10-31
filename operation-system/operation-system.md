@@ -7,11 +7,12 @@
 - [Arch Linux](https://www.archlinux.org/)
 - [Elementary OS](https://elementary.io/pt_BR/)
 - [Endeavour OS](https://endeavouros.com/)
-- [Mint](https://linuxmint.com/)
-- [Ubuntu](https://ubuntu.com/)
-- [Kubuntu](https://kubuntu.org/)
 - [FreeBSD](https://www.freebsd.org/)
+- [Mint](https://linuxmint.com/)
 - [Kali Linux](https://www.kali.org/)
+- [Kubuntu](https://kubuntu.org/)
+- [Omarchy](https://omarchy.org/)
+- [Ubuntu](https://ubuntu.com/)
 - [Whonix](https://www.whonix.org/)
 
 ### Ferramentas

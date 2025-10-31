@@ -46,6 +46,7 @@
 - [Public API's](https://github.com/public-apis/public-apis)
 - [Sli.dev](https://sli.dev/)
 - [Small Dev Tools](https://smalldev.tools/)
+- [Standard Schema](https://standardschema.dev/)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [TanStack](https://tanstack.com)
   - [TanStack Config](https://tanstack.com/config/latest)

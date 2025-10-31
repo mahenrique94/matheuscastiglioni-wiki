@@ -190,6 +190,7 @@
     - [Dependabot](https://github.com/marketplace/dependabot-preview)
     - [GH Archive](https://www.gharchive.org/)
     - [GitGuardian](https://www.gitguardian.com/)
+    - [NPM Publish](https://github.com/JS-DevTools/npm-publish)
     - [Project planning for developers](https://github.com/features/issues)
     - [Pullnotifier](https://pullnotifier.com/)
     - [SonarCloud](https://sonarcloud.io/)

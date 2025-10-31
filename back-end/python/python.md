@@ -20,6 +20,9 @@
 ### App's
 - [Flet](https://flet.dev/)
 
+### CLI
+- [faker-cli](https://pypi.org/project/faker-cli)
+
 ### Comandos Remotos
 - [Fabric](https://github.com/fabric/fabric)
 

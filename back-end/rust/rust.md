@@ -9,6 +9,7 @@
 
 ### API
 - [Loco](https://loco.rs/)
+- [Tokio](https://tokio.rs/)
 
 ### Async
 - [Async](https://docs.rs/async-std/latest/async_std/)

@@ -12,6 +12,7 @@
 ### APIs
 - [ActionHero](https://github.com/actionhero/actionhero)
 - [AdonisJS](https://adonisjs.com/)
+  - [ACE](https://github.com/adonisjs/ace)
 - [Amplication](https://github.com/amplication/amplication)
 - [Blitz](https://blitzjs.com/)
 - [ChiselStrike](https://www.chiselstrike.com/)
@@ -33,6 +34,7 @@
 - [Hapi](https://hapi.dev/)
 - [Herb.js](https://herbsjs.org/)
 - [Hono](https://hono.dev/)
+  - [CLI](https://github.com/honojs/cli)
 - [HyperStackjs](https://hyperstackjs.io/)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Koa](https://koajs.com/)
@@ -73,6 +75,7 @@
   - [AsyncAPI Cupid](https://github.com/asyncapi/cupid)
 
 ### Audio
+- [Mediabunny](https://mediabunny.dev)
 - [OpenAL](https://www.openal.org/)
 
 ### Authentication
@@ -261,6 +264,9 @@
 
 ### Headless BrowserStack
 - [Puppeteer](https://github.com/puppeteer/puppeteer)
+
+### Hash
+- [argon2](https://www.npmjs.com/package/argon2)
 
 ### HTTP
 - [Boom](https://github.com/hapijs/boom)
@@ -595,6 +601,7 @@
 ### Videos
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - [FFMPEG.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+- [Mediabunny](https://mediabunny.dev)
 - [mp4box.js](https://gpac.github.io/mp4box.js)
 - [YouTube.js](https://github.com/LuanRT/YouTube.js)
 - [webm-writer-js](https://github.com/thenickdude/webm-writer-js)

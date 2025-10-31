@@ -42,6 +42,9 @@
 - [Xh](https://github.com/ducaale/xh)
 - [Yaak](https://yaak.app/)
 
+## Protocolos
+- [GRPC](https://grpc.io/)
+
 ## Plataformas
 - [Evolution API](https://doc.evolution-api.com/v1/pt/get-started/introduction)
 
