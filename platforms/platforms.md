@@ -89,7 +89,7 @@
 - Realizar estimativa ágil usando Poker ([https://firepoker.io/](https://firepoker.io/), [https://www.pointrdog.com/](https://www.pointrdog.com/))
 - Realizar pesquisa ([https://www.typeform.com/](https://www.typeform.com/), [https://tally.so/](https://tally.so/), [https://forms.google.com/](https://forms.google.com/))
 - Realizar retros online ([https://funretro.io/](https://funretro.io/), [https://easyretro.io/](https://easyretro.io/))
-- Receber dinheiro do exterior ([https://www.deel.com/](https://www.deel.com/), [https://www.husky.io/](https://www.husky.io/), [https://higlobe.com/](https://higlobe.com/), [https://techfx.com.br/](https://techfx.com.br/), [https://wise.com/](https://wise.com/), [https://www.iugu.com/](https://www.iugu.com/))
+- Receber dinheiro do exterior ([https://www.deel.com/](https://www.deel.com/), [https://www.husky.io/](https://www.husky.io/), [https://higlobe.com/](https://higlobe.com/), [https://techfx.com.br/](https://techfx.com.br/), [https://wise.com/](https://wise.com/), [https://www.iugu.com/](https://www.iugu.com/), [https://ruvo.com/](https://ruvo.com/))
 - Reconhecimento de pessoas ([https://bonusly.com/](https://bonusly.com/))
 - Reuniões online ([https://meet.jit.si/](https://meet.jit.si/))
 - Rodar aplicações à partir de repositórios públicos do Github ([https://runme.io](https://runme.io/))

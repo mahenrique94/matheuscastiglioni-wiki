@@ -12,6 +12,7 @@
 
 ## Plataformas para aprender códigos resolvendo desafios
 - [AlgoExpert](https://www.algoexpert.io/)
+- [Coderpad](https://coderpad.io/)
 - [CodeSignal](https://codesignal.com/)
 - [CodeWars](https://www.codewars.com/)
 - [CSSBattle](https://cssbattle.dev/)

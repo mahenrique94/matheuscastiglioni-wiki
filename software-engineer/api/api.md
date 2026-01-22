@@ -11,6 +11,7 @@
 
 ## Especificações
 - [JSON:API](https://jsonapi.org/)
+- [Toon](https://github.com/toon-format/toon)
 
 ## Ferramentas
 - [HTTP Status Dogs](https://httpstatusdogs.com/)

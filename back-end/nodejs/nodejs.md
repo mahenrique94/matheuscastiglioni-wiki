@@ -205,6 +205,9 @@
 ### Database
 - [LokiJS](https://github.com/techfort/LokiJS)
 
+### Data Fetching
+- [Content Collections](https://www.content-collections.dev/)
+
 ### Debug
 - [NDB](https://github.com/GoogleChromeLabs/ndb)
 
@@ -213,6 +216,7 @@
 
 ### Documentação
 - [Compodoc](https://compodoc.app/guides/getting-started.html)
+- [Fumadocs](https://www.fumadocs.dev/)
 - [Swagger JSDoc](https://github.com/Surnet/swagger-jsdoc)
 - [TypeSpec](https://typespec.io/)
 
@@ -226,10 +230,12 @@
 - [EverShop](https://evershop.io/)
 - [Saleor](https://saleor.io/)
 - [Swell](https://www.swell.is/)
+- [Vendure](https://vendure.io/)
 
 ### Email
 - [Emailjs](https://www.emailjs.com/)
 - [Heml](https://github.com/SparkPost/heml)
+- [MailAPI](https://mailapi.dev/)
 - [Mailgun](https://www.mailgun.com/)
 - [Mailjet](https://www.mailjet.com/)
 - [Maizzle](https://maizzle.com/)
@@ -445,6 +451,7 @@
 - [Japa](https://japa.dev/docs)
 - [JSDOM](https://github.com/jsdom/jsdom)
 - [Node Tap](https://github.com/tapjs/node-tap)
+- [Poku](https://poku.io/docs)
 - [QUnit](https://qunitjs.com/)
 - [Suites](https://suites.dev/)
 - [Supertest](https://github.com/visionmedia/supertest)
@@ -457,8 +464,10 @@
 - [Kysely](https://kysely.dev/)
 
 ### Queue
+- [bee-queue](https://github.com/bee-queue/bee-queue)
 - [Bull](https://github.com/OptimalBits/bull)
 - [BullMQ](https://docs.bullmq.io/)
+- [Faktory](https://github.com/contribsys/faktory)
 - [PG Boss](https://github.com/timgit/pg-boss)
 - [Sidequest.js](https://sidequestjs.com)
 

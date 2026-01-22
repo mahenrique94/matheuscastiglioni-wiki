@@ -43,6 +43,7 @@
 - [Erasure Coding](https://www.geeksforgeeks.org/erasure-coding-in-system-design/)
 - [Event-bus](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Event Driven Architecture](https://microservices.io/patterns/data/event-driven-architecture.html)
+  - [Cloud Events](https://cloudevents.io/)
   - [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
   - [Event Carried State Transfer](https://martinfowler.com/articles/201701-event-driven.html)
   - [Event Collaboration](https://martinfowler.com/eaaDev/EventCollaboration.html)

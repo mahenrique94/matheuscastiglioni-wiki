@@ -81,6 +81,7 @@
 - [BuildKite](https://buildkite.com/)
 - [Circle CI](https://circleci.com/)
 - [Concourse](https://concourse-ci.org/)
+- [Depot](https://depot.dev/)
 - [CruiseControl](http://cruisecontrol.sourceforge.net/)
 - [DPL](https://github.com/travis-ci/dpl)
 - [Foresight](https://www.runforesight.com/)
@@ -112,6 +113,8 @@
 ## Containers/Virtualização
 - [Buildah](https://buildah.io/)
 - [Cycle](https://cycle.io/)
+- [Devbox](https://www.jetify.com/devbox)
+  - [Nixhub](https://www.nixhub.io/)
 - [DCOS](https://dcos.io/)
 - [Docker](https://www.docker.com/)
   - [Apache Mesos](http://mesos.apache.org/)
@@ -121,6 +124,7 @@
   - [Colima](https://github.com/abiosoft/colima)
   - [Cycle](https://cycle.io/)
   - [Dive](https://github.com/wagoodman/dive)
+  - [Docker MCP Catalog](https://hub.docker.com/mcp)
   - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - [DockStation](https://github.com/DockStation/dockstation)
   - [Hadolint](https://github.com/hadolint/hadolint)
@@ -176,6 +180,7 @@
 ## Controle de Versão
 - [Git](https://git-scm.com/)
   - [BitBucket](https://bitbucket.org/)
+  - [Codeberg](https://codeberg.org/)
   - [Delta CLI](https://github.com/dandavison/delta)
   - [GitDash](https://gitdash.dev/)
   - [GitGist](https://gist.github.com/)
@@ -206,6 +211,7 @@
   - [GitPod](https://gitpod.io/)
   - [GitSense](https://gitsense.com/)
   - [Lazygit](https://github.com/jesseduffield/lazygit)
+  - [P4 (Helix Core)](https://www.perforce.com/products/helix-core0)
   - [pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new)
   - [VSFForGit](https://github.com/microsoft/VFSForGit)
 - [Sapling](https://sapling-scm.com/)
@@ -343,11 +349,13 @@
 - [Shell Script](https://pt.wikipedia.org/wiki/Shell_script)
 
 ## Segredos
+- [Doppler](https://www.doppler.com/)
 - [Infisical](https://infisical.com/)
 
 ## Segurança
 - [SOPS](https://github.com/mozilla/sops)
 - [Trivy](https://aquasecurity.github.io/trivy)
+- [Arcjet](https://arcjet.com/)
 
 ## Servidores
 - [Apache](https://www.apache.org/)
@@ -368,6 +376,7 @@
 - [AWS S3](https://aws.amazon.com/s3/)
 - [BackBlaze](https://www.backblaze.com/)
 - [Ceph](https://www.redhat.com/en/technologies/storage/ceph)
+- [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/)
 - [Flexify](https://flexify.io/)
 - [Min](https://www.min.io/)
 - [pCloud](https://www.pcloud.com/)

@@ -44,6 +44,8 @@
 - Gestão de senhas ([https://bitwarden.com/](https://bitwarden.com/), [https://www.lastpass.com](https://www.lastpass.com), [https://1password.com/](https://1password.com/), [https://www.passbolt.com/](https://www.passbolt.com/))
 - Gravar vídeo do terminal ([https://asciinema.org/](https://asciinema.org/))
 - Graver tela ([OBS](https://obsproject.com/), [https://recordscreen.io/](https://recordscreen.io/), [Tella](https://www.tella.tv/), [https://screen.studio/](https://screen.studio/))
+- Manipular PDFs ([https://www.bentopdf.com/](https://www.bentopdf.com/))
+- Motor para executar códigos ([https://github.com/engineer-man/piston](https://github.com/engineer-man/piston))
 - Navegadores para desenvolvedores e designers ([https://sizzy.co/](https://sizzy.co/), [https://blisk.io/](https://blisk.io/), [https://www.lambdatest.com/lt-browser](https://www.lambdatest.com/lt-browser), [https://polypane.app/](https://polypane.app/), [https://responsively.app/](https://responsively.app/), [https://www.webmobilefirst.com/en/](https://www.webmobilefirst.com/en/))
 - Otimizar imagens em tempo real ([https://imagekit.io/](https://imagekit.io/))
 - Otimizar vídeos ([https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake))

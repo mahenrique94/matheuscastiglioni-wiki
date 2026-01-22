@@ -153,6 +153,7 @@
 - [Kitbash3D](https://kitbash3d.com/collections)
 - [LeArtes](https://leartesstudios.com)
   - [Cosmos](https://leartesstudios.com/cosmos)
+- [Lospec](https://lospec.com/)
 - [Mixamo](https://www.mixamo.com/)
 - [Models Resource](https://www.models-resource.com/)
 - [Modding Wiki](https://modding.wiki/en/home)

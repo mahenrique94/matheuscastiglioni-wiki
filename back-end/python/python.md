@@ -84,6 +84,9 @@
 ### String
 - [python-slugify](https://github.com/un33k/python-slugify)
 
+### Tipage
+- [Pyrefly](https://pyrefly.org/)
+
 ### Validação
 - [Pydantic](https://github.com/pydantic/pydantic)
 

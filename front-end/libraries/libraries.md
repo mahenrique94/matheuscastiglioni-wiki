@@ -34,6 +34,7 @@
 - [AutoAnimate](https://auto-animate.formkit.com/)
 - [Barba](https://github.com/barbajs/barba)
 - [Bounce.js](https://github.com/tictail/bounce.js)
+- [Friction](https://friction.graphics/)
 - [Lax.js](https://github.com/alexfoxy/lax.js)
 - [Lottie](https://github.com/airbnb/lottie)
   - [Lottie Web](https://github.com/airbnb/lottie-web)
@@ -48,6 +49,7 @@
 - [Scenejs](https://github.com/daybrush/scenejs)
 - [Shifty](https://github.com/jeremyckahn/shifty)
 - [SmoothStep](https://smoothstep.io/)
+- [Snipcast](https://snipcast.dev/)
 - [Theatrejs](https://www.theatrejs.com/)
 - [Vanta](https://github.com/tengbao/vanta)
 - [Velocity.js](http://velocityjs.org/)
@@ -180,6 +182,9 @@
 - [WMR](https://github.com/preactjs/wmr)
 - [XDM](https://github.com/wooorm/xdm)
 
+## Cache
+- [VarnishCache](https://github.com/varnishcache/varnish-cache)
+
 ## Cálculos
 - [Big.js](https://github.com/MikeMcl/big.js)
 - [BigNumber.js](https://github.com/MikeMcl/bignumber.js)
@@ -196,8 +201,8 @@
 - [Konva](https://github.com/konvajs/konva)
 - [Pixi.js](https://github.com/pixijs/pixi.js)
 
-## Cache
-- [VarnishCache](https://github.com/varnishcache/varnish-cache)
+## Captura de página
+- [Snapdom](https://snapdom.dev/)
 
 ## Changelogs
 - [Changesets](https://github.com/changesets/changesets)
@@ -469,6 +474,7 @@
 - [Graaljs](https://github.com/oracle/graaljs)
 - [Hermes](https://github.com/facebook/hermes)
 - [JSVU](https://github.com/GoogleChromeLabs/jsvu)
+- [MicroQuickJS](https://github.com/bellard/mquickjs)
 - [Nova](https://trynova.dev/)
 - [Porffor](https://porffor.dev/)
 - [QuickJS](https://bellard.org/quickjs/)
@@ -480,6 +486,9 @@
 - [Chroma.js](https://github.com/gka/chroma.js)
 - [Normalize.css](https://github.com/necolas/normalize.css)
 - [Style Observe](https://observe.style/)
+
+## Extensões
+- [Extension.js](https://github.com/extension-js/extension.js)
 
 ## Fluxo
 - [Is](https://github.com/enricomarino/is)
