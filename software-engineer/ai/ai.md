@@ -4,6 +4,8 @@
 - https://www.kaggle.com/
 - https://modelcontextprotocol.io/introduction
 - https://models.dev/
+- https://prompts.chat/
+- https://skills.sh/
 - https://theresanaiforthat.com/
 
 ## Banco de dados
@@ -12,6 +14,7 @@
 ## Bibliotecas
 - [LM Studio](https://lmstudio.ai/)
 - [Mastra](https://mastra.ai)
+- [SpecKit](https://github.com/github/spec-kit)
 - [Video2x](https://github.com/k4yt3x/video2x)
 
 ## Cloud
@@ -38,6 +41,8 @@
   - [Pro]()
   - [Reel]()
 - [AnimPortrait3D](https://onethousandwu.com/animportrait3d.github.io/)
+- [Anything](https://www.anything.com/)
+- [AnythingLLM](https://anythingllm.com/)
 - [Arcads](https://www.arcads.ai/)
 - [Arize](https://arize.com/)
 - [ArtFlow](https://app.artflow.ai/)
@@ -47,6 +52,7 @@
 - [AutoMaker](https://automaker.app/)
 - [AWS Rekognition](https://aws.amazon.com/rekognition/)
 - [Bard](https://bard.google.com/)
+- [Base44](https://base44.com/)
 - [Bezi](https://www.bezi.com/)
 - [Bolt](https://bolt.new/)
 - [Browserbase](https://www.browserbase.com/)
@@ -72,11 +78,13 @@
 - [Dyad](https://www.dyad.sh/)
 - [EbSynth](https://ebsynth.com/)
 - [ElevenLabs](https://elevenlabs.io/)
+- [Emergent](https://app.emergent.sh/landing/br/)
 - [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/)
 - [F5-TTS](https://swivid.github.io/F5-TTS/)
 - [Figma Make](https://www.figma.com/make/)
 - [Firebase Studio](https://firebase.studio)
 - [FireCut](https://firecut.ai/)
+- [Flint](https://www.tryflint.com/)
 - [Flowise AI](https://flowiseai.com/)
 - [FounderStack](https://www.founderstack.ai/)
 - [G-prompter](https://www.g-prompter.com/en)
@@ -99,13 +107,16 @@
 - [Interviewcoder](https://www.interviewcoder.co/)
 - [Jace AI](https://jace.ai/)
 - [Jina AI](https://jina.ai/)
+- [Juless](https://jules.google.com/session)
 - [Junie](https://www.jetbrains.com/junie/)
+- [Kimi K2](https://kimik2.com/)
 - [Kiro](https://kiro.dev/)
 - [Kortex](https://www.kortex.co/)
 - [KREA](https://www.krea.ai/home)
 - [LangChain](https://docs.langchain.com/docs/)
 - [LangFlow](https://www.langflow.org/)
 - [LangGraph](https://www.langchain.com/langgraph)
+- [Leap](https://leap.new/)
 - [Leonardo](https://leonardo.ai/)
 - [Lex](https://lex.page/)
 - [LiveKit](https://livekit.io/)
@@ -134,10 +145,12 @@
   - [OllamaWeb](https://github.com/openwebui-org/openwebui)
 - [Onlook](https://www.onlook.com/)
 - [OpenCode](https://opencode.ai/)
+- [Openclaw](https://openclaw.ai/)
 - [OpenUI](https://github.com/wandb/openui)
 - [OpenWebUI](https://openwebui.com/)
 - [OpenRouter](https://openrouter.ai/)
 - [OpusPro](https://www.opus.pro/)
+- [Orchids](https://www.orchids.app/)
 - [Pareto](https://pareto.io/)
 - [Parity](https://www.tryparity.com/)
 - [PearAI](https://trypear.ai/)
@@ -148,6 +161,7 @@
 - [PlayHT](https://play.ht/use-cases/character-voice-generator/)
 - [PodCastle](https://podcastle.ai/)
 - [Puck](https://puckeditor.com/)
+- [Pydantic AI](https://ai.pydantic.dev/)
 - [Polaris AI](https://polarisai.dev/)
 - [Qoder](https://qoder.com/)
 - [QuickMagic AI](https://www.quickmagic.ai/home)
@@ -161,6 +175,7 @@
 - [Rize](https://rize.io/)
 - [Rodin](https://hyper3d.ai/)
 - [Rodin 3D](https://hyperhuman.deemos.com/rodin)
+- [Rork](https://rork.com/)
 - [RPGGO AI](https://www.rpggo.ai/)
 - [Runway](https://runwayml.com/)
 - [Serif](https://www.serif.ai/)
@@ -169,6 +184,7 @@
 - [Skyreels](https://www.skyreels.ai/home)
 - [SonAuto](https://sonauto.ai/Home)
 - [SounDraw](https://soundraw.io/)
+- [SpeechBrain](https://speechbrain.github.io/)
 - [Speechify](https://speechify.com/)
 - [Spellar AI](https://spellar.ai/)
 - [Spotter](https://join.spotter.la/)
@@ -184,6 +200,7 @@
 - [Tripo3D](https://www.tripo3d.ai/)
 - [v0](https://v0.dev/)
 - [Veed](https://www.veed.io/)
+- [Vibecode](https://www.vibecodeapp.com/)
 - [Videohunt AI](https://videohunt.ai/)
 - [Vidyo](https://vidyo.ai/)
 - [Voice.ai](https://voice.ai/hub/app/free-voice-changer-for-audacity/)

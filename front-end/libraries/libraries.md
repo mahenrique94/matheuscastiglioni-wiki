@@ -577,6 +577,7 @@
 - [Frappe](https://github.com/frappe/charts)
 - [Google Charts](https://developers.google.com/chart/interactive/docs)
 - [GraphVIZ](http://www.graphviz.org/)
+- [Heat.js](https://www.heatjs.com/)
 - [HighCharts](https://github.com/highcharts/highcharts)
 - [JSXGraph](https://jsxgraph.org/wp/index.html)
 - [Lightweight Charts](https://www.tradingview.com/lightweight-charts/)

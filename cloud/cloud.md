@@ -51,6 +51,7 @@
 - [Railway](https://railway.app/)
 - [Render](https://render.com/)
 - [Roboflow](https://roboflow.com/)
+- [Runpod](https://www.runpod.io/)
 - [Scaleway](https://www.scaleway.com/)
 - [Selfh](https://selfh.st/)
 - [Sevalla](https://sevalla.com/)

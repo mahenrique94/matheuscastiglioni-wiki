@@ -51,6 +51,7 @@
 - [GetIt](https://pub.dev/packages/get_it)
 
 ### Links
+- [Stac](https://stac.dev/)
 - [Uni Links](https://pub.dev/packages/uni_links)
 
 ### Logs

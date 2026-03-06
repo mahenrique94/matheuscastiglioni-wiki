@@ -4,6 +4,7 @@
 
 ### AI
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Pydantic AI](https://ai.pydantic.dev/)
 
 ### Ambiente Virtual
 - [VirtualEnv](https://github.com/pypa/virtualenv)

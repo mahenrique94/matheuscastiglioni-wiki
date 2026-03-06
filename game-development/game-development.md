@@ -132,6 +132,7 @@
 - [AudioKinetic](https://www.audiokinetic.com/en/wwise/overview/)
 - [Blender Kit](https://www.blenderkit.com/)
 - [Bluezone](https://www.bluezone-corporation.com/)
+- [Catarse](https://www.catarse.me/)
 - [Catlike Coding](https://catlikecoding.com/)
 - [CGTrader](https://www.cgtrader.com/)
 - [Craftpix](https://craftpix.net/)

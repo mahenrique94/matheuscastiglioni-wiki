@@ -324,6 +324,10 @@
 - [VerneMQ](https://vernemq.com/)
 - [ZeroMQ](https://zeromq.org/)
 
+## Packages
+- [Artifactory](https://jfrog.com/artifactory/)
+- [Repoflow](https://www.repoflow.io/)
+
 ## Permissão
 - [Aserto](https://www.aserto.com/)
 - [AuthZed](https://authzed.com/)

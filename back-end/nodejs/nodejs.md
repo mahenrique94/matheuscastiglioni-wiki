@@ -202,6 +202,9 @@
 ### CRUD
 - [Adminjs](https://github.com/SoftwareBrothers/adminjs)
 
+### Dados
+- [numpyts](https://numpyts.dev/)
+
 ### Database
 - [LokiJS](https://github.com/techfort/LokiJS)
 
@@ -406,6 +409,7 @@
   - [NPM SemVer Calculator](https://semver.npmjs.com/)
   - [NPM Trends](https://www.npmtrends.com/)
   - [NPMS](https://npms.io/)
+  - [NPMX](https://npmx.dev/)
   - [Pkg Size](https://pkg-size.dev/)
   - [Socket.dev](https://socket.dev/)
 - [CNPM](https://github.com/cnpm/cnpm)
@@ -539,6 +543,7 @@
 - [string-ts](https://github.com/gustavoguichard/string-ts)
 
 ### Template Engine
+- [Edgejs](https://edgejs.dev/docs/introduction)
 - [EJS](https://github.com/mde/ejs)
 - [ETA](https://eta.js.org/)
 - [HandleBars](https://github.com/handlebars-lang/handlebars.js)

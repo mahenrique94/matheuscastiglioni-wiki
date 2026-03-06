@@ -30,7 +30,7 @@
 - Comprar jogos com descontos ([https://www.instant-gaming.com/en](https://www.instant-gaming.com/en))
 - Converter moedas ([https://currency.world/convert](https://currency.world/convert), [https://dolarhoje.com/](https://dolarhoje.com/))
 - Criar arquivos gitignore automaticamente ([http://gitignore.io/](http://gitignore.io/))
-- Criar avatars ([http://avatars.adorable.io/](http://avatars.adorable.io/))
+- Criar avatars ([http://avatars.adorable.io/](http://avatars.adorable.io/), [https://www.dicebear.com/](https://www.dicebear.com/))
 - Criar Diagramas e Fluxos ([https://github.com/mermaid-js/mermaid](https://github.com/mermaid-js/mermaid), [https://mermaid.live](https://mermaid.live))
 - Criar tierlists ([https://tiermaker.com/](https://tiermaker.com/))
 - Criptografar SQLs ([https://www.zetetic.net/sqlcipher/](https://www.zetetic.net/sqlcipher/))

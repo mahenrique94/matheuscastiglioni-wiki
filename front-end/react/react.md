@@ -225,6 +225,7 @@
 
 ### Formulário
 - [Formik](https://github.com/formium/formik)
+- [Formity](https://www.formity.app/)
 - [Mantine Form](https://mantine.dev/form/use-form/)
 - [React Final Form](https://final-form.org/react)
 - [React Hook Form](https://react-hook-form.com/)
