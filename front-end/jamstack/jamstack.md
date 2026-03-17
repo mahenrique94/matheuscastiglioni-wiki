@@ -66,6 +66,7 @@ https://jamstack.org
 - [Twenty](https://twenty.com/)
 - [Umi](https://github.com/umijs/umi)
 - [Vike](https://vike.dev/)
+- [Vinext](https://github.com/cloudflare/vinext)
 - [Vinxi](https://github.com/nksaraf/vinxi)
 - [VitePress](https://vitepress.vuejs.org/)
 - [Vocs](https://vocs.dev/)

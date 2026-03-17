@@ -43,6 +43,7 @@
 - [Mojave](https://support.apple.com/kb/DL2011?viewlocale=pt_BR&locale=pt_BR)
 
 ## Shell
+- [cmux](https://www.cmux.dev/)
 - [iTerm2](https://iterm2.com/)
 - [FishShell](https://fishshell.com/)
 - [Ghostty](https://ghostty.org/)

@@ -16,6 +16,9 @@
 - [Hiber](https://hiberworld.com/)
 - [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
 
+### AI
+- [react-grab](https://www.react-grab.com/)
+
 ### Apresentações
 - [MDX Deck](https://github.com/jxnblk/mdx-deck)
 - [Visx](https://airbnb.io/visx)
@@ -155,6 +158,7 @@
 - [Sandpack](https://sandpack.codesandbox.io/)
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 - [Sonner](https://sonner.emilkowal.ski/)
+- [Spell UI](https://spell.sh/)
 - [Supabase UI](https://ui.supabase.io/components/button)
 - [SVGR](https://github.com/gregberge/svgr)
 - [Tamagui](https://tamagui.dev/)
@@ -280,6 +284,9 @@
 ### Imagens
 - [Lightbox.js](https://www.getlightboxjs.com/)
 - [Next Cloudinary](https://next-cloudinary.spacejelly.dev/)
+
+### Lint
+- [react-doctor](https://www.react.doctor/)
 
 ### Mapas
 - [PigeonMaps](https://github.com/mariusandra/pigeon-maps)

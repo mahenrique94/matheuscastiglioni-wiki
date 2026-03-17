@@ -1,12 +1,14 @@
 # AI
 
 - https://aiagentsdirectory.com/landscape
+- https://designsystemsrepo.ai/
 - https://www.kaggle.com/
 - https://modelcontextprotocol.io/introduction
 - https://models.dev/
 - https://prompts.chat/
 - https://skills.sh/
 - https://theresanaiforthat.com/
+- https://webmcp.link/
 
 ## Banco de dados
 - [Min](https://min.io/)
@@ -28,6 +30,7 @@
 - [AdCreativeAI](https://www.adcreative.ai/)
 - [Affine AI](https://affine.pro/)
 - [AgentQL](https://www.agentql.com/)
+- [AgentMail](https://www.agentmail.to/)
 - [AI TDK](https://aitdk.com)
   - [AI TDK SEO Extension](https://aitdk.com/extension)
 - [AidBase](https://www.aidbase.ai/)
@@ -40,6 +43,8 @@
   - [Premier]()
   - [Pro]()
   - [Reel]()
+- [Ami](https://www.ami.dev/)
+- [Anima](https://www.animaapp.com/)
 - [AnimPortrait3D](https://onethousandwu.com/animportrait3d.github.io/)
 - [Anything](https://www.anything.com/)
 - [AnythingLLM](https://anythingllm.com/)
@@ -51,6 +56,7 @@
 - [AudioGen](https://felixkreuk.github.io/audiogen/)
 - [AutoMaker](https://automaker.app/)
 - [AWS Rekognition](https://aws.amazon.com/rekognition/)
+- [Banani](https://www.banani.co/)
 - [Bard](https://bard.google.com/)
 - [Base44](https://base44.com/)
 - [Bezi](https://www.bezi.com/)
@@ -66,6 +72,7 @@
 - [Codeium](https://codeium.com/)
 - [CodeRabbit](https://www.coderabbit.ai/)
 - [Context7](https://context7.com/)
+- [Context Mode](https://context-mode.mksg.lu/)
 - [Copilot](https://github.com/features/copilot)
 - [Crisp](https://crisp.chat/en/)
 - [CSM](https://www.csm.ai/)
@@ -84,6 +91,7 @@
 - [Figma Make](https://www.figma.com/make/)
 - [Firebase Studio](https://firebase.studio)
 - [FireCut](https://firecut.ai/)
+- [Flamel](https://flamel.app/)
 - [Flint](https://www.tryflint.com/)
 - [Flowise AI](https://flowiseai.com/)
 - [FounderStack](https://www.founderstack.ai/)
@@ -96,6 +104,7 @@
 - [Google Jules](https://jules.google/)
 - [Google Vids](https://workspace.google.com/products/vids/)
 - [Goose](https://block.github.io/goose/)
+- [Grafbase](https://grafbase.com/)
 - [Granola](https://www.granola.ai/)
 - [Graphite](https://graphite.dev/)
 - [HeyGen](https://www.heygen.com/)
@@ -122,6 +131,7 @@
 - [LiveKit](https://livekit.io/)
 - [Llama](https://ai.meta.com/llama)
   - [Llama Index](https://www.llamaindex.ai/)
+- [Loki](https://loki.build/)
 - [Lovable](https://lovable.dev/)
 - [LumaLabs](https://lumalabs.ai/)
 - [Lyrebird](https://www.descript.com/lyrebird)
@@ -132,6 +142,7 @@
 - [MidJourney](https://www.midjourney.com/home)
 - [Midscenejs](https://midscenejs.com/)
 - [Mintlify](https://www.mintlify.com/)
+- [MistralAI](https://mistral.ai/)
 - [Mocku](https://mocku.co/)
 - [Motiff](https://www.motiff.com/)
 - [Motion](https://www.usemotion.com)
@@ -139,6 +150,7 @@
 - [Mureka AI](https://www.mureka.ai/create)
 - [Murf AI](https://murf.ai/)
 - [MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
+- [NanoClaw](https://nanoclaw.dev/)
 - [Notebook LM AI](https://notebooklm.google/)
 - [Octolens](https://octolens.com/)
 - [Ollama](https://ollama.com/)
@@ -154,8 +166,10 @@
 - [Pareto](https://pareto.io/)
 - [Parity](https://www.tryparity.com/)
 - [PearAI](https://trypear.ai/)
+- [Pencil](https://www.pencil.dev/)
 - [Perplexity](https://www.perplexity.ai/)
 - [Photo AI](https://www.topazlabs.com/topaz-photo-ai)
+- [Pi.dev](https://pi.dev/)
 - [Pieces](https://pieces.app/)
 - [Plask](https://plask.ai/)
 - [PlayHT](https://play.ht/use-cases/character-voice-generator/)
@@ -171,6 +185,7 @@
 - [Recraft](https://www.recraft.ai/)
 - [Replit AI](https://replit.com/ai)
 - [Retool](https://retool.com/)
+- [Reve](https://app.reve.com/)
 - [Rix](https://hashnode.com/rix)
 - [Rize](https://rize.io/)
 - [Rodin](https://hyper3d.ai/)
@@ -178,10 +193,12 @@
 - [Rork](https://rork.com/)
 - [RPGGO AI](https://www.rpggo.ai/)
 - [Runway](https://runwayml.com/)
+- [Sentra](https://www.sentra.io/)
 - [Serif](https://www.serif.ai/)
 - [ShipKitAI](https://www.shipkit.ai/)
 - [Simplified](https://simplified.com/)
 - [Skyreels](https://www.skyreels.ai/home)
+- [Snowplow](https://snowplow.io/)
 - [SonAuto](https://sonauto.ai/Home)
 - [SounDraw](https://soundraw.io/)
 - [SpeechBrain](https://speechbrain.github.io/)

@@ -132,6 +132,7 @@
 - [Parcel](https://github.com/parcel-bundler/parcel)
 - [Parsel](https://github.com/LeaVerou/parsel)
 - [PkgRoll](https://github.com/privatenumber/pkgroll)
+- [Portless](https://github.com/vercel-labs/portless)
 - [Rehype](https://github.com/rehypejs/rehype)
   - [rehype-prism-plus](https://github.com/timlrx/rehype-prism-plus)
 - [Remarkjs](https://github.com/remarkjs/remark)
@@ -167,6 +168,7 @@
 - [Turbopack](https://turbo.build/pack)
 - [Turborepo](https://turbo.build/)
 - [Vite](https://github.com/vitejs/vite)
+  - [Vite+](https://viteplus.dev/)
   - [Vitest](https://vitest.dev/)
   - [vite-bundle-visualizer](https://github.com/KusStar/vite-bundle-visualizer)
 - [Webpack](https://webpack.js.org/)
@@ -817,6 +819,7 @@
 - [PDFKit](https://github.com/foliojs/pdfkit)
 - [PDFMake](https://github.com/bpampuch/pdfmake)
 - [Print.js](https://github.com/crabbly/Print.js)
+- [VMPrint](https://github.com/cosmiciron/vmprint)
 
 ## Planilhas
 - [SheetJS](https://github.com/SheetJS/sheetjs)

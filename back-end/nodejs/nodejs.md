@@ -527,6 +527,9 @@
 - [Wireit](https://github.com/google/wireit)
 - [ZX](https://github.com/google/zx)
 
+### Streams
+- [experimental-fast-webstreams](https://www.npmjs.com/package/experimental-fast-webstreams)
+
 ### Secret Manager
 - [Infisical](https://infisical.com/)
 

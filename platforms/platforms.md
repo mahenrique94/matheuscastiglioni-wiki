@@ -9,7 +9,7 @@
 - Assinatura de documentos online ([https://www.clicksign.com/](https://www.clicksign.com/), [https://d4sign.com.br/](https://d4sign.com.br/), [https://www.docusign.com/](https://www.docusign.com/), [https://www.docuseal.co/](https://www.docuseal.co/))
 - Automação de casa ([https://fezvrasta.github.io/cafe/](https://fezvrasta.github.io/cafe/))
 - Automatizar respostas para clientes ([https://rasa.com/](https://rasa.com/), [https://respond.io](https://respond.io))
-- Banco de dados como planilhas ([https://nocodb.com/](https://nocodb.com/))
+- Banco de dados como planilhas ([https://nocodb.com/](https://nocodb.com/), [https://www.getgrist.com/](https://www.getgrist.com/))
 - Call for paper ([https://sessionize.com/](https://sessionize.com/))
 - CDN global para npm ([https://unpkg.com/](https://unpkg.com/), [https://www.skypack.dev/](https://www.skypack.dev/))
 - Chamadas remotas ([https://usetalk.io/](https://usetalk.io/))

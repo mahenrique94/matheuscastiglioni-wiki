@@ -53,6 +53,7 @@
 - [Roboflow](https://roboflow.com/)
 - [Runpod](https://www.runpod.io/)
 - [Scaleway](https://www.scaleway.com/)
+- [Seenode](https://seenode.com/)
 - [Selfh](https://selfh.st/)
 - [Sevalla](https://sevalla.com/)
 - [Sliplane](https://sliplane.io/)
@@ -67,6 +68,7 @@
 - [Umbler](https://umbler.com/)
 - [Unkey](https://www.unkey.com/)
 - [Vercel](https://vercel.com/)
+- [Void](https://void.cloud/)
 - [Vultr](https://www.vultr.com/)
 
 ## Serviços
