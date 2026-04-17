@@ -234,7 +234,8 @@
 - [Embergen](https://jangafx.com/software/embergen/)
 - [Face FX](https://facefx.com/)
 - [FaceGen](https://facegen.com/)
-- [FaceWare](https://facewaretech.com/software/retargeter/)
+- [FaceWare](https://facewaretech.com/software/retargeter/)\
+- [FashionGen](https://www.reallusion.com/character-creator/fashiongen/)
 - [FiberShop](https://cgpal.com/fibershop/)
 - [FL Studio](https://www.image-line.com/fl-studio/)
 - [Flix](https://www.foundry.com/products/flix)

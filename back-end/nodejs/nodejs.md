@@ -126,6 +126,7 @@
 - [TinyBench](https://github.com/tinylibs/tinybench)
 
 ### Bot
+- [Chat SDK](https://chat-sdk.dev/)
 - [Discord.js](https://discord.js.org/)
 - [Discord.js Bot](https://github.com/saiteja-madha/discord-js-bot)
 
@@ -340,8 +341,9 @@
 - [Winston](https://github.com/winstonjs/winston)
 
 ### Machine Learning
-- [transformers.js](https://github.com/xenova/transformers.js/)
 - [js-pytorch](https://github.com/eduardoleao052/js-pytorch)
+- [micro-ml](https://github.com/AdamPerlinski/micro-ml)
+- [transformers.js](https://github.com/xenova/transformers.js/)
 
 ### Mock
 - [Mocky](https://github.com/julien-lafont/Mocky)
@@ -555,6 +557,9 @@
 - [Pug](https://github.com/pugjs/pug)
   - [Pug Lint](https://github.com/pugjs/pug-lint)
 - [Squirrelly](https://squirrelly.js.org/)
+
+### Text-To-Speech
+- [tiny-tts](https://github.com/tronghieuit/tiny-tts)
 
 ### Threads
 - [Piscina](https://github.com/piscinajs/piscina)

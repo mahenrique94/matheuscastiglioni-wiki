@@ -7,6 +7,7 @@
 
 ### Animações
 - [LeanTween](https://github.com/dentedpixel/LeanTween)
+- [LitMotion](https://annulusgames.github.io/LitMotion/)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween)
 
 ### Injeção de Dependência

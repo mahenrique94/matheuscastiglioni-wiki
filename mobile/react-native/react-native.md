@@ -90,6 +90,9 @@
 ### Layout
 - [Yoga](https://github.com/facebook/yoga)
 
+### Machine Learning
+- [react-native-executorch](https://github.com/software-mansion/react-native-executorch)
+
 ### Mapas
 - [React Native Maps](https://github.com/react-native-maps/react-native-maps)
 

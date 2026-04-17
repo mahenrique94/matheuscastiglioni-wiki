@@ -33,6 +33,7 @@
 - [Animotion](https://github.com/animotionjs/animotion)
 - [AutoAnimate](https://auto-animate.formkit.com/)
 - [Barba](https://github.com/barbajs/barba)
+- [Boneyard](https://github.com/0xGF/boneyard)
 - [Bounce.js](https://github.com/tictail/bounce.js)
 - [Friction](https://friction.graphics/)
 - [Lax.js](https://github.com/alexfoxy/lax.js)
@@ -62,10 +63,14 @@
 - [Slidev](https://sli.dev/)
 
 ## AR/VR
+- [A-Frame](https://aframe.io/docs/1.7.0/primitives/a-sky.html)
 - [EtherealEngine](https://www.etherealengine.org/)
 - [HyperCube](https://github.com/hypercube-lab/hypercube)
 - [JanusVR](https://janusvr.com/)
+- [Marzipano](https://www.marzipano.net/)
 - [OMI Group](https://omigroup.org/)
+- [Pannellum](https://pannellum.org/)
+- [Photo Sphere Viewer](https://photo-sphere-viewer.js.org/)
 - [Webaverse](https://webaverse.com/)
 - [WebXR Device API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 
@@ -300,6 +305,7 @@
 - [ForgoJS](https://forgojs.org/)
 - [FrankenUI](https://www.franken-ui.dev/)
 - [FullPage](https://github.com/alvarotrigo/fullPage.js)
+- [Gea](https://geajs.com/?ck_subscriber_id=240094009)
 - [HeadRoom.js](https://github.com/WickyNilliams/headroom.js)
 - [HeroUI](https://www.heroui.com/)
 - [HTMX](https://htmx.org/)
@@ -506,6 +512,7 @@
 - [Refractor](https://github.com/wooorm/refractor)
 - [Rehype Pretty](https://rehype-pretty.pages.dev/)
 - [Shiki](https://github.com/shikijs/shiki)
+  - [Shiki Magic Move](https://shiki-magic-move.netlify.app/)
 - [SQLFormatter](https://github.com/sql-formatter-org/sql-formatter)
 - [Sugar High](https://sugar-high.vercel.app/)
 - [Syntax](https://syntax.page/)
@@ -844,6 +851,7 @@
 - [RxJS](https://github.com/ReactiveX/rxjs)
 
 ## Realtime
+- [Daily](https://www.daily.co/)
 - [Geckos](https://github.com/geckosio/geckos.io)
 - [LiveBlocks](https://liveblocks.io/)
 - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)

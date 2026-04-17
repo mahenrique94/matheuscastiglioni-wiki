@@ -85,6 +85,7 @@
 - [OpenTelemetry](https://opentelemetry.io/)
 - [OpsEngine](https://www.atlassian.com/software/opsgenie)
 - [Orb](https://orb.net/)
+- [PagerDuty](https://www.pagerduty.com/)
 - [Perfetto](https://perfetto.dev/)
 - [Periskop](https://periskop-dev.github.io/periskop/)
 - [PingDom](https://www.pingdom.com/)

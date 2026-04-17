@@ -51,6 +51,7 @@
 - Doações e apoios da comunidade ([https://apoia.se/](https://apoia.se/), [https://www.patreon.com/pt-BR](https://www.patreon.com/pt-BR), [https://ko-fi.com/](https://ko-fi.com/))
 - Editor de texto colaborativo online ([https://etherpad.org/](https://etherpad.org/))
 - Email marketing ([https://mailchimp.com/](https://mailchimp.com/), [https://moosend.com/](https://moosend.com/), [https://substack.com/](https://substack.com/), [https://bentonow.com/](https://bentonow.com/), [https://postmarkapp.com/](https://postmarkapp.com/), [https://useplunk.com](https://useplunk.com), [https://www.mautic.org/](https://www.mautic.org/), [https://www.braze.com/](https://www.braze.com/), [https://www.beehiiv.com/](https://www.beehiiv.com/), [https://kit.com](https://kit.com), [https://www.brevo.com/](https://www.brevo.com/))
+- ERP para comércios ([https://www.suitable.com.br/produto/index.html](https://www.suitable.com.br/produto/index.html))
 - Escrever códigos JavaScript de forma interativa ([https://natto.dev/](https://natto.dev/))
 - Ferramenta para regressão visual (UI tests) ([https://applitools.com/](https://applitools.com/), [https://www.chromatic.com/](https://www.chromatic.com/), [https://percy.io/](https://percy.io/), [https://screenshotbot.io/](https://screenshotbot.io/))
 - Ferramenta para criar forum ([https://www.discourse.org/](https://www.discourse.org/), [https://flarum.org/](https://flarum.org/), [https://nodebb.org/](https://nodebb.org/))
@@ -108,6 +109,7 @@
 - Testes A/B ([https://github.com/growthbook/growthbook](https://github.com/growthbook/growthbook))
 - Transferências e cotações monetárias ([https://www.remessaonline.com.br/](https://www.remessaonline.com.br/))
 - Transferir arquivos ([https://wetransfer.com/](https://wetransfer.com/))
-- Transformando banco de dados em planilhas inteligentes ([https://www.airtable.com/](https://www.airtable.com/), [https://nocodb.com/](https://nocodb.com/), [https://teable.io/](https://teable.io/))
+- Transformando banco de dados em planilhas inteligentes ([https://www.airtable.com/](https://www.airtable.com/), [https://nocodb.com/](https://nocodb.com/), [https://teable.io/](https://teable.io/), [https://redash.io/](https://redash.io/))
 - Transformar planilhas em aplicações ([https://dynaboard.com/](https://dynaboard.com/))
 - Whiteboard para dinâmicas ([https://www.figma.com/figjam/](https://www.figma.com/figjam/), [https://miro.com/](https://miro.com/), [https://www.mural.co/](https://www.mural.co/), [https://concepts.app/en/](https://concepts.app/en/))
+  
