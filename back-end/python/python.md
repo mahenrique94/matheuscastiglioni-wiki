@@ -44,6 +44,9 @@
 - [Pandas](https://github.com/pandas-dev/pandas)
 - [SciPy](https://github.com/scipy/scipy)
 
+### Gerenciador de Processos
+- [Supervisor](https://github.com/Supervisor/supervisor)
+
 ### Gráficos
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
 - [Plotly](https://github.com/plotly/plotly.py)

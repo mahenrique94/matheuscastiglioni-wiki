@@ -83,6 +83,7 @@
   - [Dalibo Explain](https://explain.dalibo.com/)
   - [PgBouncer](https://www.pgbouncer.org/)
   - [PgPool](https://www.npmjs.com/package/pg-pool)
+  - [PgQue](https://github.com/NikolayS/pgque)
   - [PgVector](https://github.com/pgvector/pgvector)
   - [Postgres App](https://postgresapp.com/)
   - [Postgres BDR](https://www.2ndquadrant.com/en/resources/postgres-bdr-2ndquadrant/)

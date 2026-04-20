@@ -11,6 +11,7 @@
 - [Cannon.js](https://schteppe.github.io/cannon.js/)
 - [Cairo](https://www.cairographics.org/)
 - [Deck.gl](https://github.com/visgl/deck.gl)
+- [FluidCAD](https://github.com/Fluid-CAD/FluidCAD)
 - [GPU.js](https://github.com/gpujs/gpu.js)
 - [Mannequin.js](https://github.com/boytchev/mannequin.js)
 - [MatterJS](https://github.com/liabru/matter-js)

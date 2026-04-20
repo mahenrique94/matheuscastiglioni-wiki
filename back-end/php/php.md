@@ -52,7 +52,11 @@
 - [PestPHP](https://pestphp.com/)
 
 ## Jobs
+- [Gearman](https://gearman.org/)
 - [Swoole](https://openswoole.com/)
+
+## Queues
+- [Gearman](https://gearman.org/)
 
 ## Refatoração
 - [Rector](https://getrector.com/)
