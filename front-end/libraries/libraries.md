@@ -20,6 +20,7 @@
 - [Particles.js](https://github.com/VincentGarreau/particles.js/)
 - [Pencil.js](https://github.com/pencil-js/pencil.js)
 - [Three.js](https://github.com/mrdoob/three.js)
+- [TypeGPU](https://docs.swmansion.com/TypeGPU/)
 - [use.GPU](https://gitlab.com/unconed/use.gpu)
 - [SmoothStep](https://smoothstep.io/)
 - [ZDog](https://github.com/metafizzy/zdog)
@@ -295,6 +296,7 @@
 - [Choo](https://github.com/choojs/choo)
 - [CSSDoodle](https://css-doodle.com/)
 - [DiceUI](https://www.diceui.com/)
+- [Diffs](https://diffs.com/)
 - [DnDKit](https://dndkit.com/)
 - [Dragula](https://github.com/bevacqua/dragula)
 - [Driver.js](https://driverjs.com/)
@@ -354,6 +356,7 @@
 - [TextMask](https://github.com/text-mask/text-mask)
 - [TippyJS](https://github.com/atomiks/tippyjs)
 - [Tornis](https://github.com/robb0wen/tornis)
+- [Trees](https://trees.software/)
 - [Typed.js](https://github.com/mattboldt/typed.js)
 - [Typeit](https://github.com/alexmacarthur/typeit)
 - [TWritter.js](https://github.com/ChrisCavs/t-writer.js)
@@ -401,7 +404,9 @@
 - [LogT](https://github.com/sidhantpanda/logt)
 
 ## Desktop
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 - [GTK](https://www.gtk.org/)
+- [Native SDK](https://native-sdk.dev/)
 - [NeutralinoJS](https://neutralino.js.org/#one)
 - [NodeGUI](https://github.com/nodegui/nodegui)
 - [Tauri](https://github.com/tauri-apps/tauri)
@@ -540,6 +545,9 @@
 - [Hygen](https://github.com/jondot/hygen)
 - [Plop](https://github.com/plopjs/plop)
 - [Yeoman](https://yeoman.io/)
+
+## Geometry
+- [Geometric](https://www.harryjstevens.com/geometric/)
 
 ## Gerenciador de Estado
 - [Akita](https://github.com/datorama/akita)
@@ -808,6 +816,9 @@
 ## Onboarding
 - [UserGuiding](https://userguiding.com/)
 
+## Peer-To-Peer
+- [Iroh](https://www.iroh.computer/)
+
 ## Package Manager
 - [mise](https://mise.jdx.dev/)
 - [asdf](https://asdf-vm.com/)
@@ -933,6 +944,12 @@
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
 - [Lage](https://github.com/microsoft/lage)
+
+## Terminal
+- [xtermjs](https://xtermjs.org/)
+
+## Tipagem
+- [Flow](https://flow.org/)
 
 ## Tracing
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js)

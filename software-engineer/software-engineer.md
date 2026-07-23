@@ -1,5 +1,6 @@
 # Engenharia de Software
 
+- [33 JavaScript Concepts](https://33jsconcepts.com/)
 - [50 Projects 50 days](https://github.com/bradtraversy/50projects50days)
 - [50+ Free Awesome Certificates to Earn in 2021](https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g)
 - [ApiLayer](https://apilayer.com/)
@@ -38,6 +39,7 @@
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [Module Counts](http://www.modulecounts.com/)
 - [NamingCheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [Nodebook](https://www.thenodebook.com/)
 - [Omatsuri](https://omatsuri.app/)
 - [Open Source Alternative](https://www.opensourcealternative.to/)
 - [Open Source Software Gallery](https://oss.gallery/)

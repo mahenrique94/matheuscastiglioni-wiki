@@ -18,6 +18,7 @@
 - [Keycloak](https://www.keycloak.org/)
 - [Okta](https://www.okta.com/)
 - [PingID](https://apidocs.pingidentity.com/pingid-api/guide/pingid-api/pid_c_PingIDapiAuthentication/)
+- [OpenFGA](https://openfga.dev/)
 - [SuperTokens](https://supertokens.com/)
 - [SSOready](https://github.com/ssoready/ssoready)
 - [WorkOS](https://workos.com/)
@@ -185,6 +186,7 @@
   - [GitDash](https://gitdash.dev/)
   - [GitGist](https://gist.github.com/)
   - [GitHub](https://github.com/)
+    - [Blacksmith](https://www.blacksmith.sh/)
     - [Codacy](https://github.com/marketplace/codacy)
     - [Code Climate](https://github.com/marketplace/code-climate)
     - [Code Factor](https://github.com/marketplace/codefactor)
@@ -211,6 +213,7 @@
   - [GitPod](https://gitpod.io/)
   - [GitSense](https://gitsense.com/)
   - [Lazygit](https://github.com/jesseduffield/lazygit)
+  - [Lore](https://lore.org/)
   - [P4 (Helix Core)](https://www.perforce.com/products/helix-core0)
   - [pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new)
   - [VSFForGit](https://github.com/microsoft/VFSForGit)
@@ -236,6 +239,7 @@
 - [Optimizely](https://www.optimizely.com/)
 - [Permit](https://www.permit.io/)
 - [Split](https://www.split.io/)
+- [Statsig](https://statsig.com/)
 - [Unleash](https://www.getunleash.io/)
 
 ## Ferramentas

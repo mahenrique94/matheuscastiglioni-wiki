@@ -50,6 +50,8 @@
 - [Hyper](https://hyper.is/)
 - [NuShell](https://www.nushell.sh/)
 - [Warp](https://warp.dev/)
+- [WezTerm](https://wezterm.org/)
+- [WTerm](https://wterm.dev/)
 
 ## Temas
 - [palenight-iterm2](https://github.com/JonathanSpeek/palenight-iterm2)

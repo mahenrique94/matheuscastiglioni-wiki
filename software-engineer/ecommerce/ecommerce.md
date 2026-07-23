@@ -6,5 +6,6 @@
 - [NuvemShop](https://www.nuvemshop.com.br)
 - [PrestaShop](https://www.prestashop.com/en)
 - [Shogun](https://getshogun.com/)
+- [Shop](https://shop.app/)
 - [Shopify](https://www.shopify.com.br/)
 - [WooCommerce](https://woocommerce.com/)

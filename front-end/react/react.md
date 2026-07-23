@@ -24,6 +24,7 @@
 - [Visx](https://airbnb.io/visx)
 
 ### Animações
+- [Animata](https://animata.design/)
 - [Motion](https://github.com/framer/motion)
 - [React Bits](https://www.reactbits.dev/)
 - [React Loading Skeleton](https://github.com/dvtng/react-loading-skeleton)
@@ -94,6 +95,7 @@
 - [React Bits](https://www.reactbits.dev/)
 - [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+- [React Call](https://react-call.desko.dev/)
 - [React Codemirror](https://github.com/uiwjs/react-codemirror)
 - [React Colorful](https://github.com/omgovich/react-colorful)
 - [React Components](http://react-component.github.io/badgeboard/)

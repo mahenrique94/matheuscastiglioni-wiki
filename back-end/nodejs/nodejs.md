@@ -5,6 +5,7 @@
 ### AI
 - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
 - [Dia](https://github.com/nari-labs/dia)
+- [Flue](https://flueframework.com/)
 - [GenKit](https://firebase.google.com/docs/genkit)
 - [js-genai](https://googleapis.github.io/js-genai/)
 - [Mastra](https://mastra.ai)
@@ -113,6 +114,7 @@
 
 ### Banco de Dados
 - [Node Postgres](https://github.com/brianc/node-postgres)
+- [Postgres](https://www.npmjs.com/package/postgres)
 
 ### Benchmark
 - [BenchmarkJS](https://github.com/bestiejs/benchmark.js)
@@ -313,6 +315,7 @@
 - [Tsyringe](https://github.com/microsoft/tsyringe)
 
 ### Instalação
+- [Aube](https://aube.jdx.dev/)
 - [FNM](https://github.com/Schniz/fnm)
 - [N](https://github.com/tj/n)
 - [NVM](https://github.com/nvm-sh/nvm)
@@ -413,6 +416,7 @@
   - [NPMS](https://npms.io/)
   - [NPMX](https://npmx.dev/)
   - [Pkg Size](https://pkg-size.dev/)
+  - [Replacements](https://replacements.fyi/)
   - [Socket.dev](https://socket.dev/)
 - [CNPM](https://github.com/cnpm/cnpm)
 - [JSR](https://jsr.io/)
@@ -425,6 +429,7 @@
 ### Parser
 - [ANTLR4](https://github.com/antlr/antlr4)
 - [Espree](https://github.com/eslint/espree)
+- [html-to-text](https://www.npmjs.com/package/html-to-text)
 - [Meriyah](https://github.com/meriyah/meriyah)
 - [msgpackr](https://github.com/kriszyp/msgpackr)
 - [Node CSV](https://github.com/adaltas/node-csv)
@@ -544,6 +549,9 @@
 - [SQLc](https://sqlc.dev/)
 - [SafeSQL](https://safeql.dev/)
 
+### Storage
+- [storagesdk](https://storagesdk.dev/)
+
 ### String
 - [string-ts](https://github.com/gustavoguichard/string-ts)
 
@@ -592,6 +600,7 @@
 - [Remeda](https://remedajs.com/)
 - [ts-node](https://github.com/TypeStrong/ts-node)
 - [tsx](https://github.com/esbuild-kit/tsx)
+- [tsz](https://tsz.dev/)
 
 ### Utils
 - [Fast Memoize](https://github.com/caiogondim/fast-memoize.js)

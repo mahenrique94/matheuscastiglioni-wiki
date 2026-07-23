@@ -97,6 +97,7 @@
 - [RAMCloud](https://ramcloud.atlassian.net/wiki/spaces/RAM/overview)
 - [RavenDB](https://ravendb.net/)
 - [Redis](https://redis.io/)
+  - [Redis Iris](https://redis.io/iris/)
   - [Twemproxy](https://github.com/twitter/twemproxy)
   - [Valkey](https://valkey.io/)
 - [RethinkDB](https://rethinkdb.com/)

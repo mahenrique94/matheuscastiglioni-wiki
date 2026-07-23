@@ -1,6 +1,9 @@
 # Deno
 https://deno.land/
 
+## Desktop
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+
 ## API
 - [Hono](https://honojs.dev/)
   - [CLI](https://github.com/honojs/cli)

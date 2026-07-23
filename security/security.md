@@ -14,6 +14,7 @@
 
 ## Bibliotecas
 - [Advisor](https://snyk.io/advisor)
+- [Deepsec](https://github.com/vercel-labs/deepsec/)
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 - [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit/)
   - [NPM Audit HTML](https://github.com/eventOneHQ/npm-audit-html)

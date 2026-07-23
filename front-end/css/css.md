@@ -19,6 +19,7 @@
 ## Bibliotecas
 - [Argon](https://demos.creative-tim.com/argon-design-system/index.html)
 - [Atomizer](https://github.com/acss-io/atomizer)
+- [Astryx](https://astryx.atmeta.com/)
 - [BlazeUI](https://www.blazeui.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Buefy](https://buefy.org/)
