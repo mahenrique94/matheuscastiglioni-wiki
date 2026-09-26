@@ -43,6 +43,7 @@
   - [E-commerce](/software-engineer/ecommerce/ecommerce.md)
   - [Estrutura de Dados](/software-engineer/data-structure/data-structure.md)
   - [IDEs](/software-engineer/ides/ides.md)
+  - [Machine Learning](/software-engineer/machine-learning/machine-learning.md)
   - [Metodologias](/software-engineer/methodologies/methodologies.md)
   - [Paradigmas](/software-engineer/paradigms/paradigms.md)
   - [Processos](/software-engineer/process/process.md)

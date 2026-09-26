@@ -1,6 +1,6 @@
 # Java
 
-- [Adoptium](https://adoptium.net/)
+- [Adoptium](https://adoptium.net/en-GB/temurin/releases)
 - [Java LibHunt](https://java.libhunt.com/)
 - [JBang](https://www.jbang.dev/)
 

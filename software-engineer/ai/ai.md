@@ -1,21 +1,30 @@
 # AI
 
 - https://aiagentsdirectory.com/landscape
+- https://github.com/Shubhamsaboo/awesome-llm-apps
 - https://designsystemsrepo.ai/
+- https://freellm.net/
 - https://www.kaggle.com/
 - https://modelcontextprotocol.io/introduction
 - https://models.dev/
+- https://promptbase.com/
+- https://prompthero.com/
 - https://prompts.chat/
 - https://skills.sh/
 - https://theresanaiforthat.com/
 - https://webmcp.link/
 
 ## Banco de dados
+- [LanceDB](https://www.lancedb.com/)
 - [Min](https://min.io/)
+- [Milvus](https://milvus.io/)
+- [Pinecone](https://www.pinecone.io/)
+- [Weaviate](https://weaviate.io/)
 
 ## Bibliotecas
 - [ADK](https://adk.dev/)
 - [Caveman](https://github.com/JuliusBrussee/caveman)
+- [Headroom](https://github.com/headroomlabs-ai/headroom)
 - [LM Studio](https://lmstudio.ai/)
 - [Mastra](https://mastra.ai)
 - [OpenSpec](https://openspec.dev/)
@@ -25,13 +34,17 @@
 - [Video2x](https://github.com/k4yt3x/video2x)
 
 ## Cloud
+- [9router](https://9router.com/)
 - [Chroma](https://docs.trychroma.com/docs/overview/introduction)
 - [PartyKit](https://www.partykit.io/)
 - [Powabase](https://powabase.ai/)
 - [Puter](https://developer.puter.com/)
+- [Ragas](https://www.ragas.io/)
 - [Replicate](https://replicate.com/)
 - [Supermemory](https://supermemory.ai/)
+- [Tailscale](https://tailscale.com/)
 - [Temporal](https://temporal.io/)
+- [Trulens](https://www.trulens.org/)
 
 ## Ferramentas
 - [3D AI Studio](https://www.3daistudio.com/)
@@ -71,6 +84,7 @@
 - [Base44](https://base44.com/)
 - [Bezi](https://www.bezi.com/)
 - [Bolt](https://bolt.new/)
+- [Brainrot Shorts](https://www.brainrotshorts.com/)
 - [Browserbase](https://www.browserbase.com/)
 - [Bubble](https://bubble.io/)
 - [CapCut](https://www.capcut.com/)
@@ -80,13 +94,17 @@
   - [ChatGPT.js](https://github.com/KudoAI/chatgpt.js)
 - [Chatwoot](https://www.chatwoot.com/)
 - [Claude](https://claude.ai)
+  - [Claude Squad](https://smtg-ai.github.io/claude-squad/)
 - [Codeium](https://codeium.com/)
 - [CodeRabbit](https://www.coderabbit.ai/)
 - [Codex](https://chatgpt.com/codex)
+- [Coder](https://coder.com/)
+- [Colibri](https://justvugg.github.io/colibri/#top)
 - [Composio](https://composio.dev/)
 - [Context7](https://context7.com/)
 - [Context Mode](https://context-mode.mksg.lu/)
 - [Copilot](https://github.com/features/copilot)
+- [Crewai](https://crewai.com/)
 - [Crisp](https://crisp.chat/en/)
 - [CSM](https://www.csm.ai/)
 - [Cursor](https://www.cursor.com/)
@@ -97,6 +115,7 @@
 - [Dify AI](https://dify.ai/)
 - [Docling](https://www.docling.ai/)
 - [Dyad](https://www.dyad.sh/)
+- [DSPy](https://dspy.ai/current/)
 - [EbSynth](https://ebsynth.com/)
 - [ElevenLabs](https://elevenlabs.io/)
 - [Emergent](https://app.emergent.sh/landing/br/)
@@ -110,6 +129,7 @@
 - [Flint](https://www.tryflint.com/)
 - [Flowise AI](https://flowiseai.com/)
 - [FounderStack](https://www.founderstack.ai/)
+- [Fx](https://fx.sh/)
 - [G-prompter](https://www.g-prompter.com/en)
 - [Gemini](https://gemini.google.com/app)
 - [Gemma](https://ai.google.dev/gemma)
@@ -125,31 +145,41 @@
 - [Graphite](https://graphite.dev/)
 - [Grok](https://grok.com/)
   - [grok-build](https://github.com/xai-org/grok-build)
+- [Fal.ai](https://fal.ai/)
 - [Hermes Agent](https://hermes-agent.org/)
 - [HeyGen](https://www.heygen.com/)
+- [Higgsfield](https://higgsfield.ai/)
 - [Huemint](https://huemint.com/)
 - [Hunyuan3D 2](https://github.com/Tencent/Hunyuan3D-2)
   - [Tecent](https://3d-models.hunyuan.tencent.com/)
+- [Hyperagent](https://www.hyperagent.com/docs)
 - [Hyperframes](https://hyperframes.heygen.com/)
 - [IconGeneratorAI](https://icongeneratorai.com/)
+- [Impeccable](https://impeccable.style/)
+- [Inkling](https://thinkingmachines.ai/inkling/)
 - [Inngest](https://www.inngest.com/)
 - [Interviewcoder](https://www.interviewcoder.co/)
 - [Jace AI](https://jace.ai/)
+- [Jev](https://typesafe.ai/)
 - [Jina AI](https://jina.ai/)
+- [Jolli](https://www.jolli.ai/)
 - [Juless](https://jules.google.com/session)
 - [Junie](https://www.jetbrains.com/junie/)
 - [Kimi](https://www.kimi.com/en)
 - [Kimi K2](https://kimik2.com/)
 - [Kiro](https://kiro.dev/)
+- [kling AI](https://kling.ai/)
 - [Kombai](https://kombai.com/)
 - [Kortex](https://www.kortex.co/)
 - [KREA](https://www.krea.ai/home)
 - [LangChain](https://docs.langchain.com/docs/)
 - [LangFlow](https://www.langflow.org/)
 - [LangGraph](https://www.langchain.com/langgraph)
+- [Laya](https://github.com/NandhaKishorM/laya)
 - [Leap](https://leap.new/)
 - [Leonardo](https://leonardo.ai/)
 - [Lex](https://lex.page/)
+- [Lindy.ai](https://www.lindy.ai/)
 - [LiveKit](https://livekit.io/)
 - [Llama](https://ai.meta.com/llama)
   - [Llama Index](https://www.llamaindex.ai/)
@@ -159,6 +189,8 @@
 - [Lyrebird](https://www.descript.com/lyrebird)
 - [MAGI-1](https://github.com/SandAI-org/MAGI-1)
 - [Magicpatterns](https://www.magicpatterns.com)
+- [Magnific](https://www.magnific.com/)
+- [Meetily AI](https://meetily.ai/)
 - [Meshy](https://www.meshy.ai/)
 - [Micro Agent](https://github.com/BuilderIO/micro-agent)
 - [MidJourney](https://www.midjourney.com/home)
@@ -179,12 +211,15 @@
   - [OllamaWeb](https://github.com/openwebui-org/openwebui)
 - [OmniVoice](https://omnivoice.app/)
 - [Onlook](https://www.onlook.com/)
+- [OpenClaw](https://openclaw.ai/)
 - [OpenCode](https://opencode.ai/)
-- [Openclaw](https://openclaw.ai/)
 - [OpenDesign](https://open-design.ai/)
+- [OpenHands](https://www.openhands.dev/)
+- [OpenPrompt](https://github.com/thunlp/OpenPrompt)
+- [OpenRAG](https://www.openr.ag/)
+- [OpenRouter](https://openrouter.ai/)
 - [OpenUI](https://github.com/wandb/openui)
 - [OpenWebUI](https://openwebui.com/)
-- [OpenRouter](https://openrouter.ai/)
 - [OpusPro](https://www.opus.pro/)
 - [Orchids](https://www.orchids.app/)
 - [Outreach](https://www.outreach.ai/)
@@ -197,9 +232,11 @@
 - [Photo AI](https://www.topazlabs.com/topaz-photo-ai)
 - [Pi.dev](https://pi.dev/)
 - [Pieces](https://pieces.app/)
+- [Pixal3D](https://ldyang694.github.io/projects/pixal3d/)
 - [Plask](https://plask.ai/)
 - [PlayHT](https://play.ht/use-cases/character-voice-generator/)
 - [PodCastle](https://podcastle.ai/)
+- [Pokee AI](https://pokee.ai/)
 - [Puck](https://puckeditor.com/)
 - [Pydantic AI](https://ai.pydantic.dev/)
 - [Polaris AI](https://polarisai.dev/)
@@ -245,9 +282,13 @@
 - [Together](https://www.together.ai/)
 - [Trae](https://www.trae.ai/)
 - [Tray](https://tray.ai/)
+- [Trellis2](https://trellis2.com/)
 - [Tripo3D](https://www.tripo3d.ai/)
 - [Tropic](https://www.tropicapp.io/)
+- [TypeSafe AI](https://typesafe.ai/)
 - [Understand Anything](https://understand-anything.com/)
+- [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
+- [Unsloth](https://unsloth.ai/docs)
 - [v0](https://v0.dev/)
 - [Veed](https://www.veed.io/)
 - [Vibecode](https://www.vibecodeapp.com/)
@@ -267,20 +308,28 @@
 - [Windsurf](https://codeium.com/)
 - [YuE](https://map-yue.github.io/)
 - [Yvo3D](https://yvo3d.com/)
+- [Z.ai](https://chat.z.ai/)
 
 ## Frameworks
 - [BMad](https://docs.bmad-method.org/)
 - [Eve](https://vercel.com/eve)
 - [Flue](https://flueframework.com/)
+- [Unsloth](https://unsloth.ai/docs)
 
 ## IDE
+- [CodeAgentSwarm](https://www.codeagentswarm.com/en)
+- [Herdr](https://herdr.dev/)
 - [Superset](https://superset.sh/)
 - [Openchamber](https://openchamber.dev/)
+- [Onorca](https://www.onorca.dev/)
+- [Xirp](https://xirp.spotify.com/)
 
 ## Linguagens
 - [Mojo](https://www.modular.com/mojo)
 
 ## Plataformas
+- [Arize Phoenix](https://arize.com/phoenix/)
+- [Buzz](https://github.com/block/buzz)
 - [Langfuse](https://langfuse.com/)
 - [LangoTalk](https://www.langotalk.org/)
 - [MuleSoft](https://www.mulesoft.com/)

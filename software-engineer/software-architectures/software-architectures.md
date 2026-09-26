@@ -70,7 +70,7 @@
 - [LMAX Architecture](https://martinfowler.com/articles/lmax.html)
 - [Layered](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
   - [Front Controller](https://en.wikipedia.org/wiki/Front_controller)
-- [Macroservice](https://dzone.com/articles/micro-service-mini-service-and-macro-service)
+- [Macroservice (mini-service)](https://dzone.com/articles/micro-service-mini-service-and-macro-service)
 - [Master-slave](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [MEAN](https://www.mongodb.com/mean-stack)
 - [Medallion Architecture](https://www.infoq.com/articles/rethinking-medallion-architecture/)

@@ -43,6 +43,7 @@
 - [Mentimeter](https://www.mentimeter.com/)
 - [Monday.com](https://monday.com/lang/pt/)
 - [NTask](https://www.ntaskmanager.com/)
+- [Odoo](https://www.odoo.com/)
 - [Once](https://once.com/)
 - [OpenProject](https://www.openproject.org/)
 - [Outline](https://www.getoutline.com/)

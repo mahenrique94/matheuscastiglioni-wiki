@@ -49,6 +49,7 @@
 - [KxDB](https://kx.com/)
   - [KDB+](https://kx.com/)
 - [KsqlDB](https://ksqldb.io/)
+- [LanceDB](https://www.lancedb.com/)
 - [LevelDB](https://github.com/google/leveldb)
 - [libSQL](https://github.com/tursodatabase/libsql)
 - [Limbo](https://github.com/tursodatabase/limbo)
@@ -59,6 +60,7 @@
   - [Twemproxy](https://github.com/twitter/twemproxy)
 - [Metarank](https://www.metarank.ai/)
 - [Min](https://min.io/)
+- [Milvus](https://milvus.io/)
 - [MindsDB](https://mindsdb.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
@@ -82,6 +84,7 @@
   - [Citus](https://www.citusdata.com/)
   - [Dalibo Explain](https://explain.dalibo.com/)
   - [PgBouncer](https://www.pgbouncer.org/)
+  - [PgMQ](https://github.com/pgmq/pgmq)
   - [PgPool](https://www.npmjs.com/package/pg-pool)
   - [PgQue](https://github.com/NikolayS/pgque)
   - [PgVector](https://github.com/pgvector/pgvector)
@@ -127,6 +130,7 @@
 - [Vertica](https://www.vertica.com/)
 - [VoltDB](https://www.voltdb.com/)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+- [Weaviate](https://weaviate.io/)
 - [Xata](https://xata.io/)
 
 ## Bibiliotecas

@@ -63,6 +63,7 @@
   - [Tailwind Variants](https://www.tailwind-variants.org/)
 - [Shadcn](https://ui.shadcn.com/)
   - [Admin Kit](https://marmelab.com/shadcn-admin-kit)
+  - [Shoogle](https://shoogle.dev/)
   - [Tailark](https://tailark.com/mist)
   - [Tweakcn](https://tweakcn.com/)
 - [SupportsCSS](https://supportscss.dev/)

@@ -221,6 +221,7 @@
 
 ## DNS
 - [Bind9](https://www.isc.org/bind/)
+- [Nip](https://nip.io/)
 - [Pi-Hole](https://pi-hole.net/)
 - [SophOS](https://www.sophos.com/en-us)
 
@@ -243,6 +244,9 @@
 - [Unleash](https://www.getunleash.io/)
 
 ## Ferramentas
+- AWS
+  - [Floci](https://floci.io/floci/)
+  - [LocalStack](https://www.localstack.cloud/)
 - Microsserviços
   - [Apache Curator](https://curator.apache.org/)
   - [Apache Mesos](https://mesos.apache.org/)
