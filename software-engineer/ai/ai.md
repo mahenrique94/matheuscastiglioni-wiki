@@ -110,6 +110,7 @@
 - [Cursor](https://www.cursor.com/)
 - [DataButton](https://databutton.com/)
 - [Deepseek](https://www.deepseek.com/)
+- [DSH Plugins](https://dshplugins.com/)
 - [Devin](https://preview.devin.ai/)
 - [Dia](https://github.com/nari-labs/dia)
 - [Dify AI](https://dify.ai/)
