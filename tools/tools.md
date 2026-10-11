@@ -72,3 +72,4 @@
 - Visualizar chamadas de funções ([https://codemap.app/](https://codemap.app/), [https://www.codesee.io/](https://www.codesee.io/))
 - Visualizar mapas mentais em Markdown ([https://markmap.js.org/](https://markmap.js.org/))
 - VPN ([https://openvpn.net/](https://openvpn.net/), [https://tailscale.com/](https://tailscale.com/), [https://tunnelblick.net/](https://tunnelblick.net/))
+- Geração de vídeos, imagens, voz e música ([Instinct AI](https://instinctai.org/))
