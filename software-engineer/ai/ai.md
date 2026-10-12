@@ -1,5 +1,6 @@
 # AI
-
+- [Kenerate AI](https://kenerateai.net/)
+- 
 - https://aiagentsdirectory.com/landscape
 - https://github.com/Shubhamsaboo/awesome-llm-apps
 - https://designsystemsrepo.ai/
