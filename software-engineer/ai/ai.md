@@ -48,6 +48,7 @@
 
 ## Ferramentas
 - [3D AI Studio](https://www.3daistudio.com/)
+- [ACE-Step](https://ace-step.club/)
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html)
 - [AdCreativeAI](https://www.adcreative.ai/)
 - [Affine AI](https://affine.pro/)
