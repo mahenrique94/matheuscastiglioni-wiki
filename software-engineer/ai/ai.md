@@ -114,6 +114,7 @@
 - [Dia](https://github.com/nari-labs/dia)
 - [Dify AI](https://dify.ai/)
 - [Docling](https://www.docling.ai/)
+- [DotCurio](https://dotcurio.com/)
 - [Dyad](https://www.dyad.sh/)
 - [DSPy](https://dspy.ai/current/)
 - [EbSynth](https://ebsynth.com/)
