@@ -21,6 +21,7 @@
 
 ## Inteligência Artificial (AI)
 - [O que é ?](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [1 in 8 Billion](https://1in8billion.games/)
 
 ## Linguagens
 - [Mojo](https://www.modular.com/mojo)
