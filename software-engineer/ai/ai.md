@@ -1,6 +1,7 @@
 # AI
 
 - https://aiagentsdirectory.com/landscape
+- https://curateclick.com/
 - https://github.com/Shubhamsaboo/awesome-llm-apps
 - https://designsystemsrepo.ai/
 - https://freellm.net/
