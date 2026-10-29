@@ -4,6 +4,7 @@
 - https://github.com/Shubhamsaboo/awesome-llm-apps
 - https://designsystemsrepo.ai/
 - https://freellm.net/
+- https://huobidex.com/
 - https://www.kaggle.com/
 - https://modelcontextprotocol.io/introduction
 - https://models.dev/
