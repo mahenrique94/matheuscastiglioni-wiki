@@ -120,6 +120,7 @@
 - [ElevenLabs](https://elevenlabs.io/)
 - [Emergent](https://app.emergent.sh/landing/br/)
 - [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/)
+- [Face Rater](https://facerater.net/)
 - [F5-TTS](https://swivid.github.io/F5-TTS/)
 - [Figma Make](https://www.figma.com/make/)
 - [Firebase Studio](https://firebase.studio)
