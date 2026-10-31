@@ -135,6 +135,7 @@
 - [Gemma](https://ai.google.dev/gemma)
 - [GenKit](https://firebase.google.com/docs/genkit)
 - [Genspark](https://www.genspark.ai/)
+- [Get Face Report](http://getfacereport.com/)
 - [Glean](https://www.glean.com/)
 - [Google Antigravity](https://antigravity.google)
 - [Google Jules](https://jules.google/)
