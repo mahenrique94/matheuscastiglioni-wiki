@@ -12,6 +12,7 @@
 - https://prompts.chat/
 - https://skills.sh/
 - https://theresanaiforthat.com/
+- https://waypointo.com/
 - https://webmcp.link/
 
 ## Banco de dados
