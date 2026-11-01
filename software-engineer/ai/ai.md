@@ -188,6 +188,7 @@
 - [LumaLabs](https://lumalabs.ai/)
 - [Lyrebird](https://www.descript.com/lyrebird)
 - [MAGI-1](https://github.com/SandAI-org/MAGI-1)
+- [Magic Layers](https://magiclayers.net/)
 - [Magicpatterns](https://www.magicpatterns.com)
 - [Magnific](https://www.magnific.com/)
 - [Meetily AI](https://meetily.ai/)
