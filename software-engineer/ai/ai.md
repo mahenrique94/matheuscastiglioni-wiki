@@ -146,6 +146,7 @@
 - [Grok](https://grok.com/)
   - [grok-build](https://github.com/xai-org/grok-build)
 - [Fal.ai](https://fal.ai/)
+- [HackerTube](https://hackertubes.com/)
 - [Hermes Agent](https://hermes-agent.org/)
 - [HeyGen](https://www.heygen.com/)
 - [Higgsfield](https://higgsfield.ai/)
