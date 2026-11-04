@@ -51,4 +51,3 @@
 - [MNN (Modular Neural Network)](https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/)
 - [RBF (Radial Basis Function)](https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/)
 - [RNN (Recurrent Neural Network)](https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/)
-
