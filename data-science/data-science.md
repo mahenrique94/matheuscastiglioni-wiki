@@ -21,6 +21,7 @@
 
 ## Inteligência Artificial (AI)
 - [O que é ?](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [01Router](https://01router.com/)
 
 ## Linguagens
 - [Mojo](https://www.modular.com/mojo)
