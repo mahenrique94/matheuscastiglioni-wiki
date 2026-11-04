@@ -12,19 +12,16 @@
 - [Tabula](https://pypi.org/project/tabula-py/)
 - [Tidyverse](https://www.tidyverse.org/)
 - [Yolo](https://docs.ultralytics.com/)
-
 ## Ferramentas
 - [Doccano](https://github.com/doccano/doccano)
 - [Google Collab](https://colab.research.google.com/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Kaggle](https://www.kaggle.com/)
-
 ## Inteligência Artificial (AI)
 - [O que é ?](https://en.wikipedia.org/wiki/Artificial_intelligence)
-
+- [01Router](https://01router.com/)
 ## Linguagens
 - [Mojo](https://www.modular.com/mojo)
-
 ## Machine Learning (ML)
 - [Algoritmos não supervisionados](https://www.alura.com.br/conteudo/machine-learning-algoritmos-nao-supervisionados)
 - [Aprendizado supervisionado](https://isitics.com/2018/08/28/aprendizagem-supervisionada-ou-nao-supervisionada/#:~:text=Imagine%20que%20n%C3%A3o%20se%20tem,estar%C3%A3o%20em%20algum%20grupo%20criado.)
@@ -41,7 +38,6 @@
   - [Word2Vec](https://medium.com/@everton.tomalok/word2vec-e-sua-import%C3%A2ncia-na-etapa-de-pr%C3%A9-processamento-d0813acfc8ab)
 - [O que é ?](https://pt.wikipedia.org/wiki/Aprendizado_de_m%C3%A1quina)
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
-
 ## Redes Neurais
 - [ANN (Artifical Neural Network)](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [CNN (Convolutional Neural Network)](https://analyticsindiamag.com/6-types-of-artificial-neural-networks-currently-being-used-in-todays-technology/)
