@@ -2,6 +2,7 @@
 
 ## AI
 - [QuickMagic AI](https://www.quickmagic.ai/userCenter)
+- [Project Moon Life](https://projectmoonlife.com/)
 
 ## Arquiteturas
 - [Actor model](https://en.wikipedia.org/wiki/Actor_model)
