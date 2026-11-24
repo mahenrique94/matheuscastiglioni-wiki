@@ -242,6 +242,7 @@
 - [Pydantic AI](https://ai.pydantic.dev/)
 - [Polaris AI](https://polarisai.dev/)
 - [Qoder](https://qoder.com/)
+- [Qoves AI](https://quoves.net/)
 - [QuickMagic AI](https://www.quickmagic.ai/home)
 - [Qwen](https://qwen.ai/home)
 - [Radiant Security AI](https://radiantsecurity.ai/)
