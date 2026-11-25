@@ -1,5 +1,8 @@
 # Ferramentas
 
+
+
+
 - Adicione pesquisa de satisfação em seus sites ([https://delighted.com/](https://delighted.com/))
 - Acesso Remoto ([https://www.avica.link/](https://www.avica.link/))
 - Apresentações em MarkDown ([https://marp.app/](https://marp.app/), [https://play.presenta.cc/](https://play.presenta.cc/))
@@ -72,3 +75,5 @@
 - Visualizar chamadas de funções ([https://codemap.app/](https://codemap.app/), [https://www.codesee.io/](https://www.codesee.io/))
 - Visualizar mapas mentais em Markdown ([https://markmap.js.org/](https://markmap.js.org/))
 - VPN ([https://openvpn.net/](https://openvpn.net/), [https://tailscale.com/](https://tailscale.com/), [https://tunnelblick.net/](https://tunnelblick.net/))
+- Criar fotos de moda com IA ([https://posewear.net/](https://posewear.net/))
+
