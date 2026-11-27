@@ -279,6 +279,7 @@
 - [Synthesia](https://www.synthesia.io/)
 - [TaskMaster AI](https://www.task-master.dev/)
 - [TestSprite](https://www.testsprite.com/)
+- [The AI Tools](https://theai.tools/)
 - [Together](https://www.together.ai/)
 - [Trae](https://www.trae.ai/)
 - [Tray](https://tray.ai/)
